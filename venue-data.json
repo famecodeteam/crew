@@ -1,7 +1,7 @@
 {
   "london": {
     "displayName": "London",
-    "introText": "We film at London's leading event venues, from the sprawling halls of ExCeL to boutique conference spaces across the City. Our crews know the unique challenges of each space\u2014parking, permits, power, lighting\u2014and arrive prepped.",
+    "introText": "We film at London's leading event venues, from the sprawling halls of ExCeL to boutique conference spaces across the City. Our crews know the unique challenges of each space—parking, permits, power, lighting—and arrive prepped.",
     "venues": [
       {
         "name": "ExCeL London",
@@ -43,85 +43,85 @@
   },
   "newyork": {
     "displayName": "New York",
-    "introText": "We film at NYC's premier event spaces, from the sprawling Javits Center to intimate Manhattan hotel ballrooms. Our New York crews understand the unique challenges of filming in high-rise buildings, handling crowds, and navigating tight timelines.",
+    "introText": "We film at New York's premier event venues, from the iconic Jacob K. Javits Convention Center to world-class luxury hotels. Our New York crews excel at capturing high-energy conferences, product launches, and corporate events in Manhattan's most prestigious locations.",
     "venues": [
       {
-        "name": "Javits Center",
-        "description": "550,000+ sq ft convention center on the Hudson River. Major venue for trade shows, conferences, and large-scale events. State-of-the-art facilities.",
-        "filmingTips": "Massive open floor plan requires strategic positioning. Wireless range critical for large halls. Permits required. Ample power distribution.",
+        "name": "Jacob K. Javits Convention Center",
+        "description": "550,000+ sq ft convention center on the Hudson River with modern facilities and iconic architecture. Major venue for trade shows, conferences, and large-scale events. Recently expanded with 1.2M sq ft of additional space.",
+        "filmingTips": "Massive halls require strategic crew positioning. Excellent natural light from waterfront windows. State-of-the-art power distribution. Wireless mic range needs careful planning for large spaces.",
         "internalLink": "/crew/new-york-trade-show-videography"
       },
       {
-        "name": "New York Hilton Midtown",
-        "description": "60,000+ sq ft of event space in Times Square. Multiple ballrooms and breakout rooms. Premium hotel venue for conferences, galas, and corporate events.",
-        "filmingTips": "Elegant interiors with warm lighting. Built-in AV infrastructure. Security protocols for high-profile events. Limited ceiling rigging.",
+        "name": "The New York Marriott Marquis Times Square",
+        "description": "55 meeting rooms and 55,000 sq ft of event space in the heart of Times Square. Premium hotel venue for corporate conferences, product launches, and high-profile business events. Modern amenities and professional AV infrastructure.",
+        "filmingTips": "Premium AV infrastructure built-in. Elegant interiors with warm lighting. Broadway theater district backdrop for external shots. High-profile events often require discretion.",
         "internalLink": "/crew/new-york-corporate-videography"
       },
       {
-        "name": "Metropolitan Pavilion",
-        "description": "55,000 sq ft raw event space in Chelsea. Soaring ceilings, dramatic skylighting. Flexible layout for fashion shows, product launches, galas.",
-        "filmingTips": "Stunning natural light during day. Minimal built-in infrastructure requires custom setup. Excellent for creative camera work.",
+        "name": "The Times Center",
+        "description": "Premier venue at 242 West 41st Street offering versatile spaces that accommodate professional events from intimate meetings to large conferences. Flexible layout options in Midtown Manhattan.",
+        "filmingTips": "Flexible modular spaces. Professional lighting infrastructure. Central Times Square location with excellent street-level photography opportunities. State-of-the-art AV support.",
+        "internalLink": "/crew/new-york-conference-videography"
+      },
+      {
+        "name": "Center 415",
+        "description": "30,000 sq ft of open, divisible event space at 415 5th Avenue spanning two floors. Accommodates up to 1,400 guests. Modern industrial aesthetic with high ceilings.",
+        "filmingTips": "Open floor plan allows creative camera positioning. Natural light from floor-to-ceiling windows. Exposed structural elements create dynamic backdrops. Large unobstructed spaces.",
         "internalLink": "/crew/new-york-event-videography"
       },
       {
-        "name": "NYC Armoury on Park Avenue South",
-        "description": "43,000 sq ft historic venue with 60-foot ceilings. Iconic location for high-end corporate events, fashion shows, and conferences.",
-        "filmingTips": "Dramatic architectural elements. High ceilings offer unique camera angles. Industrial aesthetic. Custom lighting often required.",
-        "internalLink": "/crew/new-york-event-videography"
+        "name": "The Waldorf Astoria New York",
+        "description": "Iconic 1931 luxury hotel with recently reopened 43,000 sq ft of venue space including the Grand Ballroom (9,990 sq ft). Part of $2 billion renovation. Historic elegance meets modern facilities.",
+        "filmingTips": "Ornate ballroom ceiling = complex lighting setup. Historic architectural elements provide character. Professional hotel AV support. High-profile clientele = security protocols.",
+        "internalLink": "/crew/new-york-luxury-events-videography"
       },
       {
-        "name": "The Plaza Hotel",
-        "description": "Iconic luxury hotel with 50,000+ sq ft of event space. Grand ballrooms, intimate breakout rooms. Premium venue for VIP events and conferences.",
-        "filmingTips": "Ornate, elegant interiors. Professional AV infrastructure. Often requires discretion for high-profile attendees.",
-        "internalLink": "/crew/new-york-corporate-videography"
-      },
-      {
-        "name": "Pier 92 (Hudson River)",
-        "description": "100,000+ sq ft waterfront event space. Flexible venue for conferences, product launches, and large-scale experiential events.",
-        "filmingTips": "Open floor plan allows for large-scale setups. Waterfront b-roll opportunities. Weather considerations important.",
-        "internalLink": "/crew/new-york-event-videography"
+        "name": "Windrose on Hudson",
+        "description": "52,000 sq ft of indoor event space in the Hudson Valley reopened June 2025. Includes 340-seat amphitheater and 50 breakout rooms. Scenic location with modern facilities.",
+        "filmingTips": "Amphitheater provides dramatic camera angles. Multiple breakout rooms allow simultaneous coverage. Scenic Hudson Valley backdrop. Modern infrastructure throughout.",
+        "internalLink": "/crew/new-york-conference-videography"
       }
     ]
   },
   "losangeles": {
     "displayName": "Los Angeles",
-    "introText": "We film at LA's most dynamic event venues, from sprawling convention centers to exclusive rooftop venues with skyline views. Our Los Angeles crews are experts at managing outdoor shoots, natural California light, and high-profile entertainment industry events.",
+    "introText": "We film at LA's most dynamic event venues, from the sprawling Los Angeles Convention Center to iconic historic ballrooms and luxury hotels. Our Los Angeles crews specialize in high-profile product launches, entertainment industry events, and major conferences with creative production values.",
     "venues": [
       {
         "name": "Los Angeles Convention Center",
-        "description": "600,000 sq ft waterfront convention center. Major venue for trade shows, conferences, and large-scale events with modern AV infrastructure.",
-        "filmingTips": "Multiple halls require crew positioning strategy. Excellent natural light from waterfront. State-of-the-art power systems.",
+        "description": "720,000+ sq ft of exhibit space on the waterfront. Premier venue for large-scale trade shows, conferences, and conventions. Central downtown location with modern facilities and ample parking.",
+        "filmingTips": "Multiple interconnected halls require crew coordination. Excellent natural light from waterfront location. Large open spaces allow for creative crane and drone work. Professional power infrastructure.",
         "internalLink": "/crew/los-angeles-trade-show-videography"
       },
       {
-        "name": "Beverly Hilton",
-        "description": "150,000+ sq ft of luxury event space. Multiple ballrooms, garden terraces with city views. Premium venue for galas, product launches, corporate events.",
-        "filmingTips": "Elegant interiors. Outdoor terraces offer natural light and scenic backdrops. Professional AV support. High-profile security.",
+        "name": "JW Marriott Los Angeles L.A. LIVE",
+        "description": "130,000 sq ft of meeting space including 44 breakout rooms and Diamond Ballroom accommodating 2,800+ guests. Located at 900 W Olympic Boulevard in downtown LA. Modern luxury hotel with state-of-the-art facilities.",
+        "filmingTips": "Modern design with excellent lighting. Diamond Ballroom has impressive ceiling height and elegant finishes. Professional AV infrastructure. Downtown location offers urban backdrop opportunities.",
         "internalLink": "/crew/los-angeles-corporate-videography"
       },
       {
-        "name": "Petree Hall at Barnsdall Park",
-        "description": "Mid-century modern architecture with 10,000+ sq ft of event space. Iconic LA venue with historic significance. Perfect for design-forward events.",
-        "filmingTips": "Beautiful architectural lines. Natural light through skylights. Limited built-in AV requires custom setup. Outdoor courtyard opportunities.",
+        "name": "The Fairmont Century Plaza - Los Angeles Ballroom",
+        "description": "Iconic 13,000+ sq ft ballroom at the Fairmont Century Plaza with 20-foot ceilings. Can be divided into up to 3 separate spaces. Located in Century City. Historic luxury venue for galas and high-profile events.",
+        "filmingTips": "Spectacular ceiling height creates dramatic camera angles. Classic elegance with modern AV. Can be reconfigured for different production needs. Luxury hotel amenities and professional support.",
+        "internalLink": "/crew/los-angeles-gala-videography"
+      },
+      {
+        "name": "The Ebell of Los Angeles",
+        "description": "Historic women's club on Wilshire Boulevard featuring grand ballroom with charming courtyard. Can accommodate up to 1,200 guests. Classic architectural details and intimate atmosphere.",
+        "filmingTips": "Historic architecture provides unique character. Ornate ceiling details require careful lighting. Outdoor courtyard offers additional filming opportunities. Vintage elegance backdrop.",
         "internalLink": "/crew/los-angeles-event-videography"
       },
       {
-        "name": "The Broad Stage at Santa Monica College",
-        "description": "1,200-seat theater and event space. Premium venue for conferences, product launches, performances with professional stage setup.",
-        "filmingTips": "Professional theater lighting and AV infrastructure. Wide stage ideal for keynotes. Excellent acoustics.",
-        "internalLink": "/crew/los-angeles-conference-videography"
+        "name": "Skirball Cultural Center",
+        "description": "Elegant venue in the Santa Monica Mountains with multiple indoor and outdoor event spaces. Terraces and ballrooms overlooking scenic gardens. Cultural center with artistic atmosphere.",
+        "filmingTips": "Scenic mountain backdrop with garden views. Multiple level changes offer dynamic angles. Natural outdoor lighting. Both indoor and outdoor coverage opportunities.",
+        "internalLink": "/crew/los-angeles-cultural-event-videography"
       },
       {
-        "name": "Soho Warehouse Los Angeles",
-        "description": "Members-only creative space in West Hollywood. Rooftop venue with skyline views. Trendy location for tech launches and creative industry events.",
-        "filmingTips": "Stunning rooftop backdrop. Natural daylight. Modern aesthetic. Multiple levels for dynamic coverage.",
-        "internalLink": "/crew/los-angeles-event-videography"
-      },
-      {
-        "name": "JW Marriott at LA Live",
-        "description": "250,000+ sq ft of event space in downtown LA. Multiple ballrooms, flexible breakout space. Premium hotel venue for conferences and corporate events.",
-        "filmingTips": "Modern architecture with excellent lighting. Built-in high-speed internet and AV. Downtown skyline access for exterior shots.",
-        "internalLink": "/crew/los-angeles-corporate-videography"
+        "name": "The Barker Hangar",
+        "description": "Spacious 35,000 sq ft venue in Santa Monica with high ceilings and open design. Raw, blank-slate environment adaptable to any vision. Historic aircraft hangar with industrial charm.",
+        "filmingTips": "Raw space allows unlimited creative possibilities. High ceilings enable crane work. Minimal built-in infrastructure requires custom lighting setup. Industrial aesthetic provides character.",
+        "internalLink": "/crew/los-angeles-experiential-videography"
       }
     ]
   },
@@ -138,7 +138,7 @@
       {
         "name": "Palace of Fine Arts",
         "description": "Iconic 1915 landmark with stunning architecture. 62,000 sq ft of event space. Premium venue for galas, product launches, weddings.",
-        "filmingTips": "Stunning architectural backdrop. Natural lighting is challenging\u2014requires careful setup. Limited electricity points. Outdoor courtyard excellent for b-roll.",
+        "filmingTips": "Stunning architectural backdrop. Natural lighting is challenging—requires careful setup. Limited electricity points. Outdoor courtyard excellent for b-roll.",
         "internalLink": "/crew/san-francisco-event-videography"
       },
       {
@@ -169,43 +169,43 @@
   },
   "chicago": {
     "displayName": "Chicago",
-    "introText": "We film at Chicago's premier event venues, from the massive McCormick Place to elegant hotel ballrooms along the Magnificent Mile. Our Chicago crews understand the logistical complexity of large convention centers and the elegance of high-end corporate spaces.",
+    "introText": "We film at Chicago's world-class venues, from McCormick Place Convention Center to luxury downtown hotels. Our Chicago crews are experts at capturing major conferences, trade shows, and corporate events in the city's most prestigious locations.",
     "venues": [
       {
-        "name": "McCormick Place",
-        "description": "2.6 million sq ft, the largest convention center in North America. World-class facilities for trade shows, conferences, large-scale events.",
-        "filmingTips": "Massive scale requires crew coordination. Excellent modern AV infrastructure. Multiple halls need strategic positioning. Ample power and networking.",
-        "internalLink": "/crew/chicago-trade-show-videography"
+        "name": "McCormick Place Convention Center",
+        "description": "2.6 million+ sq ft of exhibit space across 4 state-of-the-art buildings. North America's largest convention center. Located on the stunning Chicago lakefront with easy downtown access.",
+        "filmingTips": "Massive scale requires detailed crew planning. Multiple interconnected halls. Excellent waterfront backdrop. Modern infrastructure. Professional management and support.",
+        "internalLink": "/crew/chicago-convention-videography"
       },
       {
-        "name": "Chicago Athletic Association",
-        "description": "Luxury historic building converted to event venue. 50,000+ sq ft with rooftop lounge. Premium space for galas, product launches, corporate events.",
-        "filmingTips": "Beautiful historic interiors. Modern rooftop with city views. Elegant lighting design. Multiple intimate breakout spaces.",
+        "name": "Chicago Marriott on the Magnificent Mile",
+        "description": "41 meeting rooms with 65,000 sq ft of total event space. Premium location on the renowned Magnificent Mile shopping district. Business centers and administrative services available.",
+        "filmingTips": "Professional AV infrastructure. Modern hotel amenities. Iconic Chicago shopping district backdrop. Professional event support team. Elegant interior finishes.",
         "internalLink": "/crew/chicago-corporate-videography"
       },
       {
-        "name": "The Palmer House Hilton",
-        "description": "Iconic luxury hotel with 100,000+ sq ft of event space. Multiple grand ballrooms, elegant marble interiors. Premium venue for major conferences.",
-        "filmingTips": "Ornate, classic hotel aesthetic. Professional AV infrastructure. High-profile security protocols. Rich lighting opportunities.",
+        "name": "The Fairmont Chicago, Millennium Park",
+        "description": "63,000 sq ft of meeting space with 15 dedicated meeting rooms. Overlooks iconic Millennium Park. Premium luxury hotel hosting small to large corporate conferences.",
+        "filmingTips": "Millennium Park backdrop = iconic Chicago imagery. Modern design with excellent lighting. Professional AV and event support. Park views offer natural beauty.",
         "internalLink": "/crew/chicago-conference-videography"
       },
       {
-        "name": "Lacuna Lofts",
-        "description": "90,000+ sq ft raw industrial space. Soaring ceilings, exposed brick, dramatic skylighting. Perfect for product launches and creative events.",
-        "filmingTips": "Industrial aesthetic with beautiful light. Versatile spaces for creative setup. Multiple level opportunities. Modern AV add-on required.",
-        "internalLink": "/crew/chicago-event-videography"
+        "name": "Hyatt Regency Chicago",
+        "description": "78 meeting rooms and 240,000 sq ft of total event space. One of Chicago's most spectacular conference venues. Excellent downtown location with multiple configuration options.",
+        "filmingTips": "Massive space offers flexibility. 78 rooms allow for complex multi-track events. Professional infrastructure. Modern facilities. Experienced event management team.",
+        "internalLink": "/crew/chicago-large-conference-videography"
       },
       {
-        "name": "Morgan Manufacturing",
-        "description": "65,000+ sq ft converted factory space. Modern industrial aesthetic. Flexible layout for conferences, product launches, corporate events.",
-        "filmingTips": "Soaring ceilings allow dynamic camera work. Large windows with natural light. Minimal built-in AV infrastructure. Custom setup needed.",
-        "internalLink": "/crew/chicago-event-videography"
+        "name": "Swissotel Chicago",
+        "description": "Award-winning luxury hotel overlooking the Chicago River and Lake Michigan. 65,000 sq ft of flexible event space. Stunning waterfront views and contemporary architecture.",
+        "filmingTips": "Riverside and lake views provide stunning backdrops. Modern design with excellent natural light. Flexible modular spaces. Professional AV infrastructure. Scenic location.",
+        "internalLink": "/crew/chicago-luxury-events-videography"
       },
       {
-        "name": "Navy Pier",
-        "description": "Iconic waterfront venue with 300,000+ sq ft of event space. Lake Michigan views, outdoor terrace. Flexible spaces for all event types.",
-        "filmingTips": "Stunning water and skyline backdrops. Outdoor shooting opportunities. Weather considerations important. Multiple indoor/outdoor options.",
-        "internalLink": "/crew/chicago-event-videography"
+        "name": "The Drake Hotel",
+        "description": "Historic luxury hotel on Michigan Avenue and Lake Shore Drive. Elegant event spaces with classic architectural details. Iconic Chicago landmark with timeless elegance.",
+        "filmingTips": "Historic architecture provides character and elegance. Classic design with refined aesthetics. Lake Michigan proximity for scenic shots. Professional hotel event services.",
+        "internalLink": "/crew/chicago-historic-venue-videography"
       }
     ]
   },
@@ -253,169 +253,169 @@
   },
   "sydney": {
     "displayName": "Sydney",
-    "introText": "We film at Sydney's leading event venues, from modern convention centers to cultural landmarks. Our Sydney crews understand local venue logistics and deliver professional coverage for corporate events, conferences, and special occasions.",
+    "introText": "We film at Sydney's most iconic event venues, from the legendary Sydney Opera House to the Sydney Convention Centre and luxury waterfront hotels. Our Sydney crews specialize in capturing major conferences, product launches, and corporate events with Sydney Harbour as a stunning backdrop.",
     "venues": [
       {
-        "name": "Sydney Convention Center",
-        "description": "Modern convention center in Sydney with flexible event spaces and state-of-the-art facilities.",
-        "filmingTips": "Modern AV infrastructure. Multiple flexible halls. Professional support. Ample parking.",
+        "name": "Sydney Opera House",
+        "description": "World-iconic performing arts center at Bennelong Point. Multiple venues including Utzon Room (multi-purpose), Yallamundi Rooms (400 capacity), Drama Theatre (544 seats), Playhouse (398 seats), and Studio (flexible 280-400 seats). Outdoor Forecourt for 1,000+ guests. UNESCO World Heritage site.",
+        "filmingTips": "Iconic architectural backdrop. Multiple venue options for different event types. Outdoor Forecourt perfect for large-scale events. Sydney Harbour views essential in all shots. Professional AV support.",
+        "internalLink": "/crew/sydney-opera-house-videography"
+      },
+      {
+        "name": "Sydney Convention Centre",
+        "description": "Modern 65,000+ sqm convention center at Darling Harbour. Multiple exhibition halls, ballrooms, and meeting rooms. Flexible configurations for conferences, trade shows, and large corporate events. State-of-the-art facilities.",
+        "filmingTips": "Darling Harbour waterfront location. Multiple interconnected halls allow complex event coverage. Modern AV infrastructure. Ample parking and amenities.",
         "internalLink": "/crew/sydney-convention-videography"
       },
       {
-        "name": "Premier Hotel & Conference Sydney",
-        "description": "Luxury hotel in Sydney with comprehensive event facilities and premium amenities.",
-        "filmingTips": "Professional AV. Contemporary design. Premium amenities. Expert support.",
+        "name": "Shangri-La Sydney",
+        "description": "Luxury 5-star hotel overlooking Sydney Harbour. 10,000+ sqft of ballroom and meeting space. Unobstructed views of Opera House, Harbour Bridge, and Sydney Harbour. Premium venue for high-profile corporate events and galas.",
+        "filmingTips": "Unobstructed Sydney Harbour views with Opera House and Bridge visible. Natural light through floor-to-ceiling windows. Sophisticated contemporary design. Luxury finishes.",
+        "internalLink": "/crew/sydney-harbour-event-videography"
+      },
+      {
+        "name": "The Langham Sydney",
+        "description": "Historic luxury hotel overlooking Circular Quay and Sydney Harbour. Elegant ballrooms with classical design and modern amenities. Located steps from Sydney Opera House. Premier venue for executive conferences and luxury events.",
+        "filmingTips": "Historic elegance with contemporary infrastructure. Circular Quay location steps from Opera House. Sophisticated backdrop. Classical architectural elements.",
+        "internalLink": "/crew/sydney-langham-videography"
+      },
+      {
+        "name": "Swissôtel Sydney",
+        "description": "Modern 5-star hotel in central Sydney with 12,000 sqft of event space. Multiple ballrooms and meeting suites. Contemporary design with panoramic city views. Excellent location for corporate conferences.",
+        "filmingTips": "Contemporary design with excellent lighting. Panoramic city views. Modern AV infrastructure. Central Sydney location. Professional event support.",
         "internalLink": "/crew/sydney-corporate-videography"
       },
       {
-        "name": "Sydney Arts & Cultural Center",
-        "description": "Contemporary cultural venue in Sydney with flexible gallery and event spaces.",
-        "filmingTips": "Cultural atmosphere. Artistic backdrop. Unique aesthetic. Character location.",
-        "internalLink": "/crew/sydney-event-videography"
-      },
-      {
-        "name": "Downtown Sydney Business Venue",
-        "description": "Modern flexible event space in downtown Sydney with professional infrastructure.",
-        "filmingTips": "Urban backdrop. Flexible configuration. Modern amenities. Professional support.",
-        "internalLink": "/crew/sydney-corporate-videography"
-      },
-      {
-        "name": "Sydney Trade & Exhibition Hall",
-        "description": "Large-scale venue in Sydney specializing in trade shows and exhibitions.",
-        "filmingTips": "Large open spaces. Multiple configurations. Professional infrastructure. Expert management.",
-        "internalLink": "/crew/sydney-trade-show-videography"
-      },
-      {
-        "name": "Sydney Waterfront or Riverside Events",
-        "description": "Scenic venue in Sydney with waterfront or riverside location and outdoor possibilities.",
-        "filmingTips": "Natural backdrop. Scenic views. Multiple configurations. Outdoor opportunities.",
-        "internalLink": "/crew/sydney-event-videography"
+        "name": "Novotel Sydney Darling Harbour",
+        "description": "Modern 406-room hotel directly at Darling Harbour with 7,500 sqft of flexible event space. Waterfront location with harbour views. Ideal for trade shows, conferences, and corporate events. Modern facilities.",
+        "filmingTips": "Waterfront location with harbour backdrop. Modern design and good natural light. Flexible meeting spaces. Darling Harbour precinct integration.",
+        "internalLink": "/crew/sydney-waterfront-videography"
       }
     ]
   },
   "amsterdam": {
     "displayName": "Amsterdam",
-    "introText": "We film at Amsterdam's premier event venues, from world-class convention centers to historic canal-side locations. Our Amsterdam crews understand the unique character of Dutch venues and specialize in capturing the vibrant energy of Europe's business hub.",
+    "introText": "We film at Amsterdam's premier convention venues, from RAI Amsterdam with its 112,200 sqm to historic cultural spaces like Beurs van Berlage. Our Amsterdam crews specialize in capturing major European conferences, trade fairs, and business events with Dutch precision and professionalism.",
     "venues": [
       {
-        "name": "Amsterdam RAI",
-        "description": "170,000+ sq ft convention and exhibition center. Major venue for trade shows, conferences, product launches. State-of-the-art facilities.",
-        "filmingTips": "Modern AV infrastructure. Multiple interconnected halls. Excellent natural light. Strategic positioning needed for large spaces.",
-        "internalLink": "/crew/amsterdam-trade-show-videography"
+        "name": "RAI Amsterdam Convention Centre",
+        "description": "112,200 sqm complex in Zuidas business district. 22 conference rooms, 11 multi-functional halls. Europahal RAI accommodates 12,900 people. Fiber optic internet, 4K projection in all halls, integrated sound systems. Europe's leading technical infrastructure.",
+        "filmingTips": "Massive scale requires detailed crew coordination. Europahal can seat 12,900 for keynotes. State-of-the-art AV infrastructure. 11 halls allow complex multi-venue coverage.",
+        "internalLink": "/crew/amsterdam-convention-videography"
       },
       {
-        "name": "Okura Hotel Amsterdam",
-        "description": "Luxury 5-star hotel with 45,000+ sq ft of event space. Multiple elegant ballrooms overlooking the Amstel River.",
-        "filmingTips": "Elegant Japanese-influenced design. River views through large windows. Professional hotel AV. Premium atmosphere.",
-        "internalLink": "/crew/amsterdam-corporate-videography"
+        "name": "EXPO Greater Amsterdam",
+        "description": "24,000 sqm flexible indoor space plus 21,000 sqm outdoor terrain. Eco-friendly venue near Schiphol International Airport. Perfect for exhibitions, conventions, trade shows, and breakout sessions. Modern facilities with sustainable focus.",
+        "filmingTips": "Large indoor and outdoor spaces. Proximity to airport. Flexible configurations. Modern eco-friendly design.",
+        "internalLink": "/crew/amsterdam-expo-videography"
       },
       {
-        "name": "Amsterdam Museum Quarter",
-        "description": "Historic buildings with flexible event spaces. Canal-side locations with authentic Dutch architecture. Unique atmosphere for premium events.",
-        "filmingTips": "Authentic historic interiors. Beautiful canal backdrops. Limited modern AV infrastructure requires custom setup.",
-        "internalLink": "/crew/amsterdam-event-videography"
+        "name": "Beurs van Berlage",
+        "description": "Historic commodities exchange building (early 20th century) combining classic charm with modern facilities. 16,000 sqft versatile meeting space across 25 rooms. Great Hall accommodates 1,300 guests. Cultural landmark venue.",
+        "filmingTips": "Historic architecture with classical charm. Great Hall seats 1,300. Character and elegance. Multiple flexible rooms.",
+        "internalLink": "/crew/amsterdam-historic-venue-videography"
       },
       {
-        "name": "Seat to Sofa",
-        "description": "20,000+ sq ft design-forward event space in Westerpark. Flexible, contemporary venue for product launches, conferences, corporate events.",
-        "filmingTips": "Modern design aesthetic. Natural light from large windows. Minimalist backdrop perfect for product photography.",
-        "internalLink": "/crew/amsterdam-event-videography"
+        "name": "Postillion Hotel & Convention Centre Amsterdam",
+        "description": "32 versatile meeting rooms with 32,291 sqft total meeting space. Plenary hall for 1,200 attendees. Modern hotel with flexible configurations. Ideal for conferences, exhibitions, and corporate events.",
+        "filmingTips": "32 meeting rooms allow flexible coverage. Plenary hall for 1,200. Modern design. Professional hotel infrastructure.",
+        "internalLink": "/crew/amsterdam-hotel-conference-videography"
       },
       {
-        "name": "Conservatorium Hotel Amsterdam",
-        "description": "Luxury historic building converted to hotel with 35,000+ sq ft of event space. Grand architecture, ornate interiors.",
-        "filmingTips": "Historic elegance. Ornate architectural details. Professional AV setup. Premium, exclusive atmosphere.",
-        "internalLink": "/crew/amsterdam-corporate-videography"
+        "name": "SugarFactory",
+        "description": "Converted historic sugar factory with striking industrial aesthetic. Accommodates 5,670 guests. High ceilings, multiple floors, impressive atriums, exposed fittings. Unique, memorable venue for corporate events.",
+        "filmingTips": "Dramatic industrial architecture. High ceilings. Multiple levels for creative angles. Unique aesthetic. Exposed brick and machinery.",
+        "internalLink": "/crew/amsterdam-industrial-venue-videography"
       },
       {
-        "name": "Ndsm Wharf",
-        "description": "Former shipyard converted to cultural venue. 80,000+ sq ft of flexible space. Unique industrial-creative aesthetic for launches and galas.",
-        "filmingTips": "Dramatic industrial architecture. Large open spaces. Excellent for creative staging. Natural light through large windows.",
-        "internalLink": "/crew/amsterdam-event-videography"
+        "name": "Passenger Terminal Amsterdam",
+        "description": "Waterfront venue with unique Amsterdam canal-side location. Modern flexible event space. Scenic water views. Distinctive location for high-profile corporate events and conferences.",
+        "filmingTips": "Amsterdam canal waterfront location. Scenic water backdrop. Modern facilities. Unique venue character.",
+        "internalLink": "/crew/amsterdam-waterfront-videography"
       }
     ]
   },
   "berlin": {
     "displayName": "Berlin",
-    "introText": "We film at Berlin's cutting-edge event venues, from historic landmarks to ultra-modern conference centers. Our Berlin crews are experts at capturing the city's dynamic creative energy and unique architectural character.",
+    "introText": "We film at Berlin's world-class conference venues, from the InterContinental with its 6,200 sqm of event space to Grand Hyatt at Potsdamer Platz and unique alternatives like converted industrial spaces. Our Berlin crews specialize in capturing major international conferences, tech summits, and corporate events.",
     "venues": [
       {
-        "name": "Berlin Convention Center (BCC)",
-        "description": "120,000+ sq ft modern convention center. State-of-the-art facilities for conferences, trade shows, corporate events.",
-        "filmingTips": "Excellent AV infrastructure. Modern architecture. Multiple flexible spaces. Good natural light.",
+        "name": "InterContinental Berlin",
+        "description": "Crowned Europe's Leading Conference Hotel at 2024 World Travel Awards. 6,200 sqm of versatile event space with 55 dedicated meeting rooms. Premium location with comprehensive conference facilities. Professional event management team.",
+        "filmingTips": "Extensive event space allows complex multi-track coverage. 55 meeting rooms for simultaneous shoots. Award-winning professional support. Contemporary hotel design.",
         "internalLink": "/crew/berlin-conference-videography"
       },
       {
-        "name": "Messe Berlin",
-        "description": "250,000+ sq ft exhibition center. Major venue for trade shows, conferences, large-scale events.",
-        "filmingTips": "Multiple halls require coordination. Excellent modern AV. Strategic positioning for large spaces. Ample power distribution.",
-        "internalLink": "/crew/berlin-trade-show-videography"
-      },
-      {
-        "name": "Adlon Hotel Berlin",
-        "description": "Historic luxury hotel with 40,000+ sq ft of event space. Iconic location on Pariser Platz overlooking Brandenburg Gate.",
-        "filmingTips": "Iconic backdrop (Brandenburg Gate visible). Historic elegance. Professional hotel AV. Premium corporate atmosphere.",
+        "name": "Hotel Berlin (Radisson Individuals)",
+        "description": "4,000 sqm conference venue divided into 46 conference rooms. Modern hotel with comprehensive meeting infrastructure. Flexible configurations for events of all sizes. Professional event support.",
+        "filmingTips": "46 meeting rooms allow flexible coverage options. Modern design with good lighting. Professional AV infrastructure. Contemporary aesthetic.",
         "internalLink": "/crew/berlin-corporate-videography"
       },
       {
-        "name": "Urban Spree",
-        "description": "20,000+ sq ft raw industrial event space in Friedrichshain. Former factory with soaring ceilings and street art aesthetic.",
-        "filmingTips": "Industrial-artistic aesthetic. Flexible open space. Minimal built-in infrastructure. Trendy venue for creative industries.",
+        "name": "Grand Hyatt Berlin",
+        "description": "Located at iconic Potsdamer Platz. Premier conference hotel accommodating up to 850 guests. Flexible ballroom and breakout room configurations. Modern luxury with excellent AV infrastructure. Professional event management.",
+        "filmingTips": "Potsdamer Platz location in historic modern Berlin district. Contemporary hotel design. Professional AV and event support. Central Berlin location.",
+        "internalLink": "/crew/berlin-hotel-conference-videography"
+      },
+      {
+        "name": "Hotel Palace Berlin",
+        "description": "2,600 sqm of flexible space with 18 modern banquet and conference rooms. Accommodates up to 900 guests. Contemporary design with professional AV infrastructure. Expert event coordination.",
+        "filmingTips": "18 flexible meeting rooms. Contemporary design. Professional technical support. Modern amenities.",
         "internalLink": "/crew/berlin-event-videography"
       },
       {
-        "name": "Kesselhaus (Urban Nation)",
-        "description": "15,000+ sq ft historic event space in former power station. Raw industrial architecture with modern amenities.",
-        "filmingTips": "Dramatic industrial aesthetic. Historic brick. Modern AV add-on available. Unique Berlin character.",
-        "internalLink": "/crew/berlin-event-videography"
+        "name": "nhow Berlin",
+        "description": "Modern design hotel with seven different meeting rooms covering 964 sqm. Accommodates up to 640 participants. Contemporary aesthetic with professional AV. Flexible configurations for corporate events.",
+        "filmingTips": "Seven creative meeting rooms. Contemporary design. Modern AV infrastructure. Flexible configurations.",
+        "internalLink": "/crew/berlin-design-hotel-videography"
       },
       {
-        "name": "Ritz-Carlton Berlin",
-        "description": "Luxury hotel with 50,000+ sq ft of event space. Modern architecture, sophisticated design. Premium venue for executive conferences.",
-        "filmingTips": "Contemporary luxury design. Professional AV infrastructure. High-profile event support. Elegant interiors.",
-        "internalLink": "/crew/berlin-corporate-videography"
+        "name": "Kraftwerk Berlin",
+        "description": "Former industrial power plant converted into flexible event space. Unique 6,000+ sqm raw venue with high ceilings and dramatic architecture. Distinctive Berlin aesthetic for experiential events and major conferences.",
+        "filmingTips": "Dramatic industrial architecture. High ceilings allow creative camera work. Unique, memorable aesthetic. Perfect for modern, edgy corporate events.",
+        "internalLink": "/crew/berlin-industrial-videography"
       }
     ]
   },
   "paris": {
     "displayName": "Paris",
-    "introText": "We film at Paris's leading event venues, from modern convention centers to boutique cultural spaces. Our Paris crews are experienced with local venues and understand the unique challenges of each location.",
+    "introText": "We film at Paris's premier event venues, from the sprawling Paris Nord Villepinte Exhibition Centre to luxury 5-star hotels and intimate spaces near the Louvre. Our Paris crews specialize in international conferences, product launches, and gala events across the City of Light.",
     "venues": [
       {
-        "name": "Paris Convention Center",
-        "description": "Modern convention center in Paris with flexible event spaces.",
-        "filmingTips": "Modern AV infrastructure. Multiple flexible halls. Professional support. Ample parking.",
+        "name": "Paris Nord Villepinte Exhibition Centre",
+        "description": "One of France's largest exhibition venues with 246,000 sqm of flexible indoor space across nine modular halls. Hosts major international exhibitions like SIAL Paris and Eurosatory, attracting 300,000+ visitors. Europe's leading venue for large-scale trade shows and conferences.",
+        "filmingTips": "Massive scale requires detailed crew coordination. Nine separate halls allow multi-location shooting. Excellent infrastructure for large productions. Ample parking and modern amenities.",
+        "internalLink": "/crew/paris-trade-show-videography"
+      },
+      {
+        "name": "Paris La Défense Arena",
+        "description": "Cutting-edge 13,000 sqm venue in Europe's premier business district. Modular design accommodates intimate conferences to large-scale events. State-of-the-art audiovisual infrastructure and flexible staging options.",
+        "filmingTips": "Modern architecture provides contemporary backdrop. Excellent lighting infrastructure. Professional AV support. La Défense skyline perfect for external shots.",
+        "internalLink": "/crew/paris-conference-videography"
+      },
+      {
+        "name": "Le Palais des Congrès de Paris",
+        "description": "Conference center within Paris Expo Porte de Versailles complex. Plenary room seats 5,200. Over 72,000 sqm of modular exhibition halls, meeting rooms, and flexible event spaces. Major venue for international conferences.",
+        "filmingTips": "Plenary hall offers impressive scale for keynote coverage. Multiple interconnected halls for complex multi-track events. Professional technical support. Modern infrastructure throughout.",
         "internalLink": "/crew/paris-convention-videography"
       },
       {
-        "name": "Premier Hotel Paris",
-        "description": "Luxury hotel in Paris with comprehensive event facilities.",
-        "filmingTips": "Professional AV. Contemporary design. Premium amenities. Expert support.",
+        "name": "Salles du Carrousel",
+        "description": "7,000 sqm of elegant multipurpose space with 2,300-seat auditorium. Located steps from the Tuileries Gardens and the Louvre Museum. Ideal for congresses, galas, and prestigious corporate events. Historic Paris location.",
+        "filmingTips": "Iconic Parisian location near Louvre provides classical backdrop. 2,300-seat auditorium excellent for keynote and plenary sessions. Historic architectural details require lighting expertise. Intimate scale suitable for close-up interviews.",
+        "internalLink": "/crew/paris-gala-videography"
+      },
+      {
+        "name": "Hilton Paris La Défense",
+        "description": "550+ guest rooms with 15,000 sqm of event and meeting space in La Défense business district. Modern luxury hotel with flexible breakout rooms, grand ballrooms, and executive boardrooms. Professional event management team.",
+        "filmingTips": "Contemporary hotel design with excellent lighting. Flexible room configurations allow simultaneous coverage. Professional AV infrastructure. Modern amenities and support services.",
         "internalLink": "/crew/paris-corporate-videography"
       },
       {
-        "name": "Paris Arts & Culture Center",
-        "description": "Cultural venue in Paris with flexible gallery and event spaces.",
-        "filmingTips": "Cultural atmosphere. Artistic backdrop. Unique aesthetic. Character location.",
-        "internalLink": "/crew/paris-event-videography"
-      },
-      {
-        "name": "Downtown Paris Event Space",
-        "description": "Modern flexible event venue in downtown Paris.",
-        "filmingTips": "Urban backdrop. Flexible configuration. Modern amenities. Professional support.",
-        "internalLink": "/crew/paris-event-videography"
-      },
-      {
-        "name": "Paris Business District Venue",
-        "description": "Professional business event venue in Paris's prime location.",
-        "filmingTips": "Business-focused. Professional atmosphere. Modern facilities. Strategic location.",
-        "internalLink": "/crew/paris-corporate-videography"
-      },
-      {
-        "name": "Riverside Paris Events",
-        "description": "Scenic waterfront or riverside event venue in Paris.",
-        "filmingTips": "Natural backdrop. Scenic views. Multiple configurations. Outdoor possibilities.",
-        "internalLink": "/crew/paris-event-videography"
+        "name": "Le Bristol Paris",
+        "description": "Legendary 5-star palace hotel on the Champs-Élysées. Intimate ballrooms and suites with classical Parisian elegance. Exclusive venue for high-profile corporate galas, private conferences, and luxury events. Iconic location.",
+        "filmingTips": "Classical Parisian elegance provides sophisticated backdrop. Intimate spaces require minimal crew footprint. Ornate details need careful lighting. Requires discretion for high-profile clientele.",
+        "internalLink": "/crew/paris-luxury-events-videography"
       }
     ]
   },
@@ -673,43 +673,43 @@
   },
   "phoenix": {
     "displayName": "Phoenix",
-    "introText": "We film at Phoenix's leading event venues, from modern convention centers to boutique cultural spaces. Our Phoenix crews are experienced with local venues and understand the unique challenges of each location.",
+    "introText": "We film at Phoenix's premier venues, from the Phoenix Convention Center with 900,000+ sqft to luxury resorts like the Arizona Biltmore and Phoenician. Our Phoenix crews specialize in capturing large-scale conferences, trade shows, and high-profile corporate events in Arizona's vibrant capital.",
     "venues": [
       {
         "name": "Phoenix Convention Center",
-        "description": "Modern convention center in Phoenix with flexible event spaces.",
-        "filmingTips": "Modern AV infrastructure. Multiple flexible halls. Professional support. Ample parking.",
-        "internalLink": "/crew/phoenix-convention-videography"
+        "description": "Over 900,000 sqft of event space in downtown Phoenix. Located in the cultural heart of the city surrounded by hotels, entertainment, museums, and theater district. Premier choice for large-scale conferences and trade shows. Professional management and technical support.",
+        "filmingTips": "Massive 900k+ sqft space. Multiple configurable halls. Downtown cultural location. Modern infrastructure.",
+        "internalLink": "/crew/phoenix-convention-center-videography"
       },
       {
-        "name": "Premier Hotel Phoenix",
-        "description": "Luxury hotel in Phoenix with comprehensive event facilities.",
-        "filmingTips": "Professional AV. Contemporary design. Premium amenities. Expert support.",
-        "internalLink": "/crew/phoenix-corporate-videography"
+        "name": "Hyatt Regency Phoenix",
+        "description": "693 guest rooms with 50,000 sqft of function space including 35 meeting rooms. Steps away from convention center in vibrant downtown Phoenix. Modern amenities with professional event coordination.",
+        "filmingTips": "50,000 sqft function space. 35 flexible meeting rooms. Connected to convention center. Modern design.",
+        "internalLink": "/crew/phoenix-hyatt-regency-videography"
       },
       {
-        "name": "Phoenix Arts & Culture Center",
-        "description": "Cultural venue in Phoenix with flexible gallery and event spaces.",
-        "filmingTips": "Cultural atmosphere. Artistic backdrop. Unique aesthetic. Character location.",
-        "internalLink": "/crew/phoenix-event-videography"
+        "name": "Arizona Biltmore Resort & Spa",
+        "description": "Historic luxury resort known for stunning architecture and beautiful grounds. Premier choice for elegant corporate events and galas. Classic elegance combined with modern amenities. Iconic Arizona property.",
+        "filmingTips": "Historic luxury architecture. Stunning resort grounds. Classic elegance. Beautiful outdoor spaces.",
+        "internalLink": "/crew/phoenix-arizona-biltmore-videography"
       },
       {
-        "name": "Downtown Phoenix Event Space",
-        "description": "Modern flexible event venue in downtown Phoenix.",
-        "filmingTips": "Urban backdrop. Flexible configuration. Modern amenities. Professional support.",
-        "internalLink": "/crew/phoenix-event-videography"
+        "name": "The Phoenician",
+        "description": "Luxury resort with stunning event spaces and elegant decor. Breathtaking desert views. Premium venue for high-profile events and conferences. World-class service and amenities.",
+        "filmingTips": "Luxury resort aesthetic. Stunning desert views. Elegant event spaces. Premium ambiance.",
+        "internalLink": "/crew/phoenix-phoenician-videography"
       },
       {
-        "name": "Phoenix Business District Venue",
-        "description": "Professional business event venue in Phoenix's prime location.",
-        "filmingTips": "Business-focused. Professional atmosphere. Modern facilities. Strategic location.",
-        "internalLink": "/crew/phoenix-corporate-videography"
+        "name": "JW Marriott Phoenix Desert Ridge Resort & Spa",
+        "description": "Upscale resort with spacious ballrooms and comprehensive event facilities. Premium amenities in scenic desert location. Professional event management with luxury service.",
+        "filmingTips": "Upscale resort design. Spacious ballrooms. Desert location. Premium service.",
+        "internalLink": "/crew/phoenix-jw-marriott-videography"
       },
       {
-        "name": "Riverside Phoenix Events",
-        "description": "Scenic waterfront or riverside event venue in Phoenix.",
-        "filmingTips": "Natural backdrop. Scenic views. Multiple configurations. Outdoor possibilities.",
-        "internalLink": "/crew/phoenix-event-videography"
+        "name": "Kimpton Palomar Hotel Phoenix",
+        "description": "Modern luxury hotel just two blocks from Phoenix Convention Center, across from Phoenix Arena and Chase Field. Elegant event spaces with professional AV. Contemporary design.",
+        "filmingTips": "Downtown location. Modern design. Professional AV. Close to convention center.",
+        "internalLink": "/crew/phoenix-kimpton-palomar-videography"
       }
     ]
   },
@@ -841,43 +841,43 @@
   },
   "austin": {
     "displayName": "Austin",
-    "introText": "We film at Austin's vibrant event venues, from tech-forward conference centers to creative unique spaces. Our Austin crews specialize in startup launches, tech conferences, and innovative corporate events.",
+    "introText": "We film at Austin's premier venues, from the Fairmont Austin with 140,000 sqft of meeting space to the upcoming expanded Austin Convention Center and creative tech-hub event venues. Our Austin crews specialize in capturing innovation-focused conferences, tech summits, and high-energy corporate events.",
     "venues": [
       {
-        "name": "Austin Convention Center",
-        "description": "500,000+ sq ft downtown convention center. Major venue for tech conferences, trade shows.",
-        "filmingTips": "Modern AV infrastructure. Multiple flexible halls. Downtown location. Strategic positioning needed.",
-        "internalLink": "/crew/austin-trade-show-videography"
-      },
-      {
-        "name": "Hyatt Regency Austin",
-        "description": "60,000+ sq ft luxury hotel on Lady Bird Lake. Waterfront setting.",
-        "filmingTips": "Lake views. Professional hotel AV. Waterfront backdrop. Modern design.",
-        "internalLink": "/crew/austin-corporate-videography"
-      },
-      {
-        "name": "Barr Lake Event Center",
-        "description": "40,000+ sq ft modern conference center with outdoor terrace overlooking lake.",
-        "filmingTips": "Water backdrop. Modern facilities. Indoor/outdoor options. Natural light.",
-        "internalLink": "/crew/austin-conference-videography"
-      },
-      {
         "name": "Fairmont Austin",
-        "description": "70,000+ sq ft luxury hotel with comprehensive event spaces. Waterfront location.",
-        "filmingTips": "Waterfront views. Premium hotel AV. Elegant design. Multiple venue options.",
-        "internalLink": "/crew/austin-corporate-videography"
+        "description": "Nearly 140,000 sqft of flexible meeting and event spaces. Luxury downtown location with indoor and outdoor options. Rooftop pool and spa. Premium amenities including state-of-the-art AV throughout. Modern luxury hotel with comprehensive event management.",
+        "filmingTips": "Luxury hotel aesthetic. Indoor and outdoor spaces for variety. Rooftop pool with Austin skyline views. Modern AV infrastructure.",
+        "internalLink": "/crew/austin-fairmont-videography"
       },
       {
-        "name": "Hilton Austin",
-        "description": "45,000+ sq ft hotel overlooking Town Lake. Downtown location.",
-        "filmingTips": "Water views. Professional AV. Downtown backdrop. Good parking.",
-        "internalLink": "/crew/austin-event-videography"
+        "name": "Austin Convention Center",
+        "description": "Currently expanding from 365,000 to 620,000 sqft of rentable space (completion 2029). Over 14,000 hotel rooms within walking distance. State-of-the-art facilities for conferences, trade shows, and major events. Connected to Hilton Austin.",
+        "filmingTips": "Future expansion to 620k sqft. Multiple hall configurations. Modern infrastructure. Walking distance to 14,000+ hotel rooms.",
+        "internalLink": "/crew/austin-convention-center-videography"
       },
       {
-        "name": "The Domain Event Spaces",
-        "description": "Outdoor shopping district with flexible event venues and outdoor space.",
-        "filmingTips": "Outdoor urban setting. Modern commercial backdrop. Natural light. Public venue considerations.",
-        "internalLink": "/crew/austin-event-videography"
+        "name": "AT&T Hotel and Conference Center",
+        "description": "Located on The University of Texas campus. Over 85,000 sqft of event spaces with 53 meeting rooms. Modern facilities designed for major conferences. Professional event management and technical support.",
+        "filmingTips": "University campus location. 53 flexible meeting rooms. Modern AV infrastructure. Professional event support.",
+        "internalLink": "/crew/austin-att-hotel-videography"
+      },
+      {
+        "name": "JW Marriott Austin",
+        "description": "120,000 sqft of meeting and event space with 1,012 elegant guest rooms. Multiple flexible ballrooms and breakout rooms. Contemporary luxury hotel with comprehensive conference facilities.",
+        "filmingTips": "Massive event space footprint. 1,012 on-site rooms. Modern luxury design. Professional hotel infrastructure.",
+        "internalLink": "/crew/austin-jw-marriott-videography"
+      },
+      {
+        "name": "Palmer Events Center",
+        "description": "131,000 sqft of meeting space with 70,000 sqft of column-free exhibit space. Austin's second-largest convention facility. Modern infrastructure ideal for trade shows and large conferences.",
+        "filmingTips": "Large column-free exhibit hall. Flexible configurations. Modern facilities. Professional technical support.",
+        "internalLink": "/crew/austin-palmer-events-videography"
+      },
+      {
+        "name": "Omni Austin Downtown Hotel",
+        "description": "Over 20,000 sqft of mixed-use space with state-of-the-art AV technology. Downtown location in vibrant Austin culture. Modern luxury amenities. Premium event management.",
+        "filmingTips": "Downtown Austin location. State-of-the-art AV. Modern design. Professional event coordination.",
+        "internalLink": "/crew/austin-omni-downtown-videography"
       }
     ]
   },
@@ -1009,43 +1009,43 @@
   },
   "barcelona": {
     "displayName": "Barcelona",
-    "introText": "We film at Barcelona's iconic event venues, from architectural landmarks to world-class convention centers. Our Barcelona crews specialize in European conferences, trade shows, and luxury brand events.",
+    "introText": "We film at Barcelona's most prestigious venues, from the Barcelona International Convention Centre with its ultramodern design to historic cultural landmarks like Gran Teatre del Liceu and Palau de la Música Catalana. Our Barcelona crews specialize in capturing international congresses, trade fairs, and luxury events.",
     "venues": [
       {
-        "name": "Fira Barcelona",
-        "description": "1 million+ sq ft exhibition complex. One of Europe's largest convention centers.",
-        "filmingTips": "Massive scale requires crew coordination. Excellent AV infrastructure. Multiple halls. Strategic positioning critical.",
+        "name": "Barcelona International Convention Centre (CCIB)",
+        "description": "100,000 sqm ultramodern venue in the 22@ technology and business district. Two avant-garde buildings with 15,000 delegate capacity. Benchmark European venue for major conferences and congresses. Linked by underground connecting boulevard. State-of-the-art infrastructure.",
+        "filmingTips": "Unique futuristic architecture provides distinctive backdrop. Two connected buildings allow complex multi-venue coverage. Modern AV infrastructure throughout. Professional technical support.",
+        "internalLink": "/crew/barcelona-convention-videography"
+      },
+      {
+        "name": "Barcelona Fira Montjuic",
+        "description": "Historic exhibition and conference hall complex on Montjuic hill. Decades of hosting major European conferences and exhibitions. Iconic location overlooking Barcelona. Multiple flexible spaces and auditoriums. Premier venue for large-scale events.",
+        "filmingTips": "Montjuic hill location with panoramic city views. Historic venue with modern facilities. Multiple separate halls. Iconic Barcelona backdrop.",
         "internalLink": "/crew/barcelona-trade-show-videography"
       },
       {
-        "name": "Palau Blaugrana",
-        "description": "25,000-capacity arena with multiple event spaces. Home of FC Barcelona basketball.",
-        "filmingTips": "Professional arena infrastructure. Sports venue aesthetic. Multiple configuration options. Modern AV.",
-        "internalLink": "/crew/barcelona-conference-videography"
+        "name": "Gran Teatre del Liceu",
+        "description": "Historic opera house with 2,292 seats. Iconic cultural landmark dating to 1847. Ornate classical architecture with modern backstage facilities. Prestigious venue for high-profile cultural events and galas.",
+        "filmingTips": "Iconic ornate architecture and historic aesthetic. Professional stage lighting and AV infrastructure. Large capacity auditorium. Cultural prestige and classical elegance.",
+        "internalLink": "/crew/barcelona-gala-videography"
       },
       {
-        "name": "Sagrada Fam\u00edlia Event Spaces",
-        "description": "Iconic modernist basilica with adjacent event venues overlooking the building.",
-        "filmingTips": "Iconic architectural backdrop. UNESCO World Heritage site. Extraordinary b-roll opportunities.",
-        "internalLink": "/crew/barcelona-event-videography"
+        "name": "Palau de la Música Catalana",
+        "description": "UNESCO World Heritage concert hall with stunning Catalan Modernist architecture. 2,000+ seat auditorium with iconic stained glass skylight. Renowned acoustic performance space. Premium venue for performances and galas.",
+        "filmingTips": "Stunning Modernist architecture with iconic stained glass. Exceptional natural light and acoustic design. Beautiful interior details for b-roll. Professional AV infrastructure.",
+        "internalLink": "/crew/barcelona-concert-videography"
       },
       {
-        "name": "Hotel Arts Barcelona",
-        "description": "60,000+ sq ft luxury hotel with comprehensive event facilities. City views.",
-        "filmingTips": "Skyline views. Professional AV. Elegant design. Premium support.",
-        "internalLink": "/crew/barcelona-corporate-videography"
+        "name": "W Barcelona",
+        "description": "Ultra-modern 5-star luxury hotel with distinctive sail-shaped architecture on Barceloneta Beach. 10,000+ sqft of flexible event and meeting space. Contemporary design with waterfront views. Premier venue for high-profile corporate events.",
+        "filmingTips": "Iconic sail-shaped building provides unique silhouette. Waterfront Barcelona beach location. Contemporary luxury design. Sea views for atmospheric shots.",
+        "internalLink": "/crew/barcelona-luxury-event-videography"
       },
       {
-        "name": "Palau de la M\u00fasica Catalana",
-        "description": "Historic concert hall with ornate modernist architecture. Flexible event spaces.",
-        "filmingTips": "Iconic architectural details. Historic aesthetic. Professional theater AV. Cultural venue.",
-        "internalLink": "/crew/barcelona-event-videography"
-      },
-      {
-        "name": "Fairmont Barcelona Princess",
-        "description": "70,000+ sq ft luxury waterfront hotel. Olympic Port location.",
-        "filmingTips": "Waterfront backdrop. Modern design. Professional AV. Olympic venue heritage.",
-        "internalLink": "/crew/barcelona-corporate-videography"
+        "name": "Fairmont Grand Del Mar Barcelona",
+        "description": "5-star Mediterranean resort-style luxury hotel. Extensive meeting and event facilities. Elegant classical architecture in coastal location. Premium venue for executive conferences and exclusive corporate events.",
+        "filmingTips": "Mediterranean luxury aesthetic. Coastal location with scenic backdrops. Professional hotel AV infrastructure. Sophisticated design and ambiance.",
+        "internalLink": "/crew/barcelona-resort-videography"
       }
     ]
   },
@@ -1270,7 +1270,7 @@
         "internalLink": "/crew/bologna-trade-show-videography"
       },
       {
-        "name": "Palazzo del Podest\u00e0",
+        "name": "Palazzo del Podestà",
         "description": "Historic 13th-century Renaissance palace with flexible event spaces.",
         "filmingTips": "Historic architecture. Renaissance aesthetic. Ornate details for b-roll. Cultural atmosphere.",
         "internalLink": "/crew/bologna-event-videography"
@@ -1312,7 +1312,7 @@
         "internalLink": "/crew/bordeaux-conference-videography"
       },
       {
-        "name": "Cit\u00e9 du Vin (Wine Museum & Event Space)",
+        "name": "Cité du Vin (Wine Museum & Event Space)",
         "description": "40,000+ sq ft unique museum with event galleries. Wine industry hub.",
         "filmingTips": "Distinctive architecture. Wine culture backdrop. Museum exhibits context. Premium setting.",
         "internalLink": "/crew/bordeaux-event-videography"
@@ -1345,43 +1345,43 @@
   },
   "boston": {
     "displayName": "Boston",
-    "introText": "We film at Boston's world-class event venues, from historic landmarks to modern convention centers. Our Boston crews specialize in major trade shows, tech conferences, and prestigious corporate events.",
+    "introText": "We film at Boston's premier convention and event venues, from the Thomas M. Menino Convention Center with 516,000 sqft of exhibition space to the historic Hynes Convention Center and waterfront Seaport hotels. Our Boston crews specialize in capturing high-profile conferences, trade shows, and corporate events.",
     "venues": [
       {
-        "name": "Boston Convention and Exhibition Center",
-        "description": "1.2 million+ sq ft waterfront convention center. Major East Coast venue.",
-        "filmingTips": "Waterfront backdrop. Excellent AV infrastructure. Multiple halls require crew coordination. Harbor views.",
-        "internalLink": "/crew/boston-trade-show-videography"
+        "name": "Thomas M. Menino Convention & Exhibition Center (MCEC)",
+        "description": "516,000 sqft of contiguous exhibition space with 84 fully-configurable meeting rooms (160,000 sqft) and 40,020 sqft ballroom. Among the largest exhibition centers in Northeastern US. Located just 8 minutes from Logan International Airport (fastest in the country).",
+        "filmingTips": "Massive contiguous exhibition space. 84 flexible meeting rooms allow complex multi-track coverage. Modern AV infrastructure. Exceptional airport proximity.",
+        "internalLink": "/crew/boston-convention-videography"
       },
       {
         "name": "Hynes Convention Center",
-        "description": "500,000+ sq ft dedicated convention center. Back Bay location.",
-        "filmingTips": "Modern AV infrastructure. Flexible halls. Historic Back Bay neighborhood backdrop. Good parking.",
-        "internalLink": "/crew/boston-conference-videography"
+        "description": "176,480 sqft exhibit space with 38 meeting rooms, 25,000 sqft ballroom, and 4,000-seat auditorium. Located in historic Back Bay neighborhood. Part of 3-2-1 Connect interconnected complex with three luxury hotels (Westin, Marriott Copley, Sheraton).",
+        "filmingTips": "4,000-seat auditorium for large keynotes. Historic Back Bay location. Connected to three major hotels. Professional AV infrastructure.",
+        "internalLink": "/crew/boston-hynes-convention-videography"
+      },
+      {
+        "name": "Seaport Hotel & Seaport World Trade Center",
+        "description": "27,000 sqft of meeting and event space including ballrooms, meeting rooms, and reception spaces. Dramatic Boston Harbor and skyline views from outdoor terraces and gardens. Waterfront location in thriving Seaport District.",
+        "filmingTips": "Boston Harbor and skyline views from outdoor spaces. Waterfront aesthetic. Modern hotel facilities. Professional event support.",
+        "internalLink": "/crew/boston-seaport-videography"
+      },
+      {
+        "name": "Renaissance Boston Seaport District",
+        "description": "20,000+ sqft of meeting and event space. Scenic waterfront location in Seaport District. Well-appointed accommodations with professional event management. Contemporary luxury hotel.",
+        "filmingTips": "Waterfront location. Modern design. Professional AV infrastructure. Seaport District location.",
+        "internalLink": "/crew/boston-renaissance-videography"
+      },
+      {
+        "name": "Hyatt Place Boston Seaport District",
+        "description": "Nearly 6,000 sqft of sophisticated meeting and event space with six venues overlooking Boston Harbor. Modern amenities in Seaport District location. Professional event coordination.",
+        "filmingTips": "Six flexible meeting venues. Boston Harbor views. Modern design. Professional hotel support.",
+        "internalLink": "/crew/boston-hyatt-seaport-videography"
       },
       {
         "name": "Boston Marriott Copley Place",
-        "description": "70,000+ sq ft luxury hotel in Back Bay neighborhood.",
-        "filmingTips": "Back Bay location. Professional AV. Upscale neighborhood. Contemporary design.",
-        "internalLink": "/crew/boston-corporate-videography"
-      },
-      {
-        "name": "The Fairmont Copley Plaza",
-        "description": "60,000+ sq ft historic luxury hotel with elegant event spaces.",
-        "filmingTips": "Historic elegance. Professional AV. Premium atmosphere. Iconic location.",
-        "internalLink": "/crew/boston-corporate-videography"
-      },
-      {
-        "name": "Faneuil Hall Historic Venue",
-        "description": "Historic marketplace with flexible event spaces. Iconic Boston landmark.",
-        "filmingTips": "Historic architecture. Iconic backdrop. National historic landmark. Atmospheric setting.",
-        "internalLink": "/crew/boston-event-videography"
-      },
-      {
-        "name": "Museum of Fine Arts (Event Spaces)",
-        "description": "World-class museum with flexible gallery venues.",
-        "filmingTips": "Museum art exhibits backdrop. Cultural venue. Historic architecture. Professional management.",
-        "internalLink": "/crew/boston-event-videography"
+        "description": "Extensive meeting and event facilities in Back Bay location. Part of 3-2-1 Connect integrated hotel and convention complex. Multiple ballrooms and breakout rooms. Professional event management.",
+        "filmingTips": "Part of major integrated convention complex. Flexible room configurations. Professional AV. Back Bay location.",
+        "internalLink": "/crew/boston-marriott-copley-videography"
       }
     ]
   },
@@ -1723,43 +1723,43 @@
   },
   "budapest": {
     "displayName": "Budapest",
-    "introText": "We film at Budapest's iconic event venues, from thermal bath complexes to historic palaces along the Danube. Our Budapest crews specialize in European conferences, luxury events, and corporate gatherings.",
+    "introText": "We film at Budapest's premier venues, from the Budapest Congress Centre with 2,000-person capacity to luxury Danube-side hotels like the InterContinental and Kempinski. Our Budapest crews specialize in capturing international conferences and high-profile events along Europe's most scenic river.",
     "venues": [
       {
-        "name": "Budapest Convention Centre",
-        "description": "150,000+ sq ft modern convention center with Danube views. World-class venue.",
-        "filmingTips": "Danube backdrop. Modern AV infrastructure. Multiple flexible halls. Professional support.",
-        "internalLink": "/crew/budapest-trade-show-videography"
+        "name": "Budapest Congress Centre",
+        "description": "Largest, most modern congress and meeting facility in Hungary. Main auditorium and 20 multifunctional rooms. Exhibition space up to 4,000 sqm. Capacity for up to 2,000 people. Integrated with four-star Novotel Budapest City.",
+        "filmingTips": "2,000-person capacity. 20 multifunctional rooms. 4,000 sqm exhibition space. Integrated hotel facility.",
+        "internalLink": "/crew/budapest-congress-centre-videography"
       },
       {
-        "name": "Gellert Hotel (Historic Thermal Complex)",
-        "description": "Historic hotel with 60,000+ sq ft event spaces and access to thermal baths.",
-        "filmingTips": "Historic elegance. Thermal bath backdrop. Unique atmosphere. Premium experience.",
-        "internalLink": "/crew/budapest-corporate-videography"
+        "name": "InterContinental Budapest",
+        "description": "Situated directly on the Danube River promenade. Features the largest pillarless hotel ballroom in Budapest. Premium location with stunning river views. Professional event management.",
+        "filmingTips": "Danube River promenade location. Pillarless ballroom with great sightlines. River views for b-roll. Premium location.",
+        "internalLink": "/crew/budapest-intercontinental-videography"
       },
       {
-        "name": "Castle District Venues",
-        "description": "Historic 13th century castle district with multiple flexible event spaces. Iconic Danube views.",
-        "filmingTips": "Medieval architecture. Danube panorama. Historic backdrop. Atmospheric setting.",
-        "internalLink": "/crew/budapest-event-videography"
+        "name": "Kempinski Hotel Corvinus Budapest",
+        "description": "Downtown Budapest location with many flexible, separable venues for meetings, conferences, weddings, and exhibitions. World-class catering and professional services. Luxury amenities.",
+        "filmingTips": "Downtown location. Flexible separable venues. World-class catering. Luxury aesthetic.",
+        "internalLink": "/crew/budapest-kempinski-videography"
       },
       {
-        "name": "Marriott Budapest",
-        "description": "70,000+ sq ft luxury hotel with comprehensive event facilities. Danube riverfront.",
-        "filmingTips": "River views. Professional AV. Premium support. Modern amenities.",
-        "internalLink": "/crew/budapest-corporate-videography"
+        "name": "Budapest Marriott Hotel",
+        "description": "Over 1,600 sqm of meeting space with 16 versatile meeting rooms. All 364 guest rooms feature breathtaking Danube views. Premium riverside location. Professional event coordination.",
+        "filmingTips": "1,600+ sqm meeting space. 16 flexible rooms. Danube River views from all rooms. Professional infrastructure.",
+        "internalLink": "/crew/budapest-marriott-videography"
       },
       {
-        "name": "Parliament Building (Guided Event Spaces)",
-        "description": "Historic parliament with flexible tour and event venue options. Iconic Gothic architecture.",
-        "filmingTips": "Iconic architectural backdrop. Historic significance. UNESCO World Heritage. Professional management.",
-        "internalLink": "/crew/budapest-event-videography"
+        "name": "Crowne Plaza Budapest",
+        "description": "Centrally located on the Pest side near major attractions like Opera, Parliament, and St Stephen's Basilica. 13 meeting rooms (11 with daylight). Modern facilities in historic location.",
+        "filmingTips": "Central location near iconic landmarks. 13 meeting rooms with natural light. Historic surroundings. Professional AV.",
+        "internalLink": "/crew/budapest-crowne-plaza-videography"
       },
       {
-        "name": "Buda Palace Event Spaces",
-        "description": "Historic palace complex with flexible outdoor and indoor event venues. Danube views.",
-        "filmingTips": "Palace backdrop. Danube views. Historic architecture. Premium location.",
-        "internalLink": "/crew/budapest-corporate-videography"
+        "name": "Novotel Budapest City & Congress Center",
+        "description": "Four-star hotel integrated with Budapest Congress Centre. Comfortable rooms with conference facilities. All-in-one solution for accommodation and events. Professional event management.",
+        "filmingTips": "Integrated with Congress Centre. Comfortable contemporary rooms. All-in-one convenience. Professional coordination.",
+        "internalLink": "/crew/budapest-novotel-videography"
       }
     ]
   },
@@ -2605,43 +2605,43 @@
   },
   "denver": {
     "displayName": "Denver",
-    "introText": "We film at Denver's cutting-edge event venues, from massive convention centers to rooftop locations with mountain views. Our Denver crews specialize in tech conferences, trade shows, and business events.",
+    "introText": "We film at Denver's premier venues, from the Colorado Convention Center with its iconic Bluebird Ballroom to the 5,000-seat Bellco Theatre and luxury hotels with Rocky Mountain views. Our Denver crews specialize in capturing major conferences, trade shows, and high-profile corporate events.",
     "venues": [
       {
-        "name": "Denver Convention Center",
-        "description": "600,000+ sq ft world-class convention center with natural light and modern design.",
-        "filmingTips": "Modern AV infrastructure. Multiple halls. Natural light. Strategic crew positioning.",
-        "internalLink": "/crew/denver-trade-show-videography"
+        "name": "Colorado Convention Center",
+        "description": "2.2 million sqft total space - 12th largest convention center in United States. 577,000 sqft exhibit space with 63 meeting rooms and three hotel-quality ballrooms. 5,000-seat Bellco Theatre. Hosts ~400 events annually.",
+        "filmingTips": "Massive scale requires strategic crew planning. 63 meeting rooms for flexible coverage. 5,000-seat theatre perfect for keynotes. Professional AV throughout.",
+        "internalLink": "/crew/denver-convention-center-videography"
       },
       {
-        "name": "Pepsi Center (Now Ball Arena)",
-        "description": "Multi-purpose arena with 100,000+ sq ft of event facilities.",
-        "filmingTips": "Arena infrastructure. Professional lighting. Multiple configurations. Large scale support.",
-        "internalLink": "/crew/denver-conference-videography"
+        "name": "Bluebird Ballroom & Terrace",
+        "description": "80,000 sqft column-free multi-function space within Colorado Convention Center. Divisible into 19 different configurations. Stunning Rocky Mountain views from terrace. Largest ballroom in the center.",
+        "filmingTips": "80,000 sqft column-free design. 19 configuration options. Rocky Mountain views from terrace. Impressive scale and flexibility.",
+        "internalLink": "/crew/denver-bluebird-ballroom-videography"
       },
       {
-        "name": "Four Seasons Denver",
-        "description": "70,000+ sq ft luxury hotel with panoramic mountain views and event facilities.",
-        "filmingTips": "Mountain backdrop. Luxury design. Professional AV. Premium setting.",
-        "internalLink": "/crew/denver-corporate-videography"
+        "name": "Bellco Theatre",
+        "description": "5,000-seat auditorium within Colorado Convention Center. State-of-the-art stage and technical infrastructure. Home to ~40 concerts and events annually with top-name talent. Premier venue for keynotes and large presentations.",
+        "filmingTips": "5,000-seat capacity. Professional stage lighting and AV. Concert-grade audio systems. Impressive production capabilities.",
+        "internalLink": "/crew/denver-bellco-theatre-videography"
       },
       {
-        "name": "Denver Central Market (Event Space)",
-        "description": "Historic warehouse converted to 60,000+ sq ft flexible event venue.",
-        "filmingTips": "Industrial aesthetic. Exposed brick. High ceilings. Creative backdrop.",
-        "internalLink": "/crew/denver-event-videography"
+        "name": "Hyatt Regency Denver at Colorado Convention Center",
+        "description": "Directly connected to convention center. 1,000+ guest rooms with comprehensive meeting facilities. Walking distance to Denver's downtown campus. Professional hotel event management.",
+        "filmingTips": "Connected to convention center. 1,000+ on-site rooms. Modern design. Professional infrastructure.",
+        "internalLink": "/crew/denver-hyatt-regency-videography"
       },
       {
-        "name": "The Curtis Hotel",
-        "description": "Historic luxury hotel with 50,000+ sq ft of restored event facilities.",
-        "filmingTips": "Historic elegance. Contemporary amenities. Professional support. Character venue.",
-        "internalLink": "/crew/denver-corporate-videography"
+        "name": "The Brown Palace Hotel & Spa",
+        "description": "Historic luxury 5-star hotel with modern event facilities. Located blocks from convention center. Ornate classical architecture combined with contemporary AV. Premium historic venue.",
+        "filmingTips": "Historic 1889 palace architecture. Modern AV infrastructure. Luxury aesthetic. Classic elegance.",
+        "internalLink": "/crew/denver-brown-palace-videography"
       },
       {
-        "name": "Denver Botanic Gardens (Event Venues)",
-        "description": "80-acre gardens with flexible outdoor and pavilion event spaces.",
-        "filmingTips": "Garden backdrop. Outdoor possibilities. Scenic location. Natural setting.",
-        "internalLink": "/crew/denver-event-videography"
+        "name": "Renaissance Denver Downtown City Center",
+        "description": "Modern luxury hotel with 16 meeting rooms and flexible event spaces. Located at downtown's 16th Street Mall. Contemporary design with professional AV support.",
+        "filmingTips": "Modern design. 16 flexible meeting rooms. Contemporary aesthetic. Professional infrastructure.",
+        "internalLink": "/crew/denver-renaissance-downtown-videography"
       }
     ]
   },
@@ -2730,17 +2730,17 @@
     ]
   },
   "dusseldorf": {
-    "displayName": "D\u00fcsseldorf",
-    "introText": "We film at D\u00fcsseldorf's sophisticated event venues, from modern convention centers to luxury hotels on the Rhine. Our D\u00fcsseldorf crews specialize in German business events, fashion industry conferences, and premium gatherings.",
+    "displayName": "Düsseldorf",
+    "introText": "We film at Düsseldorf's sophisticated event venues, from modern convention centers to luxury hotels on the Rhine. Our Düsseldorf crews specialize in German business events, fashion industry conferences, and premium gatherings.",
     "venues": [
       {
-        "name": "D\u00fcsseldorf Convention Center",
+        "name": "Düsseldorf Convention Center",
         "description": "200,000+ sq ft modern convention center with state-of-the-art facilities.",
         "filmingTips": "Modern AV infrastructure. Multiple flexible halls. Professional setup. Strategic positioning.",
         "internalLink": "/crew/dusseldorf-trade-show-videography"
       },
       {
-        "name": "Hilton D\u00fcsseldorf",
+        "name": "Hilton Düsseldorf",
         "description": "70,000+ sq ft luxury hotel with comprehensive event facilities.",
         "filmingTips": "Professional AV. Contemporary design. Premium atmosphere. Modern support.",
         "internalLink": "/crew/dusseldorf-corporate-videography"
@@ -2764,7 +2764,7 @@
         "internalLink": "/crew/dusseldorf-event-videography"
       },
       {
-        "name": "M\u00e4rchenbrunnen Fountain Area (Event Venue)",
+        "name": "Märchenbrunnen Fountain Area (Event Venue)",
         "description": "Historic plaza with flexible outdoor event and performance spaces.",
         "filmingTips": "Plaza backdrop. Historic charm. Outdoor possibilities. Scenic location.",
         "internalLink": "/crew/dusseldorf-event-videography"
@@ -3088,20 +3088,20 @@
         "internalLink": "/crew/france-corporate-videography"
       },
       {
-        "name": "Mus\u00e9e du Louvre (Event Spaces)",
+        "name": "Musée du Louvre (Event Spaces)",
         "description": "World's largest art museum with flexible gallery event venues.",
         "filmingTips": "Art masterpiece backdrop. Museum exhibits context. Cultural prestige. Professional management.",
         "internalLink": "/crew/france-event-videography"
       },
       {
-        "name": "Le Palais de Congr\u00e8s de Paris",
+        "name": "Le Palais de Congrès de Paris",
         "description": "200,000+ sq ft modern convention center in Paris.",
         "filmingTips": "Modern AV infrastructure. Multiple flexible halls. Downtown location. Professional support.",
         "internalLink": "/crew/france-conference-videography"
       },
       {
         "name": "French Riviera Resort Venues",
-        "description": "Multiple luxury resort locations on C\u00f4te d'Azur with premium event facilities.",
+        "description": "Multiple luxury resort locations on Côte d'Azur with premium event facilities.",
         "filmingTips": "Resort backdrops. Coastal views. Mediterranean setting. Luxury venues.",
         "internalLink": "/crew/france-corporate-videography"
       }
@@ -3142,7 +3142,7 @@
         "internalLink": "/crew/frankfurt-event-videography"
       },
       {
-        "name": "R\u00f6merberg Historic District (Venues)",
+        "name": "Römerberg Historic District (Venues)",
         "description": "Half-timbered historic district with flexible boutique event venues.",
         "filmingTips": "Historic district backdrop. Medieval setting. Character locations. Atmospheric venues.",
         "internalLink": "/crew/frankfurt-event-videography"
@@ -3949,43 +3949,43 @@
   },
   "lisbon": {
     "displayName": "Lisbon",
-    "introText": "We film at Lisbon's historic and modern event venues, from convention centers to cultural sites. Our Lisbon crews specialize in Portuguese business events, European conferences, and Mediterranean gatherings.",
+    "introText": "We film at Lisbon's premier venues, from the Lisbon Congress Centre with 29,000 sqm to historic 5-star hotels like Pestana Palace. Our Lisbon crews specialize in capturing international conferences, cultural events, and high-profile corporate events in Europe's most charismatic capital.",
     "venues": [
       {
-        "name": "Lisbon Convention Centre",
-        "description": "150,000+ sq ft state-of-the-art venue on the waterfront. Premier Portuguese venue.",
-        "filmingTips": "Modern AV infrastructure. Multiple flexible halls. Waterfront backdrop. Professional support.",
-        "internalLink": "/crew/lisbon-trade-show-videography"
+        "name": "Lisbon Congress Centre",
+        "description": "Largest Congress Centre in Lisbon with 29,000 sqm in Belém by the Tagus River. 8 auditoria, 5 halls, 35 rooms, 2 parking areas. Simultaneous hosting of multiple events. 9,000 sqft exhibit space. World's 6th most popular congress destination.",
+        "filmingTips": "29,000 sqm facility. 8 auditoria for keynotes. Tagus River location. Multiple simultaneous events.",
+        "internalLink": "/crew/lisbon-congress-centre-videography"
       },
       {
-        "name": "Jeronimos Monastery (Event Spaces)",
-        "description": "Historic 16th-century UNESCO monastery with flexible formal venues.",
-        "filmingTips": "Historic prestige. Religious backdrop. Architectural grandeur. Iconic setting.",
-        "internalLink": "/crew/lisbon-corporate-videography"
+        "name": "Pestana Palace",
+        "description": "Distinguished 5-star hotel housed in meticulously restored 19th-century Valle Flôr Palace - recognized as National Monument. Historic elegance combined with modern event facilities. Exclusive premium venue.",
+        "filmingTips": "19th-century palace architecture. National Monument. Historic elegance. Classical aesthetic.",
+        "internalLink": "/crew/lisbon-pestana-palace-videography"
       },
       {
-        "name": "Hilton Lisbon",
-        "description": "70,000+ sq ft luxury hotel with comprehensive event facilities and city views.",
-        "filmingTips": "Professional AV. Contemporary design. City views. Premium support.",
-        "internalLink": "/crew/lisbon-corporate-videography"
+        "name": "Tivoli Avenida Liberdade Lisboa",
+        "description": "State-of-the-art audiovisual technology throughout. 12 meeting rooms accommodating up to 240 guests. Modern hotel with professional event management. Contemporary luxury.",
+        "filmingTips": "State-of-the-art AV technology. 12 flexible meeting rooms. Modern design. Professional coordination.",
+        "internalLink": "/crew/lisbon-tivoli-avenida-videography"
       },
       {
-        "name": "Museu Nacional de Arte (Museum Event Spaces)",
-        "description": "National art museum with 60,000+ sq ft of flexible gallery event venues.",
-        "filmingTips": "Art exhibits backdrop. Historic architecture. Cultural venue. Professional management.",
-        "internalLink": "/crew/lisbon-event-videography"
+        "name": "InterContinental Lisbon",
+        "description": "Coimbra Ballroom features 360 sqm with 5.5m height - one of Lisbon's highest ceilings. Multiple meeting and event spaces. Professional hotel event services.",
+        "filmingTips": "5.5m ceiling height in ballroom. 360 sqm space. Professional AV. Contemporary luxury design.",
+        "internalLink": "/crew/lisbon-intercontinental-videography"
       },
       {
-        "name": "Bel\u00e9m Cultural Centre (Event Spaces)",
-        "description": "Modern cultural complex with 100,000+ sq ft of flexible venues.",
-        "filmingTips": "Cultural backdrop. Modern architecture. Multiple spaces. Professional support.",
-        "internalLink": "/crew/lisbon-event-videography"
+        "name": "EPIC SANA Marquês Hotel",
+        "description": "379 rooms with 4 bars, 3 restaurants, and 18 meeting rooms. Maximum capacity 432 people. Modern hotel with comprehensive facilities. Professional event coordination.",
+        "filmingTips": "379 rooms on-site. 18 flexible meeting rooms. Contemporary design. Professional support.",
+        "internalLink": "/crew/lisbon-epic-sana-videography"
       },
       {
-        "name": "Tagus Waterfront Pavilions",
-        "description": "Scenic waterfront location with flexible outdoor pavilion event spaces.",
-        "filmingTips": "River backdrop. Outdoor possibilities. Scenic views. Modern setting.",
-        "internalLink": "/crew/lisbon-event-videography"
+        "name": "Sheraton Lisboa Hotel",
+        "description": "Located minutes from city center and airport. 369 rooms with 1,600 sqm of meeting space. Professional event facilities. Excellent accessibility.",
+        "filmingTips": "369 on-site rooms. 1,600 sqm meeting space. Convenient location. Professional infrastructure.",
+        "internalLink": "/crew/lisbon-sheraton-videography"
       }
     ]
   },
@@ -4243,43 +4243,43 @@
   },
   "madrid": {
     "displayName": "Madrid",
-    "introText": "We film at Madrid's leading event venues, from modern convention centers to boutique cultural spaces. Our Madrid crews are experienced with local venues and understand the unique challenges of each location.",
+    "introText": "We film at Madrid's premier venues, from IFEMA's expansive fairgrounds with dual convention centers hosting 1,100+ delegates to luxury 5-star hotels. Our Madrid crews specialize in large-scale international conferences, trade fairs, and high-profile corporate events.",
     "venues": [
       {
-        "name": "Madrid Convention Center",
-        "description": "Modern convention center in Madrid with flexible event spaces.",
-        "filmingTips": "Modern AV infrastructure. Multiple flexible halls. Professional support. Ample parking.",
+        "name": "IFEMA North Convention Centre",
+        "description": "1,100-seat auditorium (N103 + N104 + stage). 18 additional meeting rooms. Part of 2 million sqm IFEMA complex with 12 pavilions, 85 halls, and 2 auditoriums. Hosts 500+ events annually. State-of-the-art infrastructure.",
+        "filmingTips": "1,100-seat auditorium for keynotes. 18 additional breakout rooms. Professional AV infrastructure. Major event center.",
         "internalLink": "/crew/madrid-convention-videography"
       },
       {
-        "name": "Premier Hotel Madrid",
-        "description": "Luxury hotel in Madrid with comprehensive event facilities.",
-        "filmingTips": "Professional AV. Contemporary design. Premium amenities. Expert support.",
-        "internalLink": "/crew/madrid-corporate-videography"
+        "name": "IFEMA South Convention Centre",
+        "description": "600-seat auditorium with 20 additional small meeting rooms. Located at South Gate near metro station. Ideal for smaller conferences and corporate events. Professional facilities and support.",
+        "filmingTips": "600-seat auditorium. Convenient metro access. 20 meeting rooms. Professional infrastructure.",
+        "internalLink": "/crew/madrid-south-convention-videography"
       },
       {
-        "name": "Madrid Arts & Culture Center",
-        "description": "Cultural venue in Madrid with flexible gallery and event spaces.",
-        "filmingTips": "Cultural atmosphere. Artistic backdrop. Unique aesthetic. Character location.",
-        "internalLink": "/crew/madrid-event-videography"
+        "name": "IFEMA Recinto Ferial (Fairgrounds)",
+        "description": "240,000 sqm with 13 exhibition halls, 85 rooms, and 2 convention centers. Outdoor areas for large-scale events. Multi-purpose facility hosting trade fairs, major congresses, and conventions. Professional management throughout.",
+        "filmingTips": "Massive scale allows flexible multi-venue coverage. Multiple halls for simultaneous shoots. Professional technical support. Extensive outdoor space.",
+        "internalLink": "/crew/madrid-trade-fair-videography"
       },
       {
-        "name": "Downtown Madrid Event Space",
-        "description": "Modern flexible event venue in downtown Madrid.",
-        "filmingTips": "Urban backdrop. Flexible configuration. Modern amenities. Professional support.",
-        "internalLink": "/crew/madrid-event-videography"
+        "name": "InterContinental Madrid",
+        "description": "Luxury 5-star hotel with extensive meeting and event facilities. Located in Paseo de la Castellana business district. Multiple ballrooms and flexible meeting spaces. Premium venue for executive conferences.",
+        "filmingTips": "Luxury hotel aesthetic. Professional AV infrastructure. Contemporary design. Business district location.",
+        "internalLink": "/crew/madrid-luxury-hotel-videography"
       },
       {
-        "name": "Madrid Business District Venue",
-        "description": "Professional business event venue in Madrid's prime location.",
-        "filmingTips": "Business-focused. Professional atmosphere. Modern facilities. Strategic location.",
-        "internalLink": "/crew/madrid-corporate-videography"
+        "name": "Teatros del Canal",
+        "description": "Contemporary cultural venue in Madrid's northern zone. Multiple performance and event spaces. Modern theatrical infrastructure. Unique venue for innovative corporate events and presentations.",
+        "filmingTips": "Contemporary cultural aesthetic. Modern theatrical infrastructure. Multiple performance spaces. Creative event environments.",
+        "internalLink": "/crew/madrid-cultural-venue-videography"
       },
       {
-        "name": "Riverside Madrid Events",
-        "description": "Scenic waterfront or riverside event venue in Madrid.",
-        "filmingTips": "Natural backdrop. Scenic views. Multiple configurations. Outdoor possibilities.",
-        "internalLink": "/crew/madrid-event-videography"
+        "name": "Gran Via Hotel Madrid",
+        "description": "Historic luxury hotel on iconic Gran Via street. Elegant ballrooms and meeting spaces. Classical Madrid elegance combined with modern amenities. Premium venue for galas and corporate functions.",
+        "filmingTips": "Historic Gran Via location. Classical elegance. Ornate architectural details. Premium ambiance.",
+        "internalLink": "/crew/madrid-historic-hotel-videography"
       }
     ]
   },
@@ -4705,43 +4705,43 @@
   },
   "miami": {
     "displayName": "Miami",
-    "introText": "We film at Miami's leading event venues, from modern convention centers to boutique cultural spaces. Our Miami crews are experienced with local venues and understand the unique challenges of each location.",
+    "introText": "We film at Miami's premier venues, from the renovated Miami Beach Convention Center with 500,000 sqft of exhibition space to luxury resorts like the Fontainebleau and Eden Roc. Our Miami crews specialize in large-scale conferences, trade shows, and high-profile corporate events.",
     "venues": [
       {
-        "name": "Miami Convention Center",
-        "description": "Modern convention center in Miami with flexible event spaces.",
-        "filmingTips": "Modern AV infrastructure. Multiple flexible halls. Professional support. Ample parking.",
-        "internalLink": "/crew/miami-convention-videography"
+        "name": "Miami Beach Convention Center (MBCC)",
+        "description": "Following $640M renovation, state-of-the-art venue with grand ballroom, 500,000 sqft flexible exhibition halls, four junior ballrooms, outdoor terraces and parks, and 84 breakout rooms. World-class facilities for conferences, conventions, tradeshows, and meetings.",
+        "filmingTips": "Massive exhibition halls with flexible configurations. Grand ballroom for keynotes. Outdoor terraces for scenic shots. Modern infrastructure.",
+        "internalLink": "/crew/miami-beach-convention-videography"
       },
       {
-        "name": "Premier Hotel Miami",
-        "description": "Luxury hotel in Miami with comprehensive event facilities.",
-        "filmingTips": "Professional AV. Contemporary design. Premium amenities. Expert support.",
-        "internalLink": "/crew/miami-corporate-videography"
+        "name": "Fontainebleau Miami Beach",
+        "description": "1,504-room luxury resort with extensive meeting and event facilities. Iconic Miami Beach property with contemporary luxury design. Multiple ballrooms, breakout rooms, and flexible event spaces. Premium venue for high-profile events.",
+        "filmingTips": "Luxury resort aesthetic. Multiple flexible event spaces. Contemporary design. Professional concierge and AV support.",
+        "internalLink": "/crew/miami-fontainebleau-videography"
       },
       {
-        "name": "Miami Arts & Culture Center",
-        "description": "Cultural venue in Miami with flexible gallery and event spaces.",
-        "filmingTips": "Cultural atmosphere. Artistic backdrop. Unique aesthetic. Character location.",
-        "internalLink": "/crew/miami-event-videography"
+        "name": "Eden Roc Miami Beach",
+        "description": "415-room luxury oceanfront resort with comprehensive event facilities. Miami Beach location with beachfront views. Multiple ballrooms and meeting rooms. Premium venue for corporate events and galas.",
+        "filmingTips": "Oceanfront beachfront location. Luxury aesthetic. Water views. Professional resort support.",
+        "internalLink": "/crew/miami-eden-roc-videography"
       },
       {
-        "name": "Downtown Miami Event Space",
-        "description": "Modern flexible event venue in downtown Miami.",
-        "filmingTips": "Urban backdrop. Flexible configuration. Modern amenities. Professional support.",
-        "internalLink": "/crew/miami-event-videography"
+        "name": "Marriott Marquis Miami Worldcenter",
+        "description": "313-room hotel with Expo Center facilities. Modern luxury in central Miami location. Multiple meeting and event spaces. Professional event management.",
+        "filmingTips": "Modern hotel design. Flexible meeting spaces. Professional infrastructure. Central location.",
+        "internalLink": "/crew/miami-marriott-marquis-videography"
       },
       {
-        "name": "Miami Business District Venue",
-        "description": "Professional business event venue in Miami's prime location.",
-        "filmingTips": "Business-focused. Professional atmosphere. Modern facilities. Strategic location.",
-        "internalLink": "/crew/miami-corporate-videography"
+        "name": "Miami Airport Convention Center (MACC)",
+        "description": "172,000 sqft exhibition, conference, meeting, and event space. Largest convention center in Miami-Dade County's mainland. 334 on-site guest rooms with 2,500+ rooms available within three miles. Excellent accessibility.",
+        "filmingTips": "Massive exhibition space. On-site hotel rooms. Multiple flexible configurations. Professional infrastructure.",
+        "internalLink": "/crew/miami-airport-convention-videography"
       },
       {
-        "name": "Riverside Miami Events",
-        "description": "Scenic waterfront or riverside event venue in Miami.",
-        "filmingTips": "Natural backdrop. Scenic views. Multiple configurations. Outdoor possibilities.",
-        "internalLink": "/crew/miami-event-videography"
+        "name": "InterContinental Miami",
+        "description": "Luxury 5-star hotel with extensive meeting and event facilities. Waterfront location in downtown Miami. Multiple ballrooms and contemporary meeting spaces. Premium venue for executive conferences.",
+        "filmingTips": "Luxury hotel aesthetic. Waterfront location. Modern design. Professional AV infrastructure.",
+        "internalLink": "/crew/miami-intercontinental-videography"
       }
     ]
   },
@@ -5881,43 +5881,43 @@
   },
   "prague": {
     "displayName": "Prague",
-    "introText": "We film at Prague's leading event venues, from modern convention centers to boutique cultural spaces. Our Prague crews are experienced with local venues and understand the unique challenges of each location.",
+    "introText": "We film at Prague's premier venues, from the Prague Congress Centre with 9,300-person capacity to historic Four Seasons Hotel in the Old Town and modern conference centers. Our Prague crews specialize in capturing international conferences and high-profile events in Europe's most historic cities.",
     "venues": [
       {
-        "name": "Prague Convention Center",
-        "description": "Modern convention center in Prague with flexible event spaces.",
-        "filmingTips": "Modern AV infrastructure. Multiple flexible halls. Professional support. Ample parking.",
-        "internalLink": "/crew/prague-convention-videography"
+        "name": "Prague Congress Centre",
+        "description": "One of Europe's biggest and best-equipped congress centers with 9,300 total capacity. State-of-the-art facilities for large international conferences. Modern infrastructure with professional technical support.",
+        "filmingTips": "9,300-seat capacity for large-scale events. European-scale facilities. Modern AV infrastructure. Professional event management.",
+        "internalLink": "/crew/prague-congress-centre-videography"
       },
       {
-        "name": "Premier Hotel Prague",
-        "description": "Luxury hotel in Prague with comprehensive event facilities.",
-        "filmingTips": "Professional AV. Contemporary design. Premium amenities. Expert support.",
-        "internalLink": "/crew/prague-corporate-videography"
+        "name": "Four Seasons Hotel Prague",
+        "description": "Located in Old Town near Charles Bridge. Elegant ballroom, four breakout rooms, and private dining rooms. Premium historic location in city center. Professional meeting and event services.",
+        "filmingTips": "Historic Old Town location. Charles Bridge proximity. Elegant classical aesthetic. Professional infrastructure.",
+        "internalLink": "/crew/prague-four-seasons-videography"
       },
       {
-        "name": "Prague Arts & Culture Center",
-        "description": "Cultural venue in Prague with flexible gallery and event spaces.",
-        "filmingTips": "Cultural atmosphere. Artistic backdrop. Unique aesthetic. Character location.",
-        "internalLink": "/crew/prague-event-videography"
+        "name": "Clarion Congress Hotel Prague",
+        "description": "Modern congress hotel with comfortable rooms and comprehensive wellness and conference facilities. State-of-the-art technology throughout. Professional event coordination.",
+        "filmingTips": "Modern design. Comprehensive conference facilities. Professional AV. Expert coordination.",
+        "internalLink": "/crew/prague-clarion-congress-videography"
       },
       {
-        "name": "Downtown Prague Event Space",
-        "description": "Modern flexible event venue in downtown Prague.",
-        "filmingTips": "Urban backdrop. Flexible configuration. Modern amenities. Professional support.",
-        "internalLink": "/crew/prague-event-videography"
+        "name": "Design Grandium Hotel Prague",
+        "description": "Located in Prague city center with 365 rooms and 9 flexible meeting rooms accommodating up to 730 people. Contemporary design with modern AV infrastructure. Premium location.",
+        "filmingTips": "City center location. 9 flexible meeting rooms. Contemporary design. Professional support.",
+        "internalLink": "/crew/prague-design-grandium-videography"
       },
       {
-        "name": "Prague Business District Venue",
-        "description": "Professional business event venue in Prague's prime location.",
-        "filmingTips": "Business-focused. Professional atmosphere. Modern facilities. Strategic location.",
-        "internalLink": "/crew/prague-corporate-videography"
+        "name": "NH Collection Prague Carlo IV",
+        "description": "Magnificent neo-classical palace in city center with 152 rooms and 7 meeting rooms (largest seats 220 delegates). Historic elegance combined with modern facilities. Premium heritage venue.",
+        "filmingTips": "Neo-classical palace architecture. Historic elegance. 7 flexible meeting rooms. Premium aesthetic.",
+        "internalLink": "/crew/prague-carlo-iv-videography"
       },
       {
-        "name": "Riverside Prague Events",
-        "description": "Scenic waterfront or riverside event venue in Prague.",
-        "filmingTips": "Natural backdrop. Scenic views. Multiple configurations. Outdoor possibilities.",
-        "internalLink": "/crew/prague-event-videography"
+        "name": "The Grandior Hotel Prague",
+        "description": "Modern design full-service business hotel in city center with 393 rooms. Flexible conference facilities for up to 500 delegates with exhibition space. Contemporary luxury.",
+        "filmingTips": "Modern design hotel. 500-delegate capacity. Exhibition space. Contemporary aesthetic.",
+        "internalLink": "/crew/prague-grandior-videography"
       }
     ]
   },
@@ -6427,43 +6427,43 @@
   },
   "rome": {
     "displayName": "Rome",
-    "introText": "We film at Rome's leading event venues, from modern convention centers to cultural landmarks. Our Rome crews understand local venue logistics and deliver professional coverage for corporate events, conferences, and special occasions.",
+    "introText": "We film at Rome's prestigious venues, from the ultramodern Roma Convention Center La Nuvola to historic locations like Auditorium Parco della Musica and elegant hotel venues. Our Rome crews specialize in capturing international conferences and high-profile events in the Eternal City.",
     "venues": [
       {
-        "name": "Rome Convention Center",
-        "description": "Modern convention center in Rome with flexible event spaces and state-of-the-art facilities.",
-        "filmingTips": "Modern AV infrastructure. Multiple flexible halls. Professional support. Ample parking.",
-        "internalLink": "/crew/rome-convention-videography"
+        "name": "Roma Convention Center La Nuvola",
+        "description": "International congress structure with 8,000+ seat capacity. Innovative eco-friendly architecture designed by Studio Fuksas. State-of-the-art facilities meeting 2008-era standards. Modern venue for major international conferences.",
+        "filmingTips": "Striking modern architecture contrasts with ancient Rome. 8,000+ seat capacity for large keynotes. Professional AV infrastructure. Iconic design.",
+        "internalLink": "/crew/rome-convention-center-videography"
       },
       {
-        "name": "Premier Hotel & Conference Rome",
-        "description": "Luxury hotel in Rome with comprehensive event facilities and premium amenities.",
-        "filmingTips": "Professional AV. Contemporary design. Premium amenities. Expert support.",
-        "internalLink": "/crew/rome-corporate-videography"
+        "name": "Auditorium Parco della Musica",
+        "description": "Iconic contemporary venue with multiple concert halls and flexible event spaces. Striking modern architecture in historic city. Renowned acoustic performance space. Premium venue for performances and conferences.",
+        "filmingTips": "Striking contemporary architecture. Beautiful modern design in historic setting. Professional AV and acoustic systems. Memorable backdrop.",
+        "internalLink": "/crew/rome-auditorium-videography"
       },
       {
-        "name": "Rome Arts & Cultural Center",
-        "description": "Contemporary cultural venue in Rome with flexible gallery and event spaces.",
-        "filmingTips": "Cultural atmosphere. Artistic backdrop. Unique aesthetic. Character location.",
-        "internalLink": "/crew/rome-event-videography"
+        "name": "Roma Eventi Conference Centre",
+        "description": "Historical building in the heart of Rome, in Piazza di Spagna area. 15 multi-purpose rooms with modern audiovisual equipment. Suitable for conferences, seminars, training, presentations, exhibitions. Iconic central Rome location.",
+        "filmingTips": "Heart of Rome location. Historic building. Multiple flexible rooms. Central location near major landmarks.",
+        "internalLink": "/crew/rome-eventi-videography"
       },
       {
-        "name": "Downtown Rome Business Venue",
-        "description": "Modern flexible event space in downtown Rome with professional infrastructure.",
-        "filmingTips": "Urban backdrop. Flexible configuration. Modern amenities. Professional support.",
-        "internalLink": "/crew/rome-corporate-videography"
+        "name": "Rome Marriott Park Hotel",
+        "description": "One of Europe's largest convention centers with 40 flexible meeting rooms and panoramic ballroom accommodating 7,000 guests. Comprehensive conference facilities. Professional event management.",
+        "filmingTips": "40 flexible meeting rooms for complex coverage. Panoramic ballroom with 7,000 capacity. Professional infrastructure. European scale.",
+        "internalLink": "/crew/rome-marriott-park-videography"
       },
       {
-        "name": "Rome Trade & Exhibition Hall",
-        "description": "Large-scale venue in Rome specializing in trade shows and exhibitions.",
-        "filmingTips": "Large open spaces. Multiple configurations. Professional infrastructure. Expert management.",
-        "internalLink": "/crew/rome-trade-show-videography"
+        "name": "Hotel Villa Pamphili Rome",
+        "description": "Exclusive urban resort completely renovated in 2020. 235 elegant contemporary rooms with 14 convention center meeting rooms. Modern luxury combined with historic charm. Premium event venue.",
+        "filmingTips": "Contemporary luxury design. Historic property. 14 flexible meeting rooms. Refined aesthetic.",
+        "internalLink": "/crew/rome-villa-pamphili-videography"
       },
       {
-        "name": "Rome Waterfront or Riverside Events",
-        "description": "Scenic venue in Rome with waterfront or riverside location and outdoor possibilities.",
-        "filmingTips": "Natural backdrop. Scenic views. Multiple configurations. Outdoor opportunities.",
-        "internalLink": "/crew/rome-event-videography"
+        "name": "Palazzo dei Congressi EUR",
+        "description": "Historic monumental venue in EUR district. Known for distinctive architecture and prestigious location. Multiple meeting and event spaces. Premium historic venue for high-profile events.",
+        "filmingTips": "Historic monumental architecture. EUR district character. Distinctive aesthetic. Prestigious location.",
+        "internalLink": "/crew/rome-palazzo-congressi-videography"
       }
     ]
   },
@@ -6721,43 +6721,43 @@
   },
   "seattle": {
     "displayName": "Seattle",
-    "introText": "We film at Seattle's leading event venues, from modern convention centers to cultural landmarks. Our Seattle crews understand local venue logistics and deliver professional coverage for corporate events, conferences, and special occasions.",
+    "introText": "We film at Seattle's premier venues, from the innovative Seattle Convention Center with its Summit and Arch buildings (998,000 sqft) to waterfront venues and luxury hotels with Puget Sound views. Our Seattle crews specialize in capturing tech summits, international conferences, and high-profile corporate events.",
     "venues": [
       {
-        "name": "Seattle Convention Center",
-        "description": "Modern convention center in Seattle with flexible event spaces and state-of-the-art facilities.",
-        "filmingTips": "Modern AV infrastructure. Multiple flexible halls. Professional support. Ample parking.",
-        "internalLink": "/crew/seattle-convention-videography"
+        "name": "Seattle Convention Center - Arch Building",
+        "description": "430,000+ sqft of highly configurable event space. Award-winning catering and comprehensive services. Part of dual-building convention campus in downtown Seattle. Modern finishes with smart layouts and green certification.",
+        "filmingTips": "430k+ sqft of flexible space. Award-winning catering. Professional technical support. Modern AV infrastructure.",
+        "internalLink": "/crew/seattle-convention-center-arch-videography"
       },
       {
-        "name": "Premier Hotel & Conference Seattle",
-        "description": "Luxury hotel in Seattle with comprehensive event facilities and premium amenities.",
-        "filmingTips": "Professional AV. Contemporary design. Premium amenities. Expert support.",
-        "internalLink": "/crew/seattle-corporate-videography"
+        "name": "Seattle Convention Center - Summit Building",
+        "description": "570,000 sqft of event space opened January 2023. Pairs with Arch building (1.5 blocks away) to double campus capacity. 998,000 total sqft with high-end finishes, smart layouts, and green certification.",
+        "filmingTips": "570k sqft new facility. Dual building campus flexibility. State-of-the-art infrastructure. Modern design.",
+        "internalLink": "/crew/seattle-convention-center-summit-videography"
       },
       {
-        "name": "Seattle Arts & Cultural Center",
-        "description": "Contemporary cultural venue in Seattle with flexible gallery and event spaces.",
-        "filmingTips": "Cultural atmosphere. Artistic backdrop. Unique aesthetic. Character location.",
-        "internalLink": "/crew/seattle-event-videography"
+        "name": "Bell Harbor International Conference Center",
+        "description": "Over 100,000 sqft of waterfront event space with stunning Puget Sound views. Located on Seattle's iconic waterfront. Scenic location perfect for filming with water backdrop.",
+        "filmingTips": "Waterfront location. Puget Sound views. Scenic backdrop for b-roll. Modern facilities.",
+        "internalLink": "/crew/seattle-bell-harbor-videography"
       },
       {
-        "name": "Downtown Seattle Business Venue",
-        "description": "Modern flexible event space in downtown Seattle with professional infrastructure.",
-        "filmingTips": "Urban backdrop. Flexible configuration. Modern amenities. Professional support.",
-        "internalLink": "/crew/seattle-corporate-videography"
+        "name": "Four Seasons Hotel Seattle",
+        "description": "Over 10,000 sqft of event space with views of Elliott Bay and Olympic Mountains. Luxury hotel with comprehensive meeting facilities. Premium venue for executive events.",
+        "filmingTips": "Luxury hotel aesthetic. Elliott Bay views. Olympic Mountains backdrop. Professional AV.",
+        "internalLink": "/crew/seattle-four-seasons-videography"
       },
       {
-        "name": "Seattle Trade & Exhibition Hall",
-        "description": "Large-scale venue in Seattle specializing in trade shows and exhibitions.",
-        "filmingTips": "Large open spaces. Multiple configurations. Professional infrastructure. Expert management.",
-        "internalLink": "/crew/seattle-trade-show-videography"
+        "name": "Hyatt Regency Seattle",
+        "description": "Two large ballrooms (each 19,000+ sqft), two junior ballrooms, and 45 meeting rooms. Located in downtown heart of Seattle. Professional event management with comprehensive facilities.",
+        "filmingTips": "Two 19,000 sqft ballrooms. 45 flexible meeting rooms. Downtown location. Professional infrastructure.",
+        "internalLink": "/crew/seattle-hyatt-regency-videography"
       },
       {
-        "name": "Seattle Waterfront or Riverside Events",
-        "description": "Scenic venue in Seattle with waterfront or riverside location and outdoor possibilities.",
-        "filmingTips": "Natural backdrop. Scenic views. Multiple configurations. Outdoor opportunities.",
-        "internalLink": "/crew/seattle-event-videography"
+        "name": "Paramount Theatre Seattle",
+        "description": "Ornate historic 1928 theatre with stunning architecture. 2,200-seat capacity. Premium venue for performances and galas. Historic elegance combined with modern AV.",
+        "filmingTips": "Historic 1928 theatre architecture. 2,200-seat capacity. Ornate interior details. Professional stage AV.",
+        "internalLink": "/crew/seattle-paramount-theatre-videography"
       }
     ]
   },
@@ -6889,43 +6889,43 @@
   },
   "singapore": {
     "displayName": "Singapore",
-    "introText": "We film at Singapore's leading event venues, from modern convention centers to cultural landmarks. Our Singapore crews understand local venue logistics and deliver professional coverage for corporate events, conferences, and special occasions.",
+    "introText": "We film at Singapore's world-class convention venues, from the iconic Suntec Singapore with its HybriDome technology to luxury hotels like Fairmont Singapore and Swissôtel The Stamford. Our Singapore crews deliver cutting-edge coverage for international conferences, product launches, and high-profile business events.",
     "venues": [
       {
-        "name": "Singapore Convention Center",
-        "description": "Modern convention center in Singapore with flexible event spaces and state-of-the-art facilities.",
-        "filmingTips": "Modern AV infrastructure. Multiple flexible halls. Professional support. Ample parking.",
+        "name": "Suntec Singapore Convention & Exhibition Centre",
+        "description": "42,000 sqm venue in Marina Bay with 22,000 sqm exhibition space and 15,000 sqm meeting spaces. 36 meeting rooms, column-free exhibition halls, grand ballroom, two auditoriums (6,850 total seats). Launched HybriDome hybrid event facility with broadcast-quality production.",
+        "filmingTips": "HybriDome offers cutting-edge hybrid event production capabilities. Column-free exhibition halls allow creative camera positioning. Two large auditoriums ideal for keynote coverage. Direct access to 75,000 sqm integrated shopping/hotel/F&B complex.",
         "internalLink": "/crew/singapore-convention-videography"
       },
       {
-        "name": "Premier Hotel & Conference Singapore",
-        "description": "Luxury hotel in Singapore with comprehensive event facilities and premium amenities.",
-        "filmingTips": "Professional AV. Contemporary design. Premium amenities. Expert support.",
-        "internalLink": "/crew/singapore-corporate-videography"
+        "name": "Fairmont Singapore",
+        "description": "Luxury 5-star hotel with extensive meeting and event facilities. Located in central Singapore with sophisticated ballrooms and private meeting suites. Premium venue for executive conferences and high-profile corporate events.",
+        "filmingTips": "Luxury hotel aesthetic with refined interiors. Professional hotel AV infrastructure. Sophisticated ambiance. Discreet event management for private functions.",
+        "internalLink": "/crew/singapore-luxury-events-videography"
       },
       {
-        "name": "Singapore Arts & Cultural Center",
-        "description": "Contemporary cultural venue in Singapore with flexible gallery and event spaces.",
-        "filmingTips": "Cultural atmosphere. Artistic backdrop. Unique aesthetic. Character location.",
-        "internalLink": "/crew/singapore-event-videography"
+        "name": "Swissôtel The Stamford",
+        "description": "Iconic tall landmark hotel with panoramic city views. 40,000+ sqft of meeting space including grand ballroom accommodating 2,000+ guests. Premium venue for international conferences and prestigious corporate functions.",
+        "filmingTips": "Iconic tall building provides dramatic Singapore skyline backdrop. Panoramic views perfect for b-roll. Grand ballroom seats 2,000+. Professional AV and event support.",
+        "internalLink": "/crew/singapore-stamford-videography"
       },
       {
-        "name": "Downtown Singapore Business Venue",
-        "description": "Modern flexible event space in downtown Singapore with professional infrastructure.",
-        "filmingTips": "Urban backdrop. Flexible configuration. Modern amenities. Professional support.",
-        "internalLink": "/crew/singapore-corporate-videography"
+        "name": "Conrad Centennial Singapore",
+        "description": "Luxury hotel in Marina Bay area with extensive event facilities. Multiple ballrooms and meeting suites designed for corporate conferences and high-profile events. Modern amenities and professional event management.",
+        "filmingTips": "Marina Bay location provides scenic backdrop. Multiple configurable spaces. Modern design with good lighting. Professional hotel infrastructure.",
+        "internalLink": "/crew/singapore-marina-bay-videography"
       },
       {
-        "name": "Singapore Trade & Exhibition Hall",
-        "description": "Large-scale venue in Singapore specializing in trade shows and exhibitions.",
-        "filmingTips": "Large open spaces. Multiple configurations. Professional infrastructure. Expert management.",
-        "internalLink": "/crew/singapore-trade-show-videography"
+        "name": "Grand Hyatt Singapore",
+        "description": "Luxury 5-star hotel with 18,000+ sqft of event space including grand ballroom and multiple breakout rooms. Located in central Singapore with sophisticated design. Premium venue for business events and executive conferences.",
+        "filmingTips": "Sophisticated contemporary design. Grand ballroom with good sightlines. Professional AV infrastructure. Luxury amenities. Expert event coordination.",
+        "internalLink": "/crew/singapore-hyatt-videography"
       },
       {
-        "name": "Singapore Waterfront or Riverside Events",
-        "description": "Scenic venue in Singapore with waterfront or riverside location and outdoor possibilities.",
-        "filmingTips": "Natural backdrop. Scenic views. Multiple configurations. Outdoor opportunities.",
-        "internalLink": "/crew/singapore-event-videography"
+        "name": "Marina Bay Sands Convention Centre",
+        "description": "Integrated convention facility at iconic Marina Bay Sands resort. Access to 120,000+ sqft of flexible meeting and event space. Premium location with stunning views of Marina Bay. State-of-the-art facilities.",
+        "filmingTips": "Iconic Marina Bay Sands tower provides world-famous backdrop. Integrated resort location with comprehensive amenities. Modern facilities with professional support. Scenic location.",
+        "internalLink": "/crew/singapore-marina-sands-videography"
       }
     ]
   },
@@ -7351,43 +7351,43 @@
   },
   "tokyo": {
     "displayName": "Tokyo",
-    "introText": "We film at Tokyo's leading event venues, from modern convention centers to cultural landmarks. Our Tokyo crews understand local venue logistics and deliver professional coverage for corporate events, conferences, and special occasions.",
+    "introText": "We film at Tokyo's most prestigious event venues, from the Tokyo International Forum to world-class luxury hotels like The Okura and Mandarin Oriental. Our Tokyo crews excel at capturing high-energy tech conferences, international business summits, and corporate galas.",
     "venues": [
       {
-        "name": "Tokyo Convention Center",
-        "description": "Modern convention center in Tokyo with flexible event spaces and state-of-the-art facilities.",
-        "filmingTips": "Modern AV infrastructure. Multiple flexible halls. Professional support. Ample parking.",
-        "internalLink": "/crew/tokyo-convention-videography"
+        "name": "Tokyo International Forum",
+        "description": "Premier event venue with Hall A seating 5,012 guests. Iconic glass structure hosts international conferences, concerts, and exhibitions. Located in central Tokyo near government buildings. Modern facilities with excellent sightline design.",
+        "filmingTips": "Hall A's impressive scale perfect for keynote coverage. Iconic glass architecture provides dynamic backdrops. Excellent natural light through glass exterior. Professional AV infrastructure throughout.",
+        "internalLink": "/crew/tokyo-conference-videography"
       },
       {
-        "name": "Premier Hotel & Conference Tokyo",
-        "description": "Luxury hotel in Tokyo with comprehensive event facilities and premium amenities.",
-        "filmingTips": "Professional AV. Contemporary design. Premium amenities. Expert support.",
+        "name": "The Okura Tokyo",
+        "description": "Legendary 5-star hotel with conference facilities accommodating 2,000+ guests. Grand ballrooms with traditional décor combined with modern amenities. Premier hotel for high-profile conferences and corporate events. Iconic status in Tokyo business community.",
+        "filmingTips": "Multiple function spaces allow simultaneous coverage. Blend of traditional and modern design. Professional hotel AV support. Excellent room configurations for different event types.",
         "internalLink": "/crew/tokyo-corporate-videography"
       },
       {
-        "name": "Tokyo Arts & Cultural Center",
-        "description": "Contemporary cultural venue in Tokyo with flexible gallery and event spaces.",
-        "filmingTips": "Cultural atmosphere. Artistic backdrop. Unique aesthetic. Character location.",
-        "internalLink": "/crew/tokyo-event-videography"
+        "name": "Mandarin Oriental Tokyo",
+        "description": "Luxury hotel in Nihonbashi business district with Grand Ballroom featuring 360° video wall and advanced AV systems. 30,000+ sqft of meeting and event space. Premier venue for international business forums and executive conferences.",
+        "filmingTips": "360° video wall offers cutting-edge technical production opportunities. Contemporary design with excellent lighting. Professional AV infrastructure. Modern, sleek aesthetic for corporate events.",
+        "internalLink": "/crew/tokyo-luxury-events-videography"
       },
       {
-        "name": "Downtown Tokyo Business Venue",
-        "description": "Modern flexible event space in downtown Tokyo with professional infrastructure.",
-        "filmingTips": "Urban backdrop. Flexible configuration. Modern amenities. Professional support.",
-        "internalLink": "/crew/tokyo-corporate-videography"
+        "name": "The Peninsula Tokyo",
+        "description": "Five-star hotel in Marunouchi, Tokyo's premier financial district. Extensive meeting and event spaces designed for high-profile meetings, seminars, and functions. Modern luxury with professional event management.",
+        "filmingTips": "Premium hotel AV infrastructure. Contemporary design with warm lighting. Marunouchi district location provides business backdrop. Professional event coordination team.",
+        "internalLink": "/crew/tokyo-business-event-videography"
       },
       {
-        "name": "Tokyo Trade & Exhibition Hall",
-        "description": "Large-scale venue in Tokyo specializing in trade shows and exhibitions.",
-        "filmingTips": "Large open spaces. Multiple configurations. Professional infrastructure. Expert management.",
-        "internalLink": "/crew/tokyo-trade-show-videography"
+        "name": "The Westin Tokyo",
+        "description": "438 guest rooms with 30,000 sqft of meeting space across multiple ballrooms and breakout rooms. Modern luxury hotel in central Tokyo. Flexible configurations for corporate conferences, trade shows, and large-scale events.",
+        "filmingTips": "Large total meeting space allows complex event coverage. Multiple venue options for simultaneous shoots. Modern design with professional AV. Excellent hotel support services.",
+        "internalLink": "/crew/tokyo-hotel-conference-videography"
       },
       {
-        "name": "Tokyo Waterfront or Riverside Events",
-        "description": "Scenic venue in Tokyo with waterfront or riverside location and outdoor possibilities.",
-        "filmingTips": "Natural backdrop. Scenic views. Multiple configurations. Outdoor opportunities.",
-        "internalLink": "/crew/tokyo-event-videography"
+        "name": "Tokyo Station Hotel",
+        "description": "Located in Marunouchi business district, one minute walk from Tokyo International Forum. Three elegant event and meeting facilities. Historic location with modern conveniences. Walkable to major business district.",
+        "filmingTips": "Proximity to Tokyo International Forum allows dual-venue coverage. Historic building with classical architecture. Modern AV infrastructure. Convenient central location.",
+        "internalLink": "/crew/tokyo-downtown-videography"
       }
     ]
   },
@@ -7687,43 +7687,43 @@
   },
   "vienna": {
     "displayName": "Vienna",
-    "introText": "We film at Vienna's leading event venues, from modern convention centers to cultural landmarks. Our Vienna crews understand local venue logistics and deliver professional coverage for corporate events, conferences, and special occasions.",
+    "introText": "We film at Vienna's world-class venues, from Austria Center Vienna with 26,000 sqm of space to the historic HOFBURG Vienna combining imperial heritage with modern technology. Our Vienna crews specialize in capturing international congresses and high-profile business events.",
     "venues": [
       {
-        "name": "Vienna Convention Center",
-        "description": "Modern convention center in Vienna with flexible event spaces and state-of-the-art facilities.",
-        "filmingTips": "Modern AV infrastructure. Multiple flexible halls. Professional support. Ample parking.",
-        "internalLink": "/crew/vienna-convention-videography"
+        "name": "Austria Center Vienna",
+        "description": "21 halls, 134 meeting rooms, and 5 exhibition halls across 5 levels with 26,000 sqm event space. Capacity 500 to 22,800 people. Largest congress center in Austria. Located 7 minutes from historic old town, near UN headquarters and Danube.",
+        "filmingTips": "Massive scale allows unlimited flexibility. 134 meeting rooms for complex events. State-of-the-art digital infrastructure. Unique location near UN and Danube.",
+        "internalLink": "/crew/vienna-austria-center-videography"
       },
       {
-        "name": "Premier Hotel & Conference Vienna",
-        "description": "Luxury hotel in Vienna with comprehensive event facilities and premium amenities.",
-        "filmingTips": "Professional AV. Contemporary design. Premium amenities. Expert support.",
-        "internalLink": "/crew/vienna-corporate-videography"
+        "name": "VIECON – Vienna Congress & Convention Center (Messe Wien)",
+        "description": "Flexible multifunctional spaces with ultra-modern IT infrastructure. One of Europe's most versatile event and exhibition facilities. Spaces from 500 to 60,000 sqm. State-of-the-art technology throughout.",
+        "filmingTips": "Extraordinary flexibility - 500 to 60,000 sqm. Modern IT infrastructure. State-of-the-art technology. European-scale venue.",
+        "internalLink": "/crew/vienna-viecon-videography"
       },
       {
-        "name": "Vienna Arts & Cultural Center",
-        "description": "Contemporary cultural venue in Vienna with flexible gallery and event spaces.",
-        "filmingTips": "Cultural atmosphere. Artistic backdrop. Unique aesthetic. Character location.",
-        "internalLink": "/crew/vienna-event-videography"
+        "name": "HOFBURG Vienna",
+        "description": "Harmoniously combines modern glass architecture with state-of-the-art technology within a former imperial residence. Multiple elegant state rooms and contemporary meeting spaces. Unique historic-modern blend.",
+        "filmingTips": "Historic imperial palace architecture. Modern glass and contemporary design. State ballrooms. Iconic Vienna location.",
+        "internalLink": "/crew/vienna-hofburg-videography"
       },
       {
-        "name": "Downtown Vienna Business Venue",
-        "description": "Modern flexible event space in downtown Vienna with professional infrastructure.",
-        "filmingTips": "Urban backdrop. Flexible configuration. Modern amenities. Professional support.",
-        "internalLink": "/crew/vienna-corporate-videography"
+        "name": "Hofburg Vienna - Sisi Restaurant & Imperial Ballroom",
+        "description": "Historic imperial ballroom within Hofburg Palace. Ornate classical architecture with modern AV infrastructure. Premium venue for gala events and high-profile corporate functions in historic setting.",
+        "filmingTips": "Imperial palace grandeur. Ornate classical architecture. Historic prestige. Professional modern AV support.",
+        "internalLink": "/crew/vienna-imperial-ballroom-videography"
       },
       {
-        "name": "Vienna Trade & Exhibition Hall",
-        "description": "Large-scale venue in Vienna specializing in trade shows and exhibitions.",
-        "filmingTips": "Large open spaces. Multiple configurations. Professional infrastructure. Expert management.",
-        "internalLink": "/crew/vienna-trade-show-videography"
+        "name": "The Ritz-Carlton Vienna",
+        "description": "Luxury 5-star hotel with extensive meeting and event facilities in central Vienna. Elegant contemporary design combined with historic location. Multiple ballrooms and flexible meeting spaces.",
+        "filmingTips": "Luxury hotel aesthetic. Contemporary design. Central Vienna location. Professional AV infrastructure.",
+        "internalLink": "/crew/vienna-ritz-carlton-videography"
       },
       {
-        "name": "Vienna Waterfront or Riverside Events",
-        "description": "Scenic venue in Vienna with waterfront or riverside location and outdoor possibilities.",
-        "filmingTips": "Natural backdrop. Scenic views. Multiple configurations. Outdoor opportunities.",
-        "internalLink": "/crew/vienna-event-videography"
+        "name": "InterContinental Wien (Vienna)",
+        "description": "Premier luxury hotel with comprehensive meeting and event facilities. Located along the Danube. Multiple grand ballrooms and flexible conference spaces. Premium international hotel venue.",
+        "filmingTips": "Danube location with river views. Luxury hotel aesthetic. Modern design. Professional infrastructure.",
+        "internalLink": "/crew/vienna-intercontinental-videography"
       }
     ]
   },
@@ -8191,43 +8191,43 @@
   },
   "dubai": {
     "displayName": "Dubai",
-    "introText": "We film at Dubai's leading event venues, from modern convention centers to cultural landmarks. Our Dubai crews understand local venue logistics and deliver professional coverage for corporate events, conferences, and special occasions.",
+    "introText": "We film at Dubai's most prestigious event venues, from the Dubai World Trade Centre to grand luxury resorts like Madinat Jumeirah and the Grand Hyatt. Our Dubai crews specialize in high-profile international conferences, product launches, and luxury corporate events.",
     "venues": [
       {
-        "name": "Dubai Convention Center",
-        "description": "Modern convention center in Dubai with flexible event spaces and state-of-the-art facilities.",
-        "filmingTips": "Modern AV infrastructure. Multiple flexible halls. Professional support. Ample parking.",
-        "internalLink": "/crew/dubai-convention-videography"
-      },
-      {
-        "name": "Premier Hotel & Conference Dubai",
-        "description": "Luxury hotel in Dubai with comprehensive event facilities and premium amenities.",
-        "filmingTips": "Professional AV. Contemporary design. Premium amenities. Expert support.",
-        "internalLink": "/crew/dubai-corporate-videography"
-      },
-      {
-        "name": "Dubai Arts & Cultural Center",
-        "description": "Contemporary cultural venue in Dubai with flexible gallery and event spaces.",
-        "filmingTips": "Cultural atmosphere. Artistic backdrop. Unique aesthetic. Character location.",
-        "internalLink": "/crew/dubai-event-videography"
-      },
-      {
-        "name": "Downtown Dubai Business Venue",
-        "description": "Modern flexible event space in downtown Dubai with professional infrastructure.",
-        "filmingTips": "Urban backdrop. Flexible configuration. Modern amenities. Professional support.",
-        "internalLink": "/crew/dubai-corporate-videography"
-      },
-      {
-        "name": "Dubai Trade & Exhibition Hall",
-        "description": "Large-scale venue in Dubai specializing in trade shows and exhibitions.",
-        "filmingTips": "Large open spaces. Multiple configurations. Professional infrastructure. Expert management.",
+        "name": "Dubai World Trade Centre",
+        "description": "Over 1 million square feet of multipurpose event space. Major venue for exhibitions, international conferences, and large-scale seminars. Modern facilities with professional management. Located in central Dubai with excellent accessibility.",
+        "filmingTips": "Massive scale requires strategic crew coordination. Multiple interconnected halls. Excellent infrastructure for large productions. Professional technical support. Ample parking.",
         "internalLink": "/crew/dubai-trade-show-videography"
       },
       {
-        "name": "Dubai Waterfront or Riverside Events",
-        "description": "Scenic venue in Dubai with waterfront or riverside location and outdoor possibilities.",
-        "filmingTips": "Natural backdrop. Scenic views. Multiple configurations. Outdoor opportunities.",
-        "internalLink": "/crew/dubai-event-videography"
+        "name": "Grand Hyatt Dubai",
+        "description": "Dubai's largest hotel convention center with 12,500 sqm of flexible event space. Grand ballrooms accommodating 4,000+ guests, intimate meeting rooms, and breakout spaces. Premium hotel with professional event management.",
+        "filmingTips": "Massive total event footprint (7,000 sqm) allows complex multi-venue coverage. Grand ballrooms have impressive ceiling heights. Professional hotel AV infrastructure. Luxury finishes.",
+        "internalLink": "/crew/dubai-hotel-conference-videography"
+      },
+      {
+        "name": "JW Marriott Marquis Dubai",
+        "description": "Only hotel in UAE capable of hosting 1,000+ guest dining and sleeping arrangements. Located on Sheikh Zayed Road on the Dubai Water Canal banks. Extensive meeting and event facilities designed for major international conferences.",
+        "filmingTips": "Iconic location on Dubai Water Canal. Modern luxury design. Professional AV infrastructure. Can handle massive guest volumes. Excellent for large-scale events.",
+        "internalLink": "/crew/dubai-marquis-videography"
+      },
+      {
+        "name": "Madinat Jumeirah",
+        "description": "Spectacular Arabian-themed resort styled as ancient Arabian citadel. Multiple event venues combining opulence with traditional design. Unique venue for corporate galas, product launches, and exclusive events. Waterfront location.",
+        "filmingTips": "Unique Arabian architecture provides distinctive visual backdrop. Waterfront location with natural scenery. Multiple outdoor event spaces. Atmospheric and cinematic aesthetic.",
+        "internalLink": "/crew/dubai-resort-event-videography"
+      },
+      {
+        "name": "Hilton Dubai Al Habtoor City",
+        "description": "1,004 guest rooms with 16 meeting rooms, grand ballroom, and unique Habtoor Theatre for events and meetings. Central Dubai location. Modern facilities designed for comprehensive conference coverage.",
+        "filmingTips": "Dedicated theatre space for keynotes and performances. Flexible meeting room configurations. Professional hotel support. Modern design with good lighting.",
+        "internalLink": "/crew/dubai-theatre-event-videography"
+      },
+      {
+        "name": "Le Méridien Dubai",
+        "description": "44,401 sqft of banquet and conference facilities. Spacious parking for 500+ vehicles. Purpose-built venue for banquets, conferences, exhibitions, and major corporate events. Located in heart of Dubai.",
+        "filmingTips": "Dedicated banquet space with modern design. Ample parking essential for large events. Professional catering and event coordination. Modern AV infrastructure.",
+        "internalLink": "/crew/dubai-banquet-videography"
       }
     ]
   },
@@ -8275,85 +8275,85 @@
   },
   "hongkong": {
     "displayName": "Hong Kong",
-    "introText": "We film at Hong Kong's leading event venues, from modern convention centers to cultural landmarks. Our Hong Kong crews understand local venue logistics and deliver professional coverage for corporate events, conferences, and special occasions.",
+    "introText": "We film at Hong Kong's world-class venues, from the Hong Kong Convention and Exhibition Centre with 91,500 sqm by Victoria Harbour to luxury hotels like Grand Hyatt and Conrad. Our Hong Kong crews specialize in capturing major international conferences, trade fairs, and high-profile corporate events.",
     "venues": [
       {
-        "name": "Hong Kong Convention Center",
-        "description": "Modern convention center in Hong Kong with flexible event spaces and state-of-the-art facilities.",
-        "filmingTips": "Modern AV infrastructure. Multiple flexible halls. Professional support. Ample parking.",
-        "internalLink": "/crew/hongkong-convention-videography"
+        "name": "Hong Kong Convention and Exhibition Centre (HKCEC)",
+        "description": "91,500 sqm of total rentable space - one of the world's most impressive, efficient convention and exhibition venues. Hosts around 1,000 events annually with 7+ million attendance. Located on edge of iconic Victoria Harbour. Consistently awarded 'Best Convention and Exhibition Centre in Asia.'",
+        "filmingTips": "91,500 sqm massive facility. Victoria Harbour location. Professional infrastructure throughout. 1,000+ events annually.",
+        "internalLink": "/crew/hong-kong-convention-centre-videography"
       },
       {
-        "name": "Premier Hotel & Conference Hong Kong",
-        "description": "Luxury hotel in Hong Kong with comprehensive event facilities and premium amenities.",
-        "filmingTips": "Professional AV. Contemporary design. Premium amenities. Expert support.",
-        "internalLink": "/crew/hongkong-corporate-videography"
+        "name": "Grand Hyatt Hong Kong",
+        "description": "Directly connected to HKCEC - move from room to event floor in minutes. Luxury hotel with comprehensive meeting facilities. Premium location at Victoria Harbour. World-class service.",
+        "filmingTips": "Connected to convention centre. Victoria Harbour views. Luxury aesthetic. Professional AV.",
+        "internalLink": "/crew/hong-kong-grand-hyatt-videography"
       },
       {
-        "name": "Hong Kong Arts & Cultural Center",
-        "description": "Contemporary cultural venue in Hong Kong with flexible gallery and event spaces.",
-        "filmingTips": "Cultural atmosphere. Artistic backdrop. Unique aesthetic. Character location.",
-        "internalLink": "/crew/hongkong-event-videography"
+        "name": "Conrad Hong Kong",
+        "description": "Entertains groups up to 1,000 in one of Hong Kong's largest column-free ballrooms. Dedicated meeting floor with 11 function rooms. Premium location with world-class amenities.",
+        "filmingTips": "1,000-person ballroom capacity. Column-free design. 11 meeting rooms. Premium location.",
+        "internalLink": "/crew/hong-kong-conrad-videography"
       },
       {
-        "name": "Downtown Hong Kong Business Venue",
-        "description": "Modern flexible event space in downtown Hong Kong with professional infrastructure.",
-        "filmingTips": "Urban backdrop. Flexible configuration. Modern amenities. Professional support.",
-        "internalLink": "/crew/hongkong-corporate-videography"
+        "name": "Renaissance Hong Kong Harbour View Hotel",
+        "description": "Directly connected to HKCEC. Comprehensive meeting and event facilities. Victoria Harbour location with stunning water views. Professional event management.",
+        "filmingTips": "Connected to convention centre. Harbour views. Comprehensive facilities. Professional coordination.",
+        "internalLink": "/crew/hong-kong-renaissance-videography"
       },
       {
-        "name": "Hong Kong Trade & Exhibition Hall",
-        "description": "Large-scale venue in Hong Kong specializing in trade shows and exhibitions.",
-        "filmingTips": "Large open spaces. Multiple configurations. Professional infrastructure. Expert management.",
-        "internalLink": "/crew/hongkong-trade-show-videography"
+        "name": "The St. Regis Hong Kong",
+        "description": "Luxury 5-star hotel known for personalized butler service. Elegant event venues with premium finishes. Exclusive location with world-class amenities. Premium venue for high-profile events.",
+        "filmingTips": "Ultra-luxury property. Personalized service. Elegant venues. Premium aesthetic.",
+        "internalLink": "/crew/hong-kong-st-regis-videography"
       },
       {
-        "name": "Hong Kong Waterfront or Riverside Events",
-        "description": "Scenic venue in Hong Kong with waterfront or riverside location and outdoor possibilities.",
-        "filmingTips": "Natural backdrop. Scenic views. Multiple configurations. Outdoor opportunities.",
-        "internalLink": "/crew/hongkong-event-videography"
+        "name": "The Upper House Hong Kong",
+        "description": "Celebrated for serene atmosphere and spacious rooms. Elegant minimalist design with comprehensive meeting facilities. Premium contemporary luxury venue.",
+        "filmingTips": "Serene contemporary design. Spacious elegant rooms. Minimalist aesthetic. Professional infrastructure.",
+        "internalLink": "/crew/hong-kong-upper-house-videography"
       }
     ]
   },
   "istanbul": {
     "displayName": "Istanbul",
-    "introText": "We film at Istanbul's leading event venues, from modern convention centers to cultural landmarks. Our Istanbul crews understand local venue logistics and deliver professional coverage for corporate events, conferences, and special occasions.",
+    "introText": "We film at Istanbul's most prestigious venues, including the Four Seasons at the Bosphorus in a 19th-century palace and Four Seasons at Sultanahmet with views of Hagia Sophia. Our Istanbul crews specialize in capturing high-profile international conferences and luxury corporate events at Europe's gateway to Asia.",
     "venues": [
       {
-        "name": "Istanbul Convention Center",
-        "description": "Modern convention center in Istanbul with flexible event spaces and state-of-the-art facilities.",
-        "filmingTips": "Modern AV infrastructure. Multiple flexible halls. Professional support. Ample parking.",
-        "internalLink": "/crew/istanbul-convention-videography"
+        "name": "Four Seasons Istanbul at the Bosphorus",
+        "description": "19th-century palace on the Bosphorus strait - one of Istanbul's most prestigious meeting venues. Two elegant indoor ballrooms, six intimate meeting venues, and expansive outdoor terraces. Sparkling Bosphorus views. Studio-quality video conferencing.",
+        "filmingTips": "Historic palace architecture. Bosphorus waterfront location. Indoor and outdoor spaces. Sparkling water views. Elegant aesthetic.",
+        "internalLink": "/crew/istanbul-bosphorus-four-seasons-videography"
       },
       {
-        "name": "Premier Hotel & Conference Istanbul",
-        "description": "Luxury hotel in Istanbul with comprehensive event facilities and premium amenities.",
-        "filmingTips": "Professional AV. Contemporary design. Premium amenities. Expert support.",
-        "internalLink": "/crew/istanbul-corporate-videography"
+        "name": "Four Seasons Istanbul at Sultanahmet",
+        "description": "Located in Old Town, heart of Istanbul near Hagia Sophia. Private dining and elegant meeting venues. Rooftop lounge overlooking Hagia Sophia. Elegant ballroom for weddings and galas. Premium historic location.",
+        "filmingTips": "Old Town location. Hagia Sophia views from rooftop. Iconic historic backdrop. Elegant ballroom. Cultural prestige.",
+        "internalLink": "/crew/istanbul-sultanahmet-four-seasons-videography"
       },
       {
-        "name": "Istanbul Arts & Cultural Center",
-        "description": "Contemporary cultural venue in Istanbul with flexible gallery and event spaces.",
-        "filmingTips": "Cultural atmosphere. Artistic backdrop. Unique aesthetic. Character location.",
-        "internalLink": "/crew/istanbul-event-videography"
+        "name": "Ciragan Palace Kempinski Istanbul",
+        "description": "Historic Ottoman palace hotel on the Bosphorus. Multiple elegant ballrooms and meeting spaces. Premium riverside location. Professional event services with cultural prestige.",
+        "filmingTips": "Ottoman palace architecture. Bosphorus waterfront. Elegant ballrooms. Historic prestige. Scenic location.",
+        "internalLink": "/crew/istanbul-ciragan-palace-videography"
       },
       {
-        "name": "Downtown Istanbul Business Venue",
-        "description": "Modern flexible event space in downtown Istanbul with professional infrastructure.",
-        "filmingTips": "Urban backdrop. Flexible configuration. Modern amenities. Professional support.",
-        "internalLink": "/crew/istanbul-corporate-videography"
+        "name": "Marriott Hotel Istanbul",
+        "description": "Luxury hotel with comprehensive meeting and event facilities. Multiple flexible ballrooms and meeting rooms. Professional AV infrastructure. Premium location with excellent services.",
+        "filmingTips": "Modern luxury design. Flexible meeting spaces. Professional AV. Contemporary aesthetic.",
+        "internalLink": "/crew/istanbul-marriott-videography"
       },
       {
-        "name": "Istanbul Trade & Exhibition Hall",
-        "description": "Large-scale venue in Istanbul specializing in trade shows and exhibitions.",
-        "filmingTips": "Large open spaces. Multiple configurations. Professional infrastructure. Expert management.",
-        "internalLink": "/crew/istanbul-trade-show-videography"
+        "name": "Conrad Istanbul Bosphorus",
+        "description": "Ultra-luxury hotel on the Bosphorus with stunning water views. Comprehensive event and meeting facilities. Modern luxury combined with scenic location. World-class service.",
+        "filmingTips": "Bosphorus waterfront location. Luxury contemporary design. Water views. World-class infrastructure.",
+        "internalLink": "/crew/istanbul-conrad-bosphorus-videography"
       },
       {
-        "name": "Istanbul Waterfront or Riverside Events",
-        "description": "Scenic venue in Istanbul with waterfront or riverside location and outdoor possibilities.",
-        "filmingTips": "Natural backdrop. Scenic views. Multiple configurations. Outdoor opportunities.",
-        "internalLink": "/crew/istanbul-event-videography"
+        "name": "Grand Hyatt Istanbul",
+        "description": "Modern luxury hotel with extensive meeting and event spaces. Located in central Istanbul. Multiple ballrooms and flexible configurations. Professional event management.",
+        "filmingTips": "Modern luxury design. Multiple flexible spaces. Central Istanbul location. Professional infrastructure.",
+        "internalLink": "/crew/istanbul-grand-hyatt-videography"
       }
     ]
   },
@@ -8401,43 +8401,43 @@
   },
   "lasvegas": {
     "displayName": "Las Vegas",
-    "introText": "We film at Las Vegas's leading event venues, from modern convention centers to cultural landmarks. Our Las Vegas crews understand local venue logistics and deliver professional coverage for corporate events, conferences, and special occasions.",
+    "introText": "We film at Las Vegas's world-class venues, from The Venetian Convention & Expo Center with 2.25 million sqft to luxury resorts and unique event spaces. Our Las Vegas crews specialize in capturing high-energy trade shows, major conferences, and spectacular product launches.",
     "venues": [
       {
-        "name": "Las Vegas Convention Center",
-        "description": "Modern convention center in Las Vegas with flexible event spaces and state-of-the-art facilities.",
-        "filmingTips": "Modern AV infrastructure. Multiple flexible halls. Professional support. Ample parking.",
-        "internalLink": "/crew/lasvegas-convention-videography"
+        "name": "The Venetian Convention & Expo Center",
+        "description": "2.25 million sqft - one of the largest exhibition and meeting venues in Las Vegas, integrated with The Venetian and Palazzo resorts. Over 350 customizable meeting rooms. Multiple expo halls offering incredible space and versatility.",
+        "filmingTips": "Massive scale requires strategic crew planning. 350+ meeting rooms allow unlimited flexibility. Modern AV infrastructure. Part of integrated luxury resort.",
+        "internalLink": "/crew/las-vegas-venetian-convention-videography"
       },
       {
-        "name": "Premier Hotel & Conference Las Vegas",
-        "description": "Luxury hotel in Las Vegas with comprehensive event facilities and premium amenities.",
-        "filmingTips": "Professional AV. Contemporary design. Premium amenities. Expert support.",
-        "internalLink": "/crew/lasvegas-corporate-videography"
+        "name": "The Venetian Ballroom",
+        "description": "85,000 sqft pillarless ballroom - the largest at The Venetian. Column-free design easily subdivides into up to 12 smaller spaces (4,906 to 60,544 sqft). Ideal for grand-scale events and flexible configurations.",
+        "filmingTips": "85,000 sqft column-free space. Incredible ceiling height for creative angles. Highly flexible subdivisions. World-class AV infrastructure.",
+        "internalLink": "/crew/las-vegas-venetian-ballroom-videography"
       },
       {
-        "name": "Las Vegas Arts & Cultural Center",
-        "description": "Contemporary cultural venue in Las Vegas with flexible gallery and event spaces.",
-        "filmingTips": "Cultural atmosphere. Artistic backdrop. Unique aesthetic. Character location.",
-        "internalLink": "/crew/lasvegas-event-videography"
+        "name": "The Palazzo Ballroom",
+        "description": "Pillarless ballroom on Level 5 of Convention Center. Subdivides into up to 16 separate spaces ranging from 4,200 to 54,770 sqft. Premium venue for mid-to-large scale events with maximum flexibility.",
+        "filmingTips": "Pillarless design with excellent ceiling height. 16 subdivision options. Flexible for various event sizes. Premium location.",
+        "internalLink": "/crew/las-vegas-palazzo-ballroom-videography"
       },
       {
-        "name": "Downtown Las Vegas Business Venue",
-        "description": "Modern flexible event space in downtown Las Vegas with professional infrastructure.",
-        "filmingTips": "Urban backdrop. Flexible configuration. Modern amenities. Professional support.",
-        "internalLink": "/crew/lasvegas-corporate-videography"
+        "name": "Wynn Las Vegas Convention Center",
+        "description": "Premier luxury resort with extensive convention and event facilities. Modern elegance combined with cutting-edge technology. Multiple grand ballrooms and breakout rooms. Premium Las Vegas venue.",
+        "filmingTips": "Luxury resort aesthetic. Contemporary design. Professional AV infrastructure. Premium Las Vegas location.",
+        "internalLink": "/crew/las-vegas-wynn-convention-videography"
       },
       {
-        "name": "Las Vegas Trade & Exhibition Hall",
-        "description": "Large-scale venue in Las Vegas specializing in trade shows and exhibitions.",
-        "filmingTips": "Large open spaces. Multiple configurations. Professional infrastructure. Expert management.",
-        "internalLink": "/crew/lasvegas-trade-show-videography"
+        "name": "Caesars Palace Convention Center",
+        "description": "Historic iconic Las Vegas property with extensive convention facilities. Multiple grand ballrooms and meeting spaces. Legendary venue status with modern amenities. Premium event infrastructure.",
+        "filmingTips": "Iconic Las Vegas property. Historic prestige. Modern AV infrastructure. Legendary venue status.",
+        "internalLink": "/crew/las-vegas-caesars-convention-videography"
       },
       {
-        "name": "Las Vegas Waterfront or Riverside Events",
-        "description": "Scenic venue in Las Vegas with waterfront or riverside location and outdoor possibilities.",
-        "filmingTips": "Natural backdrop. Scenic views. Multiple configurations. Outdoor opportunities.",
-        "internalLink": "/crew/lasvegas-event-videography"
+        "name": "Bellagio Convention Center",
+        "description": "Luxury resort with comprehensive event and conference facilities. Multiple elegant ballrooms and flexible meeting spaces. High-end aesthetic with professional AV support. Premium Las Vegas venue.",
+        "filmingTips": "Luxury resort design. Elegant ballrooms. Professional infrastructure. Premium aesthetic.",
+        "internalLink": "/crew/las-vegas-bellagio-convention-videography"
       }
     ]
   },
