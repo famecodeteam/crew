@@ -670,5 +670,497 @@
       {"name": "Colonial Inn Concord", "description": "Historic 1716 inn with 40,000+ sq ft of period and modern event facilities.", "filmingTips": "Historic elegance. Colonial architecture. Character setting. Premium venue.", "internalLink": "/crew/concord-corporate-videography"},
       {"name": "Minute Man National Historical Park (Event Venues)", "description": "Historic Revolutionary War site with flexible outdoor event and pavilion spaces.", "filmingTips": "Historical backdrop. Educational context. Outdoor possibilities. Prestige location.", "internalLink": "/crew/concord-event-videography"}
     ]
+  },
+  "connecticut": {
+    "displayName": "Connecticut",
+    "introText": "We film at Connecticut's diverse event venues, from modern convention centers to historic estates. Our Connecticut crews specialize in regional conferences, corporate events, and New England business gatherings.",
+    "venues": [
+      {"name": "Connecticut Convention Center", "description": "200,000+ sq ft modern convention center in Hartford with state-of-the-art facilities.", "filmingTips": "Modern AV infrastructure. Multiple flexible halls. Professional setup. Strategic positioning.", "internalLink": "/crew/connecticut-trade-show-videography"},
+      {"name": "Mohegan Sun Resort & Casino", "description": "Massive 250,000+ sq ft resort with premium event facilities and entertainment venues.", "filmingTips": "Resort scale. Multiple venue options. Professional AV. Entertainment atmosphere.", "internalLink": "/crew/connecticut-event-videography"},
+      {"name": "Yale University Event Venues", "description": "Historic university with 100,000+ sq ft of flexible academic and formal event spaces.", "filmingTips": "Academic backdrop. Historic architecture. Multiple configurations. Professional support.", "internalLink": "/crew/connecticut-corporate-videography"},
+      {"name": "Hartford Marriott Downtown", "description": "55,000+ sq ft hotel with comprehensive event facilities and downtown location.", "filmingTips": "Professional AV. Contemporary design. Good parking. Premium support.", "internalLink": "/crew/connecticut-corporate-videography"},
+      {"name": "Westville Memorial Library (Event Spaces)", "description": "Historic library with flexible gallery and conference venue options.", "filmingTips": "Historic elegance. Cultural backdrop. Multiple spaces. Character setting.", "internalLink": "/crew/connecticut-event-videography"},
+      {"name": "Essex Steam Train (Unique Venue)", "description": "Historic railway venue with unique traveling event options and vintage aesthetic.", "filmingTips": "Unique moving backdrop. Vintage aesthetic. Creative possibilities. Distinctive setting.", "internalLink": "/crew/connecticut-event-videography"}
+    ]
+  },
+  "copenhagen": {
+    "displayName": "Copenhagen",
+    "introText": "We film at Copenhagen's modern and design-forward event venues, from waterfront locations to cutting-edge conference centers. Our Copenhagen crews specialize in Nordic design events, tech conferences, and European business gatherings.",
+    "venues": [
+      {"name": "Copenhagen Conference Center", "description": "150,000+ sq ft state-of-the-art venue with waterfront location and modern design.", "filmingTips": "Modern AV infrastructure. Multiple flexible halls. Waterfront backdrop. Professional support.", "internalLink": "/crew/copenhagen-trade-show-videography"},
+      {"name": "Amalienborg Palace (Event Spaces)", "description": "Historic royal residence with flexible formal event venues. Iconic Danish location.", "filmingTips": "Historic palace backdrop. Royal prestige. Formal architecture. Iconic setting.", "internalLink": "/crew/copenhagen-corporate-videography"},
+      {"name": "Tivoli Gardens (Event Venues)", "description": "Historic amusement park with 150+ years of heritage and unique event spaces.", "filmingTips": "Park backdrop. Historic charm. Outdoor possibilities. Iconic location.", "internalLink": "/crew/copenhagen-event-videography"},
+      {"name": "Hotel d'Angleterre Copenhagen", "description": "Luxury historic hotel with 50,000+ sq ft of elegant event facilities.", "filmingTips": "Historic elegance. Professional AV. Premium atmosphere. Luxury support.", "internalLink": "/crew/copenhagen-corporate-videography"},
+      {"name": "Copenhagen Opera House (Event Spaces)", "description": "Modern architectural landmark with flexible event and performance venues.", "filmingTips": "Modern architecture. Professional AV. Iconic backdrop. Premium setting.", "internalLink": "/crew/copenhagen-event-videography"},
+      {"name": "Nyhavn Waterfront Venues", "description": "Historic 17th-century harbor with flexible outdoor and indoor event spaces.", "filmingTips": "Waterfront backdrop. Historic charm. Outdoor possibilities. Scenic location.", "internalLink": "/crew/copenhagen-event-videography"}
+    ]
+  },
+  "cyprus": {
+    "displayName": "Cyprus",
+    "introText": "We film at Cyprus's premium event venues, from beachfront resorts to modern conference centers. Our Cyprus crews specialize in Mediterranean events, corporate gatherings, and destination conferences.",
+    "venues": [
+      {"name": "Cyprus Convention Bureau Center", "description": "150,000+ sq ft modern convention center with Mediterranean location and facilities.", "filmingTips": "Modern AV infrastructure. Multiple flexible halls. Mediterranean backdrop. Professional support.", "internalLink": "/crew/cyprus-trade-show-videography"},
+      {"name": "Hilton Nicosia", "description": "60,000+ sq ft luxury hotel with comprehensive event facilities.", "filmingTips": "Professional AV. Contemporary design. Premium atmosphere. Modern support.", "internalLink": "/crew/cyprus-corporate-videography"},
+      {"name": "Amathus Beach Hotel", "description": "Beachfront luxury resort with 50,000+ sq ft of event facilities and sea views.", "filmingTips": "Beachfront backdrop. Luxury resort setting. Outdoor possibilities. Scenic views.", "internalLink": "/crew/cyprus-corporate-videography"},
+      {"name": "Paphos Harbour Venues", "description": "Scenic harbor location with flexible outdoor and indoor event spaces.", "filmingTips": "Harbor backdrop. Mediterranean views. Outdoor possibilities. Scenic setting.", "internalLink": "/crew/cyprus-event-videography"},
+      {"name": "Larnaca Salt Lake (Outdoor Venue)", "description": "Unique natural landmark with flexible outdoor event and pavilion spaces.", "filmingTips": "Natural backdrop. Unique location. Outdoor setting. Distinctive venue.", "internalLink": "/crew/cyprus-event-videography"},
+      {"name": "Troodos Mountain Resort (Venue)", "description": "Mountain location with flexible indoor and outdoor event facilities.", "filmingTips": "Mountain backdrop. Natural scenery. Outdoor possibilities. Scenic location.", "internalLink": "/crew/cyprus-event-videography"}
+    ]
+  },
+  "dallas": {
+    "displayName": "Dallas",
+    "introText": "We film at Dallas's premier event venues, from world-class convention centers to luxury hotel ballrooms. Our Dallas crews specialize in major trade shows, tech conferences, and high-profile corporate events.",
+    "venues": [
+      {"name": "Dallas Convention Center", "description": "1.1 million+ sq ft massive convention center. Major North American venue for large-scale events.", "filmingTips": "Massive scale. Excellent AV infrastructure. Multiple halls require crew coordination. Professional support.", "internalLink": "/crew/dallas-trade-show-videography"},
+      {"name": "Hilton Anatole", "description": "150,000+ sq ft luxury hotel with comprehensive event facilities and convention center.", "filmingTips": "Luxury design. Professional AV. Extensive facilities. Premium support.", "internalLink": "/crew/dallas-corporate-videography"},
+      {"name": "The Joule Hotel", "description": "Luxury historic building with 50,000+ sq ft of modern event facilities.", "filmingTips": "Historic elegance. Contemporary design. Professional AV. Premium atmosphere.", "internalLink": "/crew/dallas-corporate-videography"},
+      {"name": "Fair Park (Event Venues)", "description": "Historic 277-acre park with multiple event venues and exhibition halls.", "filmingTips": "Park backdrop. Multiple venue options. Outdoor possibilities. Historic setting.", "internalLink": "/crew/dallas-event-videography"},
+      {"name": "The Statler Hotel", "description": "Historic luxury hotel with 40,000+ sq ft of restored event spaces.", "filmingTips": "Historic elegance. Restored architecture. Professional support. Character venue.", "internalLink": "/crew/dallas-corporate-videography"},
+      {"name": "Perot Museum (Event Spaces)", "description": "Modern museum with 60,000+ sq ft of flexible gallery and event venues.", "filmingTips": "Museum exhibits backdrop. Modern architecture. Cultural venue. Professional management.", "internalLink": "/crew/dallas-event-videography"}
+    ]
+  },
+  "dammam": {
+    "displayName": "Dammam",
+    "introText": "We film at Dammam's modern event venues, from business district conference centers to luxury hotels. Our Dammam crews specialize in Middle Eastern business events, corporate conferences, and regional gatherings.",
+    "venues": [
+      {"name": "Dammam Convention Center", "description": "200,000+ sq ft modern convention center with state-of-the-art facilities.", "filmingTips": "Modern AV infrastructure. Multiple flexible halls. Professional setup. Strategic positioning.", "internalLink": "/crew/dammam-trade-show-videography"},
+      {"name": "Hilton Dammam", "description": "70,000+ sq ft luxury hotel with comprehensive event facilities.", "filmingTips": "Professional AV. Contemporary design. Premium atmosphere. Modern support.", "internalLink": "/crew/dammam-corporate-videography"},
+      {"name": "InterContinental Dammam", "description": "65,000+ sq ft luxury hotel with elegant event spaces.", "filmingTips": "Luxury design. Professional AV. Premium support. Elegant atmosphere.", "internalLink": "/crew/dammam-corporate-videography"},
+      {"name": "Pearl District Event Venues", "description": "Modern development with flexible indoor and outdoor event spaces.", "filmingTips": "Contemporary backdrop. Modern facilities. Multiple configurations. Professional support.", "internalLink": "/crew/dammam-event-videography"},
+      {"name": "Corniche Waterfront Pavilions", "description": "Waterfront location with flexible outdoor event pavilion venues.", "filmingTips": "Water backdrop. Outdoor possibilities. Scenic views. Modern setting.", "internalLink": "/crew/dammam-event-videography"},
+      {"name": "Dammam Marriott Hotel", "description": "55,000+ sq ft hotel with modern ballrooms and event facilities.", "filmingTips": "Professional AV. Contemporary design. Good amenities. Premium support.", "internalLink": "/crew/dammam-corporate-videography"}
+    ]
+  },
+  "dayton": {
+    "displayName": "Dayton",
+    "introText": "We film at Dayton's accessible event venues, from modern convention centers to historic locations. Our Dayton crews specialize in regional conferences, corporate events, and Midwest business gatherings.",
+    "venues": [
+      {"name": "Dayton Convention Center", "description": "300,000+ sq ft modern convention center with riverfront location.", "filmingTips": "Modern AV infrastructure. Multiple flexible halls. Riverfront backdrop. Professional support.", "internalLink": "/crew/dayton-trade-show-videography"},
+      {"name": "Hilton Dayton", "description": "60,000+ sq ft hotel with comprehensive event facilities.", "filmingTips": "Professional AV. Contemporary design. Good parking. Premium support.", "internalLink": "/crew/dayton-corporate-videography"},
+      {"name": "The Sinclair (Historic Theatre)", "description": "Historic 1920s theater with 2,000+ seats and professional infrastructure.", "filmingTips": "Historic theater aesthetic. Professional lighting. Excellent acoustics. Premium venue.", "internalLink": "/crew/dayton-conference-videography"},
+      {"name": "Carillon Historical Park (Event Venues)", "description": "Historic 65-acre park with flexible outdoor and pavilion venues.", "filmingTips": "Park backdrop. Outdoor possibilities. Historic setting. Scenic location.", "internalLink": "/crew/dayton-event-videography"},
+      {"name": "Dayton Art Institute (Event Spaces)", "description": "50,000+ sq ft museum with flexible gallery and event venues.", "filmingTips": "Art exhibits backdrop. Historic architecture. Cultural venue. Professional management.", "internalLink": "/crew/dayton-event-videography"},
+      {"name": "MVR Event Center", "description": "Modern 40,000+ sq ft flexible event space with contemporary design.", "filmingTips": "Modern aesthetic. Professional AV. Multiple configurations. Contemporary backdrop.", "internalLink": "/crew/dayton-conference-videography"}
+    ]
+  },
+  "denver": {
+    "displayName": "Denver",
+    "introText": "We film at Denver's cutting-edge event venues, from massive convention centers to rooftop locations with mountain views. Our Denver crews specialize in tech conferences, trade shows, and business events.",
+    "venues": [
+      {"name": "Denver Convention Center", "description": "600,000+ sq ft world-class convention center with natural light and modern design.", "filmingTips": "Modern AV infrastructure. Multiple halls. Natural light. Strategic crew positioning.", "internalLink": "/crew/denver-trade-show-videography"},
+      {"name": "Pepsi Center (Now Ball Arena)", "description": "Multi-purpose arena with 100,000+ sq ft of event facilities.", "filmingTips": "Arena infrastructure. Professional lighting. Multiple configurations. Large scale support.", "internalLink": "/crew/denver-conference-videography"},
+      {"name": "Four Seasons Denver", "description": "70,000+ sq ft luxury hotel with panoramic mountain views and event facilities.", "filmingTips": "Mountain backdrop. Luxury design. Professional AV. Premium setting.", "internalLink": "/crew/denver-corporate-videography"},
+      {"name": "Denver Central Market (Event Space)", "description": "Historic warehouse converted to 60,000+ sq ft flexible event venue.", "filmingTips": "Industrial aesthetic. Exposed brick. High ceilings. Creative backdrop.", "internalLink": "/crew/denver-event-videography"},
+      {"name": "The Curtis Hotel", "description": "Historic luxury hotel with 50,000+ sq ft of restored event facilities.", "filmingTips": "Historic elegance. Contemporary amenities. Professional support. Character venue.", "internalLink": "/crew/denver-corporate-videography"},
+      {"name": "Denver Botanic Gardens (Event Venues)", "description": "80-acre gardens with flexible outdoor and pavilion event spaces.", "filmingTips": "Garden backdrop. Outdoor possibilities. Scenic location. Natural setting.", "internalLink": "/crew/denver-event-videography"}
+    ]
+  },
+  "detroit": {
+    "displayName": "Detroit",
+    "introText": "We film at Detroit's revitalized event venues, from historic theaters to modern conference centers. Our Detroit crews specialize in automotive industry events, tech conferences, and major business gatherings.",
+    "venues": [
+      {"name": "Detroit Convention Center", "description": "500,000+ sq ft waterfront convention center on the Detroit River.", "filmingTips": "Riverfront backdrop. Modern AV infrastructure. Multiple halls. Professional support.", "internalLink": "/crew/detroit-trade-show-videography"},
+      {"name": "Fisher Building", "description": "Historic Art Deco landmark with 80,000+ sq ft of flexible event spaces.", "filmingTips": "Historic elegance. Architectural details. Iconic backdrop. Character venue.", "internalLink": "/crew/detroit-event-videography"},
+      {"name": "Detroit Marriott Downtown", "description": "60,000+ sq ft hotel with comprehensive event facilities.", "filmingTips": "Professional AV. Contemporary design. Downtown location. Premium support.", "internalLink": "/crew/detroit-corporate-videography"},
+      {"name": "The Guardian Building", "description": "Historic 1929 Art Deco tower with flexible event spaces and architectural beauty.", "filmingTips": "Art Deco architecture. Historic elegance. Iconic backdrop. Premium setting.", "internalLink": "/crew/detroit-corporate-videography"},
+      {"name": "Henry Ford Museum (Event Spaces)", "description": "12-acre museum campus with 100,000+ sq ft of flexible event venues.", "filmingTips": "Museum exhibits backdrop. Historic vehicles context. Large scale. Professional management.", "internalLink": "/crew/detroit-event-videography"},
+      {"name": "MotorCity Casino Hotel", "description": "70,000+ sq ft resort-style hotel with premium event facilities.", "filmingTips": "Casino atmosphere. Multiple venues. Professional AV. Entertainment backdrop.", "internalLink": "/crew/detroit-event-videography"}
+    ]
+  },
+  "dresden": {
+    "displayName": "Dresden",
+    "introText": "We film at Dresden's historic and elegant event venues, from baroque palaces to modern conference centers. Our Dresden crews specialize in European business events, cultural conferences, and luxury gatherings.",
+    "venues": [
+      {"name": "Dresden Convention Center", "description": "150,000+ sq ft modern convention center with historic city views.", "filmingTips": "Modern AV infrastructure. Multiple flexible halls. Historic backdrop. Professional support.", "internalLink": "/crew/dresden-trade-show-videography"},
+      {"name": "Semper Opera House", "description": "Historic 1871 opera house with 2,600+ seats and professional infrastructure.", "filmingTips": "Historic theater aesthetic. Professional lighting. Excellent acoustics. Premium venue.", "internalLink": "/crew/dresden-conference-videography"},
+      {"name": "Frauenkirche (Church Event Spaces)", "description": "Baroque church with flexible formal event venue options. UNESCO World Heritage site.", "filmingTips": "Historic religious backdrop. Architectural grandeur. Spiritual atmosphere. Iconic setting.", "internalLink": "/crew/dresden-corporate-videography"},
+      {"name": "Hilton Dresden", "description": "60,000+ sq ft luxury hotel with modern event facilities and historic city views.", "filmingTips": "Professional AV. Contemporary design. City views. Premium support.", "internalLink": "/crew/dresden-corporate-videography"},
+      {"name": "Zwinger Palace (Event Spaces)", "description": "Historic baroque palace with flexible outdoor and indoor event venues.", "filmingTips": "Palace backdrop. Architectural beauty. Garden settings. Iconic location.", "internalLink": "/crew/dresden-event-videography"},
+      {"name": "Altstadt (Historic District Venues)", "description": "Historic old town with flexible boutique event venues and period architecture.", "filmingTips": "Historic district backdrop. Medieval setting. Character locations. Atmospheric venues.", "internalLink": "/crew/dresden-event-videography"}
+    ]
+  },
+  "dusseldorf": {
+    "displayName": "Düsseldorf",
+    "introText": "We film at Düsseldorf's sophisticated event venues, from modern convention centers to luxury hotels on the Rhine. Our Düsseldorf crews specialize in German business events, fashion industry conferences, and premium gatherings.",
+    "venues": [
+      {"name": "Düsseldorf Convention Center", "description": "200,000+ sq ft modern convention center with state-of-the-art facilities.", "filmingTips": "Modern AV infrastructure. Multiple flexible halls. Professional setup. Strategic positioning.", "internalLink": "/crew/dusseldorf-trade-show-videography"},
+      {"name": "Hilton Düsseldorf", "description": "70,000+ sq ft luxury hotel with comprehensive event facilities.", "filmingTips": "Professional AV. Contemporary design. Premium atmosphere. Modern support.", "internalLink": "/crew/dusseldorf-corporate-videography"},
+      {"name": "Steigenberger Parkhotel", "description": "Historic luxury hotel with 55,000+ sq ft of elegant event spaces.", "filmingTips": "Historic elegance. Professional AV. Premium support. Character venue.", "internalLink": "/crew/dusseldorf-corporate-videography"},
+      {"name": "Kunstsammlung Nordrhein-Westfalen (Museum)", "description": "Modern art museum with 50,000+ sq ft of flexible gallery event venues.", "filmingTips": "Art exhibits backdrop. Modern architecture. Cultural venue. Professional management.", "internalLink": "/crew/dusseldorf-event-videography"},
+      {"name": "Rhine Waterfront Pavilions", "description": "Scenic riverside location with flexible outdoor and pavilion event spaces.", "filmingTips": "River backdrop. Outdoor possibilities. Scenic views. Modern setting.", "internalLink": "/crew/dusseldorf-event-videography"},
+      {"name": "Märchenbrunnen Fountain Area (Event Venue)", "description": "Historic plaza with flexible outdoor event and performance spaces.", "filmingTips": "Plaza backdrop. Historic charm. Outdoor possibilities. Scenic location.", "internalLink": "/crew/dusseldorf-event-videography"}
+    ]
+  },
+  "edinburgh": {
+    "displayName": "Edinburgh",
+    "introText": "We film at Edinburgh's iconic event venues, from historic castles to modern convention centers. Our Edinburgh crews specialize in Scottish business events, cultural conferences, and prestigious gatherings.",
+    "venues": [
+      {"name": "Edinburgh Convention Centre", "description": "100,000+ sq ft modern convention center with castle views.", "filmingTips": "Modern AV infrastructure. Multiple flexible halls. Historic backdrop. Professional support.", "internalLink": "/crew/edinburgh-trade-show-videography"},
+      {"name": "Edinburgh Castle (Event Spaces)", "description": "Historic 13th-century fortress with flexible formal event venues. UNESCO World Heritage.", "filmingTips": "Castle backdrop. Historic prestige. Architectural grandeur. Iconic setting.", "internalLink": "/crew/edinburgh-corporate-videography"},
+      {"name": "The Balmoral Hotel", "description": "Iconic luxury hotel with 60,000+ sq ft of elegant event facilities.", "filmingTips": "Historic elegance. Professional AV. Premium atmosphere. Prestige venue.", "internalLink": "/crew/edinburgh-corporate-videography"},
+      {"name": "National Museum of Scotland (Event Spaces)", "description": "World-class museum with 80,000+ sq ft of flexible gallery event venues.", "filmingTips": "Museum exhibits backdrop. Historic architecture. Cultural venue. Professional management.", "internalLink": "/crew/edinburgh-event-videography"},
+      {"name": "Royal Mile Historic Venues", "description": "Historic street with flexible boutique event venues and period architecture.", "filmingTips": "Historic district backdrop. Medieval setting. Character locations. Atmospheric venues.", "internalLink": "/crew/edinburgh-event-videography"},
+      {"name": "Holyrood Palace (State Event Spaces)", "description": "Historic royal residence with formal event venue options. Official royal location.", "filmingTips": "Palace backdrop. Royal prestige. Historic architecture. Official setting.", "internalLink": "/crew/edinburgh-corporate-videography"}
+    ]
+  },
+  "edmonton": {
+    "displayName": "Edmonton",
+    "introText": "We film at Edmonton's modern event venues, from convention centers to river valley locations. Our Edmonton crews specialize in Western Canadian conferences, corporate events, and regional business gatherings.",
+    "venues": [
+      {"name": "Edmonton Convention Centre", "description": "250,000+ sq ft modern convention center with state-of-the-art facilities.", "filmingTips": "Modern AV infrastructure. Multiple flexible halls. Professional setup. Strategic positioning.", "internalLink": "/crew/edmonton-trade-show-videography"},
+      {"name": "Shaw Conference Centre", "description": "200,000+ sq ft integrated convention and hotel facility. Major Canadian venue.", "filmingTips": "Modern AV infrastructure. Extensive facilities. Multiple halls. Professional support.", "internalLink": "/crew/edmonton-conference-videography"},
+      {"name": "The Fantasyland Hotel", "description": "Unique themed hotel with 80,000+ sq ft of creative event facilities.", "filmingTips": "Themed backdrops. Creative design. Multiple configurations. Fun atmosphere.", "internalLink": "/crew/edmonton-corporate-videography"},
+      {"name": "Mercer Arena & Event Space", "description": "Multi-purpose arena with 50,000+ sq ft of flexible event facilities.", "filmingTips": "Arena infrastructure. Multiple configurations. Professional AV. Large-scale support.", "internalLink": "/crew/edmonton-event-videography"},
+      {"name": "River Cree Resort & Casino", "description": "Resort venue with 60,000+ sq ft of premium event facilities.", "filmingTips": "Resort setting. Multiple venues. Professional support. Entertainment atmosphere.", "internalLink": "/crew/edmonton-corporate-videography"},
+      {"name": "Fort Edmonton Park (Outdoor Venues)", "description": "Historic 158-acre park with outdoor pavilion and event spaces.", "filmingTips": "Park backdrop. Historic context. Outdoor possibilities. Scenic location.", "internalLink": "/crew/edmonton-event-videography"}
+    ]
+  },
+  "elpaso": {
+    "displayName": "El Paso",
+    "introText": "We film at El Paso's accessible event venues, from convention centers to border region locations. Our El Paso crews specialize in Southwest conferences, corporate events, and regional business gatherings.",
+    "venues": [
+      {"name": "El Paso Convention Center", "description": "200,000+ sq ft modern convention center with flexible facilities.", "filmingTips": "Modern AV infrastructure. Multiple flexible halls. Professional setup. Strategic positioning.", "internalLink": "/crew/el-paso-trade-show-videography"},
+      {"name": "Hilton El Paso Downtown", "description": "55,000+ sq ft hotel with comprehensive event facilities.", "filmingTips": "Professional AV. Contemporary design. Downtown location. Premium support.", "internalLink": "/crew/el-paso-corporate-videography"},
+      {"name": "El Paso Museum of Art (Event Spaces)", "description": "40,000+ sq ft museum with flexible gallery and event venues.", "filmingTips": "Art exhibits backdrop. Modern architecture. Cultural venue. Professional management.", "internalLink": "/crew/el-paso-event-videography"},
+      {"name": "Fort Davis Historic Site (Venue)", "description": "Historic Civil War era fort with flexible outdoor event spaces.", "filmingTips": "Historic backdrop. Western setting. Outdoor possibilities. Educational context.", "internalLink": "/crew/el-paso-event-videography"},
+      {"name": "Mission Trail Venues", "description": "Historic district with flexible boutique event venues and period architecture.", "filmingTips": "Historic district backdrop. Spanish colonial setting. Character locations. Atmospheric venues.", "internalLink": "/crew/el-paso-event-videography"},
+      {"name": "InterContinental El Paso", "description": "45,000+ sq ft hotel with modern event facilities and city views.", "filmingTips": "Professional AV. Contemporary design. City backdrop. Premium support.", "internalLink": "/crew/el-paso-corporate-videography"}
+    ]
+  },
+  "esbjerg": {
+    "displayName": "Esbjerg",
+    "introText": "We film at Esbjerg's modern event venues, from waterfront conference centers to contemporary hotels. Our Esbjerg crews specialize in Danish West Coast events, business conferences, and regional gatherings.",
+    "venues": [
+      {"name": "Esbjerg Convention Center", "description": "80,000+ sq ft modern convention center with waterfront location.", "filmingTips": "Modern AV infrastructure. Multiple flexible halls. Waterfront backdrop. Professional support.", "internalLink": "/crew/esbjerg-trade-show-videography"},
+      {"name": "Marriott Esbjerg", "description": "50,000+ sq ft hotel with comprehensive event facilities.", "filmingTips": "Professional AV. Contemporary design. Waterfront location. Premium support.", "internalLink": "/crew/esbjerg-corporate-videography"},
+      {"name": "Esbjerg Art Museum (Event Spaces)", "description": "Modern museum with 30,000+ sq ft of flexible gallery event venues.", "filmingTips": "Art exhibits backdrop. Modern architecture. Cultural venue. Professional management.", "internalLink": "/crew/esbjerg-event-videography"},
+      {"name": "Esbjerg Waterfront Pavilions", "description": "Waterfront location with flexible outdoor and pavilion event spaces.", "filmingTips": "Water backdrop. Outdoor possibilities. Scenic views. Modern setting.", "internalLink": "/crew/esbjerg-event-videography"},
+      {"name": "Fishermen's Monument Plaza (Event Space)", "description": "Historic monument area with flexible outdoor event venues and port views.", "filmingTips": "Port backdrop. Historic landmark. Outdoor possibilities. Scenic location.", "internalLink": "/crew/esbjerg-event-videography"},
+      {"name": "Hotel Rix (Event Venue)", "description": "Modern 40,000+ sq ft hotel with flexible event facilities.", "filmingTips": "Professional AV. Contemporary design. Good amenities. Modern support.", "internalLink": "/crew/esbjerg-corporate-videography"}
+    ]
+  },
+  "florence": {
+    "displayName": "Florence",
+    "introText": "We film at Florence's iconic event venues, from Renaissance palaces to modern convention centers. Our Florence crews specialize in Italian business events, luxury conferences, and cultural gatherings.",
+    "venues": [
+      {"name": "Florence Convention Centre", "description": "120,000+ sq ft modern convention center with Renaissance city views.", "filmingTips": "Modern AV infrastructure. Multiple flexible halls. Historic backdrop. Professional support.", "internalLink": "/crew/florence-trade-show-videography"},
+      {"name": "Palazzo Medici-Riccardi", "description": "Historic 15th-century Renaissance palace with flexible formal event venues.", "filmingTips": "Renaissance backdrop. Historic prestige. Architectural grandeur. Iconic setting.", "internalLink": "/crew/florence-corporate-videography"},
+      {"name": "Uffizi Gallery (Event Spaces)", "description": "World-famous art museum with flexible gallery event venues. UNESCO World Heritage.", "filmingTips": "Art masterpiece backdrop. Museum exhibits context. Cultural prestige. Professional management.", "internalLink": "/crew/florence-event-videography"},
+      {"name": "Forte di Belvedere", "description": "Historic 16th-century fortress with flexible outdoor and indoor event venues with city views.", "filmingTips": "Historic fort backdrop. Panoramic views. Architectural beauty. Iconic location.", "internalLink": "/crew/florence-event-videography"},
+      {"name": "Hotel Brunelleschi", "description": "Luxury hotel with 40,000+ sq ft of elegant event facilities in historic building.", "filmingTips": "Historic elegance. Professional AV. Premium atmosphere. Character venue.", "internalLink": "/crew/florence-corporate-videography"},
+      {"name": "Piazza della Signoria (Event Venue)", "description": "Historic plaza with flexible outdoor event and performance spaces. UNESCO World Heritage.", "filmingTips": "Historic plaza backdrop. Medieval setting. Iconic location. Atmospheric venue.", "internalLink": "/crew/florence-event-videography"}
+    ]
+  },
+  "florida": {
+    "displayName": "Florida",
+    "introText": "We film at Florida's diverse event venues, from luxury resorts to modern conference centers. Our Florida crews specialize in destination events, tech conferences, and corporate gatherings across the Sunshine State.",
+    "venues": [
+      {"name": "Miami Convention Center", "description": "500,000+ sq ft waterfront convention center on Biscayne Bay.", "filmingTips": "Waterfront backdrop. Modern AV infrastructure. Multiple halls. Professional support.", "internalLink": "/crew/florida-trade-show-videography"},
+      {"name": "Orlando Convention Center", "description": "350,000+ sq ft modern convention center with entertainment district proximity.", "filmingTips": "Modern AV infrastructure. Multiple flexible halls. Theme park backdrop. Professional support.", "internalLink": "/crew/florida-conference-videography"},
+      {"name": "Tampa Bay Convention Center", "description": "250,000+ sq ft waterfront convention center with harbor views.", "filmingTips": "Waterfront backdrop. Modern facilities. Multiple halls. Professional support.", "internalLink": "/crew/florida-trade-show-videography"},
+      {"name": "The Breakers (Palm Beach Resort)", "description": "Iconic luxury resort with 150,000+ sq ft of premier event facilities.", "filmingTips": "Luxury resort setting. Beach backdrop. Premium AV. Prestige venue.", "internalLink": "/crew/florida-corporate-videography"},
+      {"name": "Vizcaya Museum & Gardens", "description": "Historic Italian Renaissance estate with 30 acres and flexible event venues.", "filmingTips": "Estate backdrop. Garden scenery. Historic architecture. Prestige location.", "internalLink": "/crew/florida-event-videography"},
+      {"name": "Kennedy Space Center (Event Spaces)", "description": "Iconic space facility with unique event venues and exhibits.", "filmingTips": "Space exhibits backdrop. Iconic landmark. Unique atmosphere. Educational context.", "internalLink": "/crew/florida-event-videography"}
+    ]
+  },
+  "fortworth": {
+    "displayName": "Fort Worth",
+    "introText": "We film at Fort Worth's modern and historic event venues, from convention centers to cultural institutions. Our Fort Worth crews specialize in Texas business events, trade shows, and corporate gatherings.",
+    "venues": [
+      {"name": "Fort Worth Convention Center", "description": "400,000+ sq ft modern convention center with state-of-the-art facilities.", "filmingTips": "Modern AV infrastructure. Multiple flexible halls. Professional setup. Strategic positioning.", "internalLink": "/crew/fort-worth-trade-show-videography"},
+      {"name": "Omni Fort Worth Hotel", "description": "70,000+ sq ft luxury hotel with comprehensive event facilities.", "filmingTips": "Professional AV. Contemporary design. Premium atmosphere. Modern support.", "internalLink": "/crew/fort-worth-corporate-videography"},
+      {"name": "Kimbell Art Museum", "description": "60,000+ sq ft world-class museum with flexible gallery event venues.", "filmingTips": "Art exhibits backdrop. Architectural design. Cultural venue. Professional management.", "internalLink": "/crew/fort-worth-event-videography"},
+      {"name": "Modern Art Museum of Fort Worth", "description": "Contemporary museum with 50,000+ sq ft of flexible event spaces.", "filmingTips": "Modern art backdrop. Contemporary architecture. Cultural venue. Professional support.", "internalLink": "/crew/fort-worth-event-videography"},
+      {"name": "Stockyard Historic District (Venues)", "description": "Historic Western district with flexible boutique event venues and period atmosphere.", "filmingTips": "Western backdrop. Historic character. Outdoor possibilities. Atmospheric setting.", "internalLink": "/crew/fort-worth-event-videography"},
+      {"name": "Fort Worth Museum of Science & History", "description": "45,000+ sq ft museum with flexible gallery and event venues.", "filmingTips": "Museum exhibits backdrop. Interactive spaces. Educational context. Professional management.", "internalLink": "/crew/fort-worth-event-videography"}
+    ]
+  },
+  "france": {
+    "displayName": "France",
+    "introText": "We film at France's premier event venues, from Parisian palaces to regional conference centers. Our France crews specialize in French business events, luxury conferences, and European gatherings.",
+    "venues": [
+      {"name": "Paris Expo Porte de Versailles", "description": "500,000+ sq ft major exhibition center in Paris. Premier French venue.", "filmingTips": "Modern AV infrastructure. Multiple flexible halls. Professional setup. Strategic positioning.", "internalLink": "/crew/france-trade-show-videography"},
+      {"name": "Palais Garnier (Opera House)", "description": "Historic 1875 opera house with 2,200+ seats and professional infrastructure.", "filmingTips": "Historic theater aesthetic. Professional lighting. Excellent acoustics. Premium venue.", "internalLink": "/crew/france-conference-videography"},
+      {"name": "Palace of Versailles (Event Spaces)", "description": "UNESCO World Heritage palace with flexible formal event venues and gardens.", "filmingTips": "Palace backdrop. Historic prestige. Garden settings. Iconic location.", "internalLink": "/crew/france-corporate-videography"},
+      {"name": "Musée du Louvre (Event Spaces)", "description": "World's largest art museum with flexible gallery event venues.", "filmingTips": "Art masterpiece backdrop. Museum exhibits context. Cultural prestige. Professional management.", "internalLink": "/crew/france-event-videography"},
+      {"name": "Le Palais de Congrès de Paris", "description": "200,000+ sq ft modern convention center in Paris.", "filmingTips": "Modern AV infrastructure. Multiple flexible halls. Downtown location. Professional support.", "internalLink": "/crew/france-conference-videography"},
+      {"name": "French Riviera Resort Venues", "description": "Multiple luxury resort locations on Côte d'Azur with premium event facilities.", "filmingTips": "Resort backdrops. Coastal views. Mediterranean setting. Luxury venues.", "internalLink": "/crew/france-corporate-videography"}
+    ]
+  },
+  "frankfurt": {
+    "displayName": "Frankfurt",
+    "introText": "We film at Frankfurt's world-class event venues, from trade show centers to luxury hotels. Our Frankfurt crews specialize in major international trade shows, financial conferences, and business events.",
+    "venues": [
+      {"name": "Frankfurt Trade Fair (Messe Frankfurt)", "description": "1.2 million+ sq ft world-renowned exhibition center. Global major venue.", "filmingTips": "Massive scale. Excellent AV infrastructure. Multiple halls. Strategic crew positioning.", "internalLink": "/crew/frankfurt-trade-show-videography"},
+      {"name": "Frankfurt Convention Center", "description": "200,000+ sq ft modern convention center with integrated facilities.", "filmingTips": "Modern AV infrastructure. Multiple flexible halls. Professional setup. Strategic positioning.", "internalLink": "/crew/frankfurt-conference-videography"},
+      {"name": "Main Tower Event Spaces", "description": "High-rise with 50,000+ sq ft of premium event facilities and city views.", "filmingTips": "City skyline backdrop. Modern design. Panoramic views. Premium setting.", "internalLink": "/crew/frankfurt-corporate-videography"},
+      {"name": "Hilton Frankfurt", "description": "70,000+ sq ft luxury hotel with comprehensive event facilities.", "filmingTips": "Professional AV. Contemporary design. Premium atmosphere. Modern support.", "internalLink": "/crew/frankfurt-corporate-videography"},
+      {"name": "Palmengarten (Botanical Event Spaces)", "description": "Historic botanical garden with 45,000+ sq ft and flexible outdoor event venues.", "filmingTips": "Garden backdrop. Natural scenery. Outdoor possibilities. Scenic setting.", "internalLink": "/crew/frankfurt-event-videography"},
+      {"name": "Römerberg Historic District (Venues)", "description": "Half-timbered historic district with flexible boutique event venues.", "filmingTips": "Historic district backdrop. Medieval setting. Character locations. Atmospheric venues.", "internalLink": "/crew/frankfurt-event-videography"}
+    ]
+  },
+  "fresno": {
+    "displayName": "Fresno",
+    "introText": "We film at Fresno's accessible event venues, from convention centers to regional facilities. Our Fresno crews specialize in agricultural conferences, business events, and Central Valley gatherings.",
+    "venues": [
+      {"name": "Fresno Convention Center", "description": "250,000+ sq ft modern convention center with state-of-the-art facilities.", "filmingTips": "Modern AV infrastructure. Multiple flexible halls. Professional setup. Strategic positioning.", "internalLink": "/crew/fresno-trade-show-videography"},
+      {"name": "Hilton Fresno", "description": "55,000+ sq ft hotel with comprehensive event facilities.", "filmingTips": "Professional AV. Contemporary design. Good parking. Premium support.", "internalLink": "/crew/fresno-corporate-videography"},
+      {"name": "Clovis Rodeo Grounds (Event Venue)", "description": "Historic rodeo grounds with flexible outdoor and covered event spaces.", "filmingTips": "Western backdrop. Historic atmosphere. Outdoor possibilities. Regional character.", "internalLink": "/crew/fresno-event-videography"},
+      {"name": "Fresno Art Museum (Event Spaces)", "description": "40,000+ sq ft museum with flexible gallery event venues.", "filmingTips": "Art exhibits backdrop. Modern architecture. Cultural venue. Professional management.", "internalLink": "/crew/fresno-event-videography"},
+      {"name": "Woodward Regional Park (Pavilion Venues)", "description": "Large park with flexible outdoor event and pavilion spaces.", "filmingTips": "Park backdrop. Outdoor possibilities. Natural setting. Scenic location.", "internalLink": "/crew/fresno-event-videography"},
+      {"name": "Radisson Hotel Fresno", "description": "45,000+ sq ft hotel with modern event facilities.", "filmingTips": "Professional AV. Contemporary design. Good amenities. Modern support.", "internalLink": "/crew/fresno-corporate-videography"}
+    ]
+  },
+  "geneva": {
+    "displayName": "Geneva",
+    "introText": "We film at Geneva's sophisticated event venues, from international conference centers to luxury hotels. Our Geneva crews specialize in global conferences, international business events, and diplomatic gatherings.",
+    "venues": [
+      {"name": "Geneva Convention Centre", "description": "200,000+ sq ft state-of-the-art convention center. Leading Swiss venue.", "filmingTips": "Modern AV infrastructure. Multiple flexible halls. Professional setup. Strategic positioning.", "internalLink": "/crew/geneva-trade-show-videography"},
+      {"name": "Palace of Nations (UN Venue)", "description": "Historic League of Nations building with flexible formal event venues.", "filmingTips": "Historic prestige. International backdrop. Formal architecture. Official setting.", "internalLink": "/crew/geneva-corporate-videography"},
+      {"name": "Four Seasons Hotel Geneva", "description": "Luxury hotel with 60,000+ sq ft of premium event facilities and lake views.", "filmingTips": "Luxury design. Lake backdrop. Professional AV. Premium atmosphere.", "internalLink": "/crew/geneva-corporate-videography"},
+      {"name": "Jet d'Eau Waterfront (Event Venues)", "description": "Scenic lakefront location with flexible outdoor pavilion event spaces.", "filmingTips": "Lake backdrop. Iconic fountain views. Outdoor possibilities. Scenic setting.", "internalLink": "/crew/geneva-event-videography"},
+      {"name": "Museum of Modern Art (Event Spaces)", "description": "Contemporary museum with 40,000+ sq ft of flexible gallery venues.", "filmingTips": "Art exhibits backdrop. Modern architecture. Cultural venue. Professional management.", "internalLink": "/crew/geneva-event-videography"},
+      {"name": "Hilton Geneva", "description": "65,000+ sq ft luxury hotel with comprehensive event facilities.", "filmingTips": "Professional AV. Contemporary design. Premium support. Modern amenities.", "internalLink": "/crew/geneva-corporate-videography"}
+    ]
+  },
+  "genoa": {
+    "displayName": "Genoa",
+    "introText": "We film at Genoa's historic and modern event venues, from waterfront locations to convention centers. Our Genoa crews specialize in Italian business events, maritime conferences, and Mediterranean gatherings.",
+    "venues": [
+      {"name": "Genoa Convention Centre", "description": "150,000+ sq ft modern convention center with waterfront location.", "filmingTips": "Modern AV infrastructure. Multiple flexible halls. Waterfront backdrop. Professional support.", "internalLink": "/crew/genoa-trade-show-videography"},
+      {"name": "Palazzo Ducale", "description": "Historic Renaissance palace with flexible formal event venues. Cultural landmark.", "filmingTips": "Historic prestige. Architectural grandeur. Cultural backdrop. Iconic setting.", "internalLink": "/crew/genoa-corporate-videography"},
+      {"name": "Porto Antico (Historic Port Area)", "description": "Revitalized historic port with flexible outdoor and pavilion event spaces.", "filmingTips": "Waterfront backdrop. Historic atmosphere. Maritime context. Scenic location.", "internalLink": "/crew/genoa-event-videography"},
+      {"name": "Aquarium of Genoa (Event Spaces)", "description": "Iconic aquarium with adjacent flexible event venues and marine exhibits.", "filmingTips": "Aquatic backdrop. Iconic landmark. Interactive exhibits. Unique venue.", "internalLink": "/crew/genoa-event-videography"},
+      {"name": "Bristol Palace Hotel", "description": "Luxury historic hotel with 45,000+ sq ft of elegant event facilities.", "filmingTips": "Historic elegance. Professional AV. Premium support. Character venue.", "internalLink": "/crew/genoa-corporate-videography"},
+      {"name": "Spianata Castelletto (Event Space)", "description": "Historic plaza with flexible outdoor event and performance spaces.", "filmingTips": "Historic plaza backdrop. City views. Outdoor possibilities. Scenic location.", "internalLink": "/crew/genoa-event-videography"}
+    ]
+  },
+  "glasgow": {
+    "displayName": "Glasgow",
+    "introText": "We film at Glasgow's vibrant event venues, from modern conference centers to historic theaters. Our Glasgow crews specialize in Scottish business events, cultural conferences, and UK gatherings.",
+    "venues": [
+      {"name": "SEC Centre Glasgow", "description": "120,000+ sq ft modern convention and exhibition center on the Clyde.", "filmingTips": "Modern AV infrastructure. Multiple flexible halls. Waterfront backdrop. Professional support.", "internalLink": "/crew/glasgow-trade-show-videography"},
+      {"name": "Theatre Royal Glasgow", "description": "Historic theater with 1,600+ seats and professional infrastructure.", "filmingTips": "Historic theater aesthetic. Professional lighting. Excellent acoustics. Premium venue.", "internalLink": "/crew/glasgow-conference-videography"},
+      {"name": "Kelvingrove Art Gallery & Museum", "description": "World-class museum with 100,000+ sq ft of flexible gallery event venues.", "filmingTips": "Art exhibits backdrop. Historic architecture. Cultural venue. Professional management.", "internalLink": "/crew/glasgow-event-videography"},
+      {"name": "Merchant City Historic District (Venues)", "description": "Historic converted warehouses with flexible boutique event venues.", "filmingTips": "Historic district backdrop. Industrial character. Multiple locations. Atmospheric venues.", "internalLink": "/crew/glasgow-event-videography"},
+      {"name": "Hilton Glasgow", "description": "60,000+ sq ft hotel with comprehensive event facilities.", "filmingTips": "Professional AV. Contemporary design. Premium support. Modern amenities.", "internalLink": "/crew/glasgow-corporate-videography"},
+      {"name": "Glasgow Green Pavilions (Event Spaces)", "description": "Historic park with flexible outdoor pavilion event venues.", "filmingTips": "Park backdrop. Historic setting. Outdoor possibilities. Scenic location.", "internalLink": "/crew/glasgow-event-videography"}
+    ]
+  },
+  "halifax": {
+    "displayName": "Halifax",
+    "introText": "We film at Halifax's waterfront event venues, from modern convention centers to historic locations. Our Halifax crews specialize in Atlantic Canadian events, maritime conferences, and regional business gatherings.",
+    "venues": [
+      {"name": "Halifax Convention Centre", "description": "250,000+ sq ft waterfront convention center on the Waterfront. Atlantic flagship.", "filmingTips": "Modern AV infrastructure. Multiple flexible halls. Waterfront backdrop. Professional support.", "internalLink": "/crew/halifax-trade-show-videography"},
+      {"name": "Prince George Hotel Halifax", "description": "65,000+ sq ft hotel with comprehensive event facilities and harbor views.", "filmingTips": "Professional AV. Contemporary design. Water views. Premium support.", "internalLink": "/crew/halifax-corporate-videography"},
+      {"name": "Citadel Historic Site (Event Spaces)", "description": "19th-century fortress with flexible outdoor and formal event venues.", "filmingTips": "Historic fort backdrop. Panoramic views. Formal atmosphere. Iconic location.", "internalLink": "/crew/halifax-event-videography"},
+      {"name": "Art Gallery of Nova Scotia (Event Spaces)", "description": "50,000+ sq ft gallery with flexible event venues and art exhibits backdrop.", "filmingTips": "Art exhibits context. Historic building. Cultural venue. Professional management.", "internalLink": "/crew/halifax-event-videography"},
+      {"name": "Waterfront Historic District (Venues)", "description": "Revitalized historic waterfront with flexible boutique event venues and shops.", "filmingTips": "Waterfront backdrop. Historic atmosphere. Outdoor possibilities. Scenic location.", "internalLink": "/crew/halifax-event-videography"},
+      {"name": "Point Pleasant Park (Pavilion Venues)", "description": "400-acre park with flexible outdoor pavilion event spaces and water views.", "filmingTips": "Park backdrop. Water views. Outdoor possibilities. Natural setting.", "internalLink": "/crew/halifax-event-videography"}
+    ]
+  },
+  "hamburg": {
+    "displayName": "Hamburg",
+    "introText": "We film at Hamburg's modern and historic event venues, from convention centers to port locations. Our Hamburg crews specialize in German business events, trade shows, and international gatherings.",
+    "venues": [
+      {"name": "Hamburg Convention Centre", "description": "300,000+ sq ft state-of-the-art convention center. Major Northern European venue.", "filmingTips": "Modern AV infrastructure. Multiple flexible halls. Professional setup. Strategic positioning.", "internalLink": "/crew/hamburg-trade-show-videography"},
+      {"name": "Hilton Hamburg", "description": "80,000+ sq ft luxury hotel with comprehensive event facilities.", "filmingTips": "Professional AV. Contemporary design. Premium atmosphere. Modern support.", "internalLink": "/crew/hamburg-corporate-videography"},
+      {"name": "Hamburg Port (Event Venues)", "description": "Historic port with flexible outdoor and indoor event spaces along waterfront.", "filmingTips": "Port backdrop. Waterfront views. Industrial character. Maritime setting.", "internalLink": "/crew/hamburg-event-videography"},
+      {"name": "Miniatur Wunderland (Unique Venue)", "description": "World's largest model railway with adjacent flexible event spaces.", "filmingTips": "Unique backdrop. Interactive exhibits. Novel setting. Memorable venue.", "internalLink": "/crew/hamburg-event-videography"},
+      {"name": "Kunsthalle Hamburg (Art Museum)", "description": "60,000+ sq ft art museum with flexible gallery event venues.", "filmingTips": "Art exhibits backdrop. Historic architecture. Cultural venue. Professional management.", "internalLink": "/crew/hamburg-event-videography"},
+      {"name": "Alster Waterfront Pavilions", "description": "Scenic lakefront location with flexible outdoor pavilion event spaces.", "filmingTips": "Water backdrop. Outdoor possibilities. Scenic views. Modern setting.", "internalLink": "/crew/hamburg-event-videography"}
+    ]
+  },
+  "hamilton": {
+    "displayName": "Hamilton",
+    "introText": "We film at Hamilton's accessible event venues, from convention centers to historic locations. Our Hamilton crews specialize in Ontario business events, corporate conferences, and regional gatherings.",
+    "venues": [
+      {"name": "Hamilton Convention Centre", "description": "200,000+ sq ft convention center with modern facilities and downtown location.", "filmingTips": "Modern AV infrastructure. Multiple flexible halls. Professional setup. Strategic positioning.", "internalLink": "/crew/hamilton-trade-show-videography"},
+      {"name": "Sheraton Hamilton", "description": "60,000+ sq ft hotel with comprehensive event facilities.", "filmingTips": "Professional AV. Contemporary design. Good parking. Premium support.", "internalLink": "/crew/hamilton-corporate-videography"},
+      {"name": "Art Gallery of Hamilton (Event Spaces)", "description": "40,000+ sq ft gallery with flexible event venues and art exhibits.", "filmingTips": "Art exhibits backdrop. Historic building. Cultural venue. Professional management.", "internalLink": "/crew/hamilton-event-videography"},
+      {"name": "African Lion Safari (Unique Venue)", "description": "Unique safari venue with flexible outdoor and indoor event spaces.", "filmingTips": "Exotic animal backdrop. Unique setting. Outdoor possibilities. Memorable venue.", "internalLink": "/crew/hamilton-event-videography"},
+      {"name": "Locke Street Historic District (Venues)", "description": "Historic neighborhood with flexible boutique event venues and character.", "filmingTips": "Historic district backdrop. Period architecture. Character locations. Atmospheric venues.", "internalLink": "/crew/hamilton-event-videography"},
+      {"name": "Dundurn Castle (Historic Event Space)", "description": "Historic 1835 mansion with flexible formal event venues.", "filmingTips": "Historic castle backdrop. Period architecture. Formal atmosphere. Character venue.", "internalLink": "/crew/hamilton-corporate-videography"}
+    ]
+  },
+  "hannover": {
+    "displayName": "Hannover",
+    "introText": "We film at Hannover's world-class event venues, from massive trade fair complexes to modern hotels. Our Hannover crews specialize in major trade shows, technology conferences, and global business events.",
+    "venues": [
+      {"name": "Hannover Messe Exhibition Centre", "description": "1.3 million+ sq ft world-renowned exhibition center. Global industrial venue.", "filmingTips": "Massive scale. Excellent AV infrastructure. Multiple halls. Strategic crew positioning.", "internalLink": "/crew/hannover-trade-show-videography"},
+      {"name": "Convention Centre Hannover", "description": "200,000+ sq ft modern convention center with integrated facilities.", "filmingTips": "Modern AV infrastructure. Multiple flexible halls. Professional setup. Strategic positioning.", "internalLink": "/crew/hannover-conference-videography"},
+      {"name": "Hilton Hannover", "description": "70,000+ sq ft luxury hotel with comprehensive event facilities.", "filmingTips": "Professional AV. Contemporary design. Premium atmosphere. Modern support.", "internalLink": "/crew/hannover-corporate-videography"},
+      {"name": "Herrenhausen Gardens (Event Venues)", "description": "Historic Baroque gardens with 135 acres and flexible outdoor event spaces.", "filmingTips": "Garden backdrop. Historic setting. Outdoor possibilities. Scenic location.", "internalLink": "/crew/hannover-event-videography"},
+      {"name": "Sprengel Museum Hannover (Event Spaces)", "description": "Modern art museum with 50,000+ sq ft of flexible gallery event venues.", "filmingTips": "Art exhibits backdrop. Modern architecture. Cultural venue. Professional management.", "internalLink": "/crew/hannover-event-videography"},
+      {"name": "Maschsee Lakefront Pavilions", "description": "Scenic lakefront location with flexible outdoor pavilion event spaces.", "filmingTips": "Water backdrop. Outdoor possibilities. Scenic views. Modern setting.", "internalLink": "/crew/hannover-event-videography"}
+    ]
+  },
+  "hartford": {
+    "displayName": "Hartford",
+    "introText": "We film at Hartford's accessible event venues, from convention centers to historic locations. Our Hartford crews specialize in New England business events, regional conferences, and corporate gatherings.",
+    "venues": [
+      {"name": "Hartford Convention Center", "description": "250,000+ sq ft convention center with modern facilities.", "filmingTips": "Modern AV infrastructure. Multiple flexible halls. Professional setup. Strategic positioning.", "internalLink": "/crew/hartford-trade-show-videography"},
+      {"name": "Hilton Hartford Downtown", "description": "55,000+ sq ft hotel with comprehensive event facilities.", "filmingTips": "Professional AV. Contemporary design. Downtown location. Premium support.", "internalLink": "/crew/hartford-corporate-videography"},
+      {"name": "Wadsworth Atheneum Museum of Art", "description": "50,000+ sq ft museum with flexible gallery and event venues.", "filmingTips": "Art exhibits backdrop. Historic architecture. Cultural venue. Professional management.", "internalLink": "/crew/hartford-event-videography"},
+      {"name": "Old State House (Historic Venue)", "description": "1796 historic building with flexible formal event spaces.", "filmingTips": "Historic architecture. Government prestige. Formal atmosphere. Character venue.", "internalLink": "/crew/hartford-corporate-videography"},
+      {"name": "Bushnell Park (Event Pavilions)", "description": "Historic park with flexible outdoor pavilion event spaces.", "filmingTips": "Park backdrop. Historic setting. Outdoor possibilities. Scenic location.", "internalLink": "/crew/hartford-event-videography"},
+      {"name": "Connecticut Science Center (Event Spaces)", "description": "Modern science center with 40,000+ sq ft of flexible event venues.", "filmingTips": "Science exhibits backdrop. Interactive spaces. Educational context. Professional management.", "internalLink": "/crew/hartford-event-videography"}
+    ]
+  },
+  "helsinki": {
+    "displayName": "Helsinki",
+    "introText": "We film at Helsinki's modern and innovative event venues, from cutting-edge conference centers to historic locations. Our Helsinki crews specialize in Nordic design events, tech conferences, and European gatherings.",
+    "venues": [
+      {"name": "Helsinki Convention Centre", "description": "100,000+ sq ft modern convention center with state-of-the-art design.", "filmingTips": "Modern AV infrastructure. Multiple flexible halls. Professional setup. Strategic positioning.", "internalLink": "/crew/helsinki-trade-show-videography"},
+      {"name": "National Museum of Finland (Event Spaces)", "description": "40,000+ sq ft museum with flexible gallery and event venues.", "filmingTips": "Museum exhibits backdrop. Historic architecture. Cultural venue. Professional management.", "internalLink": "/crew/helsinki-event-videography"},
+      {"name": "Hilton Helsinki", "description": "65,000+ sq ft hotel with comprehensive event facilities and bay views.", "filmingTips": "Professional AV. Contemporary design. Water views. Premium support.", "internalLink": "/crew/helsinki-corporate-videography"},
+      {"name": "Uspenski Cathedral (Event Spaces)", "description": "Historic 1868 Orthodox cathedral with flexible formal event venues.", "filmingTips": "Historic religious backdrop. Architectural grandeur. Spiritual atmosphere. Iconic setting.", "internalLink": "/crew/helsinki-corporate-videography"},
+      {"name": "Suomenlinna Fortress Island (Venue)", "description": "Historic UNESCO World Heritage island with flexible outdoor event spaces.", "filmingTips": "Island backdrop. Historic fort setting. Water views. Scenic location.", "internalLink": "/crew/helsinki-event-videography"},
+      {"name": "Temppeliaukio Church (Unique Venue)", "description": "Modern 1969 church built into rock with flexible event configuration.", "filmingTips": "Unique architecture. Modern design. Distinctive backdrop. Memorable setting.", "internalLink": "/crew/helsinki-event-videography"}
+    ]
+  },
+  "honolulu": {
+    "displayName": "Honolulu",
+    "introText": "We film at Honolulu's tropical and modern event venues, from beachfront resorts to convention centers. Our Honolulu crews specialize in destination events, Pacific conferences, and island business gatherings.",
+    "venues": [
+      {"name": "Hawaii Convention Center", "description": "350,000+ sq ft modern convention center with ocean views. Major Pacific venue.", "filmingTips": "Ocean backdrop. Modern AV infrastructure. Multiple halls. Professional support.", "internalLink": "/crew/honolulu-trade-show-videography"},
+      {"name": "Royal Hawaiian Center (Event Spaces)", "description": "Historic shopping complex with 150,000+ sq ft of flexible event venues.", "filmingTips": "Historic setting. Modern facilities. Multiple spaces. Convenient location.", "internalLink": "/crew/honolulu-conference-videography"},
+      {"name": "Halekulani Hotel", "description": "Iconic beachfront luxury resort with 80,000+ sq ft of premier event facilities.", "filmingTips": "Beachfront backdrop. Luxury resort setting. Ocean views. Prestige venue.", "internalLink": "/crew/honolulu-corporate-videography"},
+      {"name": "Moana Surfrider (Historic Resort)", "description": "Historic 1901 beachfront resort with 60,000+ sq ft of elegant event spaces.", "filmingTips": "Historic elegance. Beach backdrop. Iconic venue. Premium atmosphere.", "internalLink": "/crew/honolulu-corporate-videography"},
+      {"name": "Diamond Head (Event Venues)", "description": "Historic volcanic crater with flexible outdoor event and summit venues.", "filmingTips": "Iconic mountain backdrop. Natural landmark. Outdoor possibilities. Prestige location.", "internalLink": "/crew/honolulu-event-videography"},
+      {"name": "Waikiki Beach Pavilions (Event Spaces)", "description": "Beachfront location with flexible outdoor pavilion event venues.", "filmingTips": "Beach backdrop. Ocean views. Outdoor setting. Scenic location.", "internalLink": "/crew/honolulu-event-videography"}
+    ]
+  },
+  "houston": {
+    "displayName": "Houston",
+    "introText": "We film at Houston's world-class event venues, from massive convention centers to luxury hotels. Our Houston crews specialize in major trade shows, tech conferences, and international business events.",
+    "venues": [
+      {"name": "Houston Convention Center", "description": "1.5 million+ sq ft massive convention center. Major North American venue.", "filmingTips": "Massive scale. Excellent AV infrastructure. Multiple halls. Strategic crew positioning.", "internalLink": "/crew/houston-trade-show-videography"},
+      {"name": "Toyota Center", "description": "Multi-purpose arena with 100,000+ sq ft of flexible event facilities.", "filmingTips": "Arena infrastructure. Multiple configurations. Professional AV. Large-scale support.", "internalLink": "/crew/houston-conference-videography"},
+      {"name": "The Lancaster Hotel", "description": "Luxury boutique hotel with 50,000+ sq ft of elegant event facilities.", "filmingTips": "Historic elegance. Professional AV. Premium atmosphere. Character venue.", "internalLink": "/crew/houston-corporate-videography"},
+      {"name": "Museum of Fine Arts Houston (Event Spaces)", "description": "World-class museum with 100,000+ sq ft of flexible gallery event venues.", "filmingTips": "Art exhibits backdrop. Museum context. Cultural venue. Professional management.", "internalLink": "/crew/houston-event-videography"},
+      {"name": "Hermann Park (Event Venues)", "description": "445-acre urban park with flexible outdoor pavilion event spaces.", "filmingTips": "Park backdrop. Outdoor possibilities. Natural setting. Scenic location.", "internalLink": "/crew/houston-event-videography"},
+      {"name": "Hilton Houston", "description": "70,000+ sq ft hotel with comprehensive event facilities.", "filmingTips": "Professional AV. Contemporary design. Premium support. Modern amenities.", "internalLink": "/crew/houston-corporate-videography"}
+    ]
+  },
+  "indianapolis": {
+    "displayName": "Indianapolis",
+    "introText": "We film at Indianapolis's modern event venues, from convention centers to historic locations. Our Indianapolis crews specialize in Midwest conferences, corporate events, and business gatherings.",
+    "venues": [
+      {"name": "Indianapolis Convention Center", "description": "500,000+ sq ft modern convention center. Major Midwest venue.", "filmingTips": "Modern AV infrastructure. Multiple flexible halls. Professional setup. Strategic positioning.", "internalLink": "/crew/indianapolis-trade-show-videography"},
+      {"name": "Hilton Indianapolis", "description": "70,000+ sq ft hotel with comprehensive event facilities.", "filmingTips": "Professional AV. Contemporary design. Premium atmosphere. Modern support.", "internalLink": "/crew/indianapolis-corporate-videography"},
+      {"name": "Indianapolis Motor Speedway (Event Venues)", "description": "Iconic racing venue with 450+ acres and flexible event spaces.", "filmingTips": "Iconic motorsports backdrop. Legendary venue. Unique setting. Prestige location.", "internalLink": "/crew/indianapolis-event-videography"},
+      {"name": "Indianapolis Museum of Art (Event Spaces)", "description": "80,000+ sq ft museum with flexible gallery and event venues.", "filmingTips": "Art exhibits backdrop. Modern architecture. Cultural venue. Professional management.", "internalLink": "/crew/indianapolis-event-videography"},
+      {"name": "Marian University Venues (Historic)", "description": "Historic university with flexible academic and formal event spaces.", "filmingTips": "Academic backdrop. Historic architecture. Multiple options. Professional support.", "internalLink": "/crew/indianapolis-corporate-videography"},
+      {"name": "White River Park (Event Pavilions)", "description": "Historic park with flexible outdoor pavilion event spaces along river.", "filmingTips": "Park backdrop. Water views. Outdoor possibilities. Scenic location.", "internalLink": "/crew/indianapolis-event-videography"}
+    ]
+  },
+  "jacksonville": {
+    "displayName": "Jacksonville",
+    "introText": "We film at Jacksonville's waterfront and modern event venues, from convention centers to riverfront locations. Our Jacksonville crews specialize in Florida business events, regional conferences, and corporate gatherings.",
+    "venues": [
+      {"name": "Jacksonville Convention Center", "description": "350,000+ sq ft modern convention center with river and downtown views.", "filmingTips": "Modern AV infrastructure. Multiple flexible halls. Waterfront backdrop. Professional support.", "internalLink": "/crew/jacksonville-trade-show-videography"},
+      {"name": "Hilton Jacksonville Riverfront", "description": "60,000+ sq ft hotel with comprehensive event facilities and river views.", "filmingTips": "Professional AV. Contemporary design. Water views. Premium support.", "internalLink": "/crew/jacksonville-corporate-videography"},
+      {"name": "St. Augustine Historic District (Venues)", "description": "Historic 450-year-old district with flexible boutique event venues.", "filmingTips": "Historic district backdrop. Colonial period architecture. Character locations. Atmospheric venues.", "internalLink": "/crew/jacksonville-event-videography"},
+      {"name": "Cummer Museum of Art (Event Spaces)", "description": "50,000+ sq ft museum with flexible gallery and event venues.", "filmingTips": "Art exhibits backdrop. Historic building. Cultural venue. Professional management.", "internalLink": "/crew/jacksonville-event-videography"},
+      {"name": "Riverside Historic District (Venues)", "description": "Revitalized historic riverfront with flexible boutique event venues.", "filmingTips": "Waterfront backdrop. Historic charm. Period architecture. Scenic location.", "internalLink": "/crew/jacksonville-event-videography"},
+      {"name": "Metropolitan Park (Event Pavilions)", "description": "Urban park with flexible outdoor pavilion event spaces.", "filmingTips": "Park backdrop. Outdoor possibilities. Modern setting. Scenic location.", "internalLink": "/crew/jacksonville-event-videography"}
+    ]
+  },
+  "jeddah": {
+    "displayName": "Jeddah",
+    "introText": "We film at Jeddah's modern event venues, from convention centers to waterfront locations. Our Jeddah crews specialize in Middle Eastern business events, corporate conferences, and regional gatherings.",
+    "venues": [
+      {"name": "Jeddah Convention Center", "description": "200,000+ sq ft modern convention center with state-of-the-art facilities.", "filmingTips": "Modern AV infrastructure. Multiple flexible halls. Professional setup. Strategic positioning.", "internalLink": "/crew/jeddah-trade-show-videography"},
+      {"name": "Hilton Jeddah", "description": "70,000+ sq ft luxury hotel with comprehensive event facilities.", "filmingTips": "Professional AV. Contemporary design. Premium atmosphere. Modern support.", "internalLink": "/crew/jeddah-corporate-videography"},
+      {"name": "Red Sea Waterfront (Event Venues)", "description": "Scenic waterfront location with flexible outdoor pavilion event spaces.", "filmingTips": "Water backdrop. Outdoor possibilities. Scenic views. Modern setting.", "internalLink": "/crew/jeddah-event-videography"},
+      {"name": "Corniche Beach Pavilions", "description": "Beachfront venue with flexible outdoor event spaces and sea views.", "filmingTips": "Beach backdrop. Waterfront setting. Outdoor possibilities. Scenic location.", "internalLink": "/crew/jeddah-event-videography"},
+      {"name": "Meridien Mina Jeddah", "description": "65,000+ sq ft luxury hotel with comprehensive event facilities.", "filmingTips": "Professional AV. Contemporary design. Premium support. Modern amenities.", "internalLink": "/crew/jeddah-corporate-videography"},
+      {"name": "Floating Mosque Event Spaces", "description": "Unique waterfront venue with flexible event configuration and views.", "filmingTips": "Iconic water backdrop. Unique architecture. Distinctive setting. Memorable venue.", "internalLink": "/crew/jeddah-event-videography"}
+    ]
+  },
+  "kansascity": {
+    "displayName": "Kansas City",
+    "introText": "We film at Kansas City's accessible event venues, from convention centers to historic locations. Our Kansas City crews specialize in regional conferences, corporate events, and Midwest business gatherings.",
+    "venues": [
+      {"name": "Kansas City Convention Center", "description": "400,000+ sq ft modern convention center. Major Midwest venue.", "filmingTips": "Modern AV infrastructure. Multiple flexible halls. Professional setup. Strategic positioning.", "internalLink": "/crew/kansas-city-trade-show-videography"},
+      {"name": "Hilton Kansas City", "description": "60,000+ sq ft hotel with comprehensive event facilities.", "filmingTips": "Professional AV. Contemporary design. Good parking. Premium support.", "internalLink": "/crew/kansas-city-corporate-videography"},
+      {"name": "Union Station (Historic Venue)", "description": "Historic 1914 Beaux-Arts landmark with flexible formal event venues.", "filmingTips": "Historic elegance. Architectural grandeur. Iconic backdrop. Character venue.", "internalLink": "/crew/kansas-city-corporate-videography"},
+      {"name": "Arabia Steamboat Museum (Unique Venue)", "description": "Museum with 50,000+ sq ft and flexible event spaces with unique context.", "filmingTips": "Museum exhibits backdrop. Historical context. Unique atmosphere. Memorable venue.", "internalLink": "/crew/kansas-city-event-videography"},
+      {"name": "Country Club Plaza (Event Spaces)", "description": "Historic shopping district with flexible boutique event venues.", "filmingTips": "Historic district backdrop. Period architecture. Character locations. Atmospheric venues.", "internalLink": "/crew/kansas-city-event-videography"},
+      {"name": "Crossroads Arts District (Venues)", "description": "Trendy arts district with flexible gallery and event spaces.", "filmingTips": "Arts backdrop. Creative atmosphere. Multiple locations. Modern aesthetic.", "internalLink": "/crew/kansas-city-event-videography"}
+    ]
+  },
+  "kuwait": {
+    "displayName": "Kuwait",
+    "introText": "We film at Kuwait's modern event venues, from convention centers to luxury hotels. Our Kuwait crews specialize in Middle Eastern business events, corporate conferences, and regional gatherings.",
+    "venues": [
+      {"name": "Kuwait International Convention Centre", "description": "200,000+ sq ft state-of-the-art convention center with modern design.", "filmingTips": "Modern AV infrastructure. Multiple flexible halls. Professional setup. Strategic positioning.", "internalLink": "/crew/kuwait-trade-show-videography"},
+      {"name": "Hilton Kuwait Resort", "description": "80,000+ sq ft luxury resort with comprehensive event facilities.", "filmingTips": "Resort setting. Professional AV. Premium atmosphere. Modern support.", "internalLink": "/crew/kuwait-corporate-videography"},
+      {"name": "Gulf Hotel Kuwait", "description": "70,000+ sq ft luxury hotel with elegant event spaces.", "filmingTips": "Luxury design. Professional AV. Premium support. Elegant atmosphere.", "internalLink": "/crew/kuwait-corporate-videography"},
+      {"name": "Marina Crescent (Waterfront Venue)", "description": "Scenic waterfront location with flexible outdoor pavilion event spaces.", "filmingTips": "Water backdrop. Outdoor possibilities. Scenic views. Modern setting.", "internalLink": "/crew/kuwait-event-videography"},
+      {"name": "Science & Natural History Museum (Event Spaces)", "description": "Modern museum with 50,000+ sq ft of flexible event venues.", "filmingTips": "Museum exhibits backdrop. Modern design. Cultural venue. Professional management.", "internalLink": "/crew/kuwait-event-videography"},
+      {"name": "Salmiya Beach Park (Pavilions)", "description": "Beachfront venue with flexible outdoor pavilion event spaces.", "filmingTips": "Beach backdrop. Waterfront setting. Outdoor possibilities. Scenic location.", "internalLink": "/crew/kuwait-event-videography"}
+    ]
+  },
+  "leeds": {
+    "displayName": "Leeds",
+    "introText": "We film at Leeds's modern and historic event venues, from convention centers to cultural institutions. Our Leeds crews specialize in UK business events, conferences, and corporate gatherings.",
+    "venues": [
+      {"name": "Leeds Convention Centre", "description": "200,000+ sq ft modern convention center with state-of-the-art facilities.", "filmingTips": "Modern AV infrastructure. Multiple flexible halls. Professional setup. Strategic positioning.", "internalLink": "/crew/leeds-trade-show-videography"},
+      {"name": "First Direct Arena", "description": "13,000-capacity multi-purpose arena with 50,000+ sq ft of event facilities.", "filmingTips": "Arena infrastructure. Professional lighting. Multiple configurations. Professional AV.", "internalLink": "/crew/leeds-conference-videography"},
+      {"name": "Leeds Art Gallery & Museum (Event Spaces)", "description": "80,000+ sq ft museum with flexible gallery and event venues.", "filmingTips": "Art exhibits backdrop. Historic architecture. Cultural venue. Professional management.", "internalLink": "/crew/leeds-event-videography"},
+      {"name": "Hilton Leeds", "description": "65,000+ sq ft hotel with comprehensive event facilities.", "filmingTips": "Professional AV. Contemporary design. Premium support. Modern amenities.", "internalLink": "/crew/leeds-corporate-videography"},
+      {"name": "Victoria Quarter (Historic District)", "description": "Victorian shopping arcade with flexible boutique event venues.", "filmingTips": "Victorian era backdrop. Period architecture. Character locations. Atmospheric venues.", "internalLink": "/crew/leeds-event-videography"},
+      {"name": "Millennium Square (Event Space)", "description": "Modern plaza with flexible outdoor event and performance spaces.", "filmingTips": "Contemporary backdrop. Modern facilities. Outdoor possibilities. Scenic location.", "internalLink": "/crew/leeds-event-videography"}
+    ]
+  },
+  "leipzig": {
+    "displayName": "Leipzig",
+    "introText": "We film at Leipzig's historic and modern event venues, from convention centers to cultural institutions. Our Leipzig crews specialize in German business events, trade shows, and European gatherings.",
+    "venues": [
+      {"name": "Leipzig Trade Fair Centre", "description": "300,000+ sq ft exhibition center with historic significance. Major German venue.", "filmingTips": "Modern AV infrastructure. Multiple flexible halls. Professional setup. Strategic positioning.", "internalLink": "/crew/leipzig-trade-show-videography"},
+      {"name": "Leipzig Convention Centre", "description": "150,000+ sq ft modern convention center with integrated facilities.", "filmingTips": "Modern AV infrastructure. Multiple flexible halls. Professional setup. Strategic positioning.", "internalLink": "/crew/leipzig-conference-videography"},
+      {"name": "Gewandhaus Concert Hall", "description": "Historic concert venue with 2,000+ seats and professional infrastructure.", "filmingTips": "Historic theater aesthetic. Professional acoustics. Professional lighting. Premium venue.", "internalLink": "/crew/leipzig-conference-videography"},
+      {"name": "Hilton Leipzig", "description": "70,000+ sq ft luxury hotel with comprehensive event facilities.", "filmingTips": "Professional AV. Contemporary design. Premium atmosphere. Modern support.", "internalLink": "/crew/leipzig-corporate-videography"},
+      {"name": "Bach Museum (Event Spaces)", "description": "Historic museum with 40,000+ sq ft of flexible event venues.", "filmingTips": "Museum context. Historic building. Cultural venue. Professional management.", "internalLink": "/crew/leipzig-event-videography"},
+      {"name": "Augustusplatz Historic Square (Venues)", "description": "Historic plaza with flexible outdoor event and performance spaces.", "filmingTips": "Historic square backdrop. Period architecture. Outdoor possibilities. Scenic location.", "internalLink": "/crew/leipzig-event-videography"}
+    ]
+  },
+  "lisbon": {
+    "displayName": "Lisbon",
+    "introText": "We film at Lisbon's historic and modern event venues, from convention centers to cultural sites. Our Lisbon crews specialize in Portuguese business events, European conferences, and Mediterranean gatherings.",
+    "venues": [
+      {"name": "Lisbon Convention Centre", "description": "150,000+ sq ft state-of-the-art venue on the waterfront. Premier Portuguese venue.", "filmingTips": "Modern AV infrastructure. Multiple flexible halls. Waterfront backdrop. Professional support.", "internalLink": "/crew/lisbon-trade-show-videography"},
+      {"name": "Jeronimos Monastery (Event Spaces)", "description": "Historic 16th-century UNESCO monastery with flexible formal venues.", "filmingTips": "Historic prestige. Religious backdrop. Architectural grandeur. Iconic setting.", "internalLink": "/crew/lisbon-corporate-videography"},
+      {"name": "Hilton Lisbon", "description": "70,000+ sq ft luxury hotel with comprehensive event facilities and city views.", "filmingTips": "Professional AV. Contemporary design. City views. Premium support.", "internalLink": "/crew/lisbon-corporate-videography"},
+      {"name": "Museu Nacional de Arte (Museum Event Spaces)", "description": "National art museum with 60,000+ sq ft of flexible gallery event venues.", "filmingTips": "Art exhibits backdrop. Historic architecture. Cultural venue. Professional management.", "internalLink": "/crew/lisbon-event-videography"},
+      {"name": "Belém Cultural Centre (Event Spaces)", "description": "Modern cultural complex with 100,000+ sq ft of flexible venues.", "filmingTips": "Cultural backdrop. Modern architecture. Multiple spaces. Professional support.", "internalLink": "/crew/lisbon-event-videography"},
+      {"name": "Tagus Waterfront Pavilions", "description": "Scenic waterfront location with flexible outdoor pavilion event spaces.", "filmingTips": "River backdrop. Outdoor possibilities. Scenic views. Modern setting.", "internalLink": "/crew/lisbon-event-videography"}
+    ]
+  },
+  "littlerock": {
+    "displayName": "Little Rock",
+    "introText": "We film at Little Rock's accessible event venues, from convention centers to historic locations. Our Little Rock crews specialize in Arkansas business events, regional conferences, and corporate gatherings.",
+    "venues": [
+      {"name": "Little Rock Convention Center", "description": "300,000+ sq ft modern convention center. Major regional venue.", "filmingTips": "Modern AV infrastructure. Multiple flexible halls. Professional setup. Strategic positioning.", "internalLink": "/crew/little-rock-trade-show-videography"},
+      {"name": "Hilton Little Rock", "description": "55,000+ sq ft hotel with comprehensive event facilities.", "filmingTips": "Professional AV. Contemporary design. Good parking. Premium support.", "internalLink": "/crew/little-rock-corporate-videography"},
+      {"name": "Arkansas History Museum (Event Spaces)", "description": "40,000+ sq ft museum with flexible event venues and historical context.", "filmingTips": "History exhibits backdrop. Cultural venue. Historic building. Professional management.", "internalLink": "/crew/little-rock-event-videography"},
+      {"name": "Clinton Presidential Library (Event Spaces)", "description": "Modern library with 50,000+ sq ft of flexible event venues.", "filmingTips": "Presidential backdrop. Modern design. Cultural venue. Professional management.", "internalLink": "/crew/little-rock-event-videography"},
+      {"name": "Riverfront Park (Event Pavilions)", "description": "Scenic riverfront location with flexible outdoor pavilion event spaces.", "filmingTips": "Park backdrop. Water views. Outdoor possibilities. Scenic location.", "internalLink": "/crew/little-rock-event-videography"},
+      {"name": "Statehouse Convention Center", "description": "Historic building converted to flexible event venue with period charm.", "filmingTips": "Historic backdrop. Period architecture. Formal atmosphere. Character venue.", "internalLink": "/crew/little-rock-corporate-videography"}
+    ]
+  },
+  "liverpool": {
+    "displayName": "Liverpool",
+    "introText": "We film at Liverpool's vibrant event venues, from modern convention centers to historic waterfront locations. Our Liverpool crews specialize in UK business events, cultural conferences, and European gatherings.",
+    "venues": [
+      {"name": "Echo Arena Liverpool", "description": "12,000-capacity multi-purpose arena with 100,000+ sq ft of flexible event facilities.", "filmingTips": "Arena infrastructure. Waterfront backdrop. Professional AV. Multiple configurations.", "internalLink": "/crew/liverpool-trade-show-videography"},
+      {"name": "Liverpool Convention Centre", "description": "200,000+ sq ft modern convention center with waterfront location.", "filmingTips": "Modern AV infrastructure. Multiple flexible halls. Waterfront backdrop. Professional support.", "internalLink": "/crew/liverpool-conference-videography"},
+      {"name": "Albert Dock Historic District (Venues)", "description": "UNESCO World Heritage waterfront with flexible boutique event venues and galleries.", "filmingTips": "Historic waterfront backdrop. Period architecture. Character locations. Scenic views.", "internalLink": "/crew/liverpool-event-videography"},
+      {"name": "Merseyside Maritime Museum (Event Spaces)", "description": "50,000+ sq ft museum with flexible event venues and maritime context.", "filmingTips": "Museum exhibits backdrop. Historic building. Cultural venue. Professional management.", "internalLink": "/crew/liverpool-event-videography"},
+      {"name": "Hilton Liverpool", "description": "65,000+ sq ft hotel with comprehensive event facilities and waterfront location.", "filmingTips": "Professional AV. Contemporary design. Water views. Premium support.", "internalLink": "/crew/liverpool-corporate-videography"},
+      {"name": "Walker Art Gallery (Event Spaces)", "description": "60,000+ sq ft art museum with flexible gallery and event venues.", "filmingTips": "Art exhibits backdrop. Historic architecture. Cultural venue. Professional management.", "internalLink": "/crew/liverpool-event-videography"}
+    ]
   }
 }
