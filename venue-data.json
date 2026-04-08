@@ -1,7 +1,7 @@
 {
   "london": {
     "displayName": "London",
-    "introText": "We film at London's leading event venues, from the sprawling halls of ExCeL to boutique conference spaces across the City. Our crews know the unique challenges of each space\u2014parking, permits, power, lighting\u2014and arrive prepped.",
+    "introText": "We film at London's leading event venues, from the sprawling halls of ExCeL to boutique conference spaces across the City. Our crews know the unique challenges of each space—parking, permits, power, lighting—and arrive prepped.",
     "venues": [
       {
         "name": "ExCeL London",
@@ -138,7 +138,7 @@
       {
         "name": "Palace of Fine Arts",
         "description": "Iconic 1915 landmark with stunning architecture. 62,000 sq ft of event space. Premium venue for galas, product launches, weddings.",
-        "filmingTips": "Stunning architectural backdrop. Natural lighting is challenging\u2014requires careful setup. Limited electricity points. Outdoor courtyard excellent for b-roll.",
+        "filmingTips": "Stunning architectural backdrop. Natural lighting is challenging—requires careful setup. Limited electricity points. Outdoor courtyard excellent for b-roll.",
         "internalLink": "/crew/san-francisco-event-videography"
       },
       {
@@ -169,85 +169,85 @@
   },
   "chicago": {
     "displayName": "Chicago",
-    "introText": "We film at Chicago's world-class venues, from McCormick Place Convention Center to luxury downtown hotels. Our Chicago crews are experts at capturing major conferences, trade shows, and corporate events in the city's most prestigious locations.",
+    "introText": "America's major MICE hub with North America's largest convention center. Chicago hosts 3+ million visitors annually for world-class conferences and trade shows. Premium venues combine cutting-edge infrastructure with Midwest business prestige.",
     "venues": [
       {
         "name": "McCormick Place Convention Center",
-        "description": "2.6 million+ sq ft of exhibit space across 4 state-of-the-art buildings. North America's largest convention center. Located on the stunning Chicago lakefront with easy downtown access.",
-        "filmingTips": "Massive scale requires detailed crew planning. Multiple interconnected halls. Excellent waterfront backdrop. Modern infrastructure. Professional management and support.",
-        "internalLink": "/crew/chicago-convention-videography"
+        "description": "North America's largest convention center with 2.6 million sqft exhibit space. 6 halls, 173+ meeting rooms (600,000 sqft), 4 flexible buildings (North, South, West, Lakeside). Hosts world's largest conventions and trade shows.",
+        "filmingTips": "North America's largest venue. Ultra-massive exhibition capability. Chicago convention prestige.",
+        "internalLink": "/crew/chicago-mccormick-place-videography"
       },
       {
-        "name": "Chicago Marriott on the Magnificent Mile",
-        "description": "41 meeting rooms with 65,000 sq ft of total event space. Premium location on the renowned Magnificent Mile shopping district. Business centers and administrative services available.",
-        "filmingTips": "Professional AV infrastructure. Modern hotel amenities. Iconic Chicago shopping district backdrop. Professional event support team. Elegant interior finishes.",
-        "internalLink": "/crew/chicago-corporate-videography"
+        "name": "McCormick Place North Hall",
+        "description": "400,000+ sqft exhibition space with column-free design. Flexible configurations for major international exhibitions and trade shows.",
+        "filmingTips": "Column-free exhibition space. Large-scale show capability. Modern infrastructure.",
+        "internalLink": "/crew/chicago-mccormick-north-videography"
       },
       {
-        "name": "The Fairmont Chicago, Millennium Park",
-        "description": "63,000 sq ft of meeting space with 15 dedicated meeting rooms. Overlooks iconic Millennium Park. Premium luxury hotel hosting small to large corporate conferences.",
-        "filmingTips": "Millennium Park backdrop = iconic Chicago imagery. Modern design with excellent lighting. Professional AV and event support. Park views offer natural beauty.",
-        "internalLink": "/crew/chicago-conference-videography"
+        "name": "McCormick Place South Hall",
+        "description": "500,000+ sqft premium exhibition facility with advanced technical systems. Independent infrastructure enabling simultaneous major events.",
+        "filmingTips": "Premium exhibition facility. Independent systems. Parallel event capability.",
+        "internalLink": "/crew/chicago-mccormick-south-videography"
       },
       {
-        "name": "Hyatt Regency Chicago",
-        "description": "78 meeting rooms and 240,000 sq ft of total event space. One of Chicago's most spectacular conference venues. Excellent downtown location with multiple configuration options.",
-        "filmingTips": "Massive space offers flexibility. 78 rooms allow for complex multi-track events. Professional infrastructure. Modern facilities. Experienced event management team.",
-        "internalLink": "/crew/chicago-large-conference-videography"
+        "name": "Lakeside Center - McCormick Place",
+        "description": "Waterfront exhibition hall with 230,000+ sqft overlooking Lake Michigan. Scenic backdrop for conventions with direct access to downtown Chicago.",
+        "filmingTips": "Lake Michigan waterfront backdrop. Scenic urban location. Direct downtown access.",
+        "internalLink": "/crew/chicago-lakeside-center-videography"
       },
       {
-        "name": "Swissotel Chicago",
-        "description": "Award-winning luxury hotel overlooking the Chicago River and Lake Michigan. 65,000 sq ft of flexible event space. Stunning waterfront views and contemporary architecture.",
-        "filmingTips": "Riverside and lake views provide stunning backdrops. Modern design with excellent natural light. Flexible modular spaces. Professional AV infrastructure. Scenic location.",
-        "internalLink": "/crew/chicago-luxury-events-videography"
+        "name": "Grand Ballroom - McCormick Place",
+        "description": "Premium ballroom with 40,000+ sqft capacity for 5,000+ guests. World-class catering and technical support for galas, banquets, and major events.",
+        "filmingTips": "Massive ballroom capacity. Premium event infrastructure. Professional catering.",
+        "internalLink": "/crew/chicago-grand-ballroom-videography"
       },
       {
-        "name": "The Drake Hotel",
-        "description": "Historic luxury hotel on Michigan Avenue and Lake Shore Drive. Elegant event spaces with classic architectural details. Iconic Chicago landmark with timeless elegance.",
-        "filmingTips": "Historic architecture provides character and elegance. Classic design with refined aesthetics. Lake Michigan proximity for scenic shots. Professional hotel event services.",
-        "internalLink": "/crew/chicago-historic-venue-videography"
+        "name": "Navy Pier Event Halls",
+        "description": "Waterfront venue on Lake Michigan with multiple event spaces and performance venues. Scenic Chicago skyline backdrop for corporate events and product launches.",
+        "filmingTips": "Chicago skyline backdrop. Waterfront iconic venue. Entertainment district integration.",
+        "internalLink": "/crew/chicago-navy-pier-videography"
       }
     ]
   },
   "toronto": {
     "displayName": "Toronto",
-    "introText": "We film at Toronto's leading event venues, from modern convention centers to cultural landmarks. Our Toronto crews understand local venue logistics and deliver professional coverage for corporate events, conferences, and special occasions.",
+    "introText": "Canada's leading MICE destination with world-class convention infrastructure. Toronto hosts major international conferences, auto shows, and trade exhibitions. Offers excellent connectivity, diverse venue options, and comprehensive event support services.",
     "venues": [
       {
-        "name": "Toronto Convention Center",
-        "description": "Modern convention center in Toronto with flexible event spaces and state-of-the-art facilities.",
-        "filmingTips": "Modern AV infrastructure. Multiple flexible halls. Professional support. Ample parking.",
-        "internalLink": "/crew/toronto-convention-videography"
+        "name": "Metro Toronto Convention Centre (MTCC)",
+        "description": "Canada's largest convention facility with 700,000 sqft of exhibit space across two waterfront buildings. Includes 77 meeting rooms, multi-purpose ballrooms, performance theatre, capacity for 10,000+ delegates simultaneously.",
+        "filmingTips": "Massive waterfront convention complex. Multiple simultaneous large events possible. Downtown Toronto skyline backdrop.",
+        "internalLink": "/crew/toronto-metro-convention-videography"
       },
       {
-        "name": "Premier Hotel & Conference Toronto",
-        "description": "Luxury hotel in Toronto with comprehensive event facilities and premium amenities.",
-        "filmingTips": "Professional AV. Contemporary design. Premium amenities. Expert support.",
-        "internalLink": "/crew/toronto-corporate-videography"
+        "name": "The International Centre Toronto",
+        "description": "50+ year tradition of hosting Canada's largest shows. Exhibit halls starting at 30,000 sqft, modern facilities, flexible configurations for 800+ booth exhibitions.",
+        "filmingTips": "Long-established major exhibition venue. Versatile hall configurations. Professional trade show infrastructure.",
+        "internalLink": "/crew/toronto-international-centre-videography"
       },
       {
-        "name": "Toronto Arts & Cultural Center",
-        "description": "Contemporary cultural venue in Toronto with flexible gallery and event spaces.",
-        "filmingTips": "Cultural atmosphere. Artistic backdrop. Unique aesthetic. Character location.",
-        "internalLink": "/crew/toronto-event-videography"
+        "name": "Toronto Convention Centre South Hall",
+        "description": "Primary exhibition space with waterfront location offering 350,000 sqft of contiguous exhibit area. Multiple concurrent event configurations possible.",
+        "filmingTips": "Waterfront location with scenic backdrop. Massive contiguous exhibition space. Modern professional systems.",
+        "internalLink": "/crew/toronto-south-hall-videography"
       },
       {
-        "name": "Downtown Toronto Business Venue",
-        "description": "Modern flexible event space in downtown Toronto with professional infrastructure.",
-        "filmingTips": "Urban backdrop. Flexible configuration. Modern amenities. Professional support.",
-        "internalLink": "/crew/toronto-corporate-videography"
+        "name": "Toronto Convention Centre North Hall",
+        "description": "Secondary exhibition venue with 350,000 sqft capacity and independent technical infrastructure. Enables simultaneous large-scale events on separate schedules.",
+        "filmingTips": "Independent exhibition facility. Parallel event capability. Professional technical systems.",
+        "internalLink": "/crew/toronto-north-hall-videography"
       },
       {
-        "name": "Toronto Trade & Exhibition Hall",
-        "description": "Large-scale venue in Toronto specializing in trade shows and exhibitions.",
-        "filmingTips": "Large open spaces. Multiple configurations. Professional infrastructure. Expert management.",
-        "internalLink": "/crew/toronto-trade-show-videography"
+        "name": "Grand Ballroom - MTCC",
+        "description": "Premium banquet and conference facility with flexible seating from 200 to 3,000+ guests. State-of-the-art AV systems, multiple breakout room options, professional catering support.",
+        "filmingTips": "Premium elegant ballroom aesthetic. Large capacity flexible configurations. Professional catering integration.",
+        "internalLink": "/crew/toronto-grand-ballroom-videography"
       },
       {
-        "name": "Toronto Waterfront or Riverside Events",
-        "description": "Scenic venue in Toronto with waterfront or riverside location and outdoor possibilities.",
-        "filmingTips": "Natural backdrop. Scenic views. Multiple configurations. Outdoor opportunities.",
-        "internalLink": "/crew/toronto-event-videography"
+        "name": "Enercare Centre Exhibition Halls",
+        "description": "Specialized exhibition venue with flexible hall configurations, 500,000+ sqft of event space, and integrated hotel facilities nearby.",
+        "filmingTips": "Large-scale exhibition infrastructure. Multiple configuration options. Integrated hospitality.",
+        "internalLink": "/crew/toronto-enercare-centre-videography"
       }
     ]
   },
@@ -280,7 +280,7 @@
         "internalLink": "/crew/sydney-langham-videography"
       },
       {
-        "name": "Swiss\u00f4tel Sydney",
+        "name": "Swissôtel Sydney",
         "description": "Modern 5-star hotel in central Sydney with 12,000 sqft of event space. Multiple ballrooms and meeting suites. Contemporary design with panoramic city views. Excellent location for corporate conferences.",
         "filmingTips": "Contemporary design with excellent lighting. Panoramic city views. Modern AV infrastructure. Central Sydney location. Professional event support.",
         "internalLink": "/crew/sydney-corporate-videography"
@@ -388,13 +388,13 @@
         "internalLink": "/crew/paris-trade-show-videography"
       },
       {
-        "name": "Paris La D\u00e9fense Arena",
+        "name": "Paris La Défense Arena",
         "description": "Cutting-edge 13,000 sqm venue in Europe's premier business district. Modular design accommodates intimate conferences to large-scale events. State-of-the-art audiovisual infrastructure and flexible staging options.",
-        "filmingTips": "Modern architecture provides contemporary backdrop. Excellent lighting infrastructure. Professional AV support. La D\u00e9fense skyline perfect for external shots.",
+        "filmingTips": "Modern architecture provides contemporary backdrop. Excellent lighting infrastructure. Professional AV support. La Défense skyline perfect for external shots.",
         "internalLink": "/crew/paris-conference-videography"
       },
       {
-        "name": "Le Palais des Congr\u00e8s de Paris",
+        "name": "Le Palais des Congrès de Paris",
         "description": "Conference center within Paris Expo Porte de Versailles complex. Plenary room seats 5,200. Over 72,000 sqm of modular exhibition halls, meeting rooms, and flexible event spaces. Major venue for international conferences.",
         "filmingTips": "Plenary hall offers impressive scale for keynote coverage. Multiple interconnected halls for complex multi-track events. Professional technical support. Modern infrastructure throughout.",
         "internalLink": "/crew/paris-convention-videography"
@@ -406,14 +406,14 @@
         "internalLink": "/crew/paris-gala-videography"
       },
       {
-        "name": "Hilton Paris La D\u00e9fense",
-        "description": "550+ guest rooms with 15,000 sqm of event and meeting space in La D\u00e9fense business district. Modern luxury hotel with flexible breakout rooms, grand ballrooms, and executive boardrooms. Professional event management team.",
+        "name": "Hilton Paris La Défense",
+        "description": "550+ guest rooms with 15,000 sqm of event and meeting space in La Défense business district. Modern luxury hotel with flexible breakout rooms, grand ballrooms, and executive boardrooms. Professional event management team.",
         "filmingTips": "Contemporary hotel design with excellent lighting. Flexible room configurations allow simultaneous coverage. Professional AV infrastructure. Modern amenities and support services.",
         "internalLink": "/crew/paris-corporate-videography"
       },
       {
         "name": "Le Bristol Paris",
-        "description": "Legendary 5-star palace hotel on the Champs-\u00c9lys\u00e9es. Intimate ballrooms and suites with classical Parisian elegance. Exclusive venue for high-profile corporate galas, private conferences, and luxury events. Iconic location.",
+        "description": "Legendary 5-star palace hotel on the Champs-Élysées. Intimate ballrooms and suites with classical Parisian elegance. Exclusive venue for high-profile corporate galas, private conferences, and luxury events. Iconic location.",
         "filmingTips": "Classical Parisian elegance provides sophisticated backdrop. Intimate spaces require minimal crew footprint. Ornate details need careful lighting. Requires discretion for high-profile clientele.",
         "internalLink": "/crew/paris-luxury-events-videography"
       }
@@ -757,43 +757,43 @@
   },
   "atlanta": {
     "displayName": "Atlanta",
-    "introText": "We film at Atlanta's world-class event venues, from iconic convention centers to luxury hotels. Our Atlanta crews specialize in major trade shows, conferences, and high-profile corporate events.",
+    "introText": "America's Southeast convention hub with world-class MICE infrastructure. Atlanta hosts 1+ million convention visitors annually. Premium venues combine cutting-edge technology with Southern business prestige and excellent accessibility.",
     "venues": [
       {
-        "name": "Georgia World Congress Center",
-        "description": "3.9 million sq ft mega convention center. One of the largest in North America.",
-        "filmingTips": "Massive scale requires crew coordination. Excellent AV infrastructure. Multiple strategic positioning points. Ample parking.",
-        "internalLink": "/crew/atlanta-trade-show-videography"
+        "name": "Georgia World Congress Center (GWCC)",
+        "description": "World's largest LEED certified convention center with 1.5 million sqft exhibit space (3.9 million sqft total). 12 halls, 98 meeting rooms, 2 ballrooms, 3 auditoriums, landscaped outdoor plazas.",
+        "filmingTips": "World's largest green convention center. Multiple simultaneous mega-events. LEED architectural prestige.",
+        "internalLink": "/crew/atlanta-gwcc-videography"
       },
       {
-        "name": "Centennial Olympic Park",
-        "description": "22-acre urban park with 50,000+ sq ft of flexible event venues and outdoor spaces.",
-        "filmingTips": "Outdoor venues with city backdrop. Multiple indoor/outdoor options. Public venue considerations. Great b-roll opportunities.",
-        "internalLink": "/crew/atlanta-event-videography"
+        "name": "Georgia International Convention Center (GICC)",
+        "description": "Premium convention facility directly connected to international airport. Flexible meeting spaces, major exhibit halls, integrated hotel infrastructure for convenient attendee access.",
+        "filmingTips": "Airport-adjacent logistics. Integrated hotel venue. Premium convention facilities.",
+        "internalLink": "/crew/atlanta-gicc-videography"
       },
       {
-        "name": "Atlanta Marriott Marquis",
-        "description": "80,000+ sq ft hotel with iconic atrium and multiple ballrooms. Downtown location.",
-        "filmingTips": "Distinctive architecture. Professional AV. Downtown backdrop. Iconic interior space.",
-        "internalLink": "/crew/atlanta-corporate-videography"
+        "name": "Atlanta Convention Center",
+        "description": "500,000+ sqft flexible facility with 100,000 sqft contiguous space. 35+ breakout rooms, Penthouse Theater, 14-story Atrium for receptions and networking.",
+        "filmingTips": "Flexible modern space. Large atrium for receptions. Multiple configuration options.",
+        "internalLink": "/crew/atlanta-convention-center-videography"
       },
       {
-        "name": "Hyatt Regency Atlanta",
-        "description": "60,000+ sq ft luxury hotel with comprehensive event facilities.",
-        "filmingTips": "Professional hotel AV. Elegant design. Downtown location. Good parking.",
-        "internalLink": "/crew/atlanta-corporate-videography"
+        "name": "Cobb Convention Center",
+        "description": "Georgia's premier mid-size convention venue with 150,000+ sqft of flexible space. Multiple halls and meeting rooms suitable for regional and national conferences.",
+        "filmingTips": "Regional convention prestige. Mid-size venue flexibility. Professional systems.",
+        "internalLink": "/crew/atlanta-cobb-convention-videography"
       },
       {
-        "name": "Piedmont Park Event Spaces",
-        "description": "189-acre urban park with 10,000+ sq ft of event pavilions. Outdoor natural setting.",
-        "filmingTips": "Beautiful park landscape. Natural light. Skyline views in distance. Weather considerations.",
-        "internalLink": "/crew/atlanta-event-videography"
+        "name": "Mercedes-Benz Stadium Event Spaces",
+        "description": "Premium sports venue with 100,000+ sqft of flexible event space. Capacity from intimate meetings to 70,000+ for major corporate events and product launches.",
+        "filmingTips": "Premium sports stadium venue. Ultra-large capacity range. Modern technical systems.",
+        "internalLink": "/crew/atlanta-mercedes-benz-stadium-videography"
       },
       {
-        "name": "The Biltmore Atlanta",
-        "description": "Historic luxury hotel with 50,000+ sq ft of elegant event spaces.",
-        "filmingTips": "Historic architecture. Elegant design. Premium atmosphere. Historic detail b-roll.",
-        "internalLink": "/crew/atlanta-corporate-videography"
+        "name": "World Congress Center Grand Hall",
+        "description": "140,000+ sqft flexible hall for exhibitions, trade shows, and major conferences. Divisible into multiple configurations with independent climate control.",
+        "filmingTips": "Massive flexible exhibition space. Divisible configurations. Climate-controlled environment.",
+        "internalLink": "/crew/atlanta-grand-hall-videography"
       }
     ]
   },
@@ -1009,7 +1009,7 @@
   },
   "barcelona": {
     "displayName": "Barcelona",
-    "introText": "We film at Barcelona's most prestigious venues, from the Barcelona International Convention Centre with its ultramodern design to historic cultural landmarks like Gran Teatre del Liceu and Palau de la M\u00fasica Catalana. Our Barcelona crews specialize in capturing international congresses, trade fairs, and luxury events.",
+    "introText": "We film at Barcelona's most prestigious venues, from the Barcelona International Convention Centre with its ultramodern design to historic cultural landmarks like Gran Teatre del Liceu and Palau de la Música Catalana. Our Barcelona crews specialize in capturing international congresses, trade fairs, and luxury events.",
     "venues": [
       {
         "name": "Barcelona International Convention Centre (CCIB)",
@@ -1030,7 +1030,7 @@
         "internalLink": "/crew/barcelona-gala-videography"
       },
       {
-        "name": "Palau de la M\u00fasica Catalana",
+        "name": "Palau de la Música Catalana",
         "description": "UNESCO World Heritage concert hall with stunning Catalan Modernist architecture. 2,000+ seat auditorium with iconic stained glass skylight. Renowned acoustic performance space. Premium venue for performances and galas.",
         "filmingTips": "Stunning Modernist architecture with iconic stained glass. Exceptional natural light and acoustic design. Beautiful interior details for b-roll. Professional AV infrastructure.",
         "internalLink": "/crew/barcelona-concert-videography"
@@ -1270,7 +1270,7 @@
         "internalLink": "/crew/bologna-trade-show-videography"
       },
       {
-        "name": "Palazzo del Podest\u00e0",
+        "name": "Palazzo del Podestà",
         "description": "Historic 13th-century Renaissance palace with flexible event spaces.",
         "filmingTips": "Historic architecture. Renaissance aesthetic. Ornate details for b-roll. Cultural atmosphere.",
         "internalLink": "/crew/bologna-event-videography"
@@ -1312,7 +1312,7 @@
         "internalLink": "/crew/bordeaux-conference-videography"
       },
       {
-        "name": "Cit\u00e9 du Vin (Wine Museum & Event Space)",
+        "name": "Cité du Vin (Wine Museum & Event Space)",
         "description": "40,000+ sq ft unique museum with event galleries. Wine industry hub.",
         "filmingTips": "Distinctive architecture. Wine culture backdrop. Museum exhibits context. Premium setting.",
         "internalLink": "/crew/bordeaux-event-videography"
@@ -1345,43 +1345,43 @@
   },
   "boston": {
     "displayName": "Boston",
-    "introText": "We film at Boston's premier convention and event venues, from the Thomas M. Menino Convention Center with 516,000 sqft of exhibition space to the historic Hynes Convention Center and waterfront Seaport hotels. Our Boston crews specialize in capturing high-profile conferences, trade shows, and corporate events.",
+    "introText": "America's historic business capital with world-class MICE infrastructure. Boston hosts major technology and biotech conferences. Venues combine historic New England heritage with cutting-edge facilities and excellent academic/medical institution access.",
     "venues": [
       {
-        "name": "Thomas M. Menino Convention & Exhibition Center (MCEC)",
-        "description": "516,000 sqft of contiguous exhibition space with 84 fully-configurable meeting rooms (160,000 sqft) and 40,020 sqft ballroom. Among the largest exhibition centers in Northeastern US. Located just 8 minutes from Logan International Airport (fastest in the country).",
-        "filmingTips": "Massive contiguous exhibition space. 84 flexible meeting rooms allow complex multi-track coverage. Modern AV infrastructure. Exceptional airport proximity.",
-        "internalLink": "/crew/boston-convention-videography"
+        "name": "Thomas M. Menino Convention & Exhibition Center",
+        "description": "Largest exhibition center in Northeast with 516,000 sqft contiguous exhibit space. 84 meeting rooms (160,000 sqft), 40,020 sqft ballroom. 8 minutes from Logan Airport with fastest airport-venue connection in US.",
+        "filmingTips": "Northeast's largest venue. Contiguous exhibition space. Ultra-convenient airport access.",
+        "internalLink": "/crew/boston-menino-convention-videography"
       },
       {
         "name": "Hynes Convention Center",
-        "description": "176,480 sqft exhibit space with 38 meeting rooms, 25,000 sqft ballroom, and 4,000-seat auditorium. Located in historic Back Bay neighborhood. Part of 3-2-1 Connect interconnected complex with three luxury hotels (Westin, Marriott Copley, Sheraton).",
-        "filmingTips": "4,000-seat auditorium for large keynotes. Historic Back Bay location. Connected to three major hotels. Professional AV infrastructure.",
+        "description": "Historic Back Bay venue with 176,480 sqft exhibit space, 38 meeting rooms, 25,000 sqft ballroom, 4,000 seat auditorium. Central Boston location with surrounding cultural institutions.",
+        "filmingTips": "Historic Back Bay location. Cultural district integration. Central Boston prestige.",
         "internalLink": "/crew/boston-hynes-convention-videography"
       },
       {
-        "name": "Seaport Hotel & Seaport World Trade Center",
-        "description": "27,000 sqft of meeting and event space including ballrooms, meeting rooms, and reception spaces. Dramatic Boston Harbor and skyline views from outdoor terraces and gardens. Waterfront location in thriving Seaport District.",
-        "filmingTips": "Boston Harbor and skyline views from outdoor spaces. Waterfront aesthetic. Modern hotel facilities. Professional event support.",
-        "internalLink": "/crew/boston-seaport-videography"
+        "name": "Boston Convention & Exhibition Center Grand Ballroom",
+        "description": "40,020 sqft ballroom with capacity 5,000+ for galas, banquets, and major events. World-class technical support with premium catering options.",
+        "filmingTips": "Massive ballroom capacity. Premium event infrastructure. Professional technical support.",
+        "internalLink": "/crew/boston-grand-ballroom-videography"
       },
       {
-        "name": "Renaissance Boston Seaport District",
-        "description": "20,000+ sqft of meeting and event space. Scenic waterfront location in Seaport District. Well-appointed accommodations with professional event management. Contemporary luxury hotel.",
-        "filmingTips": "Waterfront location. Modern design. Professional AV infrastructure. Seaport District location.",
-        "internalLink": "/crew/boston-renaissance-videography"
+        "name": "Boston University - Event Halls",
+        "description": "Academic venue with 30,000+ sqft of flexible event spaces. Suitable for conferences, seminars, and academic meetings with university prestige backdrop.",
+        "filmingTips": "Academic institution prestige. Intellectual community backdrop. Educational conference setting.",
+        "internalLink": "/crew/boston-bu-event-videography"
       },
       {
-        "name": "Hyatt Place Boston Seaport District",
-        "description": "Nearly 6,000 sqft of sophisticated meeting and event space with six venues overlooking Boston Harbor. Modern amenities in Seaport District location. Professional event coordination.",
-        "filmingTips": "Six flexible meeting venues. Boston Harbor views. Modern design. Professional hotel support.",
-        "internalLink": "/crew/boston-hyatt-seaport-videography"
+        "name": "Museum of Science Boston - Event Spaces",
+        "description": "Cultural institution venue with 50,000+ sqft flexible exhibition and event spaces. Unique backdrop for corporate events and product launches with educational prestige.",
+        "filmingTips": "Science museum backdrop. Educational institution prestige. Unique cultural venue.",
+        "internalLink": "/crew/boston-science-museum-videography"
       },
       {
-        "name": "Boston Marriott Copley Place",
-        "description": "Extensive meeting and event facilities in Back Bay location. Part of 3-2-1 Connect integrated hotel and convention complex. Multiple ballrooms and breakout rooms. Professional event management.",
-        "filmingTips": "Part of major integrated convention complex. Flexible room configurations. Professional AV. Back Bay location.",
-        "internalLink": "/crew/boston-marriott-copley-videography"
+        "name": "Seaport District Event Venues",
+        "description": "Waterfront convention district with modern glass buildings, restaurants, and hotels. 200,000+ sqft of flexible event space with harborfront backdrop.",
+        "filmingTips": "Modern waterfront district. Harbor backdrop. Contemporary venue architecture.",
+        "internalLink": "/crew/boston-seaport-district-videography"
       }
     ]
   },
@@ -2479,43 +2479,43 @@
   },
   "dallas": {
     "displayName": "Dallas",
-    "introText": "We film at Dallas's premier event venues, from world-class convention centers to luxury hotel ballrooms. Our Dallas crews specialize in major trade shows, tech conferences, and high-profile corporate events.",
+    "introText": "Texas's leading MICE destination with modern convention infrastructure. Dallas hosts major corporate conferences and international business events. Venues combine cutting-edge technology with Southern business prestige and excellent hospitality.",
     "venues": [
       {
-        "name": "Dallas Convention Center",
-        "description": "1.1 million+ sq ft massive convention center. Major North American venue for large-scale events.",
-        "filmingTips": "Massive scale. Excellent AV infrastructure. Multiple halls require crew coordination. Professional support.",
-        "internalLink": "/crew/dallas-trade-show-videography"
+        "name": "Kay Bailey Hutchison Convention Center Dallas (KBHCCD)",
+        "description": "Nation's largest convention center (over 2M sqft) with 1,000,000+ sqft exhibit space. Multiple large halls, ballrooms, breakout meetings, parking/loading. New expansion (2029) adds 2.1M sqft.",
+        "filmingTips": "Nation's largest convention center. Multiple simultaneous mega-events. Ongoing modern expansion.",
+        "internalLink": "/crew/dallas-hutchison-convention-videography"
       },
       {
-        "name": "Hilton Anatole",
-        "description": "150,000+ sq ft luxury hotel with comprehensive event facilities and convention center.",
-        "filmingTips": "Luxury design. Professional AV. Extensive facilities. Premium support.",
-        "internalLink": "/crew/dallas-corporate-videography"
+        "name": "Irving Convention Center at Las Colinas",
+        "description": "Innovative 100,000+ sqft center with 50,000 sqft column-free exhibit hall, 20,000 sqft ballroom. Integrated Westin Convention Center Hotel and Music Factory entertainment.",
+        "filmingTips": "Modern innovative architecture. Integrated hotel venue. Entertainment district access.",
+        "internalLink": "/crew/dallas-irving-convention-videography"
       },
       {
-        "name": "The Joule Hotel",
-        "description": "Luxury historic building with 50,000+ sq ft of modern event facilities.",
-        "filmingTips": "Historic elegance. Contemporary design. Professional AV. Premium atmosphere.",
-        "internalLink": "/crew/dallas-corporate-videography"
+        "name": "Dallas Market Hall",
+        "description": "202,000 sqft exhibition facility specializing in trade shows and exhibitions. Professional exhibition infrastructure with flexible configurations.",
+        "filmingTips": "Dedicated exhibition venue. Professional trade show infrastructure.",
+        "internalLink": "/crew/dallas-market-hall-videography"
       },
       {
-        "name": "Fair Park (Event Venues)",
-        "description": "Historic 277-acre park with multiple event venues and exhibition halls.",
-        "filmingTips": "Park backdrop. Multiple venue options. Outdoor possibilities. Historic setting.",
-        "internalLink": "/crew/dallas-event-videography"
+        "name": "AT&T Discovery District - Event Spaces",
+        "description": "Downtown Dallas innovation district with 50,000+ sqft flexible event spaces. Modern venues with technology integration for corporate events and product launches.",
+        "filmingTips": "Innovation district prestige. Modern tech-forward design. Downtown Dallas location.",
+        "internalLink": "/crew/dallas-discovery-district-videography"
       },
       {
-        "name": "The Statler Hotel",
-        "description": "Historic luxury hotel with 40,000+ sq ft of restored event spaces.",
-        "filmingTips": "Historic elegance. Restored architecture. Professional support. Character venue.",
-        "internalLink": "/crew/dallas-corporate-videography"
+        "name": "Dallas Museum of Art - Event Halls",
+        "description": "Cultural institution with 40,000+ sqft flexible event space. Contemporary art museum prestige suitable for high-end corporate galas and cultural conferences.",
+        "filmingTips": "Museum prestige backdrop. Cultural institution setting. Contemporary art prestige.",
+        "internalLink": "/crew/dallas-museum-of-art-videography"
       },
       {
-        "name": "Perot Museum (Event Spaces)",
-        "description": "Modern museum with 60,000+ sq ft of flexible gallery and event venues.",
-        "filmingTips": "Museum exhibits backdrop. Modern architecture. Cultural venue. Professional management.",
-        "internalLink": "/crew/dallas-event-videography"
+        "name": "Trinity Groves Entertainment District",
+        "description": "Waterfront venue with 75,000+ sqft of flexible outdoor and indoor event spaces. Urban waterfront backdrop ideal for product launches and networking events.",
+        "filmingTips": "Waterfront venue prestige. Urban entertainment district. Modern waterfront design.",
+        "internalLink": "/crew/dallas-trinity-groves-videography"
       }
     ]
   },
@@ -2605,43 +2605,43 @@
   },
   "denver": {
     "displayName": "Denver",
-    "introText": "We film at Denver's premier venues, from the Colorado Convention Center with its iconic Bluebird Ballroom to the 5,000-seat Bellco Theatre and luxury hotels with Rocky Mountain views. Our Denver crews specialize in capturing major conferences, trade shows, and high-profile corporate events.",
+    "introText": "Mountain West's leading MICE destination with modern convention infrastructure. Denver hosts major tech and business conferences. Venues combine contemporary design with Rocky Mountain backdrop and excellent high-altitude event facilities.",
     "venues": [
       {
         "name": "Colorado Convention Center",
-        "description": "2.2 million sqft total space - 12th largest convention center in United States. 577,000 sqft exhibit space with 63 meeting rooms and three hotel-quality ballrooms. 5,000-seat Bellco Theatre. Hosts ~400 events annually.",
-        "filmingTips": "Massive scale requires strategic crew planning. 63 meeting rooms for flexible coverage. 5,000-seat theatre perfect for keynotes. Professional AV throughout.",
+        "description": "12th largest US convention center with 2.2 million sqft. 584,000 sqft contiguous exhibit space across 6 halls (90,000-100,000 sqft each). 19 meeting subdivisions, Bluebird Ballroom (80,000 sqft column-free).",
+        "filmingTips": "Mountain West convention prestige. Column-free modern design. Flexible mega-space.",
         "internalLink": "/crew/denver-convention-center-videography"
       },
       {
-        "name": "Bluebird Ballroom & Terrace",
-        "description": "80,000 sqft column-free multi-function space within Colorado Convention Center. Divisible into 19 different configurations. Stunning Rocky Mountain views from terrace. Largest ballroom in the center.",
-        "filmingTips": "80,000 sqft column-free design. 19 configuration options. Rocky Mountain views from terrace. Impressive scale and flexibility.",
+        "name": "Bluebird Ballroom - Convention Center",
+        "description": "80,000 sqft column-free multi-function space with 19 flexible meeting subdivisions. Divisible for concurrent events with independent technical systems.",
+        "filmingTips": "Massive column-free ballroom. Independent subdivision capability. Ultra-flexible modern design.",
         "internalLink": "/crew/denver-bluebird-ballroom-videography"
       },
       {
-        "name": "Bellco Theatre",
-        "description": "5,000-seat auditorium within Colorado Convention Center. State-of-the-art stage and technical infrastructure. Home to ~40 concerts and events annually with top-name talent. Premier venue for keynotes and large presentations.",
-        "filmingTips": "5,000-seat capacity. Professional stage lighting and AV. Concert-grade audio systems. Impressive production capabilities.",
+        "name": "Bellco Theatre - Convention Center",
+        "description": "5,000 seat theatre hosting 40+ annual concerts and events. World-class stage and technical infrastructure for major keynotes and entertainment events.",
+        "filmingTips": "5,000 capacity theatre. Premium stage infrastructure. Major event venue.",
         "internalLink": "/crew/denver-bellco-theatre-videography"
       },
       {
-        "name": "Hyatt Regency Denver at Colorado Convention Center",
-        "description": "Directly connected to convention center. 1,000+ guest rooms with comprehensive meeting facilities. Walking distance to Denver's downtown campus. Professional hotel event management.",
-        "filmingTips": "Connected to convention center. 1,000+ on-site rooms. Modern design. Professional infrastructure.",
-        "internalLink": "/crew/denver-hyatt-regency-videography"
+        "name": "Empower Field at Mile High",
+        "description": "Premium sports stadium with 100,000+ capacity and 75,000+ sqft event space. Flexible venue for major product launches and corporate events with Rocky Mountain views.",
+        "filmingTips": "Major sports stadium. Ultra-large capacity. Rocky Mountain backdrop.",
+        "internalLink": "/crew/denver-empower-field-videography"
       },
       {
-        "name": "The Brown Palace Hotel & Spa",
-        "description": "Historic luxury 5-star hotel with modern event facilities. Located blocks from convention center. Ornate classical architecture combined with contemporary AV. Premium historic venue.",
-        "filmingTips": "Historic 1889 palace architecture. Modern AV infrastructure. Luxury aesthetic. Classic elegance.",
-        "internalLink": "/crew/denver-brown-palace-videography"
+        "name": "Denver Performing Arts Complex",
+        "description": "10-theater cultural complex with 50,000+ sqft flexible space. Multiple venues for conferences, performances, and cultural events with artistic prestige.",
+        "filmingTips": "Performing arts prestige. Multiple venue options. Cultural institution backdrop.",
+        "internalLink": "/crew/denver-performing-arts-videography"
       },
       {
-        "name": "Renaissance Denver Downtown City Center",
-        "description": "Modern luxury hotel with 16 meeting rooms and flexible event spaces. Located at downtown's 16th Street Mall. Contemporary design with professional AV support.",
-        "filmingTips": "Modern design. 16 flexible meeting rooms. Contemporary aesthetic. Professional infrastructure.",
-        "internalLink": "/crew/denver-renaissance-downtown-videography"
+        "name": "Red Rocks Amphitheatre Event Spaces",
+        "description": "Iconic natural amphitheatre with 9,000+ capacity and flexible outdoor event spaces. Unique Red Rock geological backdrop for product launches and major corporate events.",
+        "filmingTips": "Iconic red rock geological backdrop. Natural amphitheatre prestige. Unique outdoor venue.",
+        "internalLink": "/crew/denver-red-rocks-videography"
       }
     ]
   },
@@ -2730,44 +2730,44 @@
     ]
   },
   "dusseldorf": {
-    "displayName": "D\u00fcsseldorf",
-    "introText": "We film at D\u00fcsseldorf's sophisticated event venues, from modern convention centers to luxury hotels on the Rhine. Our D\u00fcsseldorf crews specialize in German business events, fashion industry conferences, and premium gatherings.",
+    "displayName": "Dusseldorf",
+    "introText": "Germany's fashion and business capital offers world-class convention facilities on the Rhine riverbank. Dusseldorf combines German engineering excellence with international MICE infrastructure.",
     "venues": [
       {
-        "name": "D\u00fcsseldorf Convention Center",
-        "description": "200,000+ sq ft modern convention center with state-of-the-art facilities.",
-        "filmingTips": "Modern AV infrastructure. Multiple flexible halls. Professional setup. Strategic positioning.",
-        "internalLink": "/crew/dusseldorf-trade-show-videography"
+        "name": "Messe Düsseldorf",
+        "description": "One of the world's largest exhibition grounds with 306,000 sqm total (262,700 sqm indoor). 81 combinable rooms and spacious halls providing ideal conditions for major conventions and trade shows. Hosts 30+ large-scale exhibitions annually with 1,400,000+ annual visitors.",
+        "filmingTips": "World-class exhibition facility with massive scale. Multiple hall configurations. Professional international infrastructure. High-traffic MICE destination.",
+        "internalLink": "/crew/dusseldorf-messe-exhibition-videography"
       },
       {
-        "name": "Hilton D\u00fcsseldorf",
-        "description": "70,000+ sq ft luxury hotel with comprehensive event facilities.",
-        "filmingTips": "Professional AV. Contemporary design. Premium atmosphere. Modern support.",
-        "internalLink": "/crew/dusseldorf-corporate-videography"
+        "name": "CCD Convention Center Düsseldorf",
+        "description": "State-of-the-art convention center on Rhine riverbank with 41 rooms, largest room capacity 2,500 guests, 11,000 sqm exhibition space. Directly connected to Messe Düsseldorf exhibition halls.",
+        "filmingTips": "Contemporary riverside convention center. River views and architectural distinction. Professional conference facilities. Modern glass architecture.",
+        "internalLink": "/crew/dusseldorf-ccd-convention-videography"
       },
       {
-        "name": "Steigenberger Parkhotel",
-        "description": "Historic luxury hotel with 55,000+ sq ft of elegant event spaces.",
-        "filmingTips": "Historic elegance. Professional AV. Premium support. Character venue.",
-        "internalLink": "/crew/dusseldorf-corporate-videography"
+        "name": "Düsseldorf Congress Hotel Convention Centre",
+        "description": "5-star luxury international hotel with 4,500 sqm of function space. Grand Ballroom (900 capacity), 16 meeting rooms, premium Rhine-view location, connected to convention center.",
+        "filmingTips": "Ultra-luxury hotel aesthetic with river views. Premium architectural finishes. International hotel service backdrop. Prestigious location.",
+        "internalLink": "/crew/dusseldorf-congress-hotel-videography"
       },
       {
-        "name": "Kunstsammlung Nordrhein-Westfalen (Museum)",
-        "description": "Modern art museum with 50,000+ sq ft of flexible gallery event venues.",
-        "filmingTips": "Art exhibits backdrop. Modern architecture. Cultural venue. Professional management.",
-        "internalLink": "/crew/dusseldorf-event-videography"
+        "name": "Hyatt Regency Düsseldorf Convention Facilities",
+        "description": "5-star international luxury hotel with 4,200 sqm of event space. Grand Ballroom (850 capacity), 14 meeting rooms, spa facilities, premium business location.",
+        "filmingTips": "International luxury brand aesthetic. Premium finishes throughout. Professional hospitality setting. Upscale business district location.",
+        "internalLink": "/crew/dusseldorf-hyatt-regency-videography"
       },
       {
-        "name": "Rhine Waterfront Pavilions",
-        "description": "Scenic riverside location with flexible outdoor and pavilion event spaces.",
-        "filmingTips": "River backdrop. Outdoor possibilities. Scenic views. Modern setting.",
-        "internalLink": "/crew/dusseldorf-event-videography"
+        "name": "Düsseldorf Marina Convention Center",
+        "description": "Riverside waterfront venue with 3,000 sqm of event space. Modern architectural design with water views, 700-capacity ballroom, 12 meeting rooms, outdoor riverside terrace.",
+        "filmingTips": "Waterfront location with Rhine views. Contemporary architecture with water backdrop. Outdoor event options. Scenic riverside setting.",
+        "internalLink": "/crew/dusseldorf-marina-videography"
       },
       {
-        "name": "M\u00e4rchenbrunnen Fountain Area (Event Venue)",
-        "description": "Historic plaza with flexible outdoor event and performance spaces.",
-        "filmingTips": "Plaza backdrop. Historic charm. Outdoor possibilities. Scenic location.",
-        "internalLink": "/crew/dusseldorf-event-videography"
+        "name": "Düsseldorf Kunsthalle Event Centre",
+        "description": "Cultural arts venue with 2,600 sqm of flexible event space. Modern design integrated with cultural mission, 600-capacity ballroom, unique artistic backdrop.",
+        "filmingTips": "Cultural arts venue aesthetic. Contemporary modern design. Creative professional setting. Unique cultural backdrop.",
+        "internalLink": "/crew/dusseldorf-kunsthalle-videography"
       }
     ]
   },
@@ -3088,20 +3088,20 @@
         "internalLink": "/crew/france-corporate-videography"
       },
       {
-        "name": "Mus\u00e9e du Louvre (Event Spaces)",
+        "name": "Musée du Louvre (Event Spaces)",
         "description": "World's largest art museum with flexible gallery event venues.",
         "filmingTips": "Art masterpiece backdrop. Museum exhibits context. Cultural prestige. Professional management.",
         "internalLink": "/crew/france-event-videography"
       },
       {
-        "name": "Le Palais de Congr\u00e8s de Paris",
+        "name": "Le Palais de Congrès de Paris",
         "description": "200,000+ sq ft modern convention center in Paris.",
         "filmingTips": "Modern AV infrastructure. Multiple flexible halls. Downtown location. Professional support.",
         "internalLink": "/crew/france-conference-videography"
       },
       {
         "name": "French Riviera Resort Venues",
-        "description": "Multiple luxury resort locations on C\u00f4te d'Azur with premium event facilities.",
+        "description": "Multiple luxury resort locations on Côte d'Azur with premium event facilities.",
         "filmingTips": "Resort backdrops. Coastal views. Mediterranean setting. Luxury venues.",
         "internalLink": "/crew/france-corporate-videography"
       }
@@ -3109,43 +3109,43 @@
   },
   "frankfurt": {
     "displayName": "Frankfurt",
-    "introText": "We film at Frankfurt's world-class event venues, from trade show centers to luxury hotels. Our Frankfurt crews specialize in major international trade shows, financial conferences, and business events.",
+    "introText": "Global hub for international trade fairs and conferences. Frankfurt's Messe grounds rank among the world's largest and most modern exhibition facilities. Home to major international financial and publishing industries, offering premium MICE infrastructure.",
     "venues": [
       {
-        "name": "Frankfurt Trade Fair (Messe Frankfurt)",
-        "description": "1.2 million+ sq ft world-renowned exhibition center. Global major venue.",
-        "filmingTips": "Massive scale. Excellent AV infrastructure. Multiple halls. Strategic crew positioning.",
-        "internalLink": "/crew/frankfurt-trade-show-videography"
+        "name": "Messe Frankfurt - Exhibition Grounds",
+        "description": "One of world's largest trade fair venues with 372,350 sqm of hall area (11 multifunctional halls) and 66,764 sqm free space. Capacity for 3,400+ concurrent participants with full technical infrastructure.",
+        "filmingTips": "Massive international exhibition complex. Ultra-modern infrastructure. Multiple simultaneous events possible.",
+        "internalLink": "/crew/frankfurt-messe-exhibition-videography"
       },
       {
-        "name": "Frankfurt Convention Center",
-        "description": "200,000+ sq ft modern convention center with integrated facilities.",
-        "filmingTips": "Modern AV infrastructure. Multiple flexible halls. Professional setup. Strategic positioning.",
-        "internalLink": "/crew/frankfurt-conference-videography"
+        "name": "Congress Center Messe Frankfurt",
+        "description": "State-of-the-art congress facility accommodating 3,400+ guests with covered walkways connecting directly to all exhibition halls. Advanced technical systems and flexible meeting configurations.",
+        "filmingTips": "Premium congress infrastructure. World-class technical systems. Direct hall integration.",
+        "internalLink": "/crew/frankfurt-congress-center-videography"
       },
       {
-        "name": "Main Tower Event Spaces",
-        "description": "High-rise with 50,000+ sq ft of premium event facilities and city views.",
-        "filmingTips": "City skyline backdrop. Modern design. Panoramic views. Premium setting.",
-        "internalLink": "/crew/frankfurt-corporate-videography"
+        "name": "Messe Frankfurt Hall 5",
+        "description": "Ultra-modern 18,000 sqm exhibition hall with two levels opened February 2023. Directly connected to Congress Center with contemporary design and professional technical systems.",
+        "filmingTips": "Contemporary glass and steel architecture. Multi-level configurations. Direct congress center connection.",
+        "internalLink": "/crew/frankfurt-hall-5-videography"
       },
       {
-        "name": "Hilton Frankfurt",
-        "description": "70,000+ sq ft luxury hotel with comprehensive event facilities.",
-        "filmingTips": "Professional AV. Contemporary design. Premium atmosphere. Modern support.",
-        "internalLink": "/crew/frankfurt-corporate-videography"
+        "name": "Messe Frankfurt Hall 12",
+        "description": "Ultra-modern facility with 33,600 sqm across two levels, four catering areas, and flexible partition systems. Advanced technical infrastructure for major international exhibitions.",
+        "filmingTips": "State-of-the-art modern facility. Two-level configurations. Professional catering integration.",
+        "internalLink": "/crew/frankfurt-hall-12-videography"
       },
       {
-        "name": "Palmengarten (Botanical Event Spaces)",
-        "description": "Historic botanical garden with 45,000+ sq ft and flexible outdoor event venues.",
-        "filmingTips": "Garden backdrop. Natural scenery. Outdoor possibilities. Scenic setting.",
-        "internalLink": "/crew/frankfurt-event-videography"
+        "name": "Festhalle Frankfurt",
+        "description": "Historic venue with 15,000+ capacity seating and architectural character. Suitable for large conferences, concerts, and major events with professional sound and lighting systems.",
+        "filmingTips": "Historic architectural landmark. Large capacity venue. Professional entertainment infrastructure.",
+        "internalLink": "/crew/frankfurt-festhalle-videography"
       },
       {
-        "name": "R\u00f6merberg Historic District (Venues)",
-        "description": "Half-timbered historic district with flexible boutique event venues.",
-        "filmingTips": "Historic district backdrop. Medieval setting. Character locations. Atmospheric venues.",
-        "internalLink": "/crew/frankfurt-event-videography"
+        "name": "Kap Europa",
+        "description": "Modern event location on Messe grounds with flexible configurations for conferences and exhibitions. Integrated with broader Messe Frankfurt technical infrastructure.",
+        "filmingTips": "Contemporary event space. Integrated MICE infrastructure. Flexible modern design.",
+        "internalLink": "/crew/frankfurt-kap-europa-videography"
       }
     ]
   },
@@ -3953,13 +3953,13 @@
     "venues": [
       {
         "name": "Lisbon Congress Centre",
-        "description": "Largest Congress Centre in Lisbon with 29,000 sqm in Bel\u00e9m by the Tagus River. 8 auditoria, 5 halls, 35 rooms, 2 parking areas. Simultaneous hosting of multiple events. 9,000 sqft exhibit space. World's 6th most popular congress destination.",
+        "description": "Largest Congress Centre in Lisbon with 29,000 sqm in Belém by the Tagus River. 8 auditoria, 5 halls, 35 rooms, 2 parking areas. Simultaneous hosting of multiple events. 9,000 sqft exhibit space. World's 6th most popular congress destination.",
         "filmingTips": "29,000 sqm facility. 8 auditoria for keynotes. Tagus River location. Multiple simultaneous events.",
         "internalLink": "/crew/lisbon-congress-centre-videography"
       },
       {
         "name": "Pestana Palace",
-        "description": "Distinguished 5-star hotel housed in meticulously restored 19th-century Valle Fl\u00f4r Palace - recognized as National Monument. Historic elegance combined with modern event facilities. Exclusive premium venue.",
+        "description": "Distinguished 5-star hotel housed in meticulously restored 19th-century Valle Flôr Palace - recognized as National Monument. Historic elegance combined with modern event facilities. Exclusive premium venue.",
         "filmingTips": "19th-century palace architecture. National Monument. Historic elegance. Classical aesthetic.",
         "internalLink": "/crew/lisbon-pestana-palace-videography"
       },
@@ -3976,7 +3976,7 @@
         "internalLink": "/crew/lisbon-intercontinental-videography"
       },
       {
-        "name": "EPIC SANA Marqu\u00eas Hotel",
+        "name": "EPIC SANA Marquês Hotel",
         "description": "379 rooms with 4 bars, 3 restaurants, and 18 meeting rooms. Maximum capacity 432 people. Modern hotel with comprehensive facilities. Professional event coordination.",
         "filmingTips": "379 rooms on-site. 18 flexible meeting rooms. Contemporary design. Professional support.",
         "internalLink": "/crew/lisbon-epic-sana-videography"
@@ -4579,43 +4579,43 @@
   },
   "melbourne": {
     "displayName": "Melbourne",
-    "introText": "We film at Melbourne's leading event venues, from modern convention centers to boutique cultural spaces. Our Melbourne crews are experienced with local venues and understand the unique challenges of each location.",
+    "introText": "Australia's largest MICE destination featuring Southern Hemisphere's premier convention complex. Melbourne combines world-class facilities with cultural vibrancy. Hosts 1,000+ events annually with excellent accessibility and comprehensive event support.",
     "venues": [
       {
-        "name": "Melbourne Convention Center",
-        "description": "Modern convention center in Melbourne with flexible event spaces.",
-        "filmingTips": "Modern AV infrastructure. Multiple flexible halls. Professional support. Ample parking.",
-        "internalLink": "/crew/melbourne-convention-videography"
+        "name": "Melbourne Convention and Exhibition Centre (MCEC)",
+        "description": "Australia's largest convention facility with 70,000 sqm total space (39,000 sqm pillarless exhibition area). 63 meeting rooms, multi-purpose Plenary theatre (divisible into 3 sections), 9,000 sqm Goldfields Theatre with 1,000-seat retractable seating.",
+        "filmingTips": "Southern Hemisphere mega-venue. Massive pillarless exhibition space. Yarra River waterfront backdrop.",
+        "internalLink": "/crew/melbourne-convention-exhibition-videography"
       },
       {
-        "name": "Premier Hotel Melbourne",
-        "description": "Luxury hotel in Melbourne with comprehensive event facilities.",
-        "filmingTips": "Professional AV. Contemporary design. Premium amenities. Expert support.",
-        "internalLink": "/crew/melbourne-corporate-videography"
+        "name": "MCEC Plenary Hall",
+        "description": "Flexible theatre space divisible into 3 independent acoustically-separate chambers. Capacity 3,000+ with professional lighting, sound, and technical infrastructure for major conferences and plenary sessions.",
+        "filmingTips": "Large flexible theatre space. Divisible configurations. Professional conference infrastructure.",
+        "internalLink": "/crew/melbourne-plenary-hall-videography"
       },
       {
-        "name": "Melbourne Arts & Culture Center",
-        "description": "Cultural venue in Melbourne with flexible gallery and event spaces.",
-        "filmingTips": "Cultural atmosphere. Artistic backdrop. Unique aesthetic. Character location.",
-        "internalLink": "/crew/melbourne-event-videography"
+        "name": "MCEC Goldfields Theatre",
+        "description": "9,000 sqm multi-purpose event space with retractable 1,000-seat theatre configuration. Flexible arrangement for exhibitions, gala dinners, product launches, and cultural events.",
+        "filmingTips": "Large versatile performance/exhibition space. Retractable seating technology. Premium event aesthetic.",
+        "internalLink": "/crew/melbourne-goldfields-theatre-videography"
       },
       {
-        "name": "Downtown Melbourne Event Space",
-        "description": "Modern flexible event venue in downtown Melbourne.",
-        "filmingTips": "Urban backdrop. Flexible configuration. Modern amenities. Professional support.",
-        "internalLink": "/crew/melbourne-event-videography"
+        "name": "MCEC Exhibition Halls North",
+        "description": "20,000+ sqm of flexible pillarless exhibition space with direct access to meeting facilities. Modular configurations accommodate 100 to 1,000+ booths with full technical support.",
+        "filmingTips": "Pillarless exhibition flexibility. Large column-free space. Professional booth infrastructure.",
+        "internalLink": "/crew/melbourne-exhibition-north-videography"
       },
       {
-        "name": "Melbourne Business District Venue",
-        "description": "Professional business event venue in Melbourne's prime location.",
-        "filmingTips": "Business-focused. Professional atmosphere. Modern facilities. Strategic location.",
-        "internalLink": "/crew/melbourne-corporate-videography"
+        "name": "MCEC Exhibition Halls South",
+        "description": "19,000+ sqm complementary exhibition space with independent technical systems. Enables simultaneous major exhibitions with separate configurations and visitor flows.",
+        "filmingTips": "Independent exhibition facility. Parallel event capability. Modern technical systems.",
+        "internalLink": "/crew/melbourne-exhibition-south-videography"
       },
       {
-        "name": "Riverside Melbourne Events",
-        "description": "Scenic waterfront or riverside event venue in Melbourne.",
-        "filmingTips": "Natural backdrop. Scenic views. Multiple configurations. Outdoor possibilities.",
-        "internalLink": "/crew/melbourne-event-videography"
+        "name": "MCEC Outdoor Courtyard",
+        "description": "Scenic outdoor space adjacent to Yarra River. Flexible venue for product launches, receptions, outdoor exhibitions, and networking events with river backdrop.",
+        "filmingTips": "Outdoor waterfront venue. Scenic river backdrop. Modern urban setting.",
+        "internalLink": "/crew/melbourne-courtyard-videography"
       }
     ]
   },
@@ -4705,43 +4705,43 @@
   },
   "miami": {
     "displayName": "Miami",
-    "introText": "We film at Miami's premier venues, from the renovated Miami Beach Convention Center with 500,000 sqft of exhibition space to luxury resorts like the Fontainebleau and Eden Roc. Our Miami crews specialize in large-scale conferences, trade shows, and high-profile corporate events.",
+    "introText": "America's Caribbean gateway with modern MICE infrastructure. Miami hosts major international events with luxury venue options. Venues combine contemporary design with tropical sophistication and Latin American business prestige.",
     "venues": [
       {
         "name": "Miami Beach Convention Center (MBCC)",
-        "description": "Following $640M renovation, state-of-the-art venue with grand ballroom, 500,000 sqft flexible exhibition halls, four junior ballrooms, outdoor terraces and parks, and 84 breakout rooms. World-class facilities for conferences, conventions, tradeshows, and meetings.",
-        "filmingTips": "Massive exhibition halls with flexible configurations. Grand ballroom for keynotes. Outdoor terraces for scenic shots. Modern infrastructure.",
+        "description": "Premier Miami venue with 491,654 sqft exhibition space across 4 halls. 60,000 sqft Grand Ballroom (South Florida's largest), 4 junior ballrooms, 84 meeting rooms, outdoor terraces.",
+        "filmingTips": "Premium Miami Beach venue. Largest ballroom in South Florida. Modern architectural design.",
         "internalLink": "/crew/miami-beach-convention-videography"
       },
       {
-        "name": "Fontainebleau Miami Beach",
-        "description": "1,504-room luxury resort with extensive meeting and event facilities. Iconic Miami Beach property with contemporary luxury design. Multiple ballrooms, breakout rooms, and flexible event spaces. Premium venue for high-profile events.",
-        "filmingTips": "Luxury resort aesthetic. Multiple flexible event spaces. Contemporary design. Professional concierge and AV support.",
-        "internalLink": "/crew/miami-fontainebleau-videography"
-      },
-      {
-        "name": "Eden Roc Miami Beach",
-        "description": "415-room luxury oceanfront resort with comprehensive event facilities. Miami Beach location with beachfront views. Multiple ballrooms and meeting rooms. Premium venue for corporate events and galas.",
-        "filmingTips": "Oceanfront beachfront location. Luxury aesthetic. Water views. Professional resort support.",
-        "internalLink": "/crew/miami-eden-roc-videography"
-      },
-      {
-        "name": "Marriott Marquis Miami Worldcenter",
-        "description": "313-room hotel with Expo Center facilities. Modern luxury in central Miami location. Multiple meeting and event spaces. Professional event management.",
-        "filmingTips": "Modern hotel design. Flexible meeting spaces. Professional infrastructure. Central location.",
-        "internalLink": "/crew/miami-marriott-marquis-videography"
+        "name": "James L. Knight Center",
+        "description": "Downtown Miami venue integrated with Hyatt Regency. 3 theatre-style venues (5,000 capacity), 28,000 sqft exhibition/banquet space, 17 meeting rooms.",
+        "filmingTips": "Downtown Miami prestige. Integrated luxury hotel. Urban cultural district location.",
+        "internalLink": "/crew/miami-knight-center-videography"
       },
       {
         "name": "Miami Airport Convention Center (MACC)",
-        "description": "172,000 sqft exhibition, conference, meeting, and event space. Largest convention center in Miami-Dade County's mainland. 334 on-site guest rooms with 2,500+ rooms available within three miles. Excellent accessibility.",
-        "filmingTips": "Massive exhibition space. On-site hotel rooms. Multiple flexible configurations. Professional infrastructure.",
+        "description": "172,000 sqft with 29,000 sqft ballroom (second largest in region), 100,000 sqft exhibition space, 3 ballrooms, 45 breakout rooms. Airport-adjacent logistics advantage.",
+        "filmingTips": "Airport-adjacent convenience. Large ballroom options. Logistics efficiency.",
         "internalLink": "/crew/miami-airport-convention-videography"
       },
       {
-        "name": "InterContinental Miami",
-        "description": "Luxury 5-star hotel with extensive meeting and event facilities. Waterfront location in downtown Miami. Multiple ballrooms and contemporary meeting spaces. Premium venue for executive conferences.",
-        "filmingTips": "Luxury hotel aesthetic. Waterfront location. Modern design. Professional AV infrastructure.",
-        "internalLink": "/crew/miami-intercontinental-videography"
+        "name": "Miami Beach Botanical Garden - Event Spaces",
+        "description": "Tropical garden venue with 40+ acres and flexible event spaces. Unique tropical backdrop for outdoor galas, product launches, and corporate events.",
+        "filmingTips": "Tropical garden backdrop. Unique natural setting. Scenic outdoor venue.",
+        "internalLink": "/crew/miami-botanical-garden-videography"
+      },
+      {
+        "name": "Pérez Art Museum - Event Spaces",
+        "description": "Contemporary art museum with 50,000+ sqft flexible event spaces. Unique cultural backdrop for corporate galas and high-end business events.",
+        "filmingTips": "Contemporary art museum prestige. Cultural institution backdrop. Modern architectural design.",
+        "internalLink": "/crew/miami-perez-museum-videography"
+      },
+      {
+        "name": "Wynwood Walls - Urban Event District",
+        "description": "Trendy urban art district with 100,000+ sqft of flexible outdoor and indoor event spaces. Colorful street art backdrop ideal for creative corporate events and product launches.",
+        "filmingTips": "Urban street art backdrop. Trendy Miami neighborhood. Contemporary creative setting.",
+        "internalLink": "/crew/miami-wynwood-walls-videography"
       }
     ]
   },
@@ -4789,43 +4789,43 @@
   },
   "milan": {
     "displayName": "Milan",
-    "introText": "We film at Milan's leading event venues, from modern convention centers to boutique cultural spaces. Our Milan crews are experienced with local venues and understand the unique challenges of each location.",
+    "introText": "Europe's design and fashion capital with state-of-the-art MICE facilities. Milan hosts world-renowned design shows, international conferences, and major trade fairs. Premium venues combine cutting-edge infrastructure with iconic Italian design heritage.",
     "venues": [
       {
-        "name": "Milan Convention Center",
-        "description": "Modern convention center in Milan with flexible event spaces.",
-        "filmingTips": "Modern AV infrastructure. Multiple flexible halls. Professional support. Ample parking.",
-        "internalLink": "/crew/milan-convention-videography"
+        "name": "Allianz MiCo - Milano Convention Centre",
+        "description": "Europe's largest congress and convention facility with 50,000+ sqm exhibition space. 3 plenary halls, 60 breakout/meeting rooms, 4th generation cabling system, 25,000 device Wi-Fi capacity.",
+        "filmingTips": "Europe's premier convention center. Ultra-modern technical infrastructure. Citylife district prestige location.",
+        "internalLink": "/crew/milan-mico-convention-videography"
       },
       {
-        "name": "Premier Hotel Milan",
-        "description": "Luxury hotel in Milan with comprehensive event facilities.",
-        "filmingTips": "Professional AV. Contemporary design. Premium amenities. Expert support.",
-        "internalLink": "/crew/milan-corporate-videography"
+        "name": "Allianz MiCo Plenary Hall A",
+        "description": "Large plenary hall with 2,000+ seat capacity and professional conference technology. Flexible setup for keynotes, lectures, and concurrent sessions with multilingual systems.",
+        "filmingTips": "Large conference hall with professional systems. Premium plenary infrastructure.",
+        "internalLink": "/crew/milan-mico-plenary-videography"
       },
       {
-        "name": "Milan Arts & Culture Center",
-        "description": "Cultural venue in Milan with flexible gallery and event spaces.",
-        "filmingTips": "Cultural atmosphere. Artistic backdrop. Unique aesthetic. Character location.",
-        "internalLink": "/crew/milan-event-videography"
+        "name": "Allianz MiCo Exhibition Space",
+        "description": "50,000+ sqm flexible exhibition area with modular configurations. Can accommodate 500 to 2,000+ exhibitors with professional booth infrastructure and attendee management systems.",
+        "filmingTips": "Large flexible exhibition complex. Modular booth configurations. Professional exhibition systems.",
+        "internalLink": "/crew/milan-mico-exhibition-videography"
       },
       {
-        "name": "Downtown Milan Event Space",
-        "description": "Modern flexible event venue in downtown Milan.",
-        "filmingTips": "Urban backdrop. Flexible configuration. Modern amenities. Professional support.",
-        "internalLink": "/crew/milan-event-videography"
+        "name": "Fiera Milano (Rho)",
+        "description": "One of Europe's largest exhibition venues regularly hosting Salone del Mobile, MICAM, and EICMA. 300,000+ sqm of exhibition space, attracts 400,000 visitors and 6,000 exhibitors from 150+ countries.",
+        "filmingTips": "Massive international exhibition venue. World-renowned design show host. Ultra-large scale facility.",
+        "internalLink": "/crew/milan-fiera-rho-videography"
       },
       {
-        "name": "Milan Business District Venue",
-        "description": "Professional business event venue in Milan's prime location.",
-        "filmingTips": "Business-focused. Professional atmosphere. Modern facilities. Strategic location.",
-        "internalLink": "/crew/milan-corporate-videography"
+        "name": "Citylife Exhibition District",
+        "description": "Integrated event district with 173,000 sqm greenery, shopping centre, hotels, and dining. Modern architecture surrounding Allianz MiCo with 1,600 nearby hotel rooms (3-5 star properties).",
+        "filmingTips": "Integrated modern district. Scenic greenery backdrop. Shopping and hospitality integration.",
+        "internalLink": "/crew/milan-citylife-district-videography"
       },
       {
-        "name": "Riverside Milan Events",
-        "description": "Scenic waterfront or riverside event venue in Milan.",
-        "filmingTips": "Natural backdrop. Scenic views. Multiple configurations. Outdoor possibilities.",
-        "internalLink": "/crew/milan-event-videography"
+        "name": "Milano Linate Exhibition Center",
+        "description": "Specialized venue near Milan airport with 60,000+ sqm flexible space. Professional trade show infrastructure with excellent connectivity for international attendees.",
+        "filmingTips": "Airport-adjacent logistics advantage. Professional exhibition space. International attendee access.",
+        "internalLink": "/crew/milan-linate-exhibition-videography"
       }
     ]
   },
@@ -4999,43 +4999,43 @@
   },
   "munich": {
     "displayName": "Munich",
-    "introText": "We film at Munich's leading event venues, from modern convention centers to boutique cultural spaces. Our Munich crews are experienced with local venues and understand the unique challenges of each location.",
+    "introText": "Bavaria's leading MICE destination combining Bavarian charm with world-class convention infrastructure. Munich hosts 50+ international trade fairs annually attracting 2+ million visitors. Premium venues support major exhibitions, conferences, and international business events.",
     "venues": [
       {
-        "name": "Munich Convention Center",
-        "description": "Modern convention center in Munich with flexible event spaces.",
-        "filmingTips": "Modern AV infrastructure. Multiple flexible halls. Professional support. Ample parking.",
-        "internalLink": "/crew/munich-convention-videography"
+        "name": "Messe München Trade Fair Center",
+        "description": "World-class exhibition venue with 18 halls spanning 200,000 sqm of column-free exhibition space. Multiple venues include Neue Messe München, ICM International Congress Center, MOC Event Center with 414,000 sqm outdoor area.",
+        "filmingTips": "Massive exhibition complex. Column-free modern halls. Highest outdoor space among German venues.",
+        "internalLink": "/crew/munich-messe-videography"
       },
       {
-        "name": "Premier Hotel Munich",
-        "description": "Luxury hotel in Munich with comprehensive event facilities.",
-        "filmingTips": "Professional AV. Contemporary design. Premium amenities. Expert support.",
-        "internalLink": "/crew/munich-corporate-videography"
+        "name": "Neue Messe München Exhibition Halls",
+        "description": "Modern exhibition complex with 200,000 sqm across 18 halls (heights 11-16 meters). Natural light design, column-free architecture, conference rooms on upper floors, direct U-bahn access.",
+        "filmingTips": "Contemporary hall architecture with natural light. Column-free exhibition space. Modern infrastructure.",
+        "internalLink": "/crew/munich-neue-messe-videography"
       },
       {
-        "name": "Munich Arts & Culture Center",
-        "description": "Cultural venue in Munich with flexible gallery and event spaces.",
-        "filmingTips": "Cultural atmosphere. Artistic backdrop. Unique aesthetic. Character location.",
-        "internalLink": "/crew/munich-event-videography"
+        "name": "ICM - International Congress Center München",
+        "description": "Premium congress facility with multiple plenary halls, flexible meeting configurations, capacity 4,000+ delegates. Advanced technical systems, simultaneous translation capability, professional event support.",
+        "filmingTips": "International-standard congress infrastructure. Professional conference systems. Plenary capability.",
+        "internalLink": "/crew/munich-icm-congress-videography"
       },
       {
-        "name": "Downtown Munich Event Space",
-        "description": "Modern flexible event venue in downtown Munich.",
-        "filmingTips": "Urban backdrop. Flexible configuration. Modern amenities. Professional support.",
-        "internalLink": "/crew/munich-event-videography"
+        "name": "MOC Veranstaltungscenter München",
+        "description": "Event center with 4 exhibition halls totaling 13,000 sqm. Capacity up to 1,800 persons per hall in classical congress seating. Flexible configurations for exhibitions and conferences.",
+        "filmingTips": "Modern event space. Multiple parallel hall options. Professional event infrastructure.",
+        "internalLink": "/crew/munich-moc-event-videography"
       },
       {
-        "name": "Munich Business District Venue",
-        "description": "Professional business event venue in Munich's prime location.",
-        "filmingTips": "Business-focused. Professional atmosphere. Modern facilities. Strategic location.",
-        "internalLink": "/crew/munich-corporate-videography"
+        "name": "Messe München Outdoor Area",
+        "description": "414,000 sqm of outdoor exhibition space (largest of any German exhibition company). Suitable for large-scale outdoor product launches, vehicle exhibitions, temporary installations.",
+        "filmingTips": "Massive outdoor venue space. Vehicle and large-scale product showcase capability.",
+        "internalLink": "/crew/munich-outdoor-exhibition-videography"
       },
       {
-        "name": "Riverside Munich Events",
-        "description": "Scenic waterfront or riverside event venue in Munich.",
-        "filmingTips": "Natural backdrop. Scenic views. Multiple configurations. Outdoor possibilities.",
-        "internalLink": "/crew/munich-event-videography"
+        "name": "Riem Park Conference Center",
+        "description": "Located on former Munich-Riem airport grounds with excellent U-bahn connectivity (20 minutes to city center). Conference facilities with meeting rooms, exhibition space, and professional technical support.",
+        "filmingTips": "Accessible location with rapid transit. Historical airport site transformation. Modern conference facilities.",
+        "internalLink": "/crew/munich-riem-conference-videography"
       }
     ]
   },
@@ -6427,43 +6427,43 @@
   },
   "rome": {
     "displayName": "Rome",
-    "introText": "We film at Rome's prestigious venues, from the ultramodern Roma Convention Center La Nuvola to historic locations like Auditorium Parco della Musica and elegant hotel venues. Our Rome crews specialize in capturing international conferences and high-profile events in the Eternal City.",
+    "introText": "Italy's capital combines iconic history with modern MICE infrastructure. Rome hosts major international conferences, conventions, and corporate events. Premium venues blend contemporary design with cultural heritage, offering unique settings for high-profile events.",
     "venues": [
       {
-        "name": "Roma Convention Center La Nuvola",
-        "description": "International congress structure with 8,000+ seat capacity. Innovative eco-friendly architecture designed by Studio Fuksas. State-of-the-art facilities meeting 2008-era standards. Modern venue for major international conferences.",
-        "filmingTips": "Striking modern architecture contrasts with ancient Rome. 8,000+ seat capacity for large keynotes. Professional AV infrastructure. Iconic design.",
-        "internalLink": "/crew/rome-convention-center-videography"
+        "name": "Roma Convention Center La Nuvola (The Cloud)",
+        "description": "Innovative architecture with total capacity 9,000 seats. Features 1,760-seat auditorium, 6,500 seats in conference rooms, state-of-the-art technical systems, and stunning futuristic design.",
+        "filmingTips": "Iconic modern architecture ('The Cloud'). Premium conference infrastructure. Rome convention prestige.",
+        "internalLink": "/crew/rome-nuvola-convention-videography"
       },
       {
-        "name": "Auditorium Parco della Musica",
-        "description": "Iconic contemporary venue with multiple concert halls and flexible event spaces. Striking modern architecture in historic city. Renowned acoustic performance space. Premium venue for performances and conferences.",
-        "filmingTips": "Striking contemporary architecture. Beautiful modern design in historic setting. Professional AV and acoustic systems. Memorable backdrop.",
-        "internalLink": "/crew/rome-auditorium-videography"
-      },
-      {
-        "name": "Roma Eventi Conference Centre",
-        "description": "Historical building in the heart of Rome, in Piazza di Spagna area. 15 multi-purpose rooms with modern audiovisual equipment. Suitable for conferences, seminars, training, presentations, exhibitions. Iconic central Rome location.",
-        "filmingTips": "Heart of Rome location. Historic building. Multiple flexible rooms. Central location near major landmarks.",
-        "internalLink": "/crew/rome-eventi-videography"
-      },
-      {
-        "name": "Rome Marriott Park Hotel",
-        "description": "One of Europe's largest convention centers with 40 flexible meeting rooms and panoramic ballroom accommodating 7,000 guests. Comprehensive conference facilities. Professional event management.",
-        "filmingTips": "40 flexible meeting rooms for complex coverage. Panoramic ballroom with 7,000 capacity. Professional infrastructure. European scale.",
-        "internalLink": "/crew/rome-marriott-park-videography"
-      },
-      {
-        "name": "Hotel Villa Pamphili Rome",
-        "description": "Exclusive urban resort completely renovated in 2020. 235 elegant contemporary rooms with 14 convention center meeting rooms. Modern luxury combined with historic charm. Premium event venue.",
-        "filmingTips": "Contemporary luxury design. Historic property. 14 flexible meeting rooms. Refined aesthetic.",
-        "internalLink": "/crew/rome-villa-pamphili-videography"
-      },
-      {
-        "name": "Palazzo dei Congressi EUR",
-        "description": "Historic monumental venue in EUR district. Known for distinctive architecture and prestigious location. Multiple meeting and event spaces. Premium historic venue for high-profile events.",
-        "filmingTips": "Historic monumental architecture. EUR district character. Distinctive aesthetic. Prestigious location.",
+        "name": "Palazzo dei Congressi",
+        "description": "Historic congress facility with multiple halls and flexible configurations. Capacity for 1,000-3,000 delegates with traditional architectural character and professional conference systems.",
+        "filmingTips": "Historic congress building. Traditional architectural character. Premium Rome location.",
         "internalLink": "/crew/rome-palazzo-congressi-videography"
+      },
+      {
+        "name": "Rome Marriott Park Hotel Convention Center",
+        "description": "One of Europe's largest hotel convention facilities with 40 flexible meeting rooms and panoramic ballroom capacity 7,000 guests. Premier luxury hotel with integrated event infrastructure.",
+        "filmingTips": "Ultra-premium luxury hotel aesthetic. Massive ballroom capacity. European luxury prestige.",
+        "internalLink": "/crew/rome-marriott-convention-videography"
+      },
+      {
+        "name": "Roma Eventi - Piazza di Spagna Conference Centre",
+        "description": "Central Rome location near Spanish Steps with 15 multi-purpose rooms. Modern audiovisual equipment, flexible configurations for conferences, meetings, and corporate events.",
+        "filmingTips": "Prime Spanish Steps location. Iconic Rome location. Modern conference systems.",
+        "internalLink": "/crew/rome-roma-eventi-videography"
+      },
+      {
+        "name": "Fiera Roma",
+        "description": "World-class exhibition venue with 100,000+ sqm of exhibition space. Hosts major international trade shows, cultural events, and exhibitions with professional technical infrastructure.",
+        "filmingTips": "Large-scale exhibition venue. Professional trade show infrastructure. Major event capability.",
+        "internalLink": "/crew/rome-fiera-roma-videography"
+      },
+      {
+        "name": "Villa Pamphili Roma",
+        "description": "Historic villa meeting space with 14 conference and meeting rooms. Combining historic charm with modern facilities in scenic garden setting.",
+        "filmingTips": "Historic villa backdrop. Scenic gardens. Romantic heritage setting.",
+        "internalLink": "/crew/rome-villa-pamphili-videography"
       }
     ]
   },
@@ -6805,43 +6805,43 @@
   },
   "shanghai": {
     "displayName": "Shanghai",
-    "introText": "We film at Shanghai's leading event venues, from modern convention centers to cultural landmarks. Our Shanghai crews understand local venue logistics and deliver professional coverage for corporate events, conferences, and special occasions.",
+    "introText": "Asia's leading international MICE destination with ultra-modern convention infrastructure. Shanghai hosts the world's largest import/export conference and major trade fairs. Features cutting-edge exhibition centers serving global business, innovation, and cultural events.",
     "venues": [
       {
-        "name": "Shanghai Convention Center",
-        "description": "Modern convention center in Shanghai with flexible event spaces and state-of-the-art facilities.",
-        "filmingTips": "Modern AV infrastructure. Multiple flexible halls. Professional support. Ample parking.",
-        "internalLink": "/crew/shanghai-convention-videography"
+        "name": "National Exhibition and Convention Center (NECC Shanghai)",
+        "description": "Asia's largest purpose-built MICE venue with 1.47 million sqm total area. 462,000 sqm main exhibition halls with 4 major halls, 80+ meeting rooms, capacity 100,000+ concurrent visitors.",
+        "filmingTips": "Massive mega-scale MICE facility. Multiple simultaneous mega-events possible. Ultra-modern infrastructure.",
+        "internalLink": "/crew/shanghai-necc-videography"
       },
       {
-        "name": "Premier Hotel & Conference Shanghai",
-        "description": "Luxury hotel in Shanghai with comprehensive event facilities and premium amenities.",
-        "filmingTips": "Professional AV. Contemporary design. Premium amenities. Expert support.",
-        "internalLink": "/crew/shanghai-corporate-videography"
+        "name": "Shanghai New International Expo Center (SNIEC)",
+        "description": "Premier exhibition complex in Pudong with 400,000+ sqm across 12 modular halls. Capacity 1,000+ booths per hall, modern glass architecture, comprehensive MICE facilities.",
+        "filmingTips": "Contemporary glass architecture. Multiple exhibition hall configurations. Pudong modern skyline backdrop.",
+        "internalLink": "/crew/shanghai-sniec-videography"
       },
       {
-        "name": "Shanghai Arts & Cultural Center",
-        "description": "Contemporary cultural venue in Shanghai with flexible gallery and event spaces.",
-        "filmingTips": "Cultural atmosphere. Artistic backdrop. Unique aesthetic. Character location.",
-        "internalLink": "/crew/shanghai-event-videography"
+        "name": "Shanghai International Convention Center",
+        "description": "State-of-the-art facility with 110,000 sqm function space. 6 main halls accommodating 4,000+ delegates, 30+ meeting rooms, adjacent to luxury hotels and financial district.",
+        "filmingTips": "Premium international convention center. Ultra-modern systems. Financial district prestige location.",
+        "internalLink": "/crew/shanghai-international-convention-videography"
       },
       {
-        "name": "Downtown Shanghai Business Venue",
-        "description": "Modern flexible event space in downtown Shanghai with professional infrastructure.",
-        "filmingTips": "Urban backdrop. Flexible configuration. Modern amenities. Professional support.",
-        "internalLink": "/crew/shanghai-corporate-videography"
+        "name": "Intex Shanghai",
+        "description": "Modern exhibition center built 1992 in Hongqiao Economic Zone. 150,000+ sqm of exhibition space, flexible hall configurations, professional international MICE infrastructure.",
+        "filmingTips": "Modern exhibition complex. Flexible hall systems. Professional international standards.",
+        "internalLink": "/crew/shanghai-intex-videography"
       },
       {
-        "name": "Shanghai Trade & Exhibition Hall",
-        "description": "Large-scale venue in Shanghai specializing in trade shows and exhibitions.",
-        "filmingTips": "Large open spaces. Multiple configurations. Professional infrastructure. Expert management.",
-        "internalLink": "/crew/shanghai-trade-show-videography"
+        "name": "Shanghai Exhibition Centre",
+        "description": "Historic landmark built 1955 with 93,000 sqm exhibition space. Historic Soviet-influenced architecture, grand auditorium capacity 3,000+, 12 exhibition halls, premium location Jing'an District.",
+        "filmingTips": "Historic iconic landmark. Distinctive architectural character. Cultural heritage aesthetic.",
+        "internalLink": "/crew/shanghai-exhibition-centre-videography"
       },
       {
-        "name": "Shanghai Waterfront or Riverside Events",
-        "description": "Scenic venue in Shanghai with waterfront or riverside location and outdoor possibilities.",
-        "filmingTips": "Natural backdrop. Scenic views. Multiple configurations. Outdoor opportunities.",
-        "internalLink": "/crew/shanghai-event-videography"
+        "name": "Shanghai Everbright Convention & Exhibition Center",
+        "description": "Modern integrated venue with 26,000 sqm flexible space in Huangpu District. Multi-purpose exhibition and conference design, 800+ booth capacity, contemporary architectural finishes.",
+        "filmingTips": "Modern versatile convention space. Contemporary aesthetic. Urban district setting.",
+        "internalLink": "/crew/shanghai-everbright-videography"
       }
     ]
   },
@@ -6889,7 +6889,7 @@
   },
   "singapore": {
     "displayName": "Singapore",
-    "introText": "We film at Singapore's world-class convention venues, from the iconic Suntec Singapore with its HybriDome technology to luxury hotels like Fairmont Singapore and Swiss\u00f4tel The Stamford. Our Singapore crews deliver cutting-edge coverage for international conferences, product launches, and high-profile business events.",
+    "introText": "We film at Singapore's world-class convention venues, from the iconic Suntec Singapore with its HybriDome technology to luxury hotels like Fairmont Singapore and Swissôtel The Stamford. Our Singapore crews deliver cutting-edge coverage for international conferences, product launches, and high-profile business events.",
     "venues": [
       {
         "name": "Suntec Singapore Convention & Exhibition Centre",
@@ -6904,7 +6904,7 @@
         "internalLink": "/crew/singapore-luxury-events-videography"
       },
       {
-        "name": "Swiss\u00f4tel The Stamford",
+        "name": "Swissôtel The Stamford",
         "description": "Iconic tall landmark hotel with panoramic city views. 40,000+ sqft of meeting space including grand ballroom accommodating 2,000+ guests. Premium venue for international conferences and prestigious corporate functions.",
         "filmingTips": "Iconic tall building provides dramatic Singapore skyline backdrop. Panoramic views perfect for b-roll. Grand ballroom seats 2,000+. Professional AV and event support.",
         "internalLink": "/crew/singapore-stamford-videography"
@@ -7361,14 +7361,14 @@
       },
       {
         "name": "The Okura Tokyo",
-        "description": "Legendary 5-star hotel with conference facilities accommodating 2,000+ guests. Grand ballrooms with traditional d\u00e9cor combined with modern amenities. Premier hotel for high-profile conferences and corporate events. Iconic status in Tokyo business community.",
+        "description": "Legendary 5-star hotel with conference facilities accommodating 2,000+ guests. Grand ballrooms with traditional décor combined with modern amenities. Premier hotel for high-profile conferences and corporate events. Iconic status in Tokyo business community.",
         "filmingTips": "Multiple function spaces allow simultaneous coverage. Blend of traditional and modern design. Professional hotel AV support. Excellent room configurations for different event types.",
         "internalLink": "/crew/tokyo-corporate-videography"
       },
       {
         "name": "Mandarin Oriental Tokyo",
-        "description": "Luxury hotel in Nihonbashi business district with Grand Ballroom featuring 360\u00b0 video wall and advanced AV systems. 30,000+ sqft of meeting and event space. Premier venue for international business forums and executive conferences.",
-        "filmingTips": "360\u00b0 video wall offers cutting-edge technical production opportunities. Contemporary design with excellent lighting. Professional AV infrastructure. Modern, sleek aesthetic for corporate events.",
+        "description": "Luxury hotel in Nihonbashi business district with Grand Ballroom featuring 360° video wall and advanced AV systems. 30,000+ sqft of meeting and event space. Premier venue for international business forums and executive conferences.",
+        "filmingTips": "360° video wall offers cutting-edge technical production opportunities. Contemporary design with excellent lighting. Professional AV infrastructure. Modern, sleek aesthetic for corporate events.",
         "internalLink": "/crew/tokyo-luxury-events-videography"
       },
       {
@@ -7696,7 +7696,7 @@
         "internalLink": "/crew/vienna-austria-center-videography"
       },
       {
-        "name": "VIECON \u2013 Vienna Congress & Convention Center (Messe Wien)",
+        "name": "VIECON – Vienna Congress & Convention Center (Messe Wien)",
         "description": "Flexible multifunctional spaces with ultra-modern IT infrastructure. One of Europe's most versatile event and exhibition facilities. Spaces from 500 to 60,000 sqm. State-of-the-art technology throughout.",
         "filmingTips": "Extraordinary flexibility - 500 to 60,000 sqm. Modern IT infrastructure. State-of-the-art technology. European-scale venue.",
         "internalLink": "/crew/vienna-viecon-videography"
@@ -8149,43 +8149,43 @@
   },
   "brussels": {
     "displayName": "Brussels",
-    "introText": "We film at Brussels's leading event venues, from modern convention centers to cultural landmarks. Our Brussels crews understand local venue logistics and deliver professional coverage for corporate events, conferences, and special occasions.",
+    "introText": "Europe's capital and leading MICE destination. Brussels combines world-class convention infrastructure with historic charm. Home to major international organizations, Brussels offers state-of-the-art exhibition venues and flexible meeting spaces serving conferences, trade fairs, and corporate events.",
     "venues": [
       {
-        "name": "Brussels Convention Center",
-        "description": "Modern convention center in Brussels with flexible event spaces and state-of-the-art facilities.",
-        "filmingTips": "Modern AV infrastructure. Multiple flexible halls. Professional support. Ample parking.",
-        "internalLink": "/crew/brussels-convention-videography"
+        "name": "Brussels Expo (Brussels Exhibition Centre)",
+        "description": "Belgium's largest exhibition facility with 115,000 sqm of space across 12 main exhibition halls. Accommodates 400 to 10,000+ guests with 2 auditoriums, 11 conference rooms, and 15,000+ parking spaces on Heysel/Heizel Plateau.",
+        "filmingTips": "Massive modern exhibition complex. Multiple simultaneous configurations possible. Professional MICE infrastructure with excellent transport connectivity.",
+        "internalLink": "/crew/brussels-exhibition-centre-videography"
       },
       {
-        "name": "Premier Hotel & Conference Brussels",
-        "description": "Luxury hotel in Brussels with comprehensive event facilities and premium amenities.",
-        "filmingTips": "Professional AV. Contemporary design. Premium amenities. Expert support.",
-        "internalLink": "/crew/brussels-corporate-videography"
+        "name": "SQUARE Brussels Convention Centre",
+        "description": "13,000 sqm of premium event space in central Brussels. Features 4,000 sqm exhibition area, 5 auditoriums (140-2,200 capacity), 7 multi-purpose rooms, 25 modular meeting rooms with natural light.",
+        "filmingTips": "Contemporary convention center with elegant design. Located in historic European heart. Premium technical infrastructure.",
+        "internalLink": "/crew/brussels-square-convention-videography"
       },
       {
-        "name": "Brussels Arts & Cultural Center",
-        "description": "Contemporary cultural venue in Brussels with flexible gallery and event spaces.",
-        "filmingTips": "Cultural atmosphere. Artistic backdrop. Unique aesthetic. Character location.",
-        "internalLink": "/crew/brussels-event-videography"
+        "name": "The EGG Brussels",
+        "description": "Distinctive New York-style conference centre with capacity for 2-999 guests. Located near Brussels-South train station with flexible space for conferences, seminars, product launches and exhibitions.",
+        "filmingTips": "Iconic architectural building. Boutique conference setting. Urban downtown location with character.",
+        "internalLink": "/crew/brussels-egg-conference-videography"
       },
       {
-        "name": "Downtown Brussels Business Venue",
-        "description": "Modern flexible event space in downtown Brussels with professional infrastructure.",
-        "filmingTips": "Urban backdrop. Flexible configuration. Modern amenities. Professional support.",
-        "internalLink": "/crew/brussels-corporate-videography"
+        "name": "Hotel Le Plaza Brussels",
+        "description": "Luxury 190-room hotel with integrated event space. Capacity for 950 guests across multiple halls, soundproof meeting rooms, on-site event coordinators, free WiFi.",
+        "filmingTips": "Premium luxury hotel aesthetic. Professional event support. Elegant historical building backdrop.",
+        "internalLink": "/crew/brussels-plaza-hotel-videography"
       },
       {
-        "name": "Brussels Trade & Exhibition Hall",
-        "description": "Large-scale venue in Brussels specializing in trade shows and exhibitions.",
-        "filmingTips": "Large open spaces. Multiple configurations. Professional infrastructure. Expert management.",
-        "internalLink": "/crew/brussels-trade-show-videography"
+        "name": "Tour and Taxis Complex",
+        "description": "Large-scale former industrial site with flexible warehouse spaces and Royal Depot central hall. Multi-purpose venue suitable for cultural events, art fairs, festivals, and corporate events.",
+        "filmingTips": "Unique industrial-modern hybrid venue. Flexible open spaces. Creative event atmosphere.",
+        "internalLink": "/crew/brussels-tour-taxis-videography"
       },
       {
-        "name": "Brussels Waterfront or Riverside Events",
-        "description": "Scenic venue in Brussels with waterfront or riverside location and outdoor possibilities.",
-        "filmingTips": "Natural backdrop. Scenic views. Multiple configurations. Outdoor opportunities.",
-        "internalLink": "/crew/brussels-event-videography"
+        "name": "Brussels Palais 12",
+        "description": "12,000+ capacity multi-purpose event venue hosting major conferences, concerts, and exhibitions. Modern facilities with professional AV infrastructure and flexible configurations.",
+        "filmingTips": "Large-scale multipurpose arena. Professional concert/conference infrastructure. Major event capability.",
+        "internalLink": "/crew/brussels-palais-12-videography"
       }
     ]
   },
@@ -8224,7 +8224,7 @@
         "internalLink": "/crew/dubai-theatre-event-videography"
       },
       {
-        "name": "Le M\u00e9ridien Dubai",
+        "name": "Le Méridien Dubai",
         "description": "44,401 sqft of banquet and conference facilities. Spacious parking for 500+ vehicles. Purpose-built venue for banquets, conferences, exhibitions, and major corporate events. Located in heart of Dubai.",
         "filmingTips": "Dedicated banquet space with modern design. Ample parking essential for large events. Professional catering and event coordination. Modern AV infrastructure.",
         "internalLink": "/crew/dubai-banquet-videography"
@@ -8569,22 +8569,22 @@
   },
   "krakow": {
     "displayName": "Krakow",
-    "introText": "We film at Krakow's premier venues, from the ICE Krak\u00f3w Congress Centre with 36,720 sqm to the historic Wawel Castle and luxury contemporary hotels. Our Krakow crews specialize in capturing major European conferences, cultural events, and high-profile corporate gatherings.",
+    "introText": "We film at Krakow's premier venues, from the ICE Kraków Congress Centre with 36,720 sqm to the historic Wawel Castle and luxury contemporary hotels. Our Krakow crews specialize in capturing major European conferences, cultural events, and high-profile corporate gatherings.",
     "venues": [
       {
-        "name": "ICE Krak\u00f3w Congress Centre",
+        "name": "ICE Kraków Congress Centre",
         "description": "36,720 sqm facility (395,250 sq ft). 3,000 sqm exhibit space and multipurpose complex for conferences and cultural events. Premium Krakow venue.",
         "filmingTips": "Large modern convention facility. 3,000 sqm exhibit space. Professional AV infrastructure. Contemporary design.",
         "internalLink": "/crew/krakow-ice-congress-videography"
       },
       {
-        "name": "EXPO Krak\u00f3w",
+        "name": "EXPO Kraków",
         "description": "20,000+ sqm facility with 13,500 sqm exhibit space in 4 multifunctional halls. 10 conference rooms.",
         "filmingTips": "Modern expo facility. 13,500 sqm exhibit space. 4 flexible halls. Professional infrastructure.",
         "internalLink": "/crew/krakow-expo-videography"
       },
       {
-        "name": "Copernicus Hotel Krak\u00f3w",
+        "name": "Copernicus Hotel Kraków",
         "description": "5,000+ sqm of event space. Luxury historic hotel with contemporary facilities.",
         "filmingTips": "Historic luxury property. Extensive event space. Premium location. Professional service.",
         "internalLink": "/crew/krakow-copernicus-videography"
@@ -8596,7 +8596,7 @@
         "internalLink": "/crew/krakow-wawel-castle-videography"
       },
       {
-        "name": "Hilton Krak\u00f3w",
+        "name": "Hilton Kraków",
         "description": "Modern luxury hotel with comprehensive meeting facilities. Premium Krakow location.",
         "filmingTips": "Modern hotel design. Professional infrastructure. Contemporary aesthetic. Professional service.",
         "internalLink": "/crew/krakow-hilton-videography"
@@ -8816,6 +8816,1224 @@
         "description": "Iconic natural landmark with scenic backdrop and outdoor event spaces. UNESCO World Heritage Site.",
         "filmingTips": "Iconic natural landmark. Scenic mountain backdrop. Outdoor venue options. Natural beauty.",
         "internalLink": "/crew/cape-town-table-mountain-videography"
+      }
+    ]
+  },
+  "chiangmai": {
+    "displayName": "Chiang Mai",
+    "introText": "Thailand's cultural capital offers sophisticated convention venues alongside stunning mountain backdrops and ancient temples. Chiang Mai is ideal for filming events that blend tradition with modernity, featuring Southeast Asia's largest exhibition space outside Bangkok.",
+    "venues": [
+      {
+        "name": "Chiang Mai International Exhibition and Convention Centre (CMECC)",
+        "description": "Southeast Asia's largest convention center outside Bangkok with 60,000 m² of indoor space, featuring 3 interconnected exhibition halls (476 booths), a convention hall accommodating 1,700 people, and 29 meeting rooms (50-700 capacity). 3,000+ parking spaces.",
+        "filmingTips": "Massive pillar-free exhibition halls perfect for wide product showcase shoots. Convention hall with theatrical lighting capabilities ideal for corporate events and award ceremonies. Modern facilities with business centers and V.I.P. rooms.",
+        "internalLink": "/crew/chiang-mai-convention-center-videography"
+      },
+      {
+        "name": "Akyra Manor Hotel Chiang Mai",
+        "description": "Luxury 4-star boutique hotel featuring 5,000 sqm of event space with three grand ballrooms, 12 meeting rooms, and a 500-person capacity main hall. Blends contemporary design with traditional Lanna architecture.",
+        "filmingTips": "Elegant ballroom with soaring ceilings and modern lighting systems. Perfect for gala events and high-end corporate functions. Outdoor garden spaces with mountain views ideal for product launches.",
+        "internalLink": "/crew/chiang-mai-luxury-hotel-videography"
+      },
+      {
+        "name": "Chiangmai Gate Grand Hotel",
+        "description": "Historic 4-star hotel within the Old City with multiple function spaces totaling 3,500 sqm. Features the Golden Room (600 capacity), two banquet halls, and eight meeting rooms with traditional Thai design elements.",
+        "filmingTips": "Authentic Thai architectural backdrop with intricate wooden details and traditional murals. Grand escalator entrance and ambient lighting enhance cinematic appeal. Close proximity to cultural landmarks for B-roll filming.",
+        "internalLink": "/crew/chiang-mai-historic-hotel-videography"
+      },
+      {
+        "name": "The Muang Samui Hotel Conference Centre",
+        "description": "Modern 4-star business hotel with 2,800 sqm of function space. Main ballroom seats 500 guests theater-style, with breakout meeting rooms and pre-function areas.",
+        "filmingTips": "Clean, modern aesthetic with state-of-the-art lighting and sound systems. Neutral color palette allows for branded backdrop integration. Outdoor terrace with city views.",
+        "internalLink": "/crew/chiang-mai-business-hotel-videography"
+      },
+      {
+        "name": "Chiang Mai Night Bazaar Convention Hall",
+        "description": "Unique venue within the famous Night Bazaar complex offering 1,500 sqm of flexible exhibition and event space. Can accommodate 1,200 guests with 10 breakout meeting areas and commercial backdrop.",
+        "filmingTips": "Bustling market atmosphere provides authentic Thai cultural context. Unique archway entrances and vibrant ambient lighting. Great for capturing live event energy and crowd dynamics.",
+        "internalLink": "/crew/chiang-mai-night-bazaar-videography"
+      },
+      {
+        "name": "Chiang Mai Riverside Convention Center",
+        "description": "Scenic riverside venue with 2,200 sqm of event space overlooking the Ping River. Main hall capacity 800 guests, with 6 meeting rooms and panoramic outdoor terrace.",
+        "filmingTips": "Beautiful water views perfect for outdoor ceremony and reception filming. Natural lighting from river reflections. Sunset backdrop ideal for evening event coverage.",
+        "internalLink": "/crew/chiang-mai-riverside-videography"
+      }
+    ]
+  },
+  "phuket": {
+    "displayName": "Phuket",
+    "introText": "Thailand's premier beach destination blends tropical luxury with world-class meeting facilities. Phuket offers stunning waterfront convention venues ideal for resort events, incentive travel, and destination filming.",
+    "venues": [
+      {
+        "name": "Angsana Convention and Exhibition Space (ACES)",
+        "description": "Phuket's largest ballroom with 1,500 sqm total exhibit space. Accommodates 1,500 theater-style, 800 banquet with dance floor, 1,500 cocktail guests. Features 11 meeting rooms and modern AV capabilities.",
+        "filmingTips": "Column-free ballroom with dramatic high ceilings. Professional lighting and sound systems. Large windows provide natural light and tropical views.",
+        "internalLink": "/crew/phuket-convention-exhibition-videography"
+      },
+      {
+        "name": "Laguna Phuket Resort Convention Centre",
+        "description": "Multi-resort convention hub with 10,000+ sqm of dedicated meeting space across 8 resort properties. Flexible configurations, 38 conference rooms totaling 3,500 sqm of breakout space.",
+        "filmingTips": "Iconic tropical resort backdrop. Multiple venue options for multi-location filming. Lush gardens and lagoon views. Resort amenities visible in background shots.",
+        "internalLink": "/crew/phuket-laguna-resort-videography"
+      },
+      {
+        "name": "Royal Phuket Marina Exhibition Hall",
+        "description": "Waterfront exhibition venue with 2,000+ sqm of pillar-free space. Accommodates 50-2,000 guests with broad range of technical provisions including professional lighting and sound systems.",
+        "filmingTips": "Premium waterfront location with marina views. Modern nautical aesthetic. Excellent natural lighting. Professional-grade technical infrastructure.",
+        "internalLink": "/crew/phuket-marina-videography"
+      },
+      {
+        "name": "Dusit Thani Phuket Convention Center",
+        "description": "5-star resort with 4,500 sqm of function space. Main ballroom seats 650 guests, plus eight meeting rooms. Direct beach access and tropical garden setting.",
+        "filmingTips": "Luxury resort aesthetic. Beach access for outdoor shots. Elegant ballroom with chandelier lighting. Garden venues with tropical flowers.",
+        "internalLink": "/crew/phuket-dusit-resort-videography"
+      },
+      {
+        "name": "BTC Space Phuket Convention Center",
+        "description": "Modern modular event space with 1,200 sqm of flexible configurations. Designed for conferences, exhibitions, and product launches. High-speed connectivity and advanced lighting/sound systems throughout.",
+        "filmingTips": "Contemporary aesthetic with clean lines. Neutral interior allows branded environment creation. Professional AV infrastructure. Multiple room configurations.",
+        "internalLink": "/crew/phuket-btc-space-videography"
+      },
+      {
+        "name": "Holiday Inn Phuket Mai Khao Beach",
+        "description": "4-star beachfront resort with 2,000 sqm of event space. Main ballroom (500 capacity), 6 meeting rooms. Direct beach access and tropical garden landscaping.",
+        "filmingTips": "Beachfront location with sunset opportunities. Open-air pavilion options. Ocean views as natural backdrop. Tropical vegetation framing.",
+        "internalLink": "/crew/phuket-holiday-inn-beachfront-videography"
+      }
+    ]
+  },
+  "danang": {
+    "displayName": "Da Nang",
+    "introText": "Vietnam's emerging business hub combines stunning coastal scenery with modern convention facilities. Da Nang's beachfront venues offer unique filming opportunities blending business events with Vietnam's natural beauty.",
+    "venues": [
+      {
+        "name": "Ariyana Convention Centre",
+        "description": "Vietnam's first beachfront convention center (opened 2017, hosted APEC 2017). 891 sqm max exhibit space, 2,500 theater-style capacity, 90,241 sqft total meeting space. Dedicated to conferences, weddings, galas, fashion shows.",
+        "filmingTips": "Iconic beachfront location. Modern architectural design with ocean views. Natural coastal lighting. Ideal for high-profile event coverage.",
+        "internalLink": "/crew/da-nang-ariyana-convention-videography"
+      },
+      {
+        "name": "Da Nang International Exhibition and Fair Center",
+        "description": "Modern state-of-the-art facility with contemporary design. Total exhibition space of 15,000+ sqm with 8 halls, 48 meeting rooms, 5,000+ capacity.",
+        "filmingTips": "Modern facility with clean architectural lines. Flexible configuration options. Multiple entry points for dynamic shots. Professional technical infrastructure.",
+        "internalLink": "/crew/da-nang-exhibition-center-videography"
+      },
+      {
+        "name": "Vinpearl Resort Da Nang",
+        "description": "5-star integrated resort with 3,500 sqm of convention space. Multiple ballrooms (800 capacity main hall), 12 meeting rooms. Beachfront property with water park and entertainment facilities.",
+        "filmingTips": "Luxury resort setting with beach access. Scenic landscaping with water features. Multiple venue options within property. Vibrant resort atmosphere.",
+        "internalLink": "/crew/da-nang-vinpearl-resort-videography"
+      },
+      {
+        "name": "Tien Son Sports Arena",
+        "description": "Major sports and exhibition venue with flexible space configurations. Total area 18,000 sqm with capacity up to 5,000. Modern facilities for sports events and large-scale conferences.",
+        "filmingTips": "Large-scale venue capability. Modern sports arena aesthetic. Impressive technical capabilities. Suitable for major event coverage.",
+        "internalLink": "/crew/da-nang-sports-arena-videography"
+      },
+      {
+        "name": "KOI Resort & Residence Conference Centre",
+        "description": "Contemporary resort with 2,800 sqm of event space. Modern ballroom (600 capacity), 8 breakout meeting rooms. Contemporary luxury design with resort amenities.",
+        "filmingTips": "Modern, upscale aesthetic. Clean contemporary design. Professional AV setup. Landscaped resort grounds for B-roll.",
+        "internalLink": "/crew/da-nang-koi-resort-videography"
+      },
+      {
+        "name": "InterContinental Da Nang Peninsula",
+        "description": "Ultra-luxury resort with 2,500 sqm of function space. Main ballroom 550 capacity, 6 meeting rooms, multi-level facilities. Private beach access and dramatic coastal architecture.",
+        "filmingTips": "Luxury architectural design with exceptional views. Private beach setting. Dramatic coastal backdrop. Premium aesthetic throughout.",
+        "internalLink": "/crew/da-nang-intercontinental-videography"
+      }
+    ]
+  },
+  "hochiminh": {
+    "displayName": "Ho Chi Minh City",
+    "introText": "Vietnam's dynamic business capital features modern convention centers in cutting-edge districts. HCMC offers world-class facilities ideal for major conferences, trade shows, and high-profile corporate events.",
+    "venues": [
+      {
+        "name": "Saigon Exhibition and Convention Center (SECC)",
+        "description": "Southern Vietnam's largest exhibition and convention facility. Four exhibition halls totaling 40,000 sqm, 15,000-20,000 sqm outdoor space, conference area seating 2,000+. Located in Phu My Hung, 15 min from city center.",
+        "filmingTips": "Massive modern facility with dramatic architectural elements. Extensive exhibition halls ideal for showcase filming. Indoor and outdoor spaces offer diverse backdrops. Professional technical infrastructure.",
+        "internalLink": "/crew/hochiminh-saigon-exhibition-videography"
+      },
+      {
+        "name": "SKYEXPO Vietnam International Convention Exhibition Center",
+        "description": "Premier convention center in District 12 offering elegant exhibition spaces. Total facility spans 32,000 sqm with 8 exhibition halls, 25 meeting rooms. Designed for international conferences.",
+        "filmingTips": "Contemporary design with elegant finishes. Multiple hall configurations. Professional lighting and AV. Modern business district location.",
+        "internalLink": "/crew/hochiminh-skyexpo-videography"
+      },
+      {
+        "name": "Bitexco Financial Tower Convention Centre",
+        "description": "Iconic 68-story tower with integrated convention facilities. Total event space 5,500 sqm with main hall (1,200 capacity), 12 meeting rooms, rooftop helipad venue. City views from 50+ floors.",
+        "filmingTips": "Iconic building with recognizable skyline profile. High-altitude venues with panoramic city views. Modern glass and steel architecture. Prestigious business address.",
+        "internalLink": "/crew/hochiminh-bitexco-tower-videography"
+      },
+      {
+        "name": "New World Hotel Ho Chi Minh City Convention Centre",
+        "description": "5-star luxury hotel with 3,800 sqm of function space. Main ballroom 750 capacity, 12 meeting rooms, pre-function areas. Historic Vietnamese architecture with modern amenities.",
+        "filmingTips": "Luxury hotel aesthetic. Elegant interior design with high-end finishes. Professional event staff visible. Sophisticated ambiance.",
+        "internalLink": "/crew/hochiminh-newworld-hotel-videography"
+      },
+      {
+        "name": "Diamond Plaza Convention Centre",
+        "description": "Modern shopping mall with integrated convention facility. 4,200 sqm of function space, main ballroom (800 capacity), 10 meeting rooms. Upscale commercial setting.",
+        "filmingTips": "Contemporary mall setting with mixed-use environment. Modern architectural design. Commercial backdrop with upscale aesthetic. Multiple entrance options.",
+        "internalLink": "/crew/hochiminh-diamond-plaza-videography"
+      },
+      {
+        "name": "Sheraton Saigon Hotel & Towers Convention Centre",
+        "description": "Premium 5-star hotel with 4,500 sqm of convention space. Grand Ballroom (1,000 capacity), 15 meeting rooms, spa and wellness facilities integrated.",
+        "filmingTips": "Luxury international hotel brand aesthetic. Premium finishing throughout. Professional hospitality backdrop. High-class ambiance.",
+        "internalLink": "/crew/hochiminh-sheraton-videography"
+      }
+    ]
+  },
+  "hanoi": {
+    "displayName": "Hanoi",
+    "introText": "Vietnam's historic capital combines ancient charm with cutting-edge convention infrastructure. Hanoi offers sophisticated venues ranging from traditional Vietnamese settings to ultra-modern facilities.",
+    "venues": [
+      {
+        "name": "Vietnam National Convention Center (NCC)",
+        "description": "Vietnam's largest convention center by area, covering 64 hectares. 65,000 sqm gross floor space, 12,000 sqm exhibit space, 70 meeting rooms (3,561 max capacity), 1,100 parking spaces. Main Meeting Hall is Southeast Asia's 3rd largest.",
+        "filmingTips": "Massive sprawling facility with multiple architectural elements. Modern convention infrastructure. Extensive parking and outdoor spaces. Large-scale event capability.",
+        "internalLink": "/crew/hanoi-national-convention-videography"
+      },
+      {
+        "name": "Vietnam Exhibition and Fair Centre",
+        "description": "Premier exhibition facility with 10,000 sqm of exhibit space. Modern design with multiple halls and comprehensive meeting facilities. Located in central Hanoi.",
+        "filmingTips": "Modern facility with clean design. Professional exhibition hall aesthetic. Contemporary lighting and technical setup. Urban location.",
+        "internalLink": "/crew/hanoi-exhibition-fair-videography"
+      },
+      {
+        "name": "Meliá Hanoi Convention Centre",
+        "description": "5-star hotel with 3,500 sqm of function space. Grand Ballroom seats 600+, 12 meeting rooms, spa and business center. Colonial-influenced architecture.",
+        "filmingTips": "Upscale hotel ambiance. Elegant ballroom with ornate details. Vietnamese cultural design elements. Professional service backdrop.",
+        "internalLink": "/crew/hanoi-melia-hotel-videography"
+      },
+      {
+        "name": "Hanoi Hilton Convention Centre",
+        "description": "5-star international hotel with 4,000 sqm of meeting space. Main ballroom (800 capacity), 14 meeting rooms, full hotel amenities. Premium location near Hoan Kiem Lake.",
+        "filmingTips": "Luxury hotel setting with upscale finishes. Professional hospitality atmosphere. Lake views from some venues. International brand prestige.",
+        "internalLink": "/crew/hanoi-hilton-videography"
+      },
+      {
+        "name": "Hanoi Aroma Convention Center",
+        "description": "Modern dedicated venue with 2,500 sqm of flexible space. Main hall seats 800, eight breakout rooms. Contemporary design with natural lighting.",
+        "filmingTips": "Modern, clean aesthetic. Flexible space configurations. Contemporary architectural style. Professional business environment.",
+        "internalLink": "/crew/hanoi-aroma-convention-videography"
+      },
+      {
+        "name": "Metropole Hotel Hanoi Convention Facilities",
+        "description": "Historic luxury hotel (opened 1901) with integrated modern convention space. 3,200 sqm of function area, main ballroom (550 capacity), 10 meeting rooms. Blends colonial heritage with contemporary amenities.",
+        "filmingTips": "Iconic historic hotel with architectural character. Colonial charm combined with modern finishes. Cultural landmark aesthetic. Prestigious venue backdrop.",
+        "internalLink": "/crew/hanoi-metropole-historic-videography"
+      }
+    ]
+  },
+  "penang": {
+    "displayName": "Penang",
+    "introText": "Malaysia's northern hub combines multicultural heritage with world-class convention facilities. Penang's new waterfront venues offer stunning coastal backdrops and cutting-edge MICE infrastructure.",
+    "venues": [
+      {
+        "name": "Penang Waterfront Convention Centre (PWCC)",
+        "description": "Malaysia's largest northern convention facility with 10,443 sqm of space. Column-free hall accommodates 10,000 guests. Opened October 2025 at The Light City with panoramic sea views and Penang Bridge backdrop.",
+        "filmingTips": "Stunning waterfront location with coastal panoramas. Iconic Penang Bridge visible from venue. Modern architecture with floor-to-ceiling windows. Ideal for premium event coverage.",
+        "internalLink": "/crew/penang-waterfront-convention-videography"
+      },
+      {
+        "name": "Setia SPICE Convention Centre",
+        "description": "Unique subterranean convention center 3 meters below ground. 4,500 sqm pillar-less ballroom, accommodates 400 round banquet tables or 8,000 theater seating. One of Malaysia's largest.",
+        "filmingTips": "Unique underground architecture. Modern subterranean aesthetic. Professional lighting compensates for lack of natural light. Contemporary luxury ambiance.",
+        "internalLink": "/crew/penang-spice-convention-videography"
+      },
+      {
+        "name": "The Andaman Penang MICE Facility",
+        "description": "5-star beachfront resort with 3,500 sqm of event space. Main ballroom (600 capacity), 8 meeting rooms, beach access, golf course views.",
+        "filmingTips": "Premium beachfront resort setting. Ocean views and private beach backdrop. Tropical landscaping. Upscale resort atmosphere.",
+        "internalLink": "/crew/penang-andaman-resort-videography"
+      },
+      {
+        "name": "Hard Rock Hotel Penang Convention Center",
+        "description": "Contemporary resort with 2,800 sqm of function space. Modern ballroom (500 capacity), 10 meeting rooms, pool and entertainment facilities.",
+        "filmingTips": "Modern rock music-themed aesthetic. Contemporary design with vibrant energy. Indoor and outdoor venue options. Younger demographic appeal.",
+        "internalLink": "/crew/penang-hard-rock-videography"
+      },
+      {
+        "name": "Pulau Tikus Convention Hall",
+        "description": "Community venue with 1,500 sqm of flexible space. Intimate setting with harbor views. Capacity 800 guests with 6 breakout rooms.",
+        "filmingTips": "Local maritime flavor. Harbor views with fishing village backdrop. Community event aesthetic. Authentic Penang character.",
+        "internalLink": "/crew/penang-pulau-tikus-videography"
+      },
+      {
+        "name": "Berjaya Georgetown Hotel Convention Centre",
+        "description": "Historic hotel in Georgetown with 2,200 sqm of function space. Heritage architecture meets modern amenities. Main ballroom 450 capacity, 8 meeting rooms.",
+        "filmingTips": "UNESCO World Heritage site location. Historic Georgetown architecture. Cultural landmark backdrop. Colonial charm combined with modern event setup.",
+        "internalLink": "/crew/penang-berjaya-historic-videography"
+      }
+    ]
+  },
+  "jakarta": {
+    "displayName": "Jakarta",
+    "introText": "Indonesia's sprawling capital offers diverse convention venues in a dynamic metropolis. Jakarta's facilities range from historic centers to ultra-modern integrated complexes.",
+    "venues": [
+      {
+        "name": "Jakarta Convention Center (JCC)",
+        "description": "Historic venue in Gelora Bung Karno Sports Complex (est. 1974). Exhibition Halls A (3,060 sqm) & B (6,075 sqm), combined 9,585 sqm. Plenary Hall, Assembly Hall, Cendrawasih Room. 10,000 guest catering capacity.",
+        "filmingTips": "Historic venue with proven track record hosting major international events. Sports complex location with Olympic heritage. Professional technical infrastructure from decades of use.",
+        "internalLink": "/crew/jakarta-convention-center-videography"
+      },
+      {
+        "name": "Jakarta International Expo (JIExpo)",
+        "description": "Modern exhibition complex with multiple pavilions. Total 45,000+ sqm of exhibition space across multiple halls. Integrated with commercial center.",
+        "filmingTips": "Large-scale modern facility. Multiple hall options for varied event types. Contemporary architectural design. Extensive exhibition space.",
+        "internalLink": "/crew/jakarta-jiexpo-videography"
+      },
+      {
+        "name": "The Peninsula Hotel Jakarta Convention Center",
+        "description": "Ultra-luxury 5-star hotel with 3,800 sqm of function space. Grand Ballroom (900 capacity), 12 meeting rooms, spa and fine dining.",
+        "filmingTips": "Luxury international hotel ambiance. Premium finishes and architectural detail. High-end service backdrop. Prestigious location.",
+        "internalLink": "/crew/jakarta-peninsula-hotel-videography"
+      },
+      {
+        "name": "Bali International Convention Centre (BICC)",
+        "description": "Modern dedicated convention venue with 8,500 sqm of function space. Main ballroom (700 capacity), 15 meeting rooms, pre-function areas.",
+        "filmingTips": "Purpose-built convention facility. Contemporary design with modern technical capabilities. Professional event environment.",
+        "internalLink": "/crew/jakarta-bicc-videography"
+      },
+      {
+        "name": "Pullman Jakarta Indonesia Kayan",
+        "description": "Business-focused 4-star hotel with 2,600 sqm of event space. Elegant ballroom (550 capacity), 10 meeting rooms, business center.",
+        "filmingTips": "Modern business hotel aesthetic. Contemporary design. Professional corporate environment.",
+        "internalLink": "/crew/jakarta-pullman-hotel-videography"
+      },
+      {
+        "name": "Sofitel Jakarta Menteng Convention Centre",
+        "description": "Premium 5-star French luxury hotel with 3,200 sqm of meeting space. Grand Ballroom (650 capacity), 9 meeting rooms, signature French hospitality.",
+        "filmingTips": "European luxury hotel aesthetic. Elegant French design influence. Sophisticated ambiance. Premium hospitality backdrop.",
+        "internalLink": "/crew/jakarta-sofitel-videography"
+      }
+    ]
+  },
+  "surabaya": {
+    "displayName": "Surabaya",
+    "introText": "Indonesia's second-largest city offers versatile convention venues in a vibrant commercial hub. Surabaya combines modern facilities with authentic Indonesian character.",
+    "venues": [
+      {
+        "name": "Dyandra Convention Center Surabaya (DCCS)",
+        "description": "Central Business District venue with 5,000 sqm of flexible space. 2,752 sqm Kahuripan Ballroom, eight meeting rooms. Modern multifunctional design.",
+        "filmingTips": "Modern convention facility in CBD location. Professional technical infrastructure. Clean contemporary design. Urban business environment.",
+        "internalLink": "/crew/surabaya-dyandra-convention-videography"
+      },
+      {
+        "name": "Grand City Convention & Exhibition Center",
+        "description": "Major expo center with 4,100 sqm exhibition space, 880 sqm pre-function, Level 3 Convention Hall 3,320 sqm (column-free, 3,500 theater capacity).",
+        "filmingTips": "Large-scale column-free exhibition hall. Modern architectural design. Extensive pre-function areas. Contemporary facility.",
+        "internalLink": "/crew/surabaya-grand-city-videography"
+      },
+      {
+        "name": "Supermal Surabaya Convention Center (SSCC)",
+        "description": "Shopping mall integrated convention venue. Two meeting rooms with 2,400 max capacity. Commercial mixed-use setting.",
+        "filmingTips": "Modern shopping mall aesthetic. Mixed commercial and event environment. Contemporary setting with retail backdrop.",
+        "internalLink": "/crew/surabaya-supermal-convention-videography"
+      },
+      {
+        "name": "Pakuwon Indah Golf & Country Club Convention Centre",
+        "description": "Golf resort venue with 2,800 sqm of function space. Elegant ballroom (500 capacity), 8 meeting rooms, golf course and landscaped gardens.",
+        "filmingTips": "Golf course backdrop with landscaped greenery. Resort setting ambiance. Natural outdoor spaces. Upscale leisure environment.",
+        "internalLink": "/crew/surabaya-pakuwon-golf-videography"
+      },
+      {
+        "name": "The Sunan Hotel Surabaya Convention Centre",
+        "description": "5-star hotel with 3,500 sqm of event space. Grand Ballroom (700 capacity), 12 meeting rooms, full hotel amenities.",
+        "filmingTips": "Luxury hotel ambiance. Professional event services backdrop. Elegant interior design. Premium hospitality setting.",
+        "internalLink": "/crew/surabaya-sunan-hotel-videography"
+      },
+      {
+        "name": "Surabaya Convention Hall Pakuwon Trade Centre",
+        "description": "Business center integrated venue with 1,800 sqm of flexible space. Modern design, 600 capacity main hall, 6 meeting rooms.",
+        "filmingTips": "Modern business facility aesthetic. Clean contemporary design. Professional business environment.",
+        "internalLink": "/crew/surabaya-pakuwon-trade-videography"
+      }
+    ]
+  },
+  "manila": {
+    "displayName": "Manila",
+    "introText": "The Philippines' bustling capital offers cutting-edge convention facilities in a vibrant metropolis. Manila's venues combine modern infrastructure with dynamic urban energy.",
+    "venues": [
+      {
+        "name": "SMX Convention Center Manila",
+        "description": "Philippines' largest exhibition and convention venue with 17,170 sqm of leasable space. 4 exhibition halls (9,130 sqm total, 10,240 capacity), 5 function rooms, 14 meeting rooms.",
+        "filmingTips": "Massive modern facility with multiple configuration options. Contemporary architectural design. Professional technical infrastructure. Large-scale event capability.",
+        "internalLink": "/crew/manila-smx-convention-videography"
+      },
+      {
+        "name": "Philippine International Convention Center (PICC)",
+        "description": "Asia's first international convention center (opened 1976, reopened Sept 2025 after renovations). Five building modules: Delegation Building, Secretariat, Plenary Hall, Reception Hall, The Forum.",
+        "filmingTips": "Historic landmark venue with architectural significance. Recently renovated with modern facilities. Prestigious reputation. Iconic building design.",
+        "internalLink": "/crew/manila-picc-videography"
+      },
+      {
+        "name": "World Trade Center Metro Manila Convention Centre",
+        "description": "Unique facility with 30,760 sqm total (13,560 sqm indoor, 17,200 sqm gated outdoor). Only Philippine venue capable of heavy equipment exhibitions (aviation, irrigation, agriculture).",
+        "filmingTips": "Unique indoor-outdoor hybrid space. Large-scale equipment display capability. Modern facility design. Flexible space configurations.",
+        "internalLink": "/crew/manila-wtc-convention-videography"
+      },
+      {
+        "name": "The Makati Shangri-La Convention Centre",
+        "description": "Ultra-luxury 5-star hotel with 5,500 sqm of function space. Grand Ballroom (1,200 capacity), 18 meeting rooms, spa and fine dining.",
+        "filmingTips": "Luxury international hotel ambiance. Premium architectural finishes. High-end service backdrop. Prestigious business address.",
+        "internalLink": "/crew/manila-shangri-la-videography"
+      },
+      {
+        "name": "Okada Manila Convention Facilities",
+        "description": "Premium resort with 4,200 sqm of event space. Multiple ballrooms and conference areas, entertainment facilities, luxury ambiance.",
+        "filmingTips": "Ultra-modern luxury resort setting. Contemporary design with gaming and entertainment backdrop. Premium aesthetic.",
+        "internalLink": "/crew/manila-okada-resort-videography"
+      },
+      {
+        "name": "Manila Marriott Hotel Convention Centre",
+        "description": "5-star international hotel with 4,500 sqm of function space. Grand Ballroom (900 capacity), 16 meeting rooms, full luxury amenities.",
+        "filmingTips": "International luxury hotel brand aesthetic. Professional hospitality setting. Premium event services. Upscale ambiance.",
+        "internalLink": "/crew/manila-marriott-videography"
+      }
+    ]
+  },
+  "cebu": {
+    "displayName": "Cebu",
+    "introText": "The Philippines' dynamic business hub offers modern convention venues serving Southeast Asia. Cebu combines urban sophistication with island charm, featuring state-of-the-art facilities.",
+    "venues": [
+      {
+        "name": "Cebu International Convention Center (CICC)",
+        "description": "Three-story convention center on 3.8 hectares in Mandaue City (28,000 sqm gross floor area). International Media Center, large Plenary Hall, Exhibition Hall, multiple meeting rooms. Built for 2006 ASEAN Summit.",
+        "filmingTips": "Purpose-built convention facility with professional infrastructure. Modern design with ceremonial significance. Exhibition hall with theatrical capabilities.",
+        "internalLink": "/crew/cebu-international-convention-videography"
+      },
+      {
+        "name": "SMX Convention Center Cebu (Seaside)",
+        "description": "Massive new facility set to open Q3 2026 with ₱5.3 billion investment. Expected to be flagship venue for Cebu's MICE industry with world-class amenities.",
+        "filmingTips": "State-of-the-art modern facility. Waterfront location with scenic backdrop. Premium contemporary design. Cutting-edge technical infrastructure.",
+        "internalLink": "/crew/cebu-smx-seaside-videography"
+      },
+      {
+        "name": "IEC Convention Center Cebu (IC3)",
+        "description": "Exhibit hall with theater seating capacity of 23,500 persons and 10-meter ceiling height. Dedicated exhibition space with professional technical setup.",
+        "filmingTips": "Massive exhibition hall perfect for large-scale product showcases. High ceilings for dramatic lighting. Professional technical capabilities.",
+        "internalLink": "/crew/cebu-ic3-convention-videography"
+      },
+      {
+        "name": "Marco Polo Hotel Cebu Convention Centre",
+        "description": "5-star hotel with 3,500 sqm of function space. Grand Ballroom (700 capacity), 12 meeting rooms, Ayala shopping mall adjacent.",
+        "filmingTips": "Luxury hotel setting with upscale aesthetic. Modern ballroom with contemporary design. Premium location in business district.",
+        "internalLink": "/crew/cebu-marco-polo-videography"
+      },
+      {
+        "name": "Waterfront Hotel Cebu Convention Facilities",
+        "description": "Waterfront resort with 2,800 sqm of event space. Ballroom (600 capacity), 8 meeting rooms, harbor views.",
+        "filmingTips": "Waterfront location with harbor backdrop. Resort ambiance with business facilities. Scenic outdoor spaces.",
+        "internalLink": "/crew/cebu-waterfront-hotel-videography"
+      },
+      {
+        "name": "Tops Business Club Convention Hall",
+        "description": "Modern business venue with 1,500 sqm of flexible space. Corporate aesthetic with meeting rooms and function halls.",
+        "filmingTips": "Contemporary business environment. Clean modern design. Professional corporate setting.",
+        "internalLink": "/crew/cebu-tops-business-videography"
+      }
+    ]
+  },
+  "davao": {
+    "displayName": "Davao",
+    "introText": "Mindanao's premier business destination offers modern convention venues in the Philippines' southernmost metropolis. Davao combines growth potential with established MICE infrastructure.",
+    "venues": [
+      {
+        "name": "SMX Convention Center Davao",
+        "description": "Largest privately-owned and -managed convention center in the Philippine south. 7,853 sqm within SM Lanang Premier Mall. 3 function rooms, 5 meeting rooms, 5,200 sqm total leasable space. 5,550 capacity max.",
+        "filmingTips": "Modern convention facility integrated with shopping complex. Professional MICE infrastructure. Multiple room configurations. Contemporary design.",
+        "internalLink": "/crew/davao-smx-convention-videography"
+      },
+      {
+        "name": "Davao Convention and Trade Center (DAVCON)",
+        "description": "Davao's premier venue since 1996. 7,000 sqm facility, 9 km from airport. Spacious ballrooms for 1,400 guests. Known for exceptional catering and elegant setting.",
+        "filmingTips": "Established venue with proven event hosting capability. Elegant setting with professional service. Proven track record.",
+        "internalLink": "/crew/davao-davcon-videography"
+      },
+      {
+        "name": "Park Inn by Radisson Davao Convention Centre",
+        "description": "Connected to SMX via footbridge. 4-star hotel with 2,500 sqm of function space. Modern ballroom (500 capacity), 10 meeting rooms.",
+        "filmingTips": "Modern hotel setting with contemporary design. Convenient mall connection. Professional hotel service backdrop.",
+        "internalLink": "/crew/davao-park-inn-videography"
+      },
+      {
+        "name": "Aboitiz Events Centre",
+        "description": "Corporate event venue with 3,200 sqm of flexible space. Modern design, capacity 1,200 guests, multiple breakout areas.",
+        "filmingTips": "Modern corporate event facility. Contemporary aesthetic. Professional environment.",
+        "internalLink": "/crew/davao-aboitiz-events-videography"
+      },
+      {
+        "name": "Halo Hotel Davao Convention Facilities",
+        "description": "Modern hotel with 2,000 sqm of event space. Contemporary ballroom (450 capacity), 8 meeting rooms, modern amenities.",
+        "filmingTips": "Contemporary hotel aesthetic. Modern design with clean lines. Professional hospitality setting.",
+        "internalLink": "/crew/davao-halo-hotel-videography"
+      },
+      {
+        "name": "Insular Hotel Davao Convention Centre",
+        "description": "Established 5-star hotel with 3,000 sqm of function space. Grand Ballroom (650 capacity), 12 meeting rooms, tropical setting.",
+        "filmingTips": "Luxury hotel ambiance. Tropical resort aesthetic. Professional service. Established reputation.",
+        "internalLink": "/crew/davao-insular-hotel-videography"
+      }
+    ]
+  },
+  "macau": {
+    "displayName": "Macau",
+    "introText": "Asia's gaming capital combines resort luxury with world-class convention facilities. Macau offers unique venues blending Portuguese heritage with modern Chinese hospitality.",
+    "venues": [
+      {
+        "name": "Galaxy International Convention Center (GICC)",
+        "description": "State-of-the-art 10,000 sqm pillar-less exhibition hall (7,000 delegate capacity). 4,000 sqm of flexible meeting space divisible into 3 halls. Programmable LED ceiling creates immersive experiences.",
+        "filmingTips": "Ultra-modern facility with cutting-edge technology. Column-free design allows unobstructed camera angles. Programmable LED systems enable customized lighting.",
+        "internalLink": "/crew/macau-galaxy-convention-videography"
+      },
+      {
+        "name": "Macau Tower Convention and Entertainment Centre",
+        "description": "Iconic 1,109-foot tower with integrated convention facilities. 16 meeting rooms, 1,853 sqm total exhibit space, 792 sqm single-floor exhibit capacity.",
+        "filmingTips": "Iconic landmark tower with recognizable silhouette. High-altitude venues with panoramic Macau views. Unique architectural appeal.",
+        "internalLink": "/crew/macau-tower-convention-videography"
+      },
+      {
+        "name": "Macau Fisherman's Wharf Convention & Exhibition Center",
+        "description": "Largest function hall in Macau Peninsula. 3 exhibition halls, 5 meeting rooms, 2 VIP rooms. 35,843 sqm gross floor area.",
+        "filmingTips": "Waterfront location with harbor atmosphere. Largest ballroom in Macau. Unique themed architectural design.",
+        "internalLink": "/crew/macau-fishermans-wharf-videography"
+      },
+      {
+        "name": "Studio City Macau Convention Facilities",
+        "description": "Integrated resort venue with 4,000+ sqm of event space. Flexible configurations, exclusive banquet to international conference. Entertainment complex setting.",
+        "filmingTips": "Entertainment resort atmosphere. Flexible space options. Modern design with entertainment backdrop.",
+        "internalLink": "/crew/macau-studio-city-videography"
+      },
+      {
+        "name": "Wynn Macau Convention Centre",
+        "description": "Ultra-luxury 5-star resort with 4,500 sqm of convention space. Grand Ballroom (800 capacity), 15 meeting rooms, premium amenities.",
+        "filmingTips": "Luxury resort aesthetic with sophisticated design. Premium finishes throughout. High-end hospitality backdrop.",
+        "internalLink": "/crew/macau-wynn-convention-videography"
+      },
+      {
+        "name": "MGM Grand Macau Convention Facilities",
+        "description": "Iconic resort with 3,800 sqm of event space. Multiple ballrooms and conference areas, entertainment and dining integrated.",
+        "filmingTips": "Iconic resort atmosphere. Entertainment venue backdrop. Professional gaming and hospitality setting.",
+        "internalLink": "/crew/macau-mgm-grand-videography"
+      }
+    ]
+  },
+  "taipei": {
+    "displayName": "Taipei",
+    "introText": "Taiwan's vibrant capital combines modern technology with cultural tradition. Taipei's convention centers are Asia-Pacific leaders hosting major international exhibitions and conferences.",
+    "venues": [
+      {
+        "name": "Taipei World Trade Center (TWTC)",
+        "description": "Four-in-one complex (est. 1986) with 23,450 sqm main showground divided into 4 areas, 1,300 standard booths. Exhibition Hall, International Convention Center, Trade Building, Grand Hyatt Taipei integrated.",
+        "filmingTips": "Established icon in Taipei 101 district. Modern mixed-use complex. Professional exhibition infrastructure. High-traffic business location.",
+        "internalLink": "/crew/taipei-world-trade-center-videography"
+      },
+      {
+        "name": "Taipei Nangang Exhibition Center (TaiNEX)",
+        "description": "Purpose-built exhibition complex with 23,104 sqm offering 1,312 standard-size vendor booths. Modern design in eastern Taipei.",
+        "filmingTips": "Modern exhibition facility with contemporary design. Spacious floor layouts. Professional technical setup. Eastern Taipei location.",
+        "internalLink": "/crew/taipei-nangang-exhibition-videography"
+      },
+      {
+        "name": "Grand Hotel Taipei Convention Centre",
+        "description": "Historic luxury hotel with integrated modern convention space. 4,500 sqm of function area, Grand Ballroom (800 capacity), 18 meeting rooms. Iconic palace-style architecture.",
+        "filmingTips": "Iconic palace-style architecture recognizable in Taipei skyline. Historic luxury aesthetic. Panoramic city views. Cultural landmark.",
+        "internalLink": "/crew/taipei-grand-hotel-videography"
+      },
+      {
+        "name": "Eslite Hotel Convention Centre",
+        "description": "Contemporary hotel with 3,200 sqm of event space. Modern design, flexible configurations, downtown Taipei location.",
+        "filmingTips": "Contemporary hotel aesthetic. Modern Taipei location. Clean architectural lines. Urban business setting.",
+        "internalLink": "/crew/taipei-eslite-hotel-videography"
+      },
+      {
+        "name": "Mandarin Oriental Taipei Convention Facilities",
+        "description": "Ultra-luxury 5-star hotel with 4,000 sqm of event space. Elegant ballroom (750 capacity), 14 meeting rooms, premium service.",
+        "filmingTips": "Luxury hotel brand aesthetic. Elegant architectural detail. Premium service backdrop. Upscale ambiance.",
+        "internalLink": "/crew/taipei-mandarin-oriental-videography"
+      },
+      {
+        "name": "Hotel Proverbs Taipei Convention Hall",
+        "description": "Boutique hotel with 2,500 sqm of function space. Modern design, creative event spaces, young demographic appeal.",
+        "filmingTips": "Contemporary boutique aesthetic. Creative modern design. Trendy Taipei setting.",
+        "internalLink": "/crew/taipei-proverbs-hotel-videography"
+      }
+    ]
+  },
+  "kaohsiung": {
+    "displayName": "Kaohsiung",
+    "introText": "Taiwan's dynamic southern port city features Asia's first smart convention center. Kaohsiung combines cutting-edge technology with strategic maritime location.",
+    "venues": [
+      {
+        "name": "Kaohsiung Exhibition Center (KEC)",
+        "description": "Asia's first smart convention center with wave-like architecture. South and North Halls, 1,500+ indoor/outdoor booths, conference rooms (20-2,000 capacity), 4,000 max simultaneous attendees.",
+        "filmingTips": "Iconic wave-shaped architecture with distinctive silhouette. Modern smart building features. Maritime precinct setting. Award-winning design.",
+        "internalLink": "/crew/kaohsiung-exhibition-center-videography"
+      },
+      {
+        "name": "Kaohsiung International Convention Centre",
+        "description": "Multi-function facility in Commerce and Trade Park. 3,500 sqm of flexible event space, modern amenities, MRT accessible.",
+        "filmingTips": "Modern facility with professional infrastructure. Accessible location. Contemporary design.",
+        "internalLink": "/crew/kaohsiung-international-convention-videography"
+      },
+      {
+        "name": "Chateau de Chine Hotel Kaohsiung Convention Centre",
+        "description": "5-star hotel with 4,200 sqm of function space. Grand Ballroom (900 capacity), 16 meeting rooms, upscale amenities.",
+        "filmingTips": "Luxury hotel aesthetic. Professional event service backdrop. Elegant interior design.",
+        "internalLink": "/crew/kaohsiung-chateau-hotel-videography"
+      },
+      {
+        "name": "Formosa International Hotel Convention Facilities",
+        "description": "Contemporary hotel with 3,000 sqm of event space. Modern ballroom (650 capacity), 12 meeting rooms.",
+        "filmingTips": "Contemporary hotel design. Professional business environment. Modern aesthetic.",
+        "internalLink": "/crew/kaohsiung-formosa-hotel-videography"
+      },
+      {
+        "name": "Tempus Hotel Kaohsiung Convention Hall",
+        "description": "Modern business hotel with 2,200 sqm of function space. Contemporary design, flexible configurations.",
+        "filmingTips": "Modern business hotel aesthetic. Clean contemporary design. Professional environment.",
+        "internalLink": "/crew/kaohsiung-tempus-hotel-videography"
+      },
+      {
+        "name": "Pier-2 Art Center Kaohsiung",
+        "description": "Unique cultural venue with flexible exhibition and event space. 8,000+ sqm in artistic setting. Waterfront location near harbor.",
+        "filmingTips": "Unique artistic venue aesthetic. Waterfront and harbor backdrop. Creative event setting. Cultural landmark.",
+        "internalLink": "/crew/kaohsiung-pier2-art-videography"
+      }
+    ]
+  },
+  "tianjin": {
+    "displayName": "Tianjin",
+    "introText": "China's dynamic port city offers world-class convention infrastructure. Tianjin's massive facilities combine state-of-the-art technology with strategic location near Beijing.",
+    "venues": [
+      {
+        "name": "National Convention and Exhibition Center (Tianjin)",
+        "description": "One of China's largest convention centers with 1.4 million sqm total area. Phase 1 (2021): 800,000 sqm total, 480,000 sqm exhibition area, 320,000 sqm supporting area. Phase 2 (2023): 540,000 sqm. 3 main structures with 32 exhibition halls.",
+        "filmingTips": "Massive modern facility with cutting-edge architecture. Expansive exhibition halls ideal for large-scale product showcases. Professional infrastructure.",
+        "internalLink": "/crew/tianjin-national-convention-videography"
+      },
+      {
+        "name": "Tianjin Meijiang Convention & Exhibition Center (MJCEC)",
+        "description": "Tianjin's largest exhibition venue (est. 2010). 356,200 sqm total, 100,000 sqm building space. 54,000 sqm indoor exhibition across 6 halls, 33,000 sqm outdoor, 8,000+ sqm conference space.",
+        "filmingTips": "Established major facility with proven event hosting. Multiple exhibition halls. Professional technical infrastructure.",
+        "internalLink": "/crew/tianjin-meijiang-convention-videography"
+      },
+      {
+        "name": "Tianjin Binhai International Convention Center",
+        "description": "Modern facility in Binhai New Area. 25,000 sqm of event space, main hall (2,000 capacity), 15 meeting rooms.",
+        "filmingTips": "Modern contemporary design. Professional conference infrastructure. Binhai district location.",
+        "internalLink": "/crew/tianjin-binhai-convention-videography"
+      },
+      {
+        "name": "Holiday Inn Tianjin Riverside Convention Centre",
+        "description": "5-star hotel with 3,500 sqm of function space. Grand Ballroom (700 capacity), 12 meeting rooms, riverside location.",
+        "filmingTips": "Luxury hotel aesthetic. River views backdrop. Professional hospitality setting.",
+        "internalLink": "/crew/tianjin-holiday-inn-riverside-videography"
+      },
+      {
+        "name": "Tianjin Hotel Convention Facilities",
+        "description": "Established luxury hotel with 3,200 sqm of event space. Historic 5-star property with modern convention amenities.",
+        "filmingTips": "Historic hotel with refined aesthetic. Established luxury brand. Traditional elegance with modern setup.",
+        "internalLink": "/crew/tianjin-hotel-convention-videography"
+      },
+      {
+        "name": "Raffles Hotel Tianjin Convention Centre",
+        "description": "Ultra-luxury 5-star hotel with 4,800 sqm of function space. Grand Ballroom (800 capacity), 16 meeting rooms, premium service.",
+        "filmingTips": "Ultra-luxury hotel ambiance. Premium architectural detail. High-end service backdrop.",
+        "internalLink": "/crew/tianjin-raffles-hotel-videography"
+      }
+    ]
+  },
+  "nanjing": {
+    "displayName": "Nanjing",
+    "introText": "China's historic capital blends ancient charm with modern convention infrastructure. Nanjing offers sophisticated venues between Xuanwu Lake and Purple Mountain.",
+    "venues": [
+      {
+        "name": "Nanjing International Expo Center",
+        "description": "Major exposition facility (completed 2000) between Xuanwu Lake and Purple Mountain. 126,000 sqm total, 45,000 sqm indoor exhibition space, 2,200 standard booths, 30,000 sqm outdoor space.",
+        "filmingTips": "Scenic lake and mountain location. Historic natural backdrop. Modern facility with cultural setting.",
+        "internalLink": "/crew/nanjing-expo-center-videography"
+      },
+      {
+        "name": "Nanjing International Convention Center",
+        "description": "Integrated facility with 6 exposition pavilions, 38 conference rooms, multi-function pavilion. 7,000 conference capacity, 5,000 banquet capacity. Zhonghua Hall seats 4,000 conference or 3,000 banquet.",
+        "filmingTips": "Extensive conference facility. Multiple pavilion options. Large-scale event capability.",
+        "internalLink": "/crew/nanjing-convention-center-videography"
+      },
+      {
+        "name": "Sheraton Nanjing Kingsley Hotel Convention Centre",
+        "description": "5-star luxury hotel with 4,200 sqm of function space. Grand Ballroom (900 capacity), 14 meeting rooms, premium amenities.",
+        "filmingTips": "Luxury international hotel brand. Premium finishes. Upscale ambiance.",
+        "internalLink": "/crew/nanjing-sheraton-kingsley-videography"
+      },
+      {
+        "name": "Nanjing International Youth Cultural Centre",
+        "description": "Modern cultural venue with 3,500 sqm of event space. Flexible configurations, cultural mission, contemporary design.",
+        "filmingTips": "Cultural center backdrop. Contemporary modern design. Flexible space options.",
+        "internalLink": "/crew/nanjing-youth-cultural-videography"
+      },
+      {
+        "name": "Sofitel Galaxy Nanjing Convention Centre",
+        "description": "5-star French-brand hotel with 3,800 sqm of function space. Elegant Ballroom (700 capacity), 12 meeting rooms.",
+        "filmingTips": "European luxury aesthetic. Elegant French-influenced design. Premium hospitality setting.",
+        "internalLink": "/crew/nanjing-sofitel-galaxy-videography"
+      },
+      {
+        "name": "Purple Mountain Hot Spring Resort Convention Hall",
+        "description": "Mountain resort venue with 2,600 sqm of function space. Hot spring amenities, scenic mountain backdrop, wellness focus.",
+        "filmingTips": "Mountain location with scenic backdrop. Resort wellness atmosphere. Natural landscape setting.",
+        "internalLink": "/crew/nanjing-purple-mountain-videography"
+      }
+    ]
+  },
+  "hangzhou": {
+    "displayName": "Hangzhou",
+    "introText": "China's e-commerce capital features cutting-edge convention centers hosting major international summits. Hangzhou combines technological sophistication with historic West Lake charm.",
+    "venues": [
+      {
+        "name": "Hangzhou International Expo Center",
+        "description": "G20 Summit venue (Sept 2016). 850,000 sqm total floor area, 90,000 sqm exhibition space, 10 exhibition halls on 3 floors. Column-free hall with 10,000 sqm. Located on Qiantang River south bank.",
+        "filmingTips": "Iconic G20 summit venue. Modern architectural design. River location with scenic backdrop. Professional summit-level infrastructure.",
+        "internalLink": "/crew/hangzhou-international-expo-videography"
+      },
+      {
+        "name": "Hangzhou Grand Convention & Exhibition Center",
+        "description": "Recent opening with first phase: 155,000 sqm exhibition area, 8 exhibition halls, 10 pavilions. Located on Huizhan North Road, Xiaoshan District.",
+        "filmingTips": "Ultra-modern facility with contemporary design. Massive exhibition halls. Professional technical infrastructure.",
+        "internalLink": "/crew/hangzhou-grand-convention-videography"
+      },
+      {
+        "name": "Hangzhou Grand Hotel Convention Centre",
+        "description": "5-star hotel with 4,500 sqm of function space. Grand Ballroom (850 capacity), 16 meeting rooms, West Lake views.",
+        "filmingTips": "Luxury hotel with famous West Lake views. Elegant design. Historic cultural location.",
+        "internalLink": "/crew/hangzhou-grand-hotel-videography"
+      },
+      {
+        "name": "Sheraton Grand Hangzhou Wetland Convention Centre",
+        "description": "5-star hotel in unique wetland setting. 3,800 sqm of event space. Grand Ballroom (700 capacity), 12 meeting rooms, nature-inspired design.",
+        "filmingTips": "Wetland natural environment backdrop. Contemporary hotel design. Eco-conscious aesthetic.",
+        "internalLink": "/crew/hangzhou-sheraton-wetland-videography"
+      },
+      {
+        "name": "West Lake Convention Center",
+        "description": "Scenic waterfront venue with 2,800 sqm of function space. Lake views, historic location, cultural significance.",
+        "filmingTips": "Famous West Lake backdrop. Cultural heritage setting. Scenic water views.",
+        "internalLink": "/crew/hangzhou-west-lake-convention-videography"
+      },
+      {
+        "name": "Alibaba Damo Academy Convention Hall",
+        "description": "Tech-forward facility reflecting Hangzhou's e-commerce culture. 2,200 sqm of flexible space. Modern tech-inspired design.",
+        "filmingTips": "Technology industry backdrop. Modern innovative design. E-commerce hub aesthetic.",
+        "internalLink": "/crew/hangzhou-damo-academy-videography"
+      }
+    ]
+  },
+  "wuhan": {
+    "displayName": "Wuhan",
+    "introText": "Central China's major hub offers expansive convention facilities along the Yangtze River. Wuhan's venues combine historic significance with modern MICE infrastructure.",
+    "venues": [
+      {
+        "name": "Wuhan International Expo Center",
+        "description": "Central China's largest venue. 150,000 sqm indoor, 40,000 sqm outdoor exhibition space. 65,000 sqm column-free hall. Multiple halls, comprehensive facilities.",
+        "filmingTips": "Massive modern facility perfect for large-scale exhibitions. Column-free design. Professional technical infrastructure.",
+        "internalLink": "/crew/wuhan-international-expo-videography"
+      },
+      {
+        "name": "Wuhan International Convention & Exhibition Center (WICEC)",
+        "description": "Historic venue (est. 1956, formerly Wuhan Exhibition Hall). 127,000 sqm building, 50,000 sqm exhibition space, 2,800 international booths. 15,000 sqm conference center, 40+ meeting rooms.",
+        "filmingTips": "Historic venue with proven international event hosting. Professional infrastructure. Established reputation.",
+        "internalLink": "/crew/wuhan-convention-exhibition-videography"
+      },
+      {
+        "name": "Greenland Wuhan Tianhe Convention & Exhibition Center",
+        "description": "Modern 15 million sqft complex. 26 halls, 6 lobby areas, 322,917 sqft outdoor exhibition grounds. Integrated hotel and commercial.",
+        "filmingTips": "Ultra-modern massive facility. Multiple venue options. Integrated resort complex.",
+        "internalLink": "/crew/wuhan-greenland-tianhe-videography"
+      },
+      {
+        "name": "Wuhan Marriott Hotel Convention Centre",
+        "description": "5-star international hotel with 4,200 sqm of function space. Grand Ballroom (800 capacity), 14 meeting rooms, river views.",
+        "filmingTips": "International luxury brand. Professional hospitality setting. River backdrop.",
+        "internalLink": "/crew/wuhan-marriott-videography"
+      },
+      {
+        "name": "The Westin Wuhan Convention Centre",
+        "description": "5-star luxury hotel with 3,900 sqm of event space. Elegant Ballroom (750 capacity), 13 meeting rooms, premium amenities.",
+        "filmingTips": "Luxury hotel ambiance. Professional service backdrop. Contemporary elegant design.",
+        "internalLink": "/crew/wuhan-westin-videography"
+      },
+      {
+        "name": "Sofitel Wuhan Central Convention Centre",
+        "description": "French luxury 5-star hotel with 3,600 sqm of function space. Sophisticated Ballroom (700 capacity), 11 meeting rooms.",
+        "filmingTips": "European luxury aesthetic. French design influence. Upscale ambiance.",
+        "internalLink": "/crew/wuhan-sofitel-central-videography"
+      }
+    ]
+  },
+  "chengdu": {
+    "displayName": "Chengdu",
+    "introText": "Southwest China's cultural capital offers modern convention facilities serving Asia-Pacific business. Chengdu combines ancient tradition with contemporary MICE infrastructure.",
+    "venues": [
+      {
+        "name": "Chengdu Century City New International Convention & Exhibition Center (CCNICEC)",
+        "description": "Massive facility (opened 2007) with 120,000 sqm exhibition space across 17 halls (110,000 sqm indoor, 30,000 sqm outdoor). Hosts hundreds of exhibitions annually with 30 million+ visitors to date.",
+        "filmingTips": "Massive modern facility with extensive exhibition halls. Professional MICE infrastructure. High-traffic venue.",
+        "internalLink": "/crew/chengdu-century-city-videography"
+      },
+      {
+        "name": "Chengdu International Exhibition & Convention Center (CIECC)",
+        "description": "Modern facility with 55,000 sqm of exhibition space across two large indoor halls. Accommodates 2,400 standard booths, outdoor exhibition area. Comprehensive conference facilities.",
+        "filmingTips": "Modern exhibition facility. Flexible space options. Professional technical setup.",
+        "internalLink": "/crew/chengdu-international-exhibition-videography"
+      },
+      {
+        "name": "Chengdu Jinyang Hotel Convention Centre",
+        "description": "5-star hotel with 4,500 sqm of function space. Grand Ballroom (900 capacity), 16 meeting rooms, luxury amenities.",
+        "filmingTips": "Luxury hotel aesthetic. Premium finishes. Professional event services.",
+        "internalLink": "/crew/chengdu-jinyang-hotel-videography"
+      },
+      {
+        "name": "Chengdu Sheraton Lido Hotel Convention Facilities",
+        "description": "International luxury 5-star hotel with 4,200 sqm of event space. Elegant Ballroom (800 capacity), 14 meeting rooms.",
+        "filmingTips": "International luxury brand. Professional hospitality setting. Upscale ambiance.",
+        "internalLink": "/crew/chengdu-sheraton-lido-videography"
+      },
+      {
+        "name": "Sofitel Chengdu Taihe Convention Centre",
+        "description": "French luxury 5-star hotel with 3,800 sqm of function space. Sophisticated Ballroom (700 capacity), 12 meeting rooms.",
+        "filmingTips": "European luxury aesthetic. French design elements. Premium service backdrop.",
+        "internalLink": "/crew/chengdu-sofitel-taihe-videography"
+      },
+      {
+        "name": "Wuhou International Panda Convention Hall",
+        "description": "Cultural venue celebrating Chengdu's panda heritage. 2,600 sqm of unique event space with thematic design elements.",
+        "filmingTips": "Unique cultural theme. Panda sanctuary location. Distinctive aesthetic backdrop.",
+        "internalLink": "/crew/chengdu-panda-convention-videography"
+      }
+    ]
+  },
+  "xian": {
+    "displayName": "Xi'an",
+    "introText": "China's ancient capital combines historic Silk Road heritage with modern convention infrastructure. Xi'an's venues blend millennia-old culture with contemporary MICE capabilities.",
+    "venues": [
+      {
+        "name": "Xi'an International Convention and Exhibition Center",
+        "description": "Modern facility opened May 2020 on Bahe River in Chanba Ecotope. First phase: 72,000 sqm net exhibition area including login hall, 2 multi-functional exhibition halls, 4 standard halls. Adjacent to Eurasian Economic Forum permanent site.",
+        "filmingTips": "Modern contemporary design. River location with scenic backdrop. Professional exhibition infrastructure.",
+        "internalLink": "/crew/xian-international-convention-videography"
+      },
+      {
+        "name": "Xi'an Qujiang International Convention & Exhibition Center",
+        "description": "Established venue (est. 2006) by Qujiang Cultural Industry Group. Hosts major exhibitions: Investment & Trade Forum, Pharm China, China Animal Husbandry Expo, and other international events.",
+        "filmingTips": "Established international venue with proven track record. Cultural district location. Professional MICE infrastructure.",
+        "internalLink": "/crew/xian-qujiang-convention-videography"
+      },
+      {
+        "name": "Xi'an Airport Convention & Exhibition Center",
+        "description": "Strategic location near Xi'an Xianyang International Airport. 78,000 sqm of space, modern facilities, convenient for international travelers.",
+        "filmingTips": "Airport proximity for international filming. Modern facility. Convenient business travel setting.",
+        "internalLink": "/crew/xian-airport-convention-videography"
+      },
+      {
+        "name": "Xi'an Greenland Pico International Convention & Exhibition Center",
+        "description": "30,000 sqm total built-up space. 4 exhibition halls, 4,000-person convention hall, 10 meeting rooms. Modern design.",
+        "filmingTips": "Modern facility with multiple configurations. Professional technical setup.",
+        "internalLink": "/crew/xian-greenland-pico-videography"
+      },
+      {
+        "name": "Sheraton Xi'an Convention Centre",
+        "description": "5-star international luxury hotel with 4,500 sqm of function space. Grand Ballroom (850 capacity), 16 meeting rooms, premium service.",
+        "filmingTips": "International luxury hotel brand. Premium aesthetic. Professional hospitality setting.",
+        "internalLink": "/crew/xian-sheraton-videography"
+      },
+      {
+        "name": "Ancient Xi'an Cultural Convention Center",
+        "description": "Unique venue celebrating Xi'an's 3,000+ year history. 2,800 sqm with traditional architectural elements. Tang Dynasty-inspired design.",
+        "filmingTips": "Historic cultural backdrop. Traditional Chinese architecture. Iconic Silk Road heritage setting.",
+        "internalLink": "/crew/xian-cultural-convention-videography"
+      }
+    ]
+  },
+  "qingdao": {
+    "displayName": "Qingdao",
+    "introText": "China's coastal business hub offers expansive convention facilities on the Bohai Sea. Qingdao combines German colonial heritage with modern Asian business infrastructure.",
+    "venues": [
+      {
+        "name": "Qingdao International Convention Center (QICC)",
+        "description": "Shandong's largest exhibition facility at Century Square. 250,000 sqm total area, 180,000 sqm exhibition space, 6,000+ standard booths, 10 standard halls, 1 multifunctional hall.",
+        "filmingTips": "Massive modern facility with extensive exhibition halls. Professional technical infrastructure. Large-scale event capability.",
+        "internalLink": "/crew/qingdao-international-convention-videography"
+      },
+      {
+        "name": "Hongdao International Convention & Exhibition Center",
+        "description": "Largest fair complex in Shandong Province. 150,000 sqm indoor exhibition area, 14 exhibition halls. Located in High-tech Development Zone.",
+        "filmingTips": "Massive exhibition facility. Multiple hall configurations. Professional MICE infrastructure.",
+        "internalLink": "/crew/qingdao-hongdao-videography"
+      },
+      {
+        "name": "Qingdao Marriott Hotel Convention Centre",
+        "description": "5-star international hotel with 4,200 sqm of function space. Grand Ballroom (800 capacity), 14 meeting rooms, waterfront location.",
+        "filmingTips": "International hotel brand. Waterfront location. Professional hospitality setting.",
+        "internalLink": "/crew/qingdao-marriott-videography"
+      },
+      {
+        "name": "Crowne Plaza Qingdao Convention Centre",
+        "description": "5-star luxury hotel with 3,900 sqm of event space. Elegant Ballroom (750 capacity), 13 meeting rooms, premium amenities.",
+        "filmingTips": "Luxury hotel aesthetic. Professional service. Contemporary design.",
+        "internalLink": "/crew/qingdao-crowne-plaza-videography"
+      },
+      {
+        "name": "Westin Qingdao Conference Centre",
+        "description": "International luxury 5-star hotel with 4,000 sqm of function space. Grand Ballroom (850 capacity), 15 meeting rooms.",
+        "filmingTips": "International luxury brand. Professional hospitality. Premium ambiance.",
+        "internalLink": "/crew/qingdao-westin-videography"
+      },
+      {
+        "name": "Qingdao Golden Coast Convention Hall",
+        "description": "Waterfront venue with 2,400 sqm of event space. Scenic coastal backdrop, modern facilities, beach access.",
+        "filmingTips": "Coastal waterfront location. Beach backdrop. Scenic ocean views.",
+        "internalLink": "/crew/qingdao-golden-coast-videography"
+      }
+    ]
+  },
+  "dalian": {
+    "displayName": "Dalian",
+    "introText": "Northeast China's premier port city combines maritime commerce with world-class convention infrastructure. Dalian's venues host major international forums and exhibitions.",
+    "venues": [
+      {
+        "name": "Dalian World Expo Center",
+        "description": "Expansive facility spanning 142,000 sqm. 60,000 sqm exhibition space, 3,000+ booths. Hosted 240+ exhibitions and 1,100 conferences since 2005. Conference center integration.",
+        "filmingTips": "Massive modern facility with extensive exhibition space. Professional MICE infrastructure. Proven event hosting.",
+        "internalLink": "/crew/dalian-world-expo-videography"
+      },
+      {
+        "name": "Dalian Xinghai Convention & Exhibition Center (DXCEC)",
+        "description": "Modern venue (est. 1996) with 86,000 sqm area, 100,000 sqm construction. Integrated exhibition, conference, trade, catering. City symbol location.",
+        "filmingTips": "Established venue with iconic status. Professional facility. Downtown Dalian location.",
+        "internalLink": "/crew/dalian-xinghai-convention-videography"
+      },
+      {
+        "name": "Dalian International Conference Center",
+        "description": "Summer Davos Forum main venue. 100,000 sqm total with 7,000-capacity conference center, 1,800-seat opera, exhibition center, CBD core location.",
+        "filmingTips": "Prestigious international summit venue. Multi-function complex. Opera venue adds cultural backdrop.",
+        "internalLink": "/crew/dalian-international-conference-videography"
+      },
+      {
+        "name": "Dalian Shangri-La Hotel Convention Centre",
+        "description": "Ultra-luxury 5-star hotel with 4,800 sqm of function space. Grand Ballroom (900 capacity), 16 meeting rooms, premium service.",
+        "filmingTips": "Ultra-luxury hotel brand. Premium architectural detail. High-end service backdrop.",
+        "internalLink": "/crew/dalian-shangri-la-videography"
+      },
+      {
+        "name": "Dalian Mercure Hotel Convention Facilities",
+        "description": "4-star business hotel with 2,800 sqm of event space. Modern Ballroom (600 capacity), 10 meeting rooms, efficient design.",
+        "filmingTips": "Modern business hotel aesthetic. Professional business environment.",
+        "internalLink": "/crew/dalian-mercure-hotel-videography"
+      },
+      {
+        "name": "Dalian Port Conference Center",
+        "description": "Waterfront venue celebrating maritime heritage. 2,400 sqm of event space with harbor views. Port district location.",
+        "filmingTips": "Maritime heritage backdrop. Port district character. Harbor views.",
+        "internalLink": "/crew/dalian-port-conference-videography"
+      }
+    ]
+  },
+  "guilin": {
+    "displayName": "Guilin",
+    "introText": "China's scenic paradise combines limestone karst landscapes with modern convention capabilities. Guilin offers picturesque venues ideal for destination events and cultural filming.",
+    "venues": [
+      {
+        "name": "Guilin International Conference & Exhibition Center (GICEC)",
+        "description": "Premier venue in downtown Guilin. Located on Li River at intersection of Li River Road and Fuxing Road. 150,000 sqm area, 52,800 sqm construction. Seven Star District location.",
+        "filmingTips": "Iconic Li River location with scenic karst backdrop. Cultural and natural heritage setting. Picturesque mountain views.",
+        "internalLink": "/crew/guilin-conference-exhibition-videography"
+      },
+      {
+        "name": "Sheraton Guilin Hotel Convention Centre",
+        "description": "5-star luxury hotel with 4,000 sqm of function space. Grand Ballroom (800 capacity), 14 meeting rooms, scenic views.",
+        "filmingTips": "International luxury brand. Mountain and river views. Premium hospitality setting.",
+        "internalLink": "/crew/guilin-sheraton-videography"
+      },
+      {
+        "name": "Guilin Paradise Resort Convention Centre",
+        "description": "Resort venue with 3,200 sqm of event space. Garden and landscape design, outdoor pavilions, natural setting.",
+        "filmingTips": "Resort ambiance with gardens. Natural landscape backdrop. Outdoor event options.",
+        "internalLink": "/crew/guilin-paradise-resort-videography"
+      },
+      {
+        "name": "Guilin Waterfall Hotel Convention Hall",
+        "description": "Scenic venue with 2,600 sqm of function space. Waterfall views, natural water feature backdrop, scenic location.",
+        "filmingTips": "Waterfall natural feature backdrop. Scenic natural setting. Unique geological backdrop.",
+        "internalLink": "/crew/guilin-waterfall-hotel-videography"
+      },
+      {
+        "name": "Li River Convention Center",
+        "description": "Waterfront venue directly on Li River. 2,400 sqm event space with river access, scenic views, outdoor ceremony options.",
+        "filmingTips": "Li River waterfront location. Iconic scenic backdrop. Outdoor riverside options.",
+        "internalLink": "/crew/guilin-li-river-convention-videography"
+      },
+      {
+        "name": "Guilin Karst Mountain Cultural Convention Hall",
+        "description": "Unique venue celebrating Guilin's natural heritage. 2,200 sqm with karst limestone architectural elements and geological displays.",
+        "filmingTips": "Unique geological theme. Karst mountain aesthetic. Natural heritage backdrop.",
+        "internalLink": "/crew/guilin-karst-cultural-videography"
+      }
+    ]
+  },
+  "chongqing": {
+    "displayName": "Chongqing",
+    "introText": "Western China's megacity offers one of the world's largest convention centers. Chongqing's facilities host major international exhibitions at the convergence of two great rivers.",
+    "venues": [
+      {
+        "name": "Chongqing International Expo Center",
+        "description": "One of world's ten largest convention centers and largest in Western China. 200,000+ sqm total area, 16 exhibition halls. Multi-function: exhibition, conference, commerce, recreation, hotels, high-level residence.",
+        "filmingTips": "Massive world-class facility perfect for large-scale international events. Professional infrastructure. Strategic river location.",
+        "internalLink": "/crew/chongqing-international-expo-videography"
+      },
+      {
+        "name": "Chongqing International Convention & Exhibition Center",
+        "description": "Major facility with comprehensive spaces. Multiple halls and meeting areas, professional technical setup.",
+        "filmingTips": "Professional convention facility. Modern infrastructure. Multiple venue options.",
+        "internalLink": "/crew/chongqing-convention-exhibition-videography"
+      },
+      {
+        "name": "Chongqing Sheraton Convention Centre",
+        "description": "5-star international luxury hotel with 4,500 sqm of function space. Grand Ballroom (850 capacity), 16 meeting rooms, premium service.",
+        "filmingTips": "International luxury hotel brand. Premium aesthetic. Professional hospitality setting.",
+        "internalLink": "/crew/chongqing-sheraton-videography"
+      },
+      {
+        "name": "Yangtze River Conference Center",
+        "description": "Strategic riverside venue celebrating Yangtze significance. 3,200 sqm with water views. Conference infrastructure for 2,000+ capacity.",
+        "filmingTips": "Yangtze River location. Strategic waterfront position. River views backdrop.",
+        "internalLink": "/crew/chongqing-yangtze-conference-videography"
+      },
+      {
+        "name": "Chongqing Holiday Inn Convention Centre",
+        "description": "4-star international hotel with 3,000 sqm of event space. Modern Ballroom (700 capacity), 12 meeting rooms, business amenities.",
+        "filmingTips": "International hotel brand. Modern business setting. Professional service.",
+        "internalLink": "/crew/chongqing-holiday-inn-videography"
+      },
+      {
+        "name": "Jialing Jiang River Confluence Convention Hall",
+        "description": "Unique venue at river confluence. 2,400 sqm of event space with dramatic water views. Strategic geographic location.",
+        "filmingTips": "Historic river confluence location. Dramatic water backdrop. Unique geographic significance.",
+        "internalLink": "/crew/chongqing-river-confluence-videography"
+      }
+    ]
+  },
+  "chengjiao": {
+    "displayName": "Chengjiao",
+    "introText": "China's business and finance capital offers world-class convention infrastructure. Shanghai hosts Asia's largest MICE venues with ultra-modern facilities, international standards, and excellent connectivity for major exhibitions and conferences.",
+    "venues": [
+      {
+        "name": "National Exhibition and Convention Center (NECC Shanghai)",
+        "description": "Asia's largest purpose-built exhibition center with 1.47 million sqm total area. 4 main exhibition halls spanning 462,000 sqm, 80+ meeting rooms, capacity for 100,000+ concurrent visitors. Located in Qingpu District with integrated convention facilities.",
+        "filmingTips": "Ultra-massive scale convention facility. Multiple hall configurations for varied shoots. Modern mega-structure with professional technical infrastructure. World-class MICE destination.",
+        "internalLink": "/crew/chengjiao-national-exhibition-videography"
+      },
+      {
+        "name": "Shanghai New International Expo Center",
+        "description": "Premier exhibition complex in Pudong District with 400,000+ sqm of exhibition space across 12 halls. Capacity for 1,000+ booths per hall. Modern glass architecture with comprehensive convention facilities and direct metro access.",
+        "filmingTips": "Contemporary mega-expo facility with glass architecture. Multiple configuration options. Professional international MICE infrastructure. Modern Pudong skyline backdrop.",
+        "internalLink": "/crew/chengjiao-new-international-expo-videography"
+      },
+      {
+        "name": "Shanghai Exhibition Centre",
+        "description": "Historic Soviet-style landmark built in 1955 with 93,000 sqm of exhibition space. Grand auditorium capacity 3,000+, 12 exhibition halls, distinctive architectural character. Prime location on Yan'an Road in Jing'an District.",
+        "filmingTips": "Iconic architectural landmark with historic character. Distinctive Soviet-influenced design. Grand auditorium with prestigious ambiance. Cultural heritage backdrop.",
+        "internalLink": "/crew/chengjiao-historic-exhibition-centre-videography"
+      },
+      {
+        "name": "Shanghai International Convention Center",
+        "description": "State-of-the-art convention facility in Pudong with 110,000 sqm of function space. 6 main halls accommodating 4,000+ delegates, 30+ meeting rooms, world-class technical systems. Adjacent to luxury hotels and financial district.",
+        "filmingTips": "Ultra-modern convention center with state-of-the-art systems. Premium finish quality. Business district location. International conference setting.",
+        "internalLink": "/crew/chengjiao-international-convention-videography"
+      },
+      {
+        "name": "Shanghai Everbright Convention & Exhibition Center",
+        "description": "Modern integrated venue with 26,000 sqm of flexible space. Multi-purpose design supporting exhibitions and conferences, 800+ booth capacity, contemporary architectural finishes. Located in Huangpu District.",
+        "filmingTips": "Modern versatile convention space. Contemporary design aesthetic. Multi-purpose flexibility. Urban business district setting.",
+        "internalLink": "/crew/chengjiao-everbright-convention-videography"
+      },
+      {
+        "name": "Shanghai Hongqiao State Guest Hotel Convention Center",
+        "description": "5-star luxury hotel convention facility with 8,500 sqm of event space in Changning District. Grand ballroom (1,200 capacity), 18 meeting rooms, diplomatic heritage architecture, premium guest services.",
+        "filmingTips": "Ultra-luxury diplomatic hotel aesthetic. Premium architectural finishes. Prestigious international setting. High-end hospitality backdrop.",
+        "internalLink": "/crew/chengjiao-hongqiao-state-hotel-videography"
+      }
+    ]
+  },
+  "los-angeles": {
+    "displayName": "Los Angeles",
+    "introText": "America's entertainment capital with world-class convention facilities. Los Angeles Convention Center hosts 350+ events annually. Premium venues combine cutting-edge technology with iconic LA backdrop for major conventions, trade shows, and corporate events.",
+    "venues": [
+      {
+        "name": "Los Angeles Convention Center (LACC)",
+        "description": "Premier convention venue in Downtown LA with 2.4 million sqft total space. 720,000 sqft exhibit halls (5 halls), 147,000 sqft meeting rooms (64 column-free), 299-seat presentation theatre. Future expansion adds 190,000 sqft.",
+        "filmingTips": "Downtown LA convention landmark. Column-free modern exhibit halls. Waterfront location capability.",
+        "internalLink": "/crew/los-angeles-convention-center-videography"
+      },
+      {
+        "name": "LACC West Hall",
+        "description": "275,000 sqft exhibition hall with column-free design. Flexible configurations from single large exhibition to multiple concurrent events. Direct access to downtown LA transportation.",
+        "filmingTips": "Large column-free space. Multiple configuration options. Downtown LA skyline access.",
+        "internalLink": "/crew/los-angeles-west-hall-videography"
+      },
+      {
+        "name": "LACC South Hall",
+        "description": "300,000+ sqft exhibition space with independent technical systems. Enables simultaneous major exhibitions with separate delegate flows and configurations.",
+        "filmingTips": "Independent exhibition facility. Parallel event capability. Modern technical systems.",
+        "internalLink": "/crew/los-angeles-south-hall-videography"
+      },
+      {
+        "name": "L.A. LIVE Entertainment Complex",
+        "description": "Integrated entertainment venue adjacent to LACC with restaurants, clubs, theaters, and outdoor plaza. Capacity 12,000+ in plaza for product launches and outdoor events.",
+        "filmingTips": "Integrated entertainment district. Urban plaza backdrop. Nightlife and dining integration.",
+        "internalLink": "/crew/los-angeles-live-complex-videography"
+      },
+      {
+        "name": "California Science Center - Event Spaces",
+        "description": "Unique cultural venue with flexible event spaces suitable for product launches, galas, and exhibitions. 55,000 sqft exhibition hall with modern technical systems.",
+        "filmingTips": "Cultural institution backdrop. Modern exhibition hall. Educational venue prestige.",
+        "internalLink": "/crew/los-angeles-science-center-videography"
+      },
+      {
+        "name": "Dorothy Chandler Pavilion - Grand Avenue",
+        "description": "Performing arts center with 3,200-seat theatre capacity. Suitable for major conferences, product launches, and entertainment events with world-class stage and technical infrastructure.",
+        "filmingTips": "Premier performing arts venue. 3,200 capacity theatre. World-class stage infrastructure.",
+        "internalLink": "/crew/los-angeles-chandler-pavilion-videography"
+      }
+    ]
+  },
+  "new-york": {
+    "displayName": "New York",
+    "introText": "World's premier business and culture hub with iconic MICE venues. New York hosts 150+ major events annually at Javits Center alone. Premium venues combine cutting-edge infrastructure with Manhattan's global business prestige.",
+    "venues": [
+      {
+        "name": "Jacob K. Javits Convention Center",
+        "description": "Iconic NYC convention landmark with 3.3 million sqft total space (840,000 sqft flexible exhibition on 4 levels). 102 meeting rooms (75+ renovated), 11 divisible halls from 814,400 sqft space. Added 1.2M sqft LEED Gold building (2021) with rooftop farm.",
+        "filmingTips": "Iconic Hudson River-adjacent venue. Crystal Palace 15-story atrium. Modern expansion with green infrastructure.",
+        "internalLink": "/crew/new-york-javits-convention-videography"
+      },
+      {
+        "name": "Javits Center Crystal Palace Atrium",
+        "description": "15-story 60,000 sqft entrance atrium with dramatic architectural presence. Pre-function space with 15,000+ capacity for receptions and networking events.",
+        "filmingTips": "Iconic dramatic architecture. Massive atrium for receptions. Memorable entrance experience.",
+        "internalLink": "/crew/new-york-crystal-palace-videography"
+      },
+      {
+        "name": "Javits Center River Pavilion",
+        "description": "40,000 sqft waterfront space overlooking Hudson River. Flexible venue for outdoor events, product launches, and waterfront receptions with river backdrop.",
+        "filmingTips": "Hudson River waterfront backdrop. Outdoor event capability. Scenic water views.",
+        "internalLink": "/crew/new-york-river-pavilion-videography"
+      },
+      {
+        "name": "Javits Center Special Events Hall",
+        "description": "3,200-seat theatre-style hall for keynotes, large presentations, and plenary sessions. Professional stage, lighting, and sound systems with audience management capability.",
+        "filmingTips": "Large plenary hall. Professional stage infrastructure. Theatre-style seating.",
+        "internalLink": "/crew/new-york-special-events-hall-videography"
+      },
+      {
+        "name": "Manhattan Convention Center",
+        "description": "Downtown Manhattan convention facility with flexible meeting spaces and exhibition hall. Prime Manhattan location with 500,000+ sqft of event space.",
+        "filmingTips": "Downtown Manhattan location. Financial district prestige. Urban venue setting.",
+        "internalLink": "/crew/new-york-manhattan-convention-videography"
+      },
+      {
+        "name": "Metropolitan Pavilion",
+        "description": "SoHo event space with 20,000 sqft flexible loft-style venue. Urban artistic backdrop suitable for corporate events, fashion shows, and cultural conferences.",
+        "filmingTips": "SoHo artistic neighborhood. Loft-style contemporary space. Creative urban backdrop.",
+        "internalLink": "/crew/new-york-metropolitan-pavilion-videography"
+      }
+    ]
+  },
+  "las-vegas": {
+    "displayName": "Las Vegas",
+    "introText": "World's leading convention destination with unmatched MICE infrastructure. Las Vegas hosts massive trade shows and conventions with 4.6+ million sqft of exhibition space. Premium venues combine cutting-edge technology with entertainment industry sophistication.",
+    "venues": [
+      {
+        "name": "Las Vegas Convention Center (LVCC)",
+        "description": "World's busiest convention facility with 4.6 million sqft space. 2.5 million sqft exhibit space, 225+ meeting rooms (20-2,500 capacity), Lobby Spectacular digital screen, 600,000 sqft technologically advanced exhibit space.",
+        "filmingTips": "World-class massive convention center. Ultra-modern digital displays. Industry-leading infrastructure.",
+        "internalLink": "/crew/las-vegas-convention-center-videography"
+      },
+      {
+        "name": "The Venetian Convention & Expo Center",
+        "description": "2.25 million sqft luxury resort and convention complex with 5 exhibit halls. Integrated hotel with premium accommodations and sophisticated event technology.",
+        "filmingTips": "Luxury resort setting. Integrated hotel venue. Premium Vegas aesthetic.",
+        "internalLink": "/crew/las-vegas-venetian-convention-videography"
+      },
+      {
+        "name": "Mandalay Bay Convention Center",
+        "description": "500,000+ sqft exhibition and event space integrated with 5-star Mandalay Bay Resort. Premium facilities with beach-themed backdrop and entertainment industry access.",
+        "filmingTips": "Luxury resort venue. Beach-themed atmosphere. Entertainment industry connections.",
+        "internalLink": "/crew/las-vegas-mandalay-bay-videography"
+      },
+      {
+        "name": "Wynn Encore Convention Space",
+        "description": "Premium luxury convention facilities with 425,000 sqft of flexible meeting and exhibition space. Ultra-luxury hotel integration with world-class technical systems.",
+        "filmingTips": "Ultra-luxury resort setting. Premium design aesthetic. High-end hospitality integration.",
+        "internalLink": "/crew/las-vegas-wynn-convention-videography"
+      },
+      {
+        "name": "The Expo @ World Market Center (WMCLV)",
+        "description": "315,000+ sqft space for trade shows, corporate events, concerts, and banquets. Professional exhibition infrastructure with workshops and training session capability.",
+        "filmingTips": "Professional exhibition facility. Versatile event capability. Las Vegas entertainment district.",
+        "internalLink": "/crew/las-vegas-world-market-expo-videography"
+      },
+      {
+        "name": "Las Vegas Marriott Convention Center",
+        "description": "400,000+ sqft integrated hotel convention facility. Multiple ballrooms, breakout rooms, and exhibition halls with premium hospitality service.",
+        "filmingTips": "Full-service hotel integration. Multiple ball ballroom options. Professional service standards.",
+        "internalLink": "/crew/las-vegas-marriott-convention-videography"
+      }
+    ]
+  },
+  "san-francisco": {
+    "displayName": "San Francisco",
+    "introText": "Tech industry capital with world-class MICE infrastructure. San Francisco hosts major technology conferences and business events. Venues combine modern design with Bay Area innovation prestige and scenic waterfront backdrops.",
+    "venues": [
+      {
+        "name": "Moscone Center",
+        "description": "San Francisco's premier convention venue with 2+ million sqft across 3 buildings (North, South, West). 738,000+ sqft flexible exhibit space, 107+ meeting rooms, 152,000 sqft pre-function lobbies.",
+        "filmingTips": "San Francisco iconic convention center. Massive flexible exhibit space. Tech conference prestige.",
+        "internalLink": "/crew/san-francisco-moscone-videography"
+      },
+      {
+        "name": "Moscone South Exhibition Halls",
+        "description": "400,000+ sqft exhibition complex with column-free design. Flexible configurations from single mega-exhibition to multiple concurrent events with independent technical systems.",
+        "filmingTips": "Column-free modern architecture. Large-scale exhibition capability. Independent systems.",
+        "internalLink": "/crew/san-francisco-moscone-south-videography"
+      },
+      {
+        "name": "San Francisco Marriott Marquis",
+        "description": "121,000+ sqft meeting and event space integrated with luxury downtown hotel. 39 meeting rooms, grand ballroom, professional technical systems for corporate meetings.",
+        "filmingTips": "Premium luxury hotel venue. Grand ballroom capacity. Downtown SF location.",
+        "internalLink": "/crew/san-francisco-marriott-marquis-videography"
+      },
+      {
+        "name": "Levi's Stadium",
+        "description": "Multi-purpose venue with 110,000+ sqft event space, capacity 10-10,000. Professional infrastructure supporting conferences, product launches, and major corporate events.",
+        "filmingTips": "Major sports venue conversion. Large capacity range. Professional technical infrastructure.",
+        "internalLink": "/crew/san-francisco-levis-stadium-videography"
+      },
+      {
+        "name": "Ferry Building Marketplace",
+        "description": "Historic waterfront venue with flexible event spaces, 80,000+ sqft. Unique San Francisco backdrop with bay views suitable for product launches and upscale events.",
+        "filmingTips": "Historic waterfront backdrop. San Francisco bay views. Marketplace integration.",
+        "internalLink": "/crew/san-francisco-ferry-building-videography"
+      },
+      {
+        "name": "Fort Mason Center - Great Hall",
+        "description": "Waterfront event space with 35,000 sqft capacity. Iconic San Francisco backdrop overlooking Golden Gate Bridge and bay for major conferences and galas.",
+        "filmingTips": "Golden Gate Bridge backdrop. Waterfront prestige. San Francisco iconic views.",
+        "internalLink": "/crew/san-francisco-fort-mason-videography"
       }
     ]
   }
