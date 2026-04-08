@@ -994,16 +994,16 @@
         "internalLink": "/crew/bordeaux-event-videography"
       },
       {
-        "name": "Pullman Bordeaux",
+        "name": "Bayonne Convention Center",
         "description": "Professional event and conference venue. Modern facilities with flexible layouts, AV systems, and catering services. Capacity varies by configuration.",
         "filmingTips": "Excellent location for corporate productions and large events. Professional venue infrastructure with good AV capabilities. Book well in advance for technical setup and rehearsals.",
-        "internalLink": "/crew/bordeaux-video-production"
+        "internalLink": "/crew/bordeaux-conference-videography"
       },
       {
-        "name": "Cité Mondiale Convention Space",
+        "name": "Bordeaux Convention Centre",
         "description": "Professional event and conference venue. Modern facilities with flexible layouts, AV systems, and catering services. Capacity varies by configuration.",
         "filmingTips": "Excellent location for corporate productions and large events. Professional venue infrastructure with good AV capabilities. Book well in advance for technical setup and rehearsals.",
-        "internalLink": "/crew/bordeaux-podcast-production"
+        "internalLink": "/crew/bordeaux-conference-videography"
       }
     ]
   },
@@ -1312,9 +1312,9 @@
         "internalLink": "/crew/brooklyn-conference-videography"
       },
       {
-        "name": "Prospect Park Pavilion & Event Spaces",
-        "description": "Professional event and conference venue. Modern facilities with flexible layouts, AV systems, and catering services. Capacity varies by configuration.",
-        "filmingTips": "Excellent location for corporate productions and large events. Professional venue infrastructure with good AV capabilities. Book well in advance for technical setup and rehearsals.",
+        "name": "Skylight Clarkson Square Event Space",
+        "description": "Historic industrial event space in DUMBO with soaring ceilings and flexible configurations. Professional venue for large-scale events.",
+        "filmingTips": "Excellent natural light from large windows. Great for overhead shots and wide-angle cinematography. Book early for optimal production setup.",
         "internalLink": "/crew/brooklyn-trade-show-videography"
       },
       {
@@ -1624,10 +1624,10 @@
         "internalLink": "/crew/cambridge-event-videography"
       },
       {
-        "name": "Newnham College Event Venue",
+        "name": "Cambridge University Conference Centre",
         "description": "Professional event and conference venue. Modern facilities with flexible layouts, AV systems, and catering services. Capacity varies by configuration.",
         "filmingTips": "Excellent location for corporate productions and large events. Professional venue infrastructure with good AV capabilities. Book well in advance for technical setup and rehearsals.",
-        "internalLink": "/crew/cambridge-video-production"
+        "internalLink": "/crew/cambridge-corporate-videography"
       },
       {
         "name": "Fitzwilliam Museum Auditorium",
@@ -2446,9 +2446,9 @@
         "internalLink": "/crew/dresden-conference-videography"
       },
       {
-        "name": "Frauenkirche Event Space",
-        "description": "Professional event and conference venue. Modern facilities with flexible layouts, AV systems, and catering services. Capacity varies by configuration.",
-        "filmingTips": "Excellent location for corporate productions and large events. Professional venue infrastructure with good AV capabilities. Book well in advance for technical setup and rehearsals.",
+        "name": "Hilton Dresden",
+        "description": "Modern luxury hotel with comprehensive conference and event facilities. Full-service venue with professional AV infrastructure.",
+        "filmingTips": "Professional venue with dedicated event staff. Good acoustics and lighting systems. Advance booking recommended for technical setup.",
         "internalLink": "/crew/dresden-trade-show-videography"
       },
       {
@@ -2932,9 +2932,9 @@
         "internalLink": "/crew/france-video-production"
       },
       {
-        "name": "Convention Bureau France",
-        "description": "Professional event and conference venue. Modern facilities with flexible layouts, AV systems, and catering services. Capacity varies by configuration.",
-        "filmingTips": "Excellent location for corporate productions and large events. Professional venue infrastructure with good AV capabilities. Book well in advance for technical setup and rehearsals.",
+        "name": "Palais des Congrès de Paris",
+        "description": "Major convention center in Paris with extensive facilities. Professional-grade infrastructure for large events.",
+        "filmingTips": "State-of-the-art facilities with comprehensive AV support. Book early for technical setup.",
         "internalLink": "/crew/france-podcast-production"
       }
     ]
@@ -3208,10 +3208,10 @@
         "internalLink": "/crew/hamburg-trade-show-videography"
       },
       {
-        "name": "Alster Tower Convention Space",
+        "name": "InterContinental Hamburg",
         "description": "Professional event and conference venue. Modern facilities with flexible layouts, AV systems, and catering services. Capacity varies by configuration.",
         "filmingTips": "Excellent location for corporate productions and large events. Professional venue infrastructure with good AV capabilities. Book well in advance for technical setup and rehearsals.",
-        "internalLink": "/crew/hamburg-corporate-videography"
+        "internalLink": "/crew/hamburg-event-videography"
       },
       {
         "name": "Steigenberger Hotel Hamburg",
@@ -3304,9 +3304,9 @@
         "internalLink": "/crew/hannover-event-videography"
       },
       {
-        "name": "Maschsee Event Space",
-        "description": "Professional event and conference venue. Modern facilities with flexible layouts, AV systems, and catering services. Capacity varies by configuration.",
-        "filmingTips": "Excellent location for corporate productions and large events. Professional venue infrastructure with good AV capabilities. Book well in advance for technical setup and rehearsals.",
+        "name": "Hannover Congress Centrum (HCC)",
+        "description": "Modern convention center with state-of-the-art facilities. Multiple halls and flexible event spaces for large-scale conferences.",
+        "filmingTips": "Professional convention infrastructure with excellent AV systems. Book in advance for technical rehearsals and production setup.",
         "internalLink": "/crew/hannover-video-production"
       },
       {
@@ -3466,10 +3466,10 @@
         "internalLink": "/crew/honolulu-corporate-videography"
       },
       {
-        "name": "Diamond Head Event Venues",
+        "name": "Honolulu Convention Center",
         "description": "Professional event and conference venue. Modern facilities with flexible layouts, AV systems, and catering services. Capacity varies by configuration.",
         "filmingTips": "Excellent location for corporate productions and large events. Professional venue infrastructure with good AV capabilities. Book well in advance for technical setup and rehearsals.",
-        "internalLink": "/crew/honolulu-event-videography"
+        "internalLink": "/crew/honolulu-conference-videography"
       },
       {
         "name": "Iolani Palace Auditorium",
@@ -3478,7 +3478,7 @@
         "internalLink": "/crew/honolulu-video-production"
       },
       {
-        "name": "Duke Kahanamoku Statue Event Area",
+        "name": "Hilton Hawaiian Village Convention",
         "description": "Professional event and conference venue. Modern facilities with flexible layouts, AV systems, and catering services. Capacity varies by configuration.",
         "filmingTips": "Excellent location for corporate productions and large events. Professional venue infrastructure with good AV capabilities. Book well in advance for technical setup and rehearsals.",
         "internalLink": "/crew/honolulu-podcast-production"
@@ -3910,9 +3910,9 @@
     "introText": "We film at Leeds's modern and historic event venues, from convention centers to cultural institutions. Our Leeds crews specialize in UK business events, conferences, and corporate gatherings.",
     "venues": [
       {
-        "name": "Leeds Convention Centre",
-        "description": "Professional event and conference venue. Modern facilities with flexible layouts, AV systems, and catering services. Capacity varies by configuration.",
-        "filmingTips": "Excellent location for corporate productions and large events. Professional venue infrastructure with good AV capabilities. Book well in advance for technical setup and rehearsals.",
+        "name": "Conference Leeds",
+        "description": "Established convention and conference center with 35+ years of experience. Full-service venue with flexible event spaces and comprehensive facilities.",
+        "filmingTips": "Professional venue infrastructure with experienced event staff. Book well in advance for technical setup and production rehearsals.",
         "internalLink": "/crew/leeds-conference-videography"
       },
       {
@@ -4462,9 +4462,9 @@
         "internalLink": "/crew/manchester-conference-videography"
       },
       {
-        "name": "Convention Complex Manchester",
-        "description": "Professional event and conference venue. Modern facilities with flexible layouts, AV systems, and catering services. Capacity varies by configuration.",
-        "filmingTips": "Excellent location for corporate productions and large events. Professional venue infrastructure with good AV capabilities. Book well in advance for technical setup and rehearsals.",
+        "name": "Manchester Central Convention Centre",
+        "description": "Modern convention center with flexible event spaces. Professional facilities for conferences and exhibitions.",
+        "filmingTips": "Good lighting and AV infrastructure. Experienced event coordination. Advance booking recommended.",
         "internalLink": "/crew/manchester-trade-show-videography"
       },
       {
@@ -4756,9 +4756,9 @@
         "internalLink": "/crew/memphis-conference-videography"
       },
       {
-        "name": "FedExForum Event Space",
-        "description": "Professional event and conference venue. Modern facilities with flexible layouts, AV systems, and catering services. Capacity varies by configuration.",
-        "filmingTips": "Excellent location for corporate productions and large events. Professional venue infrastructure with good AV capabilities. Book well in advance for technical setup and rehearsals.",
+        "name": "Memphis Convention Center",
+        "description": "Large multi-purpose convention center with extensive event facilities. Professional-grade infrastructure for corporate events.",
+        "filmingTips": "Good lighting systems and flexible layouts. Professional event coordination. Book early for technical setup and rehearsals.",
         "internalLink": "/crew/memphis-trade-show-videography"
       },
       {
@@ -4774,10 +4774,10 @@
         "internalLink": "/crew/memphis-event-videography"
       },
       {
-        "name": "Graceland Event Space",
-        "description": "Professional event and conference venue. Modern facilities with flexible layouts, AV systems, and catering services. Capacity varies by configuration.",
-        "filmingTips": "Excellent location for corporate productions and large events. Professional venue infrastructure with good AV capabilities. Book well in advance for technical setup and rehearsals.",
-        "internalLink": "/crew/memphis-video-production"
+        "name": "Peabody Memphis Hotel Conference",
+        "description": "Luxury hotel with premium conference facilities and ballrooms. Professional event services and catering.",
+        "filmingTips": "Elegant ballrooms with good lighting. Experienced event staff. Coordinate with hotel for technical requirements.",
+        "internalLink": "/crew/memphis-event-videography"
       },
       {
         "name": "Shelby Park Convention Area",
@@ -4822,9 +4822,9 @@
         "internalLink": "/crew/mesa-video-production"
       },
       {
-        "name": "Downtown Mesa Event Center",
-        "description": "Professional event and conference venue. Modern facilities with flexible layouts, AV systems, and catering services. Capacity varies by configuration.",
-        "filmingTips": "Excellent location for corporate productions and large events. Professional venue infrastructure with good AV capabilities. Book well in advance for technical setup and rehearsals.",
+        "name": "Hilton Mesa",
+        "description": "Modern hotel with comprehensive conference facilities. Multiple meeting spaces and event venues.",
+        "filmingTips": "Good AV systems and flexible layouts. Professional event staff. Book ahead for technical requirements.",
         "internalLink": "/crew/mesa-podcast-production"
       }
     ]
@@ -5272,10 +5272,10 @@
         "internalLink": "/crew/nevada-corporate-videography"
       },
       {
-        "name": "Lake Tahoe Event Venues",
+        "name": "Las Vegas Convention Center",
         "description": "Professional event and conference venue. Modern facilities with flexible layouts, AV systems, and catering services. Capacity varies by configuration.",
         "filmingTips": "Excellent location for corporate productions and large events. Professional venue infrastructure with good AV capabilities. Book well in advance for technical setup and rehearsals.",
-        "internalLink": "/crew/nevada-event-videography"
+        "internalLink": "/crew/nevada-conference-videography"
       },
       {
         "name": "Nevada State Fair Convention",
@@ -5284,10 +5284,10 @@
         "internalLink": "/crew/nevada-video-production"
       },
       {
-        "name": "Sparks Convention Center",
+        "name": "Reno Convention Center",
         "description": "Professional event and conference venue. Modern facilities with flexible layouts, AV systems, and catering services. Capacity varies by configuration.",
         "filmingTips": "Excellent location for corporate productions and large events. Professional venue infrastructure with good AV capabilities. Book well in advance for technical setup and rehearsals.",
-        "internalLink": "/crew/nevada-podcast-production"
+        "internalLink": "/crew/nevada-video-production"
       }
     ]
   },
@@ -6316,10 +6316,10 @@
         "internalLink": "/crew/quebec-city-trade-show-videography"
       },
       {
-        "name": "Montmorency Event Space",
-        "description": "Professional event and conference venue. Modern facilities with flexible layouts, AV systems, and catering services. Capacity varies by configuration.",
-        "filmingTips": "Excellent location for corporate productions and large events. Professional venue infrastructure with good AV capabilities. Book well in advance for technical setup and rehearsals.",
-        "internalLink": "/crew/quebec-city-corporate-videography"
+        "name": "Hilton Québec",
+        "description": "Modern hotel with comprehensive conference center. Multiple meeting rooms and flexible event spaces.",
+        "filmingTips": "Professional venue with AV support. Good natural light in main spaces. Book ahead for technical setup.",
+        "internalLink": "/crew/quebeccity-corporate-videography"
       },
       {
         "name": "Vieux Québec Convention Area",
@@ -6697,7 +6697,7 @@
         "name": "Auditorium Parco della Musica Event Space",
         "description": "Professional event and conference venue. Modern facilities with flexible layouts, AV systems, and catering services. Capacity varies by configuration.",
         "filmingTips": "Excellent location for corporate productions and large events. Professional venue infrastructure with good AV capabilities. Book well in advance for technical setup and rehearsals.",
-        "internalLink": "/crew/rome-corporate-videography"
+        "internalLink": "/crew/rome-trade-show-videography"
       },
       {
         "name": "Hilton Rome Cavalieri Conference",
@@ -6706,10 +6706,10 @@
         "internalLink": "/crew/rome-event-videography"
       },
       {
-        "name": "Vatican Area Convention Space",
+        "name": "Rome Convention Centre",
         "description": "Professional event and conference venue. Modern facilities with flexible layouts, AV systems, and catering services. Capacity varies by configuration.",
         "filmingTips": "Excellent location for corporate productions and large events. Professional venue infrastructure with good AV capabilities. Book well in advance for technical setup and rehearsals.",
-        "internalLink": "/crew/rome-video-production"
+        "internalLink": "/crew/rome-conference-videography"
       },
       {
         "name": "Colosseum Convention Area",
@@ -6748,9 +6748,9 @@
         "internalLink": "/crew/rotterdam-event-videography"
       },
       {
-        "name": "Euromast Event Space",
-        "description": "Professional event and conference venue. Modern facilities with flexible layouts, AV systems, and catering services. Capacity varies by configuration.",
-        "filmingTips": "Excellent location for corporate productions and large events. Professional venue infrastructure with good AV capabilities. Book well in advance for technical setup and rehearsals.",
+        "name": "Hilton Rotterdam",
+        "description": "Modern luxury hotel on the Maas River. Comprehensive conference and event facilities with river views.",
+        "filmingTips": "Great venue for scenic shots with river backdrop. Professional AV systems. Advance booking for technical support.",
         "internalLink": "/crew/rotterdam-video-production"
       },
       {
@@ -6874,10 +6874,10 @@
         "internalLink": "/crew/san-antonio-event-videography"
       },
       {
-        "name": "Alamo Convention Space",
-        "description": "Professional event and conference venue. Modern facilities with flexible layouts, AV systems, and catering services. Capacity varies by configuration.",
-        "filmingTips": "Excellent location for corporate productions and large events. Professional venue infrastructure with good AV capabilities. Book well in advance for technical setup and rehearsals.",
-        "internalLink": "/crew/san-antonio-video-production"
+        "name": "Westin Riverwalk San Antonio Conference",
+        "description": "Premium hotel on the famous River Walk. Full conference center with professional event services.",
+        "filmingTips": "Excellent venue for outdoor/indoor combined shoots on the River Walk. Professional event coordination.",
+        "internalLink": "/crew/sanantonio-event-videography"
       },
       {
         "name": "La Villita Event Facilities",
@@ -7006,10 +7006,10 @@
         "internalLink": "/crew/san-jose-video-production"
       },
       {
-        "name": "Downtown San Jose Convention Facilities",
-        "description": "Professional event and conference venue. Modern facilities with flexible layouts, AV systems, and catering services. Capacity varies by configuration.",
-        "filmingTips": "Excellent location for corporate productions and large events. Professional venue infrastructure with good AV capabilities. Book well in advance for technical setup and rehearsals.",
-        "internalLink": "/crew/san-jose-podcast-production"
+        "name": "Marriott San Jose Convention",
+        "description": "Large hotel with extensive conference center. Multiple ballrooms and flexible event spaces.",
+        "filmingTips": "Professional venue with good lighting. AV systems available. Coordinate with hotel staff.",
+        "internalLink": "/crew/sanjose-podcast-production"
       }
     ]
   },
@@ -7540,10 +7540,10 @@
         "internalLink": "/crew/tallahassee-corporate-videography"
       },
       {
-        "name": "Florida Historic Capitol Event Space",
-        "description": "Professional event and conference venue. Modern facilities with flexible layouts, AV systems, and catering services. Capacity varies by configuration.",
-        "filmingTips": "Excellent location for corporate productions and large events. Professional venue infrastructure with good AV capabilities. Book well in advance for technical setup and rehearsals.",
-        "internalLink": "/crew/tallahassee-event-videography"
+        "name": "Tallahassee Civic Center",
+        "description": "Multi-purpose civic center with event facilities. Professional venue for conferences and exhibitions.",
+        "filmingTips": "Good venue infrastructure. Professional event coordination available. Book early.",
+        "internalLink": "/crew/tallahassee-corporate-videography"
       },
       {
         "name": "Challenger Learning Center Event Space",
@@ -7858,7 +7858,7 @@
     "introText": "We film at Tulsa's leading event venues, from modern convention centers to cultural landmarks. Our Tulsa crews understand local venue logistics and deliver professional coverage for corporate events, conferences, and special occasions.",
     "venues": [
       {
-        "name": "Tulsa Theater & Convention Space",
+        "name": "Brady Theater Event Space",
         "description": "Professional event and conference venue. Modern facilities with flexible layouts, AV systems, and catering services. Capacity varies by configuration.",
         "filmingTips": "Excellent location for corporate productions and large events. Professional venue infrastructure with good AV capabilities. Book well in advance for technical setup and rehearsals.",
         "internalLink": "/crew/tulsa-conference-videography"
@@ -8086,9 +8086,9 @@
         "internalLink": "/crew/vienna-corporate-videography"
       },
       {
-        "name": "Stephansdom Event Space",
-        "description": "Professional event and conference venue. Modern facilities with flexible layouts, AV systems, and catering services. Capacity varies by configuration.",
-        "filmingTips": "Excellent location for corporate productions and large events. Professional venue infrastructure with good AV capabilities. Book well in advance for technical setup and rehearsals.",
+        "name": "Vienna Marriott Hotel Conference",
+        "description": "Luxury hotel with extensive conference facilities. Professional event services and multiple meeting spaces.",
+        "filmingTips": "Modern hotel with good AV systems. Elegant spaces for corporate productions. Book in advance.",
         "internalLink": "/crew/vienna-event-videography"
       },
       {
