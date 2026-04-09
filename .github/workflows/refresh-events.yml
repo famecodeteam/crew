@@ -17,11 +17,17 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: main
 
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '22'
+
+      - name: Pull latest changes
+        run: git pull origin main
 
       - name: Fetch Ticketmaster events
         env:
@@ -61,21 +67,11 @@ jobs:
             top.forEach(t => console.log('  ' + t.name + ': ' + t.count));
           "
 
-      - name: Commit updated events.json
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          # Save the generated events.json outside the git directory
-          cp events.json /tmp/events.json
-          # Pull latest from remote to sync with any manual edits
-          git fetch origin main
-          git reset --hard origin/main
-          # Restore the generated events.json
-          cp /tmp/events.json events.json
-          git add events.json
-          if git diff --staged --quiet; then
-            echo "No changes to commit"
-          else
-            git commit -m "chore: daily events refresh $(date -u +'%Y-%m-%d')"
-            git push origin HEAD:main
-          fi
+      - name: Commit and push events.json
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: daily events refresh"
+          file_pattern: 'events.json'
+          commit_user_name: "github-actions[bot]"
+          commit_user_email: "41898282+github-actions[bot]@users.noreply.github.com"
+          push_options: '--force-with-lease'
