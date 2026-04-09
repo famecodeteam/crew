@@ -1,3215 +1,1213 @@
 {
   "abudhabi": {
     "displayName": "Abu Dhabi",
-    "lastUpdated": "2026-04-09T11:19:42.774Z",
+    "lastUpdated": "2026-04-09T11:30:23.004Z",
     "eventCount": 0,
     "events": []
   },
   "albany": {
     "displayName": "Albany",
-    "lastUpdated": "2026-04-09T11:19:44.673Z",
+    "lastUpdated": "2026-04-09T11:30:23.616Z",
     "eventCount": 0,
     "events": []
   },
   "albuquerque": {
     "displayName": "Albuquerque",
-    "lastUpdated": "2026-04-09T11:19:46.604Z",
+    "lastUpdated": "2026-04-09T11:30:24.182Z",
     "eventCount": 0,
     "events": []
   },
   "alkhobar": {
     "displayName": "Al Khobar",
-    "lastUpdated": "2026-04-09T11:19:48.392Z",
+    "lastUpdated": "2026-04-09T11:30:24.834Z",
     "eventCount": 0,
     "events": []
   },
   "allentown": {
     "displayName": "Allentown",
-    "lastUpdated": "2026-04-09T11:19:50.186Z",
+    "lastUpdated": "2026-04-09T11:30:25.437Z",
     "eventCount": 0,
     "events": []
   },
   "amsterdam": {
     "displayName": "Amsterdam",
-    "lastUpdated": "2026-04-09T11:19:52.155Z",
-    "eventCount": 2,
-    "events": [
-      {
-        "id": "Z698xZbpZ16vFN_gPz",
-        "name": "Hatsune Miku: Miku Expo 2026 Europe",
-        "url": "https://www.ticketmaster.nl/event/hatsune-miku-miku-expo-2026-europe-tickets/1223675978?language=en-us",
-        "date": "2026-11-15",
-        "time": "20:00:00",
-        "venueName": null,
-        "venueAddress": "Arena Boulevard 590",
-        "venueCity": "Amsterdam",
-        "venueCountry": "Netherlands",
-        "segment": "Music",
-        "genre": "Rock",
-        "subGenre": "Pop",
-        "image": "https://s1.ticketm.net/dam/a/9c2/0c0137a4-0f82-422f-8142-b1c76596c9c2_SOURCE",
-        "priceRange": null
-      },
-      {
-        "id": "Z698xZbpZ1koy8p46",
-        "name": "Hatsune Miku: Miku Expo 2026 Europe | VIP Packages",
-        "url": "https://www.ticketmaster.nl/event/hatsune-miku-miku-expo-2026-europe-%7C-vip-packages-tickets/479416547?language=en-us",
-        "date": "2026-11-15",
-        "time": "20:00:00",
-        "venueName": null,
-        "venueAddress": "Arena Boulevard 590",
-        "venueCity": "Amsterdam",
-        "venueCountry": "Netherlands",
-        "segment": "Music",
-        "genre": "Rock",
-        "subGenre": "Pop",
-        "image": "https://s1.ticketm.net/dam/a/9c2/0c0137a4-0f82-422f-8142-b1c76596c9c2_SOURCE",
-        "priceRange": null
-      }
-    ]
+    "lastUpdated": "2026-04-09T11:30:26.028Z",
+    "eventCount": 0,
+    "events": []
   },
   "ankara": {
     "displayName": "Ankara",
-    "lastUpdated": "2026-04-09T11:19:53.887Z",
+    "lastUpdated": "2026-04-09T11:30:26.606Z",
     "eventCount": 0,
     "events": []
   },
   "arizona": {
     "displayName": "Arizona",
-    "lastUpdated": "2026-04-09T11:19:55.914Z",
-    "eventCount": 3,
-    "events": [
-      {
-        "id": "1A_Zku9Gkdj1ksd",
-        "name": "Hatsune Miku - EXPO 2026 North America",
-        "url": "https://www.ticketmaster.com/hatsune-miku-expo-2026-north-america-glendale-arizona-04-28-2026/event/19006357DC286C43",
-        "date": "2026-04-28",
-        "time": "20:00:00",
-        "venueName": "Desert Diamond Arena",
-        "venueAddress": "9400 West Maryland",
-        "venueCity": "Glendale",
-        "venueCountry": "United States Of America",
-        "segment": "Music",
-        "genre": "Pop",
-        "subGenre": "Pop",
-        "image": "https://s1.ticketm.net/dam/a/5f0/997858a4-dcc7-4096-95b3-0e1b23fe15f0_RETINA_PORTRAIT_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "1A_Zko3GkeB-1-H",
-        "name": "Tucson International Mariachi Conference Espectacular Concert",
-        "url": "https://www.ticketmaster.com/tucson-international-mariachi-conference-espectacular-concert-tucson-arizona-05-01-2026/event/19006452BA84A87C",
-        "date": "2026-05-01",
-        "time": "19:00:00",
-        "venueName": "Linda Ronstadt Music Hall",
-        "venueAddress": "260 South Church Avenue",
-        "venueCity": "Tucson",
-        "venueCountry": "United States Of America",
-        "segment": "Music",
-        "genre": "World",
-        "subGenre": "World",
-        "image": "https://s1.ticketm.net/dam/e/853/41e02b22-ecd9-4af7-aa57-a44ca5934853_SOURCE",
-        "priceRange": null
-      },
-      {
-        "id": "LvZ18QoR1r_LZpOv4SfS3",
-        "name": "BRICK CONVENTION | LEGO Fan Expo | Mesa, AZ",
-        "url": "https://www.universe.com/events/brick-convention-lego-fan-expo-mesa-az-tickets-S1BD8Y?ref=ticketmaster",
-        "date": "2026-05-30",
-        "time": "10:00:00",
-        "venueName": "Mesa Amphitheatre",
-        "venueAddress": "263 N. Center St",
-        "venueCity": "Mesa",
-        "venueCountry": "United States Of America",
-        "segment": "Miscellaneous",
-        "genre": "Hobby/Special Interest Expos",
-        "subGenre": "Hobby/Special Interest Expos",
-        "image": "https://s1.ticketm.net/dam/a/cb9/2a470012-0338-429b-ae98-a4af0e8fdcb9_SOURCE",
-        "priceRange": null
-      }
-    ]
+    "lastUpdated": "2026-04-09T11:30:27.174Z",
+    "eventCount": 0,
+    "events": []
   },
   "athens": {
     "displayName": "Athens",
-    "lastUpdated": "2026-04-09T11:19:57.728Z",
+    "lastUpdated": "2026-04-09T11:30:27.754Z",
     "eventCount": 0,
     "events": []
   },
   "atlanta": {
     "displayName": "Atlanta",
-    "lastUpdated": "2026-04-09T11:19:59.798Z",
+    "lastUpdated": "2026-04-09T11:30:28.320Z",
     "eventCount": 0,
     "events": []
   },
   "auckland": {
     "displayName": "Auckland",
-    "lastUpdated": "2026-04-09T11:20:01.793Z",
+    "lastUpdated": "2026-04-09T11:30:28.897Z",
     "eventCount": 0,
     "events": []
   },
   "austin": {
     "displayName": "Austin",
-    "lastUpdated": "2026-04-09T11:20:03.699Z",
-    "eventCount": 1,
-    "events": [
-      {
-        "id": "LvZ18Q9v4PVAjL8Z0XN7z",
-        "name": "BRICK CONVENTION | LEGO Fan Expo | Austin, TX",
-        "url": "https://www.universe.com/events/brick-convention-lego-fan-expo-austin-tx-tickets-JLZ5T6?ref=ticketmaster",
-        "date": "2026-12-05",
-        "time": "10:00:00",
-        "venueName": "Palmer Events Center",
-        "venueAddress": "900 Barton Springs Road",
-        "venueCity": "Austin",
-        "venueCountry": "United States Of America",
-        "segment": "Miscellaneous",
-        "genre": "Hobby/Special Interest Expos",
-        "subGenre": "Hobby/Special Interest Expos",
-        "image": "https://s1.ticketm.net/dam/a/cb9/2a470012-0338-429b-ae98-a4af0e8fdcb9_SOURCE",
-        "priceRange": null
-      }
-    ]
+    "lastUpdated": "2026-04-09T11:30:29.436Z",
+    "eventCount": 0,
+    "events": []
   },
   "bahrain": {
     "displayName": "Bahrain",
-    "lastUpdated": "2026-04-09T11:20:05.374Z",
+    "lastUpdated": "2026-04-09T11:30:29.979Z",
     "eventCount": 0,
     "events": []
   },
   "bali": {
     "displayName": "Bali",
-    "lastUpdated": "2026-04-09T11:20:07.137Z",
+    "lastUpdated": "2026-04-09T11:30:30.569Z",
     "eventCount": 0,
     "events": []
   },
   "baltimore": {
     "displayName": "Baltimore",
-    "lastUpdated": "2026-04-09T11:20:09.178Z",
+    "lastUpdated": "2026-04-09T11:30:31.159Z",
     "eventCount": 0,
     "events": []
   },
   "barcelona": {
     "displayName": "Barcelona",
-    "lastUpdated": "2026-04-09T11:20:11.060Z",
+    "lastUpdated": "2026-04-09T11:30:31.705Z",
     "eventCount": 0,
     "events": []
   },
   "batonrouge": {
     "displayName": "Baton Rouge",
-    "lastUpdated": "2026-04-09T11:20:12.856Z",
+    "lastUpdated": "2026-04-09T11:30:32.295Z",
     "eventCount": 0,
     "events": []
   },
   "beijing": {
     "displayName": "Beijing",
-    "lastUpdated": "2026-04-09T11:20:14.559Z",
+    "lastUpdated": "2026-04-09T11:30:32.948Z",
     "eventCount": 0,
     "events": []
   },
   "beirut": {
     "displayName": "Beirut",
-    "lastUpdated": "2026-04-09T11:20:16.305Z",
+    "lastUpdated": "2026-04-09T11:30:33.499Z",
     "eventCount": 0,
     "events": []
   },
   "belgrade": {
     "displayName": "Belgrade",
-    "lastUpdated": "2026-04-09T11:20:18.106Z",
+    "lastUpdated": "2026-04-09T11:30:34.044Z",
     "eventCount": 0,
     "events": []
   },
   "berlin": {
     "displayName": "Berlin",
-    "lastUpdated": "2026-04-09T11:20:20.086Z",
-    "eventCount": 1,
-    "events": [
-      {
-        "id": "Z698xZC2Z16v4fG4uE",
-        "name": "Hatsune Miku - MIKU EXPO 2026 EUROPE",
-        "url": "https://www.ticketmaster.de/event/hatsune-miku-miku-expo-2026-europe-tickets/1554315367?language=en-us",
-        "date": "2026-11-17",
-        "time": "20:00:00",
-        "venueName": null,
-        "venueAddress": "Paul-Heyse-Straße 26",
-        "venueCity": "Berlin",
-        "venueCountry": "Germany",
-        "segment": "Music",
-        "genre": "Rock",
-        "subGenre": "Pop",
-        "image": "https://s1.ticketm.net/dam/a/791/b71f3243-1ee8-4f64-a2e7-a2aa14509791_RETINA_PORTRAIT_16_9.jpg",
-        "priceRange": null
-      }
-    ]
+    "lastUpdated": "2026-04-09T11:30:34.573Z",
+    "eventCount": 0,
+    "events": []
   },
   "birmingham": {
     "displayName": "Birmingham",
-    "lastUpdated": "2026-04-09T11:20:21.988Z",
+    "lastUpdated": "2026-04-09T11:30:35.133Z",
     "eventCount": 0,
     "events": []
   },
   "bologna": {
     "displayName": "Bologna",
-    "lastUpdated": "2026-04-09T11:20:23.746Z",
+    "lastUpdated": "2026-04-09T11:30:35.672Z",
     "eventCount": 0,
     "events": []
   },
   "bordeaux": {
     "displayName": "Bordeaux",
-    "lastUpdated": "2026-04-09T11:20:25.476Z",
+    "lastUpdated": "2026-04-09T11:30:36.259Z",
     "eventCount": 0,
     "events": []
   },
   "boston": {
     "displayName": "Boston",
-    "lastUpdated": "2026-04-09T11:20:27.407Z",
-    "eventCount": 2,
-    "events": [
-      {
-        "id": "vv1AvZkupGkdrzWG4",
-        "name": "Hatsune Miku - EXPO 2026 North America",
-        "url": "https://www.ticketmaster.com/hatsune-miku-expo-2026-north-america-boston-massachusetts-05-10-2026/event/01006356DEE3D315",
-        "date": "2026-05-10",
-        "time": "20:00:00",
-        "venueName": "Boch Center Wang Theatre",
-        "venueAddress": "270 Tremont Street",
-        "venueCity": "Boston",
-        "venueCountry": "United States Of America",
-        "segment": "Music",
-        "genre": "Pop",
-        "subGenre": "Pop",
-        "image": "https://s1.ticketm.net/dam/a/5f0/997858a4-dcc7-4096-95b3-0e1b23fe15f0_RETINA_PORTRAIT_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "vv1AvZkupGkdryqGb",
-        "name": "Hatsune Miku - EXPO 2026 North America",
-        "url": "https://www.ticketmaster.com/hatsune-miku-expo-2026-north-america-boston-massachusetts-05-11-2026/event/01006356DEE5D318",
-        "date": "2026-05-11",
-        "time": "20:00:00",
-        "venueName": "Boch Center Wang Theatre",
-        "venueAddress": "270 Tremont Street",
-        "venueCity": "Boston",
-        "venueCountry": "United States Of America",
-        "segment": "Music",
-        "genre": "Pop",
-        "subGenre": "Pop",
-        "image": "https://s1.ticketm.net/dam/a/5f0/997858a4-dcc7-4096-95b3-0e1b23fe15f0_RETINA_PORTRAIT_16_9.jpg",
-        "priceRange": null
-      }
-    ]
+    "lastUpdated": "2026-04-09T11:30:36.803Z",
+    "eventCount": 0,
+    "events": []
   },
   "bratislava": {
     "displayName": "Bratislava",
-    "lastUpdated": "2026-04-09T11:20:29.122Z",
+    "lastUpdated": "2026-04-09T11:30:37.375Z",
     "eventCount": 0,
     "events": []
   },
   "bridgeport": {
     "displayName": "Bridgeport",
-    "lastUpdated": "2026-04-09T11:20:30.826Z",
+    "lastUpdated": "2026-04-09T11:30:37.934Z",
     "eventCount": 0,
     "events": []
   },
   "brisbane": {
     "displayName": "Brisbane",
-    "lastUpdated": "2026-04-09T11:20:32.638Z",
+    "lastUpdated": "2026-04-09T11:30:38.470Z",
     "eventCount": 0,
     "events": []
   },
   "bristol": {
     "displayName": "Bristol",
-    "lastUpdated": "2026-04-09T11:20:34.383Z",
+    "lastUpdated": "2026-04-09T11:30:39.023Z",
     "eventCount": 0,
     "events": []
   },
   "brno": {
     "displayName": "Brno",
-    "lastUpdated": "2026-04-09T11:20:36.182Z",
+    "lastUpdated": "2026-04-09T11:30:39.583Z",
     "eventCount": 0,
     "events": []
   },
   "bronx": {
     "displayName": "Bronx",
-    "lastUpdated": "2026-04-09T11:20:37.954Z",
+    "lastUpdated": "2026-04-09T11:30:40.190Z",
     "eventCount": 0,
     "events": []
   },
   "brooklyn": {
     "displayName": "Brooklyn",
-    "lastUpdated": "2026-04-09T11:20:39.929Z",
+    "lastUpdated": "2026-04-09T11:30:40.739Z",
     "eventCount": 0,
     "events": []
   },
   "brussels": {
     "displayName": "Brussels",
-    "lastUpdated": "2026-04-09T11:20:41.748Z",
-    "eventCount": 1,
-    "events": [
-      {
-        "id": "Z698xZG2Z1kokJ_Jk",
-        "name": "Hatsune Miku - Miku Expo 2026 Europe",
-        "url": "https://www.ticketmaster.be/event/hatsune-miku-miku-expo-2026-europe-tickets/446999986",
-        "date": "2026-11-14",
-        "time": "20:00:00",
-        "venueName": "ING ARENA",
-        "venueAddress": "Brussels Expo",
-        "venueCity": "Brussels",
-        "venueCountry": "Belgium",
-        "segment": "Music",
-        "genre": "Pop",
-        "subGenre": "K-Pop",
-        "image": "https://s1.ticketm.net/dam/a/d9f/fe0c78b1-1da4-4f33-b572-006075a7dd9f_RETINA_PORTRAIT_16_9.jpg",
-        "priceRange": null
-      }
-    ]
+    "lastUpdated": "2026-04-09T11:30:41.313Z",
+    "eventCount": 0,
+    "events": []
   },
   "bucharest": {
     "displayName": "Bucharest",
-    "lastUpdated": "2026-04-09T11:20:43.444Z",
+    "lastUpdated": "2026-04-09T11:30:41.890Z",
     "eventCount": 0,
     "events": []
   },
   "budapest": {
     "displayName": "Budapest",
-    "lastUpdated": "2026-04-09T11:20:45.189Z",
+    "lastUpdated": "2026-04-09T11:30:42.447Z",
     "eventCount": 0,
     "events": []
   },
   "buffalo": {
     "displayName": "Buffalo",
-    "lastUpdated": "2026-04-09T11:20:46.997Z",
+    "lastUpdated": "2026-04-09T11:30:43.009Z",
     "eventCount": 0,
     "events": []
   },
   "calgary": {
     "displayName": "Calgary",
-    "lastUpdated": "2026-04-09T11:20:49.079Z",
+    "lastUpdated": "2026-04-09T11:30:43.548Z",
     "eventCount": 0,
     "events": []
   },
   "california": {
     "displayName": "California",
-    "lastUpdated": "2026-04-09T11:20:51.186Z",
-    "eventCount": 10,
-    "events": [
-      {
-        "id": "G5vYZbgQt_zw8",
-        "name": "Hatsune Miku - EXPO 2026 North America",
-        "url": "https://www.ticketmaster.com/hatsune-miku-expo-2026-north-america-san-jose-california-04-22-2026/event/1C006356A9678C90",
-        "date": "2026-04-22",
-        "time": "20:00:00",
-        "venueName": "San Jose Civic",
-        "venueAddress": "135 San Carlos St.",
-        "venueCity": "San Jose",
-        "venueCountry": "United States Of America",
-        "segment": "Music",
-        "genre": "Pop",
-        "subGenre": "Pop",
-        "image": "https://s1.ticketm.net/dam/a/5f0/997858a4-dcc7-4096-95b3-0e1b23fe15f0_RETINA_PORTRAIT_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "G5vYZbgQnKFVz",
-        "name": "Hatsune Miku -  EXPO 2026 North America",
-        "url": "https://www.ticketmaster.com/hatsune-miku-expo-2026-north-america-san-jose-california-04-23-2026/event/1C006356AA4C8D38",
-        "date": "2026-04-23",
-        "time": "20:00:00",
-        "venueName": "San Jose Civic",
-        "venueAddress": "135 San Carlos St.",
-        "venueCity": "San Jose",
-        "venueCountry": "United States Of America",
-        "segment": "Music",
-        "genre": "Pop",
-        "subGenre": "Pop",
-        "image": "https://s1.ticketm.net/dam/a/5f0/997858a4-dcc7-4096-95b3-0e1b23fe15f0_RETINA_PORTRAIT_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "rZ7HnEZ1AfOVxd",
-        "name": "🌸Neo Tokyo (vendor Link ) Anime Convention 🌸",
-        "url": "https://www.ticketweb.com/event/neo-tokyo-vendor-link-transplants-brewing-company-tickets/14834883",
-        "date": "2026-05-29",
-        "time": "12:00:00",
-        "venueName": "Transplants Brewing Company",
-        "venueAddress": "40242 La Quinta Ln",
-        "venueCity": "Palmdale",
-        "venueCountry": "United States Of America",
-        "segment": "Miscellaneous",
-        "genre": null,
-        "subGenre": null,
-        "image": "https://s1.ticketm.net/dam/c/03e/e15ef00f-2c87-4421-ae61-d740851a703e_105891_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-        "priceRange": "USD 56.61-108.11"
-      },
-      {
-        "id": "rZ7HnEZ1Afqt4S",
-        "name": "Neo Tokyo 🌸 Anime Convention 🌸",
-        "url": "https://www.ticketweb.com/event/neo-tokyo-anime-convention-transplants-brewing-company-tickets/14769573",
-        "date": "2026-05-29",
-        "time": "12:00:00",
-        "venueName": "Transplants Brewing Company",
-        "venueAddress": "40242 La Quinta Ln",
-        "venueCity": "Palmdale",
-        "venueCountry": "United States Of America",
-        "segment": "Miscellaneous",
-        "genre": null,
-        "subGenre": null,
-        "image": "https://s1.ticketm.net/dam/c/03e/e15ef00f-2c87-4421-ae61-d740851a703e_105891_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-        "priceRange": "USD 8.01-19.06"
-      },
-      {
-        "id": "vvG1IZ_dKwY_Cf",
-        "name": "San Diego Wave FC vs Denver Summit FC",
-        "url": "https://www.ticketmaster.com/san-diego-wave-fc-vs-denver-san-diego-california-08-14-2026/event/0A006434F2C19394",
-        "date": "2026-08-14",
-        "time": "19:00:00",
-        "venueName": "Snapdragon Stadium",
-        "venueAddress": "2101 Stadium Way",
-        "venueCity": "San Diego",
-        "venueCountry": "United States Of America",
-        "segment": "Sports",
-        "genre": "Soccer",
-        "subGenre": "Soccer",
-        "image": "https://s1.ticketm.net/dam/e/b6b/ccd62148-57a5-469a-b425-0599589fdb6b_SOURCE",
-        "priceRange": null
-      },
-      {
-        "id": "LvZ18QCPtnoJ1KOZveE2w",
-        "name": "Brick Blast: LEGO Fan Convention | Santa Clara Convention Center",
-        "url": "https://www.universe.com/events/brick-blast-lego-fan-convention-santa-clara-convention-center-tickets-1SNJ84?ref=ticketmaster",
-        "date": "2026-08-22",
-        "time": "09:00:00",
-        "venueName": "Santa Clara Convention Center",
-        "venueAddress": "5001 Great American Pkwy",
-        "venueCity": "Santa Clara",
-        "venueCountry": "United States Of America",
-        "segment": "Undefined",
-        "genre": null,
-        "subGenre": null,
-        "image": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "LvZ18QCPtnoJ1KOZveE2S",
-        "name": "Brick Blast: LEGO Fan Convention | Santa Clara Convention Center",
-        "url": "https://www.universe.com/events/brick-blast-lego-fan-convention-santa-clara-convention-center-tickets-1SNJ84?ref=ticketmaster",
-        "date": "2026-08-22",
-        "time": "10:30:00",
-        "venueName": "Santa Clara Convention Center",
-        "venueAddress": "5001 Great American Pkwy",
-        "venueCity": "Santa Clara",
-        "venueCountry": "United States Of America",
-        "segment": "Undefined",
-        "genre": null,
-        "subGenre": null,
-        "image": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "LvZ18QCPtnoJ1KOZveE2V",
-        "name": "Brick Blast: LEGO Fan Convention | Santa Clara Convention Center",
-        "url": "https://www.universe.com/events/brick-blast-lego-fan-convention-santa-clara-convention-center-tickets-1SNJ84?ref=ticketmaster",
-        "date": "2026-08-22",
-        "time": "12:00:00",
-        "venueName": "Santa Clara Convention Center",
-        "venueAddress": "5001 Great American Pkwy",
-        "venueCity": "Santa Clara",
-        "venueCountry": "United States Of America",
-        "segment": "Undefined",
-        "genre": null,
-        "subGenre": null,
-        "image": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "LvZ18QCPtnoJ1KOZveE2g",
-        "name": "Brick Blast: LEGO Fan Convention | Santa Clara Convention Center",
-        "url": "https://www.universe.com/events/brick-blast-lego-fan-convention-santa-clara-convention-center-tickets-1SNJ84?ref=ticketmaster",
-        "date": "2026-08-22",
-        "time": "13:30:00",
-        "venueName": "Santa Clara Convention Center",
-        "venueAddress": "5001 Great American Pkwy",
-        "venueCity": "Santa Clara",
-        "venueCountry": "United States Of America",
-        "segment": "Undefined",
-        "genre": null,
-        "subGenre": null,
-        "image": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "LvZ18QCPtnoJ1KOZveE2U",
-        "name": "Brick Blast: LEGO Fan Convention | Santa Clara Convention Center",
-        "url": "https://www.universe.com/events/brick-blast-lego-fan-convention-santa-clara-convention-center-tickets-1SNJ84?ref=ticketmaster",
-        "date": "2026-08-22",
-        "time": "15:00:00",
-        "venueName": "Santa Clara Convention Center",
-        "venueAddress": "5001 Great American Pkwy",
-        "venueCity": "Santa Clara",
-        "venueCountry": "United States Of America",
-        "segment": "Undefined",
-        "genre": null,
-        "subGenre": null,
-        "image": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-        "priceRange": null
-      }
-    ]
+    "lastUpdated": "2026-04-09T11:30:44.083Z",
+    "eventCount": 0,
+    "events": []
   },
   "cambridge": {
     "displayName": "Cambridge",
-    "lastUpdated": "2026-04-09T11:20:52.966Z",
+    "lastUpdated": "2026-04-09T11:30:44.643Z",
     "eventCount": 0,
     "events": []
   },
   "capecoral": {
     "displayName": "Cape Coral",
-    "lastUpdated": "2026-04-09T11:20:54.641Z",
+    "lastUpdated": "2026-04-09T11:30:45.188Z",
     "eventCount": 0,
     "events": []
   },
   "charleston": {
     "displayName": "Charleston",
-    "lastUpdated": "2026-04-09T11:20:56.374Z",
+    "lastUpdated": "2026-04-09T11:30:45.757Z",
     "eventCount": 0,
     "events": []
   },
   "charlotte": {
     "displayName": "Charlotte",
-    "lastUpdated": "2026-04-09T11:20:58.240Z",
+    "lastUpdated": "2026-04-09T11:30:46.357Z",
     "eventCount": 0,
     "events": []
   },
   "chengjiang": {
     "displayName": "Chengjiang",
-    "lastUpdated": "2026-04-09T11:20:59.944Z",
+    "lastUpdated": "2026-04-09T11:30:46.888Z",
     "eventCount": 0,
     "events": []
   },
   "chicago": {
     "displayName": "Chicago",
-    "lastUpdated": "2026-04-09T11:21:01.946Z",
-    "eventCount": 1,
-    "events": [
-      {
-        "id": "1Ae0Z_kGkihsYzL",
-        "name": "Tom Kenny & the Hi-Seas, Expo'76",
-        "url": "https://www.ticketweb.com/event/tom-kenny-the-hi-reggies-rock-club-tickets/14778383?REFERRAL_ID=tmfeed",
-        "date": "2026-05-21",
-        "time": "20:00:00",
-        "venueName": "Reggies Rock Club",
-        "venueAddress": "2109 South State Street",
-        "venueCity": "Chicago",
-        "venueCountry": "United States Of America",
-        "segment": "Music",
-        "genre": "Rock",
-        "subGenre": "Pop",
-        "image": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_RETINA_LANDSCAPE_16_9.jpg",
-        "priceRange": null
-      }
-    ]
+    "lastUpdated": "2026-04-09T11:30:47.428Z",
+    "eventCount": 0,
+    "events": []
   },
   "cincinnati": {
     "displayName": "Cincinnati",
-    "lastUpdated": "2026-04-09T11:21:03.750Z",
-    "eventCount": 1,
-    "events": [
-      {
-        "id": "1AvbZ_AGkSm4CQI",
-        "name": "Devon Allman's Blues Summit with GA-20",
-        "url": "https://www.ticketmaster.com/devon-allmans-blues-summit-with-ga20-cincinnati-ohio-06-11-2026/event/1600645CEE54E6A8",
-        "date": "2026-06-11",
-        "time": "19:30:00",
-        "venueName": "Ludlow Garage Cincinnati",
-        "venueAddress": "342 Ludlow Ave.",
-        "venueCity": "Cincinnati",
-        "venueCountry": "United States Of America",
-        "segment": "Music",
-        "genre": "Rock",
-        "subGenre": "Pop",
-        "image": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_RETINA_LANDSCAPE_16_9.jpg",
-        "priceRange": null
-      }
-    ]
+    "lastUpdated": "2026-04-09T11:30:47.980Z",
+    "eventCount": 0,
+    "events": []
   },
   "cleveland": {
     "displayName": "Cleveland",
-    "lastUpdated": "2026-04-09T11:21:05.499Z",
-    "eventCount": 1,
-    "events": [
-      {
-        "id": "Z7r9jZ1A7-Pk3",
-        "name": "ERG Summit",
-        "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7-Pk3",
-        "date": "2026-04-09",
-        "time": "10:00:00",
-        "venueName": "Rocket Arena",
-        "venueAddress": "One Center Court",
-        "venueCity": "Cleveland",
-        "venueCountry": "United States Of America",
-        "segment": "Undefined",
-        "genre": null,
-        "subGenre": null,
-        "image": "https://s1.ticketm.net/dam/c/8cf/a6653880-7899-4f67-8067-1f95f4d158cf_124761_TABLET_LANDSCAPE_16_9.jpg",
-        "priceRange": null
-      }
-    ]
+    "lastUpdated": "2026-04-09T11:30:48.574Z",
+    "eventCount": 0,
+    "events": []
   },
   "colorado": {
     "displayName": "Colorado",
-    "lastUpdated": "2026-04-09T11:21:07.554Z",
-    "eventCount": 4,
-    "events": [
-      {
-        "id": "G5vzZ_deamgWu",
-        "name": "Denver Summit FC vs. San Diego Wave FC",
-        "url": "https://www.ticketmaster.com/denver-summit-fc-vs-san-diego-commerce-city-colorado-04-25-2026/event/1E00643089BB5F4D",
-        "date": "2026-04-25",
-        "time": "18:45:00",
-        "venueName": "DICK'S Sporting Goods Park",
-        "venueAddress": "6000 Victory Way",
-        "venueCity": "Commerce City",
-        "venueCountry": "United States Of America",
-        "segment": "Sports",
-        "genre": "Soccer",
-        "subGenre": "Soccer",
-        "image": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_LANDSCAPE_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "G5vzZ_de12kvX",
-        "name": "Denver Summit FC vs. Orlando Pride",
-        "url": "https://www.ticketmaster.com/denver-summit-fc-vs-orlando-pride-commerce-city-colorado-05-16-2026/event/1E0064308A3C607E",
-        "date": "2026-05-16",
-        "time": "18:45:00",
-        "venueName": "DICK'S Sporting Goods Park",
-        "venueAddress": "6000 Victory Way",
-        "venueCity": "Commerce City",
-        "venueCountry": "United States Of America",
-        "segment": "Sports",
-        "genre": "Soccer",
-        "subGenre": "Soccer",
-        "image": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_LANDSCAPE_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "LvZ18QhhG3CVf2OZVtHME",
-        "name": "Devon Allman’s Blues Summit - June 5",
-        "url": "https://www.universe.com/events/devon-allman-s-blues-summit-june-5-tickets-452KB6?ref=ticketmaster",
-        "date": "2026-06-05",
-        "time": "19:00:00",
-        "venueName": "James M Robb-Colorado River State Park-Fruita Section",
-        "venueAddress": "595 CO-340",
-        "venueCity": "Fruita",
-        "venueCountry": "United States Of America",
-        "segment": "Undefined",
-        "genre": null,
-        "subGenre": null,
-        "image": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "Z7r9jZ1A7Ox4t",
-        "name": "Denver Summit FC vs. Kansas City Current",
-        "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Ox4t",
-        "date": "2026-07-03",
-        "time": "19:30:00",
-        "venueName": "Centennial Stadium",
-        "venueAddress": "Potomac Park",
-        "venueCity": "Centennial",
-        "venueCountry": "United States Of America",
-        "segment": "Sports",
-        "genre": "Soccer",
-        "subGenre": "Soccer",
-        "image": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_LANDSCAPE_16_9.jpg",
-        "priceRange": null
-      }
-    ]
+    "lastUpdated": "2026-04-09T11:30:49.122Z",
+    "eventCount": 0,
+    "events": []
   },
   "coloradosprings": {
     "displayName": "Colorado Springs",
-    "lastUpdated": "2026-04-09T11:21:09.292Z",
+    "lastUpdated": "2026-04-09T11:30:49.702Z",
     "eventCount": 0,
     "events": []
   },
   "columbus": {
     "displayName": "Columbus",
-    "lastUpdated": "2026-04-09T11:21:11.089Z",
+    "lastUpdated": "2026-04-09T11:30:50.365Z",
     "eventCount": 0,
     "events": []
   },
   "concord": {
     "displayName": "Concord",
-    "lastUpdated": "2026-04-09T11:21:12.924Z",
+    "lastUpdated": "2026-04-09T11:30:50.892Z",
     "eventCount": 0,
     "events": []
   },
   "connecticut": {
     "displayName": "Connecticut",
-    "lastUpdated": "2026-04-09T11:21:14.798Z",
+    "lastUpdated": "2026-04-09T11:30:51.403Z",
     "eventCount": 0,
     "events": []
   },
   "copenhagen": {
     "displayName": "Copenhagen",
-    "lastUpdated": "2026-04-09T11:21:16.542Z",
+    "lastUpdated": "2026-04-09T11:30:51.930Z",
     "eventCount": 0,
     "events": []
   },
   "cyprus": {
     "displayName": "Cyprus",
-    "lastUpdated": "2026-04-09T11:21:18.279Z",
+    "lastUpdated": "2026-04-09T11:30:52.474Z",
     "eventCount": 0,
     "events": []
   },
   "dallas": {
     "displayName": "Dallas",
-    "lastUpdated": "2026-04-09T11:21:20.278Z",
+    "lastUpdated": "2026-04-09T11:30:53.039Z",
     "eventCount": 0,
     "events": []
   },
   "dammam": {
     "displayName": "Dammam",
-    "lastUpdated": "2026-04-09T11:21:22.014Z",
+    "lastUpdated": "2026-04-09T11:30:53.609Z",
     "eventCount": 0,
     "events": []
   },
   "dayton": {
     "displayName": "Dayton",
-    "lastUpdated": "2026-04-09T11:21:23.749Z",
+    "lastUpdated": "2026-04-09T11:30:54.170Z",
     "eventCount": 0,
     "events": []
   },
   "denver": {
     "displayName": "Denver",
-    "lastUpdated": "2026-04-09T11:21:25.827Z",
+    "lastUpdated": "2026-04-09T11:30:54.718Z",
     "eventCount": 0,
     "events": []
   },
   "detroit": {
     "displayName": "Detroit",
-    "lastUpdated": "2026-04-09T11:21:27.593Z",
+    "lastUpdated": "2026-04-09T11:30:55.268Z",
     "eventCount": 0,
     "events": []
   },
   "dresden": {
     "displayName": "Dresden",
-    "lastUpdated": "2026-04-09T11:21:29.316Z",
+    "lastUpdated": "2026-04-09T11:30:55.829Z",
     "eventCount": 0,
     "events": []
   },
   "dubai": {
     "displayName": "Dubai",
-    "lastUpdated": "2026-04-09T11:21:31.050Z",
+    "lastUpdated": "2026-04-09T11:30:56.382Z",
     "eventCount": 0,
     "events": []
   },
   "dublin": {
     "displayName": "Dublin",
-    "lastUpdated": "2026-04-09T11:21:32.962Z",
+    "lastUpdated": "2026-04-09T11:30:56.925Z",
     "eventCount": 0,
     "events": []
   },
   "dusseldorf": {
     "displayName": "Dusseldorf",
-    "lastUpdated": "2026-04-09T11:21:34.757Z",
-    "eventCount": 1,
-    "events": [
-      {
-        "id": "Z698xZC2Z16vAwbb-F",
-        "name": "Hatsune Miku - MIKU EXPO 2026 EUROPE",
-        "url": "https://www.ticketmaster.de/event/hatsune-miku-miku-expo-2026-europe-tickets/1172618848?language=en-us",
-        "date": "2026-11-20",
-        "time": "20:00:00",
-        "venueName": null,
-        "venueAddress": "Theodorstraße 281",
-        "venueCity": "Düsseldorf",
-        "venueCountry": "Germany",
-        "segment": "Music",
-        "genre": "Rock",
-        "subGenre": "Pop",
-        "image": "https://s1.ticketm.net/dam/a/791/b71f3243-1ee8-4f64-a2e7-a2aa14509791_RETINA_PORTRAIT_16_9.jpg",
-        "priceRange": null
-      }
-    ]
+    "lastUpdated": "2026-04-09T11:30:57.489Z",
+    "eventCount": 0,
+    "events": []
   },
   "edinburgh": {
     "displayName": "Edinburgh",
-    "lastUpdated": "2026-04-09T11:21:36.616Z",
+    "lastUpdated": "2026-04-09T11:30:58.043Z",
     "eventCount": 0,
     "events": []
   },
   "edmonton": {
     "displayName": "Edmonton",
-    "lastUpdated": "2026-04-09T11:21:38.581Z",
+    "lastUpdated": "2026-04-09T11:30:58.588Z",
     "eventCount": 0,
     "events": []
   },
   "elpaso": {
     "displayName": "El Paso",
-    "lastUpdated": "2026-04-09T11:21:40.399Z",
-    "eventCount": 2,
-    "events": [
-      {
-        "id": "vvG1YZbykDzpW8",
-        "name": "Wheels & Ink Expo - 2 Day Admission",
-        "url": "https://www.ticketmaster.com/wheels-ink-expo-2-day-admission-el-paso-texas-06-06-2026/event/0C006391BBE16F50",
-        "date": "2026-06-06",
-        "time": null,
-        "venueName": "El Paso Convention Center",
-        "venueAddress": "1 Civic Center Plaza",
-        "venueCity": "El Paso",
-        "venueCountry": "United States Of America",
-        "segment": "Miscellaneous",
-        "genre": "Hobby/Special Interest Expos",
-        "subGenre": "Hobby/Special Interest Expos",
-        "image": "https://s1.ticketm.net/dam/e/cd7/052e6aa9-ce1a-4434-8334-b878faa0ecd7_RETINA_PORTRAIT_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "LvZ18QhG8c_JSc41TK9vG",
-        "name": "BRICK CONVENTION | LEGO Fan Expo | El Paso, TX",
-        "url": "https://www.universe.com/events/brick-convention-lego-fan-expo-el-paso-tx-tickets-27KP1W?ref=ticketmaster",
-        "date": "2026-12-12",
-        "time": "10:00:00",
-        "venueName": "El Paso Convention Center",
-        "venueAddress": "1 Civic Center Plaza",
-        "venueCity": "El Paso",
-        "venueCountry": "United States Of America",
-        "segment": "Miscellaneous",
-        "genre": "Hobby/Special Interest Expos",
-        "subGenre": "Hobby/Special Interest Expos",
-        "image": "https://s1.ticketm.net/dam/a/cb9/2a470012-0338-429b-ae98-a4af0e8fdcb9_SOURCE",
-        "priceRange": null
-      }
-    ]
+    "lastUpdated": "2026-04-09T11:30:59.143Z",
+    "eventCount": 0,
+    "events": []
   },
   "esbjerg": {
     "displayName": "Esbjerg",
-    "lastUpdated": "2026-04-09T11:21:42.073Z",
+    "lastUpdated": "2026-04-09T11:30:59.697Z",
     "eventCount": 0,
     "events": []
   },
   "florence": {
     "displayName": "Florence",
-    "lastUpdated": "2026-04-09T11:21:43.767Z",
+    "lastUpdated": "2026-04-09T11:31:00.249Z",
     "eventCount": 0,
     "events": []
   },
   "florida": {
     "displayName": "Florida",
-    "lastUpdated": "2026-04-09T11:21:45.748Z",
-    "eventCount": 3,
-    "events": [
-      {
-        "id": "vvG1VZbyDbgtBG",
-        "name": "Devon Allman's Blues Summit",
-        "url": "https://www.ticketmaster.com/devon-allmans-blues-summit-ft-lauderdale-florida-05-07-2026/event/0D00639ED8D69E8C",
-        "date": "2026-05-07",
-        "time": "19:30:00",
-        "venueName": "Wells Hall at The Parker",
-        "venueAddress": "707 NE 8th Street",
-        "venueCity": "Ft Lauderdale",
-        "venueCountry": "United States Of America",
-        "segment": "Music",
-        "genre": "Rock",
-        "subGenre": "Pop",
-        "image": "https://s1.ticketm.net/dam/a/090/5fb51f34-a1de-440c-98be-80d7c0e03090_1671951_TABLET_LANDSCAPE_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "LvZ18QocRuF_rqZv6cn7D",
-        "name": "BRICK CONVENTION | LEGO Fan Expo | Orlando, FL",
-        "url": "https://www.universe.com/events/brick-convention-lego-fan-expo-orlando-fl-tickets-N1C4ML?ref=ticketmaster",
-        "date": "2026-06-06",
-        "time": "10:00:00",
-        "venueName": "Central Florida Fairgrounds",
-        "venueAddress": "4603 West Colonial Dr",
-        "venueCity": "Orlando",
-        "venueCountry": "United States Of America",
-        "segment": "Miscellaneous",
-        "genre": "Hobby/Special Interest Expos",
-        "subGenre": "Hobby/Special Interest Expos",
-        "image": "https://s1.ticketm.net/dam/a/cb9/2a470012-0338-429b-ae98-a4af0e8fdcb9_SOURCE",
-        "priceRange": null
-      },
-      {
-        "id": "1AxZk3vGkeHx0qT",
-        "name": "Breakers Conference with Mike Signorelli and V1 Worship",
-        "url": "https://www.ticketmaster.com/breakers-conference-with-mike-signorelli-and-orlando-florida-08-07-2026/event/22006481BC8A477F",
-        "date": "2026-08-07",
-        "time": null,
-        "venueName": "Addition Financial Arena",
-        "venueAddress": "12777 Gemini Blvd",
-        "venueCity": "Orlando",
-        "venueCountry": "United States Of America",
-        "segment": "Miscellaneous",
-        "genre": "Lecture/Seminar",
-        "subGenre": "Lecture/Seminar",
-        "image": "https://s1.ticketm.net/dam/e/3d2/66a31c97-8e55-461e-ba2d-a3772da973d2_TABLET_LANDSCAPE_16_9.jpg",
-        "priceRange": null
-      }
-    ]
+    "lastUpdated": "2026-04-09T11:31:00.813Z",
+    "eventCount": 0,
+    "events": []
   },
   "fortworth": {
     "displayName": "Fort Worth",
-    "lastUpdated": "2026-04-09T11:21:47.600Z",
+    "lastUpdated": "2026-04-09T11:31:01.418Z",
     "eventCount": 0,
     "events": []
   },
   "france": {
     "displayName": "France",
-    "lastUpdated": "2026-04-09T11:21:49.367Z",
+    "lastUpdated": "2026-04-09T11:31:01.988Z",
     "eventCount": 0,
     "events": []
   },
   "frankfurt": {
     "displayName": "Frankfurt",
-    "lastUpdated": "2026-04-09T11:21:51.083Z",
+    "lastUpdated": "2026-04-09T11:31:02.563Z",
     "eventCount": 0,
     "events": []
   },
   "fresno": {
     "displayName": "Fresno",
-    "lastUpdated": "2026-04-09T11:21:52.874Z",
+    "lastUpdated": "2026-04-09T11:31:03.081Z",
     "eventCount": 0,
     "events": []
   },
   "geneva": {
     "displayName": "Geneva",
-    "lastUpdated": "2026-04-09T11:21:54.557Z",
+    "lastUpdated": "2026-04-09T11:31:03.629Z",
     "eventCount": 0,
     "events": []
   },
   "genoa": {
     "displayName": "Genoa",
-    "lastUpdated": "2026-04-09T11:21:56.234Z",
+    "lastUpdated": "2026-04-09T11:31:04.212Z",
     "eventCount": 0,
     "events": []
   },
   "glasgow": {
     "displayName": "Glasgow",
-    "lastUpdated": "2026-04-09T11:21:58.327Z",
-    "eventCount": 3,
-    "events": [
-      {
-        "id": "1AdbZ_7Gkm0kSh4",
-        "name": "Scottish Running Expo - Saturday Day Ticket",
-        "url": "https://www.ticketmaster.co.uk/scottish-running-expo-saturday-day-ticket-glasgow-14-11-2026/event/3600644BA41B36D5",
-        "date": "2026-11-14",
-        "time": "09:00:00",
-        "venueName": "SEC Centre",
-        "venueAddress": "Finnieston",
-        "venueCity": "Glasgow",
-        "venueCountry": "Great Britain",
-        "segment": "Miscellaneous",
-        "genre": "Hobby/Special Interest Expos",
-        "subGenre": "Hobby/Special Interest Expos",
-        "image": "https://s1.ticketm.net/dam/a/c5a/1245eb5f-c393-4860-a7d5-6118bb4e0c5a_SOURCE",
-        "priceRange": null
-      },
-      {
-        "id": "1AdbZ_7GkR9yUp3",
-        "name": "Scottish Running Expo - Weekend",
-        "url": "https://www.ticketmaster.co.uk/scottish-running-expo-weekend-glasgow-14-11-2026/event/3600644BD7E76592",
-        "date": "2026-11-14",
-        "time": null,
-        "venueName": "SEC Centre",
-        "venueAddress": "Finnieston",
-        "venueCity": "Glasgow",
-        "venueCountry": "Great Britain",
-        "segment": "Miscellaneous",
-        "genre": "Hobby/Special Interest Expos",
-        "subGenre": "Hobby/Special Interest Expos",
-        "image": "https://s1.ticketm.net/dam/a/c5a/1245eb5f-c393-4860-a7d5-6118bb4e0c5a_SOURCE",
-        "priceRange": null
-      },
-      {
-        "id": "1AdbZ_7Gkm06dh9",
-        "name": "Scottish Running Expo - Sunday Day Ticket",
-        "url": "https://www.ticketmaster.co.uk/scottish-running-expo-sunday-day-ticket-glasgow-15-11-2026/event/3600644BA41C36D7",
-        "date": "2026-11-15",
-        "time": "09:00:00",
-        "venueName": "SEC Centre",
-        "venueAddress": "Finnieston",
-        "venueCity": "Glasgow",
-        "venueCountry": "Great Britain",
-        "segment": "Miscellaneous",
-        "genre": "Hobby/Special Interest Expos",
-        "subGenre": "Hobby/Special Interest Expos",
-        "image": "https://s1.ticketm.net/dam/a/c5a/1245eb5f-c393-4860-a7d5-6118bb4e0c5a_SOURCE",
-        "priceRange": null
-      }
-    ]
+    "lastUpdated": "2026-04-09T11:31:04.777Z",
+    "eventCount": 0,
+    "events": []
   },
   "halifax": {
     "displayName": "Halifax",
-    "lastUpdated": "2026-04-09T11:22:00.058Z",
+    "lastUpdated": "2026-04-09T11:31:05.326Z",
     "eventCount": 0,
     "events": []
   },
   "hamburg": {
     "displayName": "Hamburg",
-    "lastUpdated": "2026-04-09T11:22:01.821Z",
+    "lastUpdated": "2026-04-09T11:31:05.891Z",
     "eventCount": 0,
     "events": []
   },
   "hamilton": {
     "displayName": "Hamilton",
-    "lastUpdated": "2026-04-09T11:22:03.607Z",
-    "eventCount": 1,
-    "events": [
-      {
-        "id": "1k7ZvN4oGA1P5BO",
-        "name": "Hatsune Miku - EXPO 2026 North America",
-        "url": "https://www.ticketmaster.ca/hatsune-miku-expo-2026-north-america-hamilton-ontario-05-13-2026/event/100063551A94BEA0",
-        "date": "2026-05-13",
-        "time": "20:00:00",
-        "venueName": "TD Coliseum",
-        "venueAddress": "101 York Blvd",
-        "venueCity": "Hamilton",
-        "venueCountry": "Canada",
-        "segment": "Music",
-        "genre": "Pop",
-        "subGenre": "Pop",
-        "image": "https://s1.ticketm.net/dam/a/5f0/997858a4-dcc7-4096-95b3-0e1b23fe15f0_RETINA_PORTRAIT_16_9.jpg",
-        "priceRange": null
-      }
-    ]
+    "lastUpdated": "2026-04-09T11:31:06.420Z",
+    "eventCount": 0,
+    "events": []
   },
   "hannover": {
     "displayName": "Hannover",
-    "lastUpdated": "2026-04-09T11:22:05.306Z",
+    "lastUpdated": "2026-04-09T11:31:06.935Z",
     "eventCount": 0,
     "events": []
   },
   "hartford": {
     "displayName": "Hartford",
-    "lastUpdated": "2026-04-09T11:22:07.052Z",
+    "lastUpdated": "2026-04-09T11:31:07.484Z",
     "eventCount": 0,
     "events": []
   },
   "helsinki": {
     "displayName": "Helsinki",
-    "lastUpdated": "2026-04-09T11:22:08.969Z",
+    "lastUpdated": "2026-04-09T11:31:08.027Z",
     "eventCount": 0,
     "events": []
   },
   "hongkong": {
     "displayName": "Hong Kong",
-    "lastUpdated": "2026-04-09T11:22:10.647Z",
+    "lastUpdated": "2026-04-09T11:31:08.602Z",
     "eventCount": 0,
     "events": []
   },
   "honolulu": {
     "displayName": "Honolulu",
-    "lastUpdated": "2026-04-09T11:22:12.361Z",
-    "eventCount": 2,
-    "events": [
-      {
-        "id": "vvG1IZbMlP8yAb",
-        "name": "Hawaii Sustainability Expo and Electric Home Show - 2 DAY PASS",
-        "url": "https://www.ticketmaster.com/hawaii-sustainability-expo-and-electric-home-honolulu-hawaii-04-25-2026/event/0A00637AE5439158",
-        "date": "2026-04-25",
-        "time": null,
-        "venueName": "Neal S Blaisdell Exhibition Hall",
-        "venueAddress": "777 Ward Avenue",
-        "venueCity": "Honolulu",
-        "venueCountry": "United States Of America",
-        "segment": "Miscellaneous",
-        "genre": "Hobby/Special Interest Expos",
-        "subGenre": "Hobby/Special Interest Expos",
-        "image": "https://s1.ticketm.net/dam/e/0f3/5cf1d8ae-c358-4c44-a949-5818ca1af0f3_RETINA_LANDSCAPE_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "vvG1IZ_6BlcbsP",
-        "name": "2026 Hawaii Aviation Expo",
-        "url": "https://www.ticketmaster.com/2026-hawaii-aviation-expo-honolulu-hawaii-08-01-2026/event/0A00647EABB58C65",
-        "date": "2026-08-01",
-        "time": "09:00:00",
-        "venueName": " Blaisdell Hawaii Suites",
-        "venueAddress": "777 Ward Ave",
-        "venueCity": "Honolulu",
-        "venueCountry": "United States Of America",
-        "segment": "Miscellaneous",
-        "genre": "Lecture/Seminar",
-        "subGenre": "Lecture/Seminar",
-        "image": "https://s1.ticketm.net/dam/e/079/63dc8e26-5c58-4b1f-b785-f51591eb9079_RETINA_PORTRAIT_16_9.jpg",
-        "priceRange": null
-      }
-    ]
+    "lastUpdated": "2026-04-09T11:31:09.145Z",
+    "eventCount": 0,
+    "events": []
   },
   "houston": {
     "displayName": "Houston",
-    "lastUpdated": "2026-04-09T11:22:14.323Z",
-    "eventCount": 1,
-    "events": [
-      {
-        "id": "Z7r9jZ1A7Oxp_",
-        "name": "Houston Dash vs. Denver Summit FC",
-        "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Oxp_",
-        "date": "2026-05-09",
-        "time": "19:00:00",
-        "venueName": "Shell Energy Stadium",
-        "venueAddress": "South Rice Avenue & Westpark Drive",
-        "venueCity": "Houston",
-        "venueCountry": "United States Of America",
-        "segment": "Sports",
-        "genre": "Soccer",
-        "subGenre": "Soccer",
-        "image": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_LANDSCAPE_16_9.jpg",
-        "priceRange": null
-      }
-    ]
+    "lastUpdated": "2026-04-09T11:31:09.693Z",
+    "eventCount": 0,
+    "events": []
   },
   "indianapolis": {
     "displayName": "Indianapolis",
-    "lastUpdated": "2026-04-09T11:22:16.290Z",
+    "lastUpdated": "2026-04-09T11:31:10.254Z",
     "eventCount": 0,
     "events": []
   },
   "istanbul": {
     "displayName": "Istanbul",
-    "lastUpdated": "2026-04-09T11:22:18.085Z",
+    "lastUpdated": "2026-04-09T11:31:10.787Z",
     "eventCount": 0,
     "events": []
   },
   "jacksonville": {
     "displayName": "Jacksonville",
-    "lastUpdated": "2026-04-09T11:22:19.927Z",
+    "lastUpdated": "2026-04-09T11:31:11.348Z",
     "eventCount": 0,
     "events": []
   },
   "jeddah": {
     "displayName": "Jeddah",
-    "lastUpdated": "2026-04-09T11:22:21.613Z",
+    "lastUpdated": "2026-04-09T11:31:11.903Z",
     "eventCount": 0,
     "events": []
   },
   "kansascity": {
     "displayName": "Kansas City",
-    "lastUpdated": "2026-04-09T11:22:23.379Z",
-    "eventCount": 1,
-    "events": [
-      {
-        "id": "Z7r9jZ1A7Ox44",
-        "name": "Kansas City Current vs. Denver Summit FC",
-        "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Ox44",
-        "date": "2026-09-26",
-        "time": "11:30:00",
-        "venueName": "CPKC Stadium",
-        "venueAddress": "1460 E Front St",
-        "venueCity": "Kansas City",
-        "venueCountry": "United States Of America",
-        "segment": "Sports",
-        "genre": "Miscellaneous",
-        "subGenre": "Miscellaneous",
-        "image": "https://s1.ticketm.net/dam/c/093/c74cfd95-af21-4e64-9f85-47677b951093_105651_TABLET_LANDSCAPE_16_9.jpg",
-        "priceRange": null
-      }
-    ]
+    "lastUpdated": "2026-04-09T11:31:12.467Z",
+    "eventCount": 0,
+    "events": []
   },
   "kokoszki": {
     "displayName": "Kokoszki",
-    "lastUpdated": "2026-04-09T11:22:25.294Z",
+    "lastUpdated": "2026-04-09T11:31:13.020Z",
     "eventCount": 0,
     "events": []
   },
   "kuwait": {
     "displayName": "Kuwait",
-    "lastUpdated": "2026-04-09T11:22:26.981Z",
+    "lastUpdated": "2026-04-09T11:31:13.573Z",
     "eventCount": 0,
     "events": []
   },
   "lasvegas": {
     "displayName": "Las Vegas",
-    "lastUpdated": "2026-04-09T11:22:28.894Z",
+    "lastUpdated": "2026-04-09T11:31:14.132Z",
     "eventCount": 0,
     "events": []
   },
   "lebanon": {
     "displayName": "Lebanon",
-    "lastUpdated": "2026-04-09T11:22:30.570Z",
+    "lastUpdated": "2026-04-09T11:31:14.675Z",
     "eventCount": 0,
     "events": []
   },
   "leeds": {
     "displayName": "Leeds",
-    "lastUpdated": "2026-04-09T11:22:32.342Z",
+    "lastUpdated": "2026-04-09T11:31:15.209Z",
     "eventCount": 0,
     "events": []
   },
   "leipzig": {
     "displayName": "Leipzig",
-    "lastUpdated": "2026-04-09T11:22:34.036Z",
+    "lastUpdated": "2026-04-09T11:31:15.750Z",
     "eventCount": 0,
     "events": []
   },
   "lisbon": {
     "displayName": "Lisbon",
-    "lastUpdated": "2026-04-09T11:22:35.856Z",
+    "lastUpdated": "2026-04-09T11:31:16.325Z",
     "eventCount": 0,
     "events": []
   },
   "littlerock": {
     "displayName": "Little Rock",
-    "lastUpdated": "2026-04-09T11:22:37.667Z",
+    "lastUpdated": "2026-04-09T11:31:16.856Z",
     "eventCount": 0,
     "events": []
   },
   "liverpool": {
     "displayName": "Liverpool",
-    "lastUpdated": "2026-04-09T11:22:39.447Z",
+    "lastUpdated": "2026-04-09T11:31:17.451Z",
     "eventCount": 0,
     "events": []
   },
   "london": {
     "displayName": "London",
-    "lastUpdated": "2026-04-09T11:22:41.385Z",
-    "eventCount": 3,
-    "events": [
-      {
-        "id": "LvZ18QjVWGHwwdZvOf3wV",
-        "name": "Wonderful Summit",
-        "url": "https://www.universe.com/events/wonderful-summit-tickets-PSYHLM?ref=ticketmaster",
-        "date": "2026-06-04",
-        "time": "08:45:00",
-        "venueName": "Hackney Church ",
-        "venueAddress": "Lower Clapton Road",
-        "venueCity": "London",
-        "venueCountry": "Great Britain",
-        "segment": "Miscellaneous",
-        "genre": "Undefined",
-        "subGenre": "Undefined",
-        "image": "https://s1.ticketm.net/dam/c/03e/e15ef00f-2c87-4421-ae61-d740851a703e_105891_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "1AdfZbMGkSkqDrX",
-        "name": "D&D Fan Expo - Opening NIght",
-        "url": "https://www.ticketmaster.co.uk/dd-fan-expo-opening-night-london-21-08-2026/event/3500637CC677B7BE",
-        "date": "2026-08-21",
-        "time": "19:00:00",
-        "venueName": "indigo at The O2",
-        "venueAddress": " 205 Peninsula Square",
-        "venueCity": "London",
-        "venueCountry": "Great Britain",
-        "segment": "Arts & Theatre",
-        "genre": "Theatre",
-        "subGenre": "Miscellaneous",
-        "image": "https://s1.ticketm.net/dam/a/5cd/8c0cd16a-3ccd-44d7-85c4-308d0f50a5cd_RETINA_LANDSCAPE_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "1AgZkoxGkeRcNaI",
-        "name": "D&D Fan Expo: London - Main Show",
-        "url": "https://www.ticketmaster.co.uk/dd-fan-expo-london-main-show-london-22-08-2026/event/35006462AFB63268",
-        "date": "2026-08-22",
-        "time": "18:30:00",
-        "venueName": "The O2",
-        "venueAddress": "Peninsula Square",
-        "venueCity": "London",
-        "venueCountry": "Great Britain",
-        "segment": "Arts & Theatre",
-        "genre": "Theatre",
-        "subGenre": "Miscellaneous",
-        "image": "https://s1.ticketm.net/dam/a/5cd/8c0cd16a-3ccd-44d7-85c4-308d0f50a5cd_RETINA_LANDSCAPE_16_9.jpg",
-        "priceRange": null
-      }
-    ]
+    "lastUpdated": "2026-04-09T11:31:18.063Z",
+    "eventCount": 0,
+    "events": []
   },
   "longbeach": {
     "displayName": "Long Beach",
-    "lastUpdated": "2026-04-09T11:22:43.230Z",
+    "lastUpdated": "2026-04-09T11:31:18.609Z",
     "eventCount": 0,
     "events": []
   },
   "losangeles": {
     "displayName": "Los Angeles",
-    "lastUpdated": "2026-04-09T11:22:45.161Z",
-    "eventCount": 1,
-    "events": [
-      {
-        "id": "vvG1IZ_eUSZFFa",
-        "name": "Angel City FC vs. Denver Summit FC",
-        "url": "https://www.ticketmaster.com/angel-city-fc-vs-denver-summit-los-angeles-california-09-11-2026/event/0A00642DB3008209",
-        "date": "2026-09-11",
-        "time": "19:00:00",
-        "venueName": "BMO Stadium",
-        "venueAddress": "3939 S. Figueroa St",
-        "venueCity": "Los Angeles",
-        "venueCountry": "United States Of America",
-        "segment": "Sports",
-        "genre": "Soccer",
-        "subGenre": "Soccer",
-        "image": "https://s1.ticketm.net/dam/a/02c/68e12c1f-c3b1-4162-8c89-199cbe72202c_RETINA_PORTRAIT_16_9.jpg",
-        "priceRange": null
-      }
-    ]
+    "lastUpdated": "2026-04-09T11:31:19.141Z",
+    "eventCount": 0,
+    "events": []
   },
   "louisville": {
     "displayName": "Louisville",
-    "lastUpdated": "2026-04-09T11:22:47.406Z",
-    "eventCount": 1,
-    "events": [
-      {
-        "id": "Z7r9jZ1A7Oxjf",
-        "name": "Racing Louisville FC vs. Denver Summit FC",
-        "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Oxjf",
-        "date": "2026-05-29",
-        "time": "20:00:00",
-        "venueName": "Lynn Family Stadium",
-        "venueAddress": "350 Adams St",
-        "venueCity": "Louisville",
-        "venueCountry": "United States Of America",
-        "segment": "Sports",
-        "genre": "Miscellaneous",
-        "subGenre": "Miscellaneous",
-        "image": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_LANDSCAPE_16_9.jpg",
-        "priceRange": null
-      }
-    ]
+    "lastUpdated": "2026-04-09T11:31:19.707Z",
+    "eventCount": 0,
+    "events": []
   },
   "luxembourgcity": {
     "displayName": "Luxembourg City",
-    "lastUpdated": "2026-04-09T11:22:49.177Z",
+    "lastUpdated": "2026-04-09T11:31:20.259Z",
     "eventCount": 0,
     "events": []
   },
   "lyon": {
     "displayName": "Lyon",
-    "lastUpdated": "2026-04-09T11:22:50.900Z",
+    "lastUpdated": "2026-04-09T11:31:20.822Z",
     "eventCount": 0,
     "events": []
   },
   "madrid": {
     "displayName": "Madrid",
-    "lastUpdated": "2026-04-09T11:22:52.710Z",
-    "eventCount": 3,
-    "events": [
-      {
-        "id": "Z698xZ2qZ16vOJv8uo",
-        "name": "HATSUNE MIKU - MIKU EXPO 2026 EUROPE",
-        "url": "https://www.ticketmaster.es/event/hatsune-miku-miku-expo-2026-europe-tickets/1826050351?language=en-us",
-        "date": "2026-11-24",
-        "time": "20:30:00",
-        "venueName": "Palacio Vistalegre",
-        "venueAddress": "Acceso Sur.  C/ Matilde Hernández s/n",
-        "venueCity": "Madrid",
-        "venueCountry": "Spain",
-        "segment": "Music",
-        "genre": "Dance/Electronic",
-        "subGenre": "Dance/Electronic",
-        "image": "https://s1.ticketm.net/dam/a/f1f/a1378a7a-e230-4d4e-b15c-333280449f1f_RETINA_PORTRAIT_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "Z698xZ2qZ1k0P4U8V",
-        "name": "HATSUNE MIKU - MIKU EXPO 2026 EUROPE | VIP Packages",
-        "url": "https://www.ticketmaster.es/event/hatsune-miku-miku-expo-2026-europe-%7C-vip-packages-tickets/925576434?language=en-us",
-        "date": "2026-11-25",
-        "time": "20:30:00",
-        "venueName": "Palacio Vistalegre",
-        "venueAddress": "Acceso Sur.  C/ Matilde Hernández s/n",
-        "venueCity": "Madrid",
-        "venueCountry": "Spain",
-        "segment": "Music",
-        "genre": "Dance/Electronic",
-        "subGenre": "Dance/Electronic",
-        "image": "https://s1.ticketm.net/dam/a/f1f/a1378a7a-e230-4d4e-b15c-333280449f1f_RETINA_PORTRAIT_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "Z698xZ2qZ1k8pqIuF",
-        "name": "HATSUNE MIKU - MIKU EXPO 2026 EUROPE",
-        "url": "https://www.ticketmaster.es/event/hatsune-miku-miku-expo-2026-europe-tickets/416768348?language=en-us",
-        "date": "2026-11-25",
-        "time": "20:30:00",
-        "venueName": "Palacio Vistalegre",
-        "venueAddress": "Acceso Sur.  C/ Matilde Hernández s/n",
-        "venueCity": "Madrid",
-        "venueCountry": "Spain",
-        "segment": "Music",
-        "genre": "Dance/Electronic",
-        "subGenre": "Dance/Electronic",
-        "image": "https://s1.ticketm.net/dam/a/f1f/a1378a7a-e230-4d4e-b15c-333280449f1f_RETINA_PORTRAIT_16_9.jpg",
-        "priceRange": null
-      }
-    ]
+    "lastUpdated": "2026-04-09T11:31:21.373Z",
+    "eventCount": 0,
+    "events": []
   },
   "malaga": {
     "displayName": "Malaga",
-    "lastUpdated": "2026-04-09T11:22:54.454Z",
+    "lastUpdated": "2026-04-09T11:31:21.909Z",
     "eventCount": 0,
     "events": []
   },
   "manchester": {
     "displayName": "Manchester",
-    "lastUpdated": "2026-04-09T11:22:56.345Z",
+    "lastUpdated": "2026-04-09T11:31:22.475Z",
     "eventCount": 0,
     "events": []
   },
   "manhattan": {
     "displayName": "Manhattan",
-    "lastUpdated": "2026-04-09T11:22:58.318Z",
-    "eventCount": 2,
-    "events": [
-      {
-        "id": "Z7r9jZ1A7-EjF",
-        "name": "Miku Expo (16 and Over)",
-        "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7-EjF",
-        "date": "2026-05-08",
-        "time": "19:00:00",
-        "venueName": "Racket NYC",
-        "venueAddress": "431 W 16th St",
-        "venueCity": "New York",
-        "venueCountry": "United States Of America",
-        "segment": "Music",
-        "genre": "Other",
-        "subGenre": "Other",
-        "image": "https://s1.ticketm.net/dam/c/060/c5c08e7a-9912-456c-a060-2758be94e060_105881_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "k7vGF_6EKXmHS",
-        "name": "Bimbo Summit, Faze 3, The Remnants",
-        "url": "https://www.ticketmaster.com/bimbo-summit-faze-3-the-remnants-new-york-new-york-05-29-2026/event/00006479D3FAEF33",
-        "date": "2026-05-29",
-        "time": "21:00:00",
-        "venueName": "Mercury Lounge",
-        "venueAddress": "217 East Houston St.",
-        "venueCity": "New York",
-        "venueCountry": "United States Of America",
-        "segment": "Music",
-        "genre": "Pop",
-        "subGenre": "Pop",
-        "image": "https://s1.ticketm.net/dam/a/5b6/9a60c679-c793-4afa-a2f2-f871416905b6_RETINA_PORTRAIT_16_9.jpg",
-        "priceRange": null
-      }
-    ]
+    "lastUpdated": "2026-04-09T11:31:23.009Z",
+    "eventCount": 0,
+    "events": []
   },
   "marseille": {
     "displayName": "Marseille",
-    "lastUpdated": "2026-04-09T11:22:59.844Z",
+    "lastUpdated": "2026-04-09T11:31:23.539Z",
     "eventCount": 0,
     "events": []
   },
   "massachusetts": {
     "displayName": "Massachusetts",
-    "lastUpdated": "2026-04-09T11:23:01.796Z",
-    "eventCount": 5,
-    "events": [
-      {
-        "id": "vv177Z_dGkDfzqSI",
-        "name": "Boston Legacy FC vs. Denver Summit FC",
-        "url": "https://www.ticketmaster.com/boston-legacy-fc-vs-denver-summit-foxborough-massachusetts-05-03-2026/event/0100643ED4E1DCE8",
-        "date": "2026-05-03",
-        "time": "15:00:00",
-        "venueName": "Gillette Stadium",
-        "venueAddress": "1 Patriot Place",
-        "venueCity": "Foxborough",
-        "venueCountry": "United States Of America",
-        "segment": "Sports",
-        "genre": "Soccer",
-        "subGenre": "Soccer",
-        "image": "https://s1.ticketm.net/dam/a/311/f1ab246f-f465-44cd-a395-1cf1614e9311_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "vv1AvZkupGkdrzWG4",
-        "name": "Hatsune Miku - EXPO 2026 North America",
-        "url": "https://www.ticketmaster.com/hatsune-miku-expo-2026-north-america-boston-massachusetts-05-10-2026/event/01006356DEE3D315",
-        "date": "2026-05-10",
-        "time": "20:00:00",
-        "venueName": "Boch Center Wang Theatre",
-        "venueAddress": "270 Tremont Street",
-        "venueCity": "Boston",
-        "venueCountry": "United States Of America",
-        "segment": "Music",
-        "genre": "Pop",
-        "subGenre": "Pop",
-        "image": "https://s1.ticketm.net/dam/a/5f0/997858a4-dcc7-4096-95b3-0e1b23fe15f0_RETINA_PORTRAIT_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "vv1AvZkupGkdryqGb",
-        "name": "Hatsune Miku - EXPO 2026 North America",
-        "url": "https://www.ticketmaster.com/hatsune-miku-expo-2026-north-america-boston-massachusetts-05-11-2026/event/01006356DEE5D318",
-        "date": "2026-05-11",
-        "time": "20:00:00",
-        "venueName": "Boch Center Wang Theatre",
-        "venueAddress": "270 Tremont Street",
-        "venueCity": "Boston",
-        "venueCountry": "United States Of America",
-        "segment": "Music",
-        "genre": "Pop",
-        "subGenre": "Pop",
-        "image": "https://s1.ticketm.net/dam/a/5f0/997858a4-dcc7-4096-95b3-0e1b23fe15f0_RETINA_PORTRAIT_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "vv1k7Z_e3bG7sAl3",
-        "name": "Devon Allman's Blues Summit",
-        "url": "https://www.ticketmaster.com/devon-allmans-blues-summit-salisbury-massachusetts-06-18-2026/event/0100642498C45AD2",
-        "date": "2026-06-18",
-        "time": "20:00:00",
-        "venueName": "Blue Ocean Music Hall",
-        "venueAddress": "4 Oceanfront North",
-        "venueCity": "Salisbury",
-        "venueCountry": "United States Of America",
-        "segment": "Music",
-        "genre": "Rock",
-        "subGenre": "Pop",
-        "image": "https://s1.ticketm.net/dam/e/fa9/6f6e77ea-3d15-4d1b-8e30-7f3ab5a9cfa9_RETINA_PORTRAIT_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "vv177Z_eGkzudFQV",
-        "name": "The East Coast Hockey Expo Saturday & Sunday",
-        "url": "https://www.ticketmaster.com/the-east-coast-hockey-expo-saturday-worcester-massachusetts-08-15-2026/event/0100642E0D0C86B4",
-        "date": "2026-08-15",
-        "time": "18:00:00",
-        "venueName": "DCU Center Convention Center",
-        "venueAddress": "50 Foster St",
-        "venueCity": "Worcester",
-        "venueCountry": "United States Of America",
-        "segment": "Sports",
-        "genre": "Hockey",
-        "subGenre": "Minor League",
-        "image": "https://s1.ticketm.net/dam/e/2c7/bde0d0a9-e508-44e9-98ac-da40cd0aa2c7_SOURCE",
-        "priceRange": null
-      }
-    ]
+    "lastUpdated": "2026-04-09T11:31:24.080Z",
+    "eventCount": 0,
+    "events": []
   },
   "mcallen": {
     "displayName": "Mcallen",
-    "lastUpdated": "2026-04-09T11:23:03.527Z",
-    "eventCount": 1,
-    "events": [
-      {
-        "id": "G5dIZ_6CLwQjU",
-        "name": "Palm City Tattoo Expo",
-        "url": "https://www.ticketmaster.com/palm-city-tattoo-expo-mcallen-texas-04-17-2026/event/3A0064739FC9A736",
-        "date": "2026-04-17",
-        "time": null,
-        "venueName": "McAllen Convention Center",
-        "venueAddress": "700 Convention Center Blvd.",
-        "venueCity": "McAllen",
-        "venueCountry": "United States Of America",
-        "segment": "Miscellaneous",
-        "genre": "Hobby/Special Interest Expos",
-        "subGenre": "Hobby/Special Interest Expos",
-        "image": "https://s1.ticketm.net/dam/a/f9e/07eff6fd-8e66-450a-b586-7e0cbdc68f9e_RETINA_LANDSCAPE_16_9.jpg",
-        "priceRange": null
-      }
-    ]
+    "lastUpdated": "2026-04-09T11:31:24.647Z",
+    "eventCount": 0,
+    "events": []
   },
   "meixedo": {
     "displayName": "Meixedo",
-    "lastUpdated": "2026-04-09T11:23:05.185Z",
+    "lastUpdated": "2026-04-09T11:31:25.203Z",
     "eventCount": 0,
     "events": []
   },
   "melbourne": {
     "displayName": "Melbourne",
-    "lastUpdated": "2026-04-09T11:23:07.029Z",
-    "eventCount": 1,
-    "events": [
-      {
-        "id": "ZFwVzcymWZ17kK4K",
-        "name": "South Summit 'RUN IT BACK' Australian Tour",
-        "url": "https://www.moshtix.com.au/v2/event/south-summit-run-it-back-australian-tour/193553",
-        "date": "2026-07-18",
-        "time": "18:00:00",
-        "venueName": "170 Russell",
-        "venueAddress": "170 Russell",
-        "venueCity": "Melbourne",
-        "venueCountry": "Australia",
-        "segment": "Music",
-        "genre": "Alternative",
-        "subGenre": "Alternative",
-        "image": "https://s1.ticketm.net/dam/c/797/5e693c26-2881-4776-8f0c-3aa94bfa3797_106511_RETINA_PORTRAIT_16_9.jpg",
-        "priceRange": null
-      }
-    ]
+    "lastUpdated": "2026-04-09T11:31:25.749Z",
+    "eventCount": 0,
+    "events": []
   },
   "memphis": {
     "displayName": "Memphis",
-    "lastUpdated": "2026-04-09T11:23:08.744Z",
+    "lastUpdated": "2026-04-09T11:31:26.301Z",
     "eventCount": 0,
     "events": []
   },
   "mesa": {
     "displayName": "Mesa",
-    "lastUpdated": "2026-04-09T11:23:10.495Z",
-    "eventCount": 1,
-    "events": [
-      {
-        "id": "LvZ18QoR1r_LZpOv4SfS3",
-        "name": "BRICK CONVENTION | LEGO Fan Expo | Mesa, AZ",
-        "url": "https://www.universe.com/events/brick-convention-lego-fan-expo-mesa-az-tickets-S1BD8Y?ref=ticketmaster",
-        "date": "2026-05-30",
-        "time": "10:00:00",
-        "venueName": "Mesa Amphitheatre",
-        "venueAddress": "263 N. Center St",
-        "venueCity": "Mesa",
-        "venueCountry": "United States Of America",
-        "segment": "Miscellaneous",
-        "genre": "Hobby/Special Interest Expos",
-        "subGenre": "Hobby/Special Interest Expos",
-        "image": "https://s1.ticketm.net/dam/a/cb9/2a470012-0338-429b-ae98-a4af0e8fdcb9_SOURCE",
-        "priceRange": null
-      }
-    ]
+    "lastUpdated": "2026-04-09T11:31:26.862Z",
+    "eventCount": 0,
+    "events": []
   },
   "miami": {
     "displayName": "Miami",
-    "lastUpdated": "2026-04-09T11:23:12.381Z",
+    "lastUpdated": "2026-04-09T11:31:27.406Z",
     "eventCount": 0,
     "events": []
   },
   "michigan": {
     "displayName": "Michigan",
-    "lastUpdated": "2026-04-09T11:23:14.266Z",
-    "eventCount": 1,
-    "events": [
-      {
-        "id": "LvZ18Qf8jIV0mXZZyFlRD",
-        "name": "BRICK CONVENTION | LEGO Fan Expo | Flint, MI",
-        "url": "https://www.universe.com/events/brick-convention-lego-fan-expo-flint-mi-tickets-W4ZHSG?ref=ticketmaster",
-        "date": "2026-08-22",
-        "time": "10:00:00",
-        "venueName": "Dort Financial Center",
-        "venueAddress": "3501 Lapeer",
-        "venueCity": "Flint",
-        "venueCountry": "United States Of America",
-        "segment": "Miscellaneous",
-        "genre": "Hobby/Special Interest Expos",
-        "subGenre": "Hobby/Special Interest Expos",
-        "image": "https://s1.ticketm.net/dam/a/cb9/2a470012-0338-429b-ae98-a4af0e8fdcb9_SOURCE",
-        "priceRange": null
-      }
-    ]
+    "lastUpdated": "2026-04-09T11:31:27.943Z",
+    "eventCount": 0,
+    "events": []
   },
   "milan": {
     "displayName": "Milan",
-    "lastUpdated": "2026-04-09T11:23:15.972Z",
+    "lastUpdated": "2026-04-09T11:31:28.482Z",
     "eventCount": 0,
     "events": []
   },
   "milwaukee": {
     "displayName": "Milwaukee",
-    "lastUpdated": "2026-04-09T11:23:17.865Z",
+    "lastUpdated": "2026-04-09T11:31:29.010Z",
     "eventCount": 0,
     "events": []
   },
   "minneapolis": {
     "displayName": "Minneapolis",
-    "lastUpdated": "2026-04-09T11:23:19.774Z",
+    "lastUpdated": "2026-04-09T11:31:29.580Z",
     "eventCount": 0,
     "events": []
   },
   "monaco": {
     "displayName": "Monaco",
-    "lastUpdated": "2026-04-09T11:23:21.481Z",
+    "lastUpdated": "2026-04-09T11:31:30.119Z",
     "eventCount": 0,
     "events": []
   },
   "montreal": {
     "displayName": "Montreal",
-    "lastUpdated": "2026-04-09T11:23:23.376Z",
-    "eventCount": 3,
-    "events": [
-      {
-        "id": "1kG8vNO_GA5SktB",
-        "name": "Bagel Burlesque Expo 2026 - Vendredi",
-        "url": "https://www.ticketmaster.ca/bagel-burlesque-expo-2026-vendredi-montreal-quebec-04-24-2026/event/310063819BCC6A7A",
-        "date": "2026-04-24",
-        "time": "20:00:00",
-        "venueName": "Le Studio TD",
-        "venueAddress": "305, rue Ste-Catherine Ouest",
-        "venueCity": "Montreal",
-        "venueCountry": "Canada",
-        "segment": "Arts & Theatre",
-        "genre": "Miscellaneous",
-        "subGenre": "Miscellaneous",
-        "image": "https://s1.ticketm.net/dam/a/09e/1fb7f436-5c6c-4b4b-a885-b39bcbe2709e_1249961_RETINA_LANDSCAPE_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "1kG8vNO_GAu2pcy",
-        "name": "Bagel Burlesque Expo 2026 - 2 Jours - Vendredi et Samedi",
-        "url": "https://www.ticketmaster.ca/bagel-burlesque-expo-2026-2-jours-montreal-quebec-04-24-2026/event/310063819D3D6B79",
-        "date": "2026-04-24",
-        "time": null,
-        "venueName": "Le Studio TD",
-        "venueAddress": "305, rue Ste-Catherine Ouest",
-        "venueCity": "Montreal",
-        "venueCountry": "Canada",
-        "segment": "Arts & Theatre",
-        "genre": "Miscellaneous",
-        "subGenre": "Miscellaneous",
-        "image": "https://s1.ticketm.net/dam/a/09e/1fb7f436-5c6c-4b4b-a885-b39bcbe2709e_1249961_RETINA_LANDSCAPE_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "1kG8vNO_GA5SptT",
-        "name": "Bagel Burlesque Expo 2026 - Samedi",
-        "url": "https://www.ticketmaster.ca/bagel-burlesque-expo-2026-samedi-montreal-quebec-04-25-2026/event/310063819BCD6A7F",
-        "date": "2026-04-25",
-        "time": "20:00:00",
-        "venueName": "Le Studio TD",
-        "venueAddress": "305, rue Ste-Catherine Ouest",
-        "venueCity": "Montreal",
-        "venueCountry": "Canada",
-        "segment": "Arts & Theatre",
-        "genre": "Miscellaneous",
-        "subGenre": "Miscellaneous",
-        "image": "https://s1.ticketm.net/dam/a/09e/1fb7f436-5c6c-4b4b-a885-b39bcbe2709e_1249961_RETINA_LANDSCAPE_16_9.jpg",
-        "priceRange": null
-      }
-    ]
+    "lastUpdated": "2026-04-09T11:31:30.668Z",
+    "eventCount": 0,
+    "events": []
   },
   "munich": {
     "displayName": "Munich",
-    "lastUpdated": "2026-04-09T11:23:25.174Z",
+    "lastUpdated": "2026-04-09T11:31:31.231Z",
     "eventCount": 0,
     "events": []
   },
   "naples": {
     "displayName": "Naples",
-    "lastUpdated": "2026-04-09T11:23:27.023Z",
+    "lastUpdated": "2026-04-09T11:31:31.783Z",
     "eventCount": 0,
     "events": []
   },
   "nashville": {
     "displayName": "Nashville",
-    "lastUpdated": "2026-04-09T11:23:29.019Z",
-    "eventCount": 1,
-    "events": [
-      {
-        "id": "rZ7HnEZ1AKPM-7",
-        "name": "AJ Lee & Blue Summit w/ The Sentimental Gentlemen",
-        "url": "https://www.ticketweb.com/event/aj-lee-blue-summit-the-basement-east-tickets/13977844",
-        "date": "2026-04-22",
-        "time": "20:00:00",
-        "venueName": "The Basement East",
-        "venueAddress": "917 Woodland St",
-        "venueCity": "Nashville",
-        "venueCountry": "United States Of America",
-        "segment": "Music",
-        "genre": "Folk",
-        "subGenre": "Americana",
-        "image": "https://s1.ticketm.net/dam/c/779/d4bc7e11-1b50-4aa4-a2be-0a21569f5779_106531_RETINA_LANDSCAPE_16_9.jpg",
-        "priceRange": "USD 27.32-56.92"
-      }
-    ]
+    "lastUpdated": "2026-04-09T11:31:32.341Z",
+    "eventCount": 0,
+    "events": []
   },
   "nevada": {
     "displayName": "Nevada",
-    "lastUpdated": "2026-04-09T11:23:31.063Z",
-    "eventCount": 1,
-    "events": [
-      {
-        "id": "LvZ18Q9VpaFMtzOZlSnqh",
-        "name": "Go Local Business Expo",
-        "url": "https://www.universe.com/events/go-local-business-expo-tickets-9M2PVR?ref=ticketmaster",
-        "date": "2026-05-07",
-        "time": "17:00:00",
-        "venueName": "Tahoe Blue Event Center",
-        "venueAddress": "75 US Highway 50",
-        "venueCity": "Stateline",
-        "venueCountry": "United States Of America",
-        "segment": null,
-        "genre": null,
-        "subGenre": null,
-        "image": "https://s1.ticketm.net/dam/c/8cf/a6653880-7899-4f67-8067-1f95f4d158cf_124761_RETINA_LANDSCAPE_16_9.jpg",
-        "priceRange": null
-      }
-    ]
+    "lastUpdated": "2026-04-09T11:31:32.897Z",
+    "eventCount": 0,
+    "events": []
   },
   "newjersey": {
     "displayName": "New Jersey",
-    "lastUpdated": "2026-04-09T11:23:33.250Z",
-    "eventCount": 4,
-    "events": [
-      {
-        "id": "k7vGFbRQ8MsUZ",
-        "name": "The Sugarhill Gang 2nd Annual Rappers Convention",
-        "url": "https://www.ticketmaster.com/the-sugarhill-gang-2nd-annual-rappers-englewood-new-jersey-04-17-2026/event/000062F690DF1D80",
-        "date": "2026-04-17",
-        "time": "20:00:00",
-        "venueName": "Bergen Performing Arts Center",
-        "venueAddress": "30 N. Van Brunt Street",
-        "venueCity": "Englewood",
-        "venueCountry": "United States Of America",
-        "segment": "Music",
-        "genre": "Hip-Hop/Rap",
-        "subGenre": "Trap",
-        "image": "https://s1.ticketm.net/dam/e/3fe/dfd43ae3-deab-4c28-bb9f-f21e9be433fe_TABLET_LANDSCAPE_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "vv1AeZku9GkemFJTM",
-        "name": "Hatsune Miku - EXPO 2026 North America",
-        "url": "https://www.ticketmaster.com/hatsune-miku-expo-2026-north-america-newark-new-jersey-05-07-2026/event/02006357AE226FF7",
-        "date": "2026-05-07",
-        "time": "20:00:00",
-        "venueName": "Prudential Center",
-        "venueAddress": "25 Lafayette Street",
-        "venueCity": "Newark",
-        "venueCountry": "United States Of America",
-        "segment": "Music",
-        "genre": "Pop",
-        "subGenre": "Pop",
-        "image": "https://s1.ticketm.net/dam/a/5f0/997858a4-dcc7-4096-95b3-0e1b23fe15f0_RETINA_PORTRAIT_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "LvZ18QQriGNI3-YZigsHn",
-        "name": "BRICK CONVENTION | LEGO Fan Expo | Freehold, NJ",
-        "url": "https://www.universe.com/events/brick-convention-lego-fan-expo-freehold-nj-tickets-GNS1D8?ref=ticketmaster",
-        "date": "2026-06-20",
-        "time": "10:00:00",
-        "venueName": "Warehouse 100",
-        "venueAddress": "104 Schanck Rd",
-        "venueCity": "Freehold",
-        "venueCountry": "United States Of America",
-        "segment": "Miscellaneous",
-        "genre": "Hobby/Special Interest Expos",
-        "subGenre": "Hobby/Special Interest Expos",
-        "image": "https://s1.ticketm.net/dam/a/cb9/2a470012-0338-429b-ae98-a4af0e8fdcb9_SOURCE",
-        "priceRange": null
-      },
-      {
-        "id": "rZ7HnEZ1AfOsbK",
-        "name": "Dressed To Kill presents: Spirit Of 76 Expo, Celebrating all things 70s",
-        "url": "https://www.ticketweb.com/event/dressed-to-kill-presents-spirit-williams-center-black-tickets/14831613",
-        "date": "2026-09-12",
-        "time": "11:00:00",
-        "venueName": "Williams Center - Black Box - Rutherford",
-        "venueAddress": "15 Sylvan Street",
-        "venueCity": "Rutherford",
-        "venueCountry": "United States Of America",
-        "segment": "Music",
-        "genre": "Rock",
-        "subGenre": "Classic Rock",
-        "image": "https://s1.ticketm.net/dam/c/ab4/6367448e-7474-4650-bd2d-02a8f7166ab4_106161_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-        "priceRange": "USD 47.84-58.14"
-      }
-    ]
+    "lastUpdated": "2026-04-09T11:31:33.464Z",
+    "eventCount": 0,
+    "events": []
   },
   "neworleans": {
     "displayName": "New Orleans",
-    "lastUpdated": "2026-04-09T11:23:35.043Z",
+    "lastUpdated": "2026-04-09T11:31:34.024Z",
     "eventCount": 0,
     "events": []
   },
   "newyork": {
     "displayName": "New York",
-    "lastUpdated": "2026-04-09T11:23:36.950Z",
-    "eventCount": 2,
-    "events": [
-      {
-        "id": "Z7r9jZ1A7-EjF",
-        "name": "Miku Expo (16 and Over)",
-        "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7-EjF",
-        "date": "2026-05-08",
-        "time": "19:00:00",
-        "venueName": "Racket NYC",
-        "venueAddress": "431 W 16th St",
-        "venueCity": "New York",
-        "venueCountry": "United States Of America",
-        "segment": "Music",
-        "genre": "Other",
-        "subGenre": "Other",
-        "image": "https://s1.ticketm.net/dam/c/060/c5c08e7a-9912-456c-a060-2758be94e060_105881_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "k7vGF_6EKXmHS",
-        "name": "Bimbo Summit, Faze 3, The Remnants",
-        "url": "https://www.ticketmaster.com/bimbo-summit-faze-3-the-remnants-new-york-new-york-05-29-2026/event/00006479D3FAEF33",
-        "date": "2026-05-29",
-        "time": "21:00:00",
-        "venueName": "Mercury Lounge",
-        "venueAddress": "217 East Houston St.",
-        "venueCity": "New York",
-        "venueCountry": "United States Of America",
-        "segment": "Music",
-        "genre": "Pop",
-        "subGenre": "Pop",
-        "image": "https://s1.ticketm.net/dam/a/5b6/9a60c679-c793-4afa-a2f2-f871416905b6_RETINA_PORTRAIT_16_9.jpg",
-        "priceRange": null
-      }
-    ]
+    "lastUpdated": "2026-04-09T11:31:34.591Z",
+    "eventCount": 0,
+    "events": []
   },
   "nice": {
     "displayName": "Nice",
-    "lastUpdated": "2026-04-09T11:23:38.781Z",
+    "lastUpdated": "2026-04-09T11:31:35.128Z",
     "eventCount": 0,
     "events": []
   },
   "northcarolina": {
     "displayName": "North Carolina",
-    "lastUpdated": "2026-04-09T11:23:40.882Z",
-    "eventCount": 8,
-    "events": [
-      {
-        "id": "G5eVZbsKSBhKF",
-        "name": "Face To Face Speaker Forum: Cynthia Erivo",
-        "url": "https://am.ticketmaster.com/waitchapel/buy",
-        "date": "2026-04-15",
-        "time": "19:30:00",
-        "venueName": "Lawrence Joel Veterans Memorial Coliseum",
-        "venueAddress": "2825 University Parkway",
-        "venueCity": "Winston Salem",
-        "venueCountry": "United States Of America",
-        "segment": "Miscellaneous",
-        "genre": "Lecture/Seminar",
-        "subGenre": "Lecture/Seminar",
-        "image": "https://s1.ticketm.net/dam/c/8cf/a6653880-7899-4f67-8067-1f95f4d158cf_124761_TABLET_LANDSCAPE_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "G5eVZ_AmHLbrM",
-        "name": "All American Tattoo Convention ",
-        "url": "https://www.ticketmaster.com/all-american-tattoo-convention-fayetteville-north-carolina-04-17-2026/event/2D00645BBC7D87B7",
-        "date": "2026-04-17",
-        "time": "12:00:00",
-        "venueName": "Crown Expo",
-        "venueAddress": "1960 Coliseum Drive",
-        "venueCity": "Fayetteville",
-        "venueCountry": "United States Of America",
-        "segment": "Miscellaneous",
-        "genre": "Hobby/Special Interest Expos",
-        "subGenre": "Hobby/Special Interest Expos",
-        "image": "https://s1.ticketm.net/dam/c/b89/718f87fe-8471-4d9c-a8c4-910da3eb2b89_105871_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "G5eVZ_ARZIaS8",
-        "name": "All American Tattoo Convention-VIP ",
-        "url": "https://www.ticketmaster.com/all-american-tattoo-conventionvip-fayetteville-north-carolina-04-17-2026/event/2D00645BC0A09CD0",
-        "date": "2026-04-17",
-        "time": null,
-        "venueName": "Crown Expo",
-        "venueAddress": "1960 Coliseum Drive",
-        "venueCity": "Fayetteville",
-        "venueCountry": "United States Of America",
-        "segment": "Miscellaneous",
-        "genre": "Hobby/Special Interest Expos",
-        "subGenre": "Hobby/Special Interest Expos",
-        "image": "https://s1.ticketm.net/dam/c/b89/718f87fe-8471-4d9c-a8c4-910da3eb2b89_105871_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "G5eVZ_AmTpyhu",
-        "name": "All American Tattoo Convention- Weekend Pass",
-        "url": "https://www.ticketmaster.com/all-american-tattoo-convention-weekend-pass-fayetteville-north-carolina-04-17-2026/event/2D00645BBF5B96CD",
-        "date": "2026-04-17",
-        "time": null,
-        "venueName": "Crown Expo",
-        "venueAddress": "1960 Coliseum Drive",
-        "venueCity": "Fayetteville",
-        "venueCountry": "United States Of America",
-        "segment": "Miscellaneous",
-        "genre": "Hobby/Special Interest Expos",
-        "subGenre": "Hobby/Special Interest Expos",
-        "image": "https://s1.ticketm.net/dam/c/b89/718f87fe-8471-4d9c-a8c4-910da3eb2b89_105871_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "G5eVZ_AmHLzrW",
-        "name": "All American Tattoo Convention ",
-        "url": "https://www.ticketmaster.com/all-american-tattoo-convention-fayetteville-north-carolina-04-18-2026/event/2D00645BBC7F87BD",
-        "date": "2026-04-18",
-        "time": "12:00:00",
-        "venueName": "Crown Expo",
-        "venueAddress": "1960 Coliseum Drive",
-        "venueCity": "Fayetteville",
-        "venueCountry": "United States Of America",
-        "segment": "Miscellaneous",
-        "genre": "Hobby/Special Interest Expos",
-        "subGenre": "Hobby/Special Interest Expos",
-        "image": "https://s1.ticketm.net/dam/c/b89/718f87fe-8471-4d9c-a8c4-910da3eb2b89_105871_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "G5eVZ_AmHLzL7",
-        "name": "All American Tattoo Convention ",
-        "url": "https://www.ticketmaster.com/all-american-tattoo-convention-fayetteville-north-carolina-04-19-2026/event/2D00645BBC7F87C4",
-        "date": "2026-04-19",
-        "time": "12:00:00",
-        "venueName": "Crown Expo",
-        "venueAddress": "1960 Coliseum Drive",
-        "venueCity": "Fayetteville",
-        "venueCountry": "United States Of America",
-        "segment": "Miscellaneous",
-        "genre": "Hobby/Special Interest Expos",
-        "subGenre": "Hobby/Special Interest Expos",
-        "image": "https://s1.ticketm.net/dam/c/b89/718f87fe-8471-4d9c-a8c4-910da3eb2b89_105871_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "LvZ18QoSFtacEQOv6SDgf",
-        "name": "BRICK CONVENTION | LEGO Fan Expo | Wilmington, NC",
-        "url": "https://www.universe.com/events/brick-convention-lego-fan-expo-wilmington-nc-tickets-Z15SL2?ref=ticketmaster",
-        "date": "2026-09-12",
-        "time": "10:00:00",
-        "venueName": "Wilmington Convention Center",
-        "venueAddress": "515 Nutt St",
-        "venueCity": "Wilmington",
-        "venueCountry": "United States Of America",
-        "segment": "Miscellaneous",
-        "genre": "Hobby/Special Interest Expos",
-        "subGenre": "Hobby/Special Interest Expos",
-        "image": "https://s1.ticketm.net/dam/a/cb9/2a470012-0338-429b-ae98-a4af0e8fdcb9_SOURCE",
-        "priceRange": null
-      },
-      {
-        "id": "Z7r9jZ1A7OxbP",
-        "name": "North Carolina Courage vs. Denver Summit FC",
-        "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7OxbP",
-        "date": "2026-11-01",
-        "time": "17:00:00",
-        "venueName": "WakeMed Soccer Park",
-        "venueAddress": "201 Soccer Park Drive",
-        "venueCity": "Cary",
-        "venueCountry": "United States Of America",
-        "segment": "Sports",
-        "genre": "Miscellaneous",
-        "subGenre": "Miscellaneous",
-        "image": "https://s1.ticketm.net/dam/a/a50/9b769bea-04cb-4d37-a1fe-5fbb51379a50_SOURCE",
-        "priceRange": null
-      }
-    ]
+    "lastUpdated": "2026-04-09T11:31:35.664Z",
+    "eventCount": 0,
+    "events": []
   },
   "nuremberg": {
     "displayName": "Nuremberg",
-    "lastUpdated": "2026-04-09T11:23:42.652Z",
+    "lastUpdated": "2026-04-09T11:31:36.208Z",
     "eventCount": 0,
     "events": []
   },
   "oklahomacity": {
     "displayName": "Oklahoma City",
-    "lastUpdated": "2026-04-09T11:23:44.549Z",
+    "lastUpdated": "2026-04-09T11:31:36.743Z",
     "eventCount": 0,
     "events": []
   },
   "omaha": {
     "displayName": "Omaha",
-    "lastUpdated": "2026-04-09T11:23:46.422Z",
-    "eventCount": 5,
-    "events": [
-      {
-        "id": "vv1AkZkuoGkenj_3I",
-        "name": "Oddities & Curiosities Expo - 2026",
-        "url": "https://www.ticketmaster.com/oddities-curiosities-expo-2026-omaha-nebraska-07-25-2026/event/06006351AA7194A8",
-        "date": "2026-07-25",
-        "time": "10:00:00",
-        "venueName": "CHI Health Center Omaha",
-        "venueAddress": "455 N. 10th Street",
-        "venueCity": "Omaha",
-        "venueCountry": "United States Of America",
-        "segment": "Miscellaneous",
-        "genre": "Community/Civic",
-        "subGenre": "Community/Civic",
-        "image": "https://s1.ticketm.net/dam/a/df4/3496ebcb-4f2c-4288-b730-f830c69e8df4_RETINA_PORTRAIT_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "vv1AkZkuoGkenqa3i",
-        "name": "Oddities & Curiosities Expo - 2026",
-        "url": "https://www.ticketmaster.com/oddities-curiosities-expo-2026-omaha-nebraska-07-26-2026/event/06006351AA7494AC",
-        "date": "2026-07-26",
-        "time": "10:00:00",
-        "venueName": "CHI Health Center Omaha",
-        "venueAddress": "455 N. 10th Street",
-        "venueCity": "Omaha",
-        "venueCountry": "United States Of America",
-        "segment": "Miscellaneous",
-        "genre": "Community/Civic",
-        "subGenre": "Community/Civic",
-        "image": "https://s1.ticketm.net/dam/a/df4/3496ebcb-4f2c-4288-b730-f830c69e8df4_RETINA_PORTRAIT_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "vv17bZ_7GkSLaPJf",
-        "name": "World Oddities Expo",
-        "url": "https://www.ticketmaster.com/world-oddities-expo-omaha-nebraska-08-29-2026/event/0600644CDF265994",
-        "date": "2026-08-29",
-        "time": "11:00:00",
-        "venueName": "CHI Health Center Omaha",
-        "venueAddress": "455 N. 10th Street",
-        "venueCity": "Omaha",
-        "venueCountry": "United States Of America",
-        "segment": "Miscellaneous",
-        "genre": "Community/Civic",
-        "subGenre": "Community/Civic",
-        "image": "https://s1.ticketm.net/dam/c/c09/cbee274e-eb99-4431-bfb0-21dee7684c09_105321_RETINA_PORTRAIT_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "vv17bZ_7GkSL1PJ0",
-        "name": "World Oddities Expo",
-        "url": "https://www.ticketmaster.com/world-oddities-expo-omaha-nebraska-08-30-2026/event/0600644CDF2A59A4",
-        "date": "2026-08-30",
-        "time": "11:00:00",
-        "venueName": "CHI Health Center Omaha",
-        "venueAddress": "455 N. 10th Street",
-        "venueCity": "Omaha",
-        "venueCountry": "United States Of America",
-        "segment": "Miscellaneous",
-        "genre": "Community/Civic",
-        "subGenre": "Community/Civic",
-        "image": "https://s1.ticketm.net/dam/c/c09/cbee274e-eb99-4431-bfb0-21dee7684c09_105321_RETINA_PORTRAIT_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "vv17bZ_7GkSL5gEd",
-        "name": "2-day World Oddities Expo",
-        "url": "https://www.ticketmaster.com/2day-world-oddities-expo-omaha-nebraska-08-30-2026/event/0600644CDF2F59C3",
-        "date": "2026-08-30",
-        "time": null,
-        "venueName": "CHI Health Center Omaha",
-        "venueAddress": "455 N. 10th Street",
-        "venueCity": "Omaha",
-        "venueCountry": "United States Of America",
-        "segment": "Miscellaneous",
-        "genre": "Community/Civic",
-        "subGenre": "Community/Civic",
-        "image": "https://s1.ticketm.net/dam/c/c09/cbee274e-eb99-4431-bfb0-21dee7684c09_105321_RETINA_PORTRAIT_16_9.jpg",
-        "priceRange": null
-      }
-    ]
+    "lastUpdated": "2026-04-09T11:31:37.295Z",
+    "eventCount": 0,
+    "events": []
   },
   "oman": {
     "displayName": "Oman",
-    "lastUpdated": "2026-04-09T11:23:48.183Z",
+    "lastUpdated": "2026-04-09T11:31:37.833Z",
     "eventCount": 0,
     "events": []
   },
   "oregon": {
     "displayName": "Oregon",
-    "lastUpdated": "2026-04-09T11:23:50.059Z",
-    "eventCount": 2,
-    "events": [
-      {
-        "id": "vvG1HZbVD7r7na",
-        "name": "Nike Hoop Summit",
-        "url": "https://www.ticketmaster.com/nike-hoop-summit-portland-oregon-04-11-2026/event/0F00634EC4784A89",
-        "date": "2026-04-11",
-        "time": "16:30:00",
-        "venueName": "Moda Center",
-        "venueAddress": "One Center Court, Suite 100",
-        "venueCity": "Portland",
-        "venueCountry": "United States Of America",
-        "segment": "Sports",
-        "genre": "Basketball",
-        "subGenre": "High School",
-        "image": "https://s1.ticketm.net/dam/e/959/14778203-6d14-4918-894c-783ad6037959_TABLET_LANDSCAPE_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "Z7r9jZ1A7Ox_f",
-        "name": "Portland Thorns FC vs. Denver Summit FC",
-        "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Ox_f",
-        "date": "2026-08-22",
-        "time": "17:45:00",
-        "venueName": "Providence Park",
-        "venueAddress": "1844 SW Morrison St.",
-        "venueCity": "Portland",
-        "venueCountry": "United States Of America",
-        "segment": "Sports",
-        "genre": "Soccer",
-        "subGenre": "Soccer",
-        "image": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_LANDSCAPE_16_9.jpg",
-        "priceRange": null
-      }
-    ]
+    "lastUpdated": "2026-04-09T11:31:38.375Z",
+    "eventCount": 0,
+    "events": []
   },
   "orlando": {
     "displayName": "Orlando",
-    "lastUpdated": "2026-04-09T11:23:51.928Z",
-    "eventCount": 2,
-    "events": [
-      {
-        "id": "LvZ18QocRuF_rqZv6cn7D",
-        "name": "BRICK CONVENTION | LEGO Fan Expo | Orlando, FL",
-        "url": "https://www.universe.com/events/brick-convention-lego-fan-expo-orlando-fl-tickets-N1C4ML?ref=ticketmaster",
-        "date": "2026-06-06",
-        "time": "10:00:00",
-        "venueName": "Central Florida Fairgrounds",
-        "venueAddress": "4603 West Colonial Dr",
-        "venueCity": "Orlando",
-        "venueCountry": "United States Of America",
-        "segment": "Miscellaneous",
-        "genre": "Hobby/Special Interest Expos",
-        "subGenre": "Hobby/Special Interest Expos",
-        "image": "https://s1.ticketm.net/dam/a/cb9/2a470012-0338-429b-ae98-a4af0e8fdcb9_SOURCE",
-        "priceRange": null
-      },
-      {
-        "id": "1AxZk3vGkeHx0qT",
-        "name": "Breakers Conference with Mike Signorelli and V1 Worship",
-        "url": "https://www.ticketmaster.com/breakers-conference-with-mike-signorelli-and-orlando-florida-08-07-2026/event/22006481BC8A477F",
-        "date": "2026-08-07",
-        "time": null,
-        "venueName": "Addition Financial Arena",
-        "venueAddress": "12777 Gemini Blvd",
-        "venueCity": "Orlando",
-        "venueCountry": "United States Of America",
-        "segment": "Miscellaneous",
-        "genre": "Lecture/Seminar",
-        "subGenre": "Lecture/Seminar",
-        "image": "https://s1.ticketm.net/dam/e/3d2/66a31c97-8e55-461e-ba2d-a3772da973d2_TABLET_LANDSCAPE_16_9.jpg",
-        "priceRange": null
-      }
-    ]
+    "lastUpdated": "2026-04-09T11:31:38.913Z",
+    "eventCount": 0,
+    "events": []
   },
   "oslo": {
     "displayName": "Oslo",
-    "lastUpdated": "2026-04-09T11:23:53.690Z",
+    "lastUpdated": "2026-04-09T11:31:39.456Z",
     "eventCount": 0,
     "events": []
   },
   "ottawa": {
     "displayName": "Ottawa",
-    "lastUpdated": "2026-04-09T11:23:55.450Z",
+    "lastUpdated": "2026-04-09T11:31:39.987Z",
     "eventCount": 0,
     "events": []
   },
   "pansol": {
     "displayName": "Pansol",
-    "lastUpdated": "2026-04-09T11:23:57.096Z",
+    "lastUpdated": "2026-04-09T11:31:40.519Z",
     "eventCount": 0,
     "events": []
   },
   "paris": {
     "displayName": "Paris",
-    "lastUpdated": "2026-04-09T11:23:58.825Z",
+    "lastUpdated": "2026-04-09T11:31:41.056Z",
     "eventCount": 0,
     "events": []
   },
   "perth": {
     "displayName": "Perth",
-    "lastUpdated": "2026-04-09T11:24:00.526Z",
+    "lastUpdated": "2026-04-09T11:31:41.661Z",
     "eventCount": 0,
     "events": []
   },
   "philadelphia": {
     "displayName": "Philadelphia",
-    "lastUpdated": "2026-04-09T11:24:02.727Z",
+    "lastUpdated": "2026-04-09T11:31:42.216Z",
     "eventCount": 0,
     "events": []
   },
   "phoenix": {
     "displayName": "Phoenix",
-    "lastUpdated": "2026-04-09T11:24:04.655Z",
+    "lastUpdated": "2026-04-09T11:31:42.775Z",
     "eventCount": 0,
     "events": []
   },
   "pittsburgh": {
     "displayName": "Pittsburgh",
-    "lastUpdated": "2026-04-09T11:24:06.352Z",
+    "lastUpdated": "2026-04-09T11:31:43.324Z",
     "eventCount": 0,
     "events": []
   },
   "porto": {
     "displayName": "Porto",
-    "lastUpdated": "2026-04-09T11:24:08.163Z",
+    "lastUpdated": "2026-04-09T11:31:43.855Z",
     "eventCount": 0,
     "events": []
   },
   "prague": {
     "displayName": "Prague",
-    "lastUpdated": "2026-04-09T11:24:09.881Z",
+    "lastUpdated": "2026-04-09T11:31:44.376Z",
     "eventCount": 0,
     "events": []
   },
   "providence": {
     "displayName": "Providence",
-    "lastUpdated": "2026-04-09T11:24:11.832Z",
-    "eventCount": 4,
-    "events": [
-      {
-        "id": "vv177ZbUGkSbZTk8",
-        "name": "Rhode Island Anime Convention",
-        "url": "https://www.ticketmaster.com/rhode-island-anime-convention-providence-rhode-island-06-06-2026/event/0100636CD803F190",
-        "date": "2026-06-06",
-        "time": "10:00:00",
-        "venueName": "Rhode Island Convention Center",
-        "venueAddress": "1 Sabin St",
-        "venueCity": "Providence",
-        "venueCountry": "United States Of America",
-        "segment": "Miscellaneous",
-        "genre": "Hobby/Special Interest Expos",
-        "subGenre": "Hobby/Special Interest Expos",
-        "image": "https://s1.ticketm.net/dam/a/b06/5754eb9a-dbe5-405f-9cf7-fc323604eb06_1822401_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "vv177ZbUGkSGrCQS",
-        "name": "RI Anime Convention 2 Day VIP Pass",
-        "url": "https://www.ticketmaster.com/ri-anime-convention-2-day-vip-providence-rhode-island-06-06-2026/event/0100636CCC78E6B3",
-        "date": "2026-06-06",
-        "time": null,
-        "venueName": "Rhode Island Convention Center",
-        "venueAddress": "1 Sabin St",
-        "venueCity": "Providence",
-        "venueCountry": "United States Of America",
-        "segment": "Miscellaneous",
-        "genre": "Hobby/Special Interest Expos",
-        "subGenre": "Hobby/Special Interest Expos",
-        "image": "https://s1.ticketm.net/dam/a/b06/5754eb9a-dbe5-405f-9cf7-fc323604eb06_1822401_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "vv177ZbUGkSoUmc-",
-        "name": "RI Anime Convention 2 Day Weekend Pass",
-        "url": "https://www.ticketmaster.com/ri-anime-convention-2-day-weekend-providence-rhode-island-06-06-2026/event/0100636CD1DAEB61",
-        "date": "2026-06-06",
-        "time": null,
-        "venueName": "Rhode Island Convention Center",
-        "venueAddress": "1 Sabin St",
-        "venueCity": "Providence",
-        "venueCountry": "United States Of America",
-        "segment": "Miscellaneous",
-        "genre": "Hobby/Special Interest Expos",
-        "subGenre": "Hobby/Special Interest Expos",
-        "image": "https://s1.ticketm.net/dam/a/b06/5754eb9a-dbe5-405f-9cf7-fc323604eb06_1822401_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "vv177ZbUGkSbvLk4",
-        "name": "Rhode Island Anime Convention",
-        "url": "https://www.ticketmaster.com/rhode-island-anime-convention-providence-rhode-island-06-07-2026/event/0100636CD805F195",
-        "date": "2026-06-07",
-        "time": "10:00:00",
-        "venueName": "Rhode Island Convention Center",
-        "venueAddress": "1 Sabin St",
-        "venueCity": "Providence",
-        "venueCountry": "United States Of America",
-        "segment": "Miscellaneous",
-        "genre": "Hobby/Special Interest Expos",
-        "subGenre": "Hobby/Special Interest Expos",
-        "image": "https://s1.ticketm.net/dam/a/b06/5754eb9a-dbe5-405f-9cf7-fc323604eb06_1822401_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-        "priceRange": null
-      }
-    ]
+    "lastUpdated": "2026-04-09T11:31:44.916Z",
+    "eventCount": 0,
+    "events": []
   },
   "puertovallarta": {
     "displayName": "Puerto Vallarta",
-    "lastUpdated": "2026-04-09T11:24:13.644Z",
+    "lastUpdated": "2026-04-09T11:31:45.460Z",
     "eventCount": 0,
     "events": []
   },
   "qatar": {
     "displayName": "Qatar",
-    "lastUpdated": "2026-04-09T11:24:15.349Z",
+    "lastUpdated": "2026-04-09T11:31:46.051Z",
     "eventCount": 0,
     "events": []
   },
   "quebeccity": {
     "displayName": "Quebec City",
-    "lastUpdated": "2026-04-09T11:24:17.092Z",
+    "lastUpdated": "2026-04-09T11:31:46.603Z",
     "eventCount": 0,
     "events": []
   },
   "queens": {
     "displayName": "Queens",
-    "lastUpdated": "2026-04-09T11:24:18.798Z",
+    "lastUpdated": "2026-04-09T11:31:47.190Z",
     "eventCount": 0,
     "events": []
   },
   "queenstown": {
     "displayName": "Queenstown",
-    "lastUpdated": "2026-04-09T11:24:20.491Z",
+    "lastUpdated": "2026-04-09T11:31:47.728Z",
     "eventCount": 0,
     "events": []
   },
   "raleigh": {
     "displayName": "Raleigh",
-    "lastUpdated": "2026-04-09T11:24:22.500Z",
+    "lastUpdated": "2026-04-09T11:31:48.268Z",
     "eventCount": 0,
     "events": []
   },
   "reno": {
     "displayName": "Reno",
-    "lastUpdated": "2026-04-09T11:24:24.264Z",
+    "lastUpdated": "2026-04-09T11:31:48.811Z",
     "eventCount": 0,
     "events": []
   },
   "richmond": {
     "displayName": "Richmond",
-    "lastUpdated": "2026-04-09T11:24:26.054Z",
+    "lastUpdated": "2026-04-09T11:31:49.347Z",
     "eventCount": 0,
     "events": []
   },
   "riverside": {
     "displayName": "Riverside",
-    "lastUpdated": "2026-04-09T11:24:27.748Z",
+    "lastUpdated": "2026-04-09T11:31:49.904Z",
     "eventCount": 0,
     "events": []
   },
   "riyadh": {
     "displayName": "Riyadh",
-    "lastUpdated": "2026-04-09T11:24:29.393Z",
+    "lastUpdated": "2026-04-09T11:31:50.487Z",
     "eventCount": 0,
     "events": []
   },
   "rochester": {
     "displayName": "Rochester",
-    "lastUpdated": "2026-04-09T11:24:31.131Z",
+    "lastUpdated": "2026-04-09T11:31:51.044Z",
     "eventCount": 0,
     "events": []
   },
   "rome": {
     "displayName": "Rome",
-    "lastUpdated": "2026-04-09T11:24:32.889Z",
+    "lastUpdated": "2026-04-09T11:31:51.600Z",
     "eventCount": 0,
     "events": []
   },
   "rotterdam": {
     "displayName": "Rotterdam",
-    "lastUpdated": "2026-04-09T11:24:34.786Z",
-    "eventCount": 1,
-    "events": [
-      {
-        "id": "Z698xZbpZ1kJ8GkpF",
-        "name": "Parking permit World Hydrogen Summit & Exhibition",
-        "url": "https://www.ticketmaster.nl/event/parking-permit-world-hydrogen-summit--exhibition-tickets/990306588?language=en-us",
-        "date": "2026-05-20",
-        "time": "09:00:00",
-        "venueName": "Ahoy Parking",
-        "venueAddress": "Ahoyweg 10",
-        "venueCity": "Rotterdam",
-        "venueCountry": "Netherlands",
-        "segment": "Film",
-        "genre": "Miscellaneous",
-        "subGenre": "Miscellaneous",
-        "image": "https://s1.ticketm.net/dam/a/8c6/cfcfed54-34a9-4e65-b69b-9b2e978d58c6_RETINA_LANDSCAPE_16_9.jpg",
-        "priceRange": null
-      }
-    ]
+    "lastUpdated": "2026-04-09T11:31:52.191Z",
+    "eventCount": 0,
+    "events": []
   },
   "sacramento": {
     "displayName": "Sacramento",
-    "lastUpdated": "2026-04-09T11:24:36.554Z",
+    "lastUpdated": "2026-04-09T11:31:52.732Z",
     "eventCount": 0,
     "events": []
   },
   "saltlakecity": {
     "displayName": "Salt Lake City",
-    "lastUpdated": "2026-04-09T11:24:38.307Z",
-    "eventCount": 1,
-    "events": [
-      {
-        "id": "Z7r9jZ1A7Oxq3",
-        "name": "Utah Royals FC vs. Denver Summit FC",
-        "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Oxq3",
-        "date": "2026-05-23",
-        "time": "16:30:00",
-        "venueName": "America First Field",
-        "venueAddress": "515 South 700 East, #2R",
-        "venueCity": "Salt Lake City",
-        "venueCountry": "United States Of America",
-        "segment": "Sports",
-        "genre": "Miscellaneous",
-        "subGenre": "Miscellaneous",
-        "image": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_LANDSCAPE_16_9.jpg",
-        "priceRange": null
-      }
-    ]
+    "lastUpdated": "2026-04-09T11:31:53.257Z",
+    "eventCount": 0,
+    "events": []
   },
   "sanantonio": {
     "displayName": "San Antonio",
-    "lastUpdated": "2026-04-09T11:24:40.407Z",
-    "eventCount": 9,
-    "events": [
-      {
-        "id": "G5dIZbgQ9IUW2",
-        "name": "Oddities & Curiosities Expo: Scorpion Habitat Entomology 1:30PM-3:30PM",
-        "url": "https://www.ticketmaster.com/oddities-curiosities-expo-scorpion-habitat-entomology-san-antonio-texas-08-01-2026/event/3A00635697A36F4F",
-        "date": "2026-08-01",
-        "time": "13:30:00",
-        "venueName": "Henry B. Gonzalez Convention Center",
-        "venueAddress": "900 E. Market Street",
-        "venueCity": "San Antonio",
-        "venueCountry": "United States Of America",
-        "segment": "Miscellaneous",
-        "genre": "Community/Civic",
-        "subGenre": "Community/Civic",
-        "image": "https://s1.ticketm.net/dam/e/3c8/4c970c53-a198-4414-af74-c262cae4e3c8_RETINA_LANDSCAPE_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "G5dIZbgQ9IkHs",
-        "name": "Oddities & Curiosities Expo: Raccoon Taxidermy Class 10 AM-4 PM",
-        "url": "https://www.ticketmaster.com/oddities-curiosities-expo-raccoon-taxidermy-class-san-antonio-texas-08-01-2026/event/3A00635697A06F31",
-        "date": "2026-08-01",
-        "time": null,
-        "venueName": "Henry B. Gonzalez Convention Center",
-        "venueAddress": "900 E. Market Street",
-        "venueCity": "San Antonio",
-        "venueCountry": "United States Of America",
-        "segment": "Miscellaneous",
-        "genre": "Community/Civic",
-        "subGenre": "Community/Civic",
-        "image": "https://s1.ticketm.net/dam/e/a5b/cd02e25e-2437-47ef-b2d7-5748046cba5b_TABLET_LANDSCAPE_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "G5dIZbgQ9PkH8",
-        "name": "Oddities & Curiosities Expo: Sunset Moth Entomology Class 10 AM-12 PM",
-        "url": "https://www.ticketmaster.com/oddities-curiosities-expo-sunset-moth-entomology-san-antonio-texas-08-01-2026/event/3A00635697946F10",
-        "date": "2026-08-01",
-        "time": null,
-        "venueName": "Henry B. Gonzalez Convention Center",
-        "venueAddress": "900 E. Market Street",
-        "venueCity": "San Antonio",
-        "venueCountry": "United States Of America",
-        "segment": "Miscellaneous",
-        "genre": "Community/Civic",
-        "subGenre": "Community/Civic",
-        "image": "https://s1.ticketm.net/dam/e/87d/ea2c060e-0c1e-458b-a2bf-99194824b87d_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "G5dIZbgSMVnBl",
-        "name": "Oddities & Curiosities Expo from 10AM to 5PM",
-        "url": "https://www.ticketmaster.com/oddities-curiosities-expo-from-10am-to-san-antonio-texas-08-01-2026/event/3A00635CF7D2AEAB",
-        "date": "2026-08-01",
-        "time": null,
-        "venueName": "Henry B. Gonzalez Convention Center",
-        "venueAddress": "900 E. Market Street",
-        "venueCity": "San Antonio",
-        "venueCountry": "United States Of America",
-        "segment": "Miscellaneous",
-        "genre": "Community/Civic",
-        "subGenre": "Community/Civic",
-        "image": "https://s1.ticketm.net/dam/e/704/755ea9dc-5346-4971-9b5a-aa4ec221d704_TABLET_LANDSCAPE_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "G5dIZbgQ9tUW_",
-        "name": "Oddities & Curiosities Expo: Scorpion Habitat Entomology 1:30PM-3:30PM",
-        "url": "https://www.ticketmaster.com/oddities-curiosities-expo-scorpion-habitat-entomology-san-antonio-texas-08-02-2026/event/3A00635697A76F59",
-        "date": "2026-08-02",
-        "time": "13:30:00",
-        "venueName": "Henry B. Gonzalez Convention Center",
-        "venueAddress": "900 E. Market Street",
-        "venueCity": "San Antonio",
-        "venueCountry": "United States Of America",
-        "segment": "Miscellaneous",
-        "genre": "Community/Civic",
-        "subGenre": "Community/Civic",
-        "image": "https://s1.ticketm.net/dam/e/06e/5ec33426-3256-4531-abe6-d7d33723c06e_TABLET_LANDSCAPE_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "G5dIZbgQ9EpHt",
-        "name": "Oddities & Curiosities Expo:Ratalope Coffin Taxidermy 1:30 PM-3:30 PM",
-        "url": "https://www.ticketmaster.com/oddities-curiosities-exporatalope-coffin-taxidermy-130-san-antonio-texas-08-02-2026/event/3A006356979D6F29",
-        "date": "2026-08-02",
-        "time": null,
-        "venueName": "Henry B. Gonzalez Convention Center",
-        "venueAddress": "900 E. Market Street",
-        "venueCity": "San Antonio",
-        "venueCountry": "United States Of America",
-        "segment": "Miscellaneous",
-        "genre": "Community/Civic",
-        "subGenre": "Community/Civic",
-        "image": "https://s1.ticketm.net/dam/e/d29/b8fef989-dd8f-4f91-a216-b96a96715d29_SOURCE",
-        "priceRange": null
-      },
-      {
-        "id": "G5dIZbgQ9JJHx",
-        "name": "Oddities & Curiosities Expo:Octopus Wet Specimen Class 10 AM-12 PM",
-        "url": "https://www.ticketmaster.com/oddities-curiosities-expooctopus-wet-specimen-class-san-antonio-texas-08-02-2026/event/3A006356979A6F22",
-        "date": "2026-08-02",
-        "time": null,
-        "venueName": "Henry B. Gonzalez Convention Center",
-        "venueAddress": "900 E. Market Street",
-        "venueCity": "San Antonio",
-        "venueCountry": "United States Of America",
-        "segment": "Miscellaneous",
-        "genre": "Community/Civic",
-        "subGenre": "Community/Civic",
-        "image": "https://s1.ticketm.net/dam/e/ef0/c82547d0-78a1-43ae-91e6-3a1ad7fe1ef0_SOURCE",
-        "priceRange": null
-      },
-      {
-        "id": "G5dIZbgQ9PUHQ",
-        "name": "Oddities & Curiosities Expo: Sunset Moth Entomology Class 10 AM-12 PM",
-        "url": "https://www.ticketmaster.com/oddities-curiosities-expo-sunset-moth-entomology-san-antonio-texas-08-02-2026/event/3A00635697976F1A",
-        "date": "2026-08-02",
-        "time": null,
-        "venueName": "Henry B. Gonzalez Convention Center",
-        "venueAddress": "900 E. Market Street",
-        "venueCity": "San Antonio",
-        "venueCountry": "United States Of America",
-        "segment": "Miscellaneous",
-        "genre": "Community/Civic",
-        "subGenre": "Community/Civic",
-        "image": "https://s1.ticketm.net/dam/e/d34/b8406690-28be-4576-b1d2-1069a8b21d34_SOURCE",
-        "priceRange": null
-      },
-      {
-        "id": "G5dIZbgSzZnDo",
-        "name": "Oddities & Curiosities Expo from 10 am to 5 pm",
-        "url": "https://www.ticketmaster.com/oddities-curiosities-expo-from-10-am-san-antonio-texas-08-02-2026/event/3A00635CF802AED1",
-        "date": "2026-08-02",
-        "time": null,
-        "venueName": "Henry B. Gonzalez Convention Center",
-        "venueAddress": "900 E. Market Street",
-        "venueCity": "San Antonio",
-        "venueCountry": "United States Of America",
-        "segment": "Miscellaneous",
-        "genre": "Community/Civic",
-        "subGenre": "Community/Civic",
-        "image": "https://s1.ticketm.net/dam/e/52d/daa1ba20-5790-4906-b278-7c9c178c252d_RETINA_PORTRAIT_16_9.jpg",
-        "priceRange": null
-      }
-    ]
+    "lastUpdated": "2026-04-09T11:31:53.788Z",
+    "eventCount": 0,
+    "events": []
   },
   "sandiego": {
     "displayName": "San Diego",
-    "lastUpdated": "2026-04-09T11:24:42.343Z",
-    "eventCount": 1,
-    "events": [
-      {
-        "id": "vvG1IZ_dKwY_Cf",
-        "name": "San Diego Wave FC vs Denver Summit FC",
-        "url": "https://www.ticketmaster.com/san-diego-wave-fc-vs-denver-san-diego-california-08-14-2026/event/0A006434F2C19394",
-        "date": "2026-08-14",
-        "time": "19:00:00",
-        "venueName": "Snapdragon Stadium",
-        "venueAddress": "2101 Stadium Way",
-        "venueCity": "San Diego",
-        "venueCountry": "United States Of America",
-        "segment": "Sports",
-        "genre": "Soccer",
-        "subGenre": "Soccer",
-        "image": "https://s1.ticketm.net/dam/e/b6b/ccd62148-57a5-469a-b425-0599589fdb6b_SOURCE",
-        "priceRange": null
-      }
-    ]
+    "lastUpdated": "2026-04-09T11:31:54.342Z",
+    "eventCount": 0,
+    "events": []
   },
   "sanfrancisco": {
     "displayName": "San Francisco",
-    "lastUpdated": "2026-04-09T11:24:44.087Z",
+    "lastUpdated": "2026-04-09T11:31:54.880Z",
     "eventCount": 0,
     "events": []
   },
   "sanjose": {
     "displayName": "San Jose",
-    "lastUpdated": "2026-04-09T11:24:45.862Z",
-    "eventCount": 2,
-    "events": [
-      {
-        "id": "G5vYZbgQt_zw8",
-        "name": "Hatsune Miku - EXPO 2026 North America",
-        "url": "https://www.ticketmaster.com/hatsune-miku-expo-2026-north-america-san-jose-california-04-22-2026/event/1C006356A9678C90",
-        "date": "2026-04-22",
-        "time": "20:00:00",
-        "venueName": "San Jose Civic",
-        "venueAddress": "135 San Carlos St.",
-        "venueCity": "San Jose",
-        "venueCountry": "United States Of America",
-        "segment": "Music",
-        "genre": "Pop",
-        "subGenre": "Pop",
-        "image": "https://s1.ticketm.net/dam/a/5f0/997858a4-dcc7-4096-95b3-0e1b23fe15f0_RETINA_PORTRAIT_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "G5vYZbgQnKFVz",
-        "name": "Hatsune Miku -  EXPO 2026 North America",
-        "url": "https://www.ticketmaster.com/hatsune-miku-expo-2026-north-america-san-jose-california-04-23-2026/event/1C006356AA4C8D38",
-        "date": "2026-04-23",
-        "time": "20:00:00",
-        "venueName": "San Jose Civic",
-        "venueAddress": "135 San Carlos St.",
-        "venueCity": "San Jose",
-        "venueCountry": "United States Of America",
-        "segment": "Music",
-        "genre": "Pop",
-        "subGenre": "Pop",
-        "image": "https://s1.ticketm.net/dam/a/5f0/997858a4-dcc7-4096-95b3-0e1b23fe15f0_RETINA_PORTRAIT_16_9.jpg",
-        "priceRange": null
-      }
-    ]
+    "lastUpdated": "2026-04-09T11:31:55.424Z",
+    "eventCount": 0,
+    "events": []
   },
   "seattle": {
     "displayName": "Seattle",
-    "lastUpdated": "2026-04-09T11:24:47.769Z",
-    "eventCount": 1,
-    "events": [
-      {
-        "id": "vvG1HZbgQLRk-z",
-        "name": "Hatsune Miku - EXPO 2026 North America",
-        "url": "https://www.ticketmaster.com/hatsune-miku-expo-2026-north-america-seattle-washington-04-20-2026/event/0F0063569FBC6878",
-        "date": "2026-04-20",
-        "time": "20:00:00",
-        "venueName": "WAMU Theater",
-        "venueAddress": "800 Occidental Ave S",
-        "venueCity": "Seattle",
-        "venueCountry": "United States Of America",
-        "segment": "Music",
-        "genre": "Pop",
-        "subGenre": "Pop",
-        "image": "https://s1.ticketm.net/dam/a/5f0/997858a4-dcc7-4096-95b3-0e1b23fe15f0_RETINA_PORTRAIT_16_9.jpg",
-        "priceRange": null
-      }
-    ]
+    "lastUpdated": "2026-04-09T11:31:55.976Z",
+    "eventCount": 0,
+    "events": []
   },
   "seville": {
     "displayName": "Seville",
-    "lastUpdated": "2026-04-09T11:24:49.416Z",
+    "lastUpdated": "2026-04-09T11:31:56.537Z",
     "eventCount": 0,
     "events": []
   },
   "shanghai": {
     "displayName": "Shanghai",
-    "lastUpdated": "2026-04-09T11:24:51.070Z",
+    "lastUpdated": "2026-04-09T11:31:57.073Z",
     "eventCount": 0,
     "events": []
   },
   "sheffield": {
     "displayName": "Sheffield",
-    "lastUpdated": "2026-04-09T11:24:53.011Z",
+    "lastUpdated": "2026-04-09T11:31:57.624Z",
     "eventCount": 0,
     "events": []
   },
   "singapore": {
     "displayName": "Singapore",
-    "lastUpdated": "2026-04-09T11:24:54.755Z",
+    "lastUpdated": "2026-04-09T11:31:58.163Z",
     "eventCount": 0,
     "events": []
   },
   "sofia": {
     "displayName": "Sofia",
-    "lastUpdated": "2026-04-09T11:24:56.504Z",
+    "lastUpdated": "2026-04-09T11:31:58.765Z",
     "eventCount": 0,
     "events": []
   },
   "split": {
     "displayName": "Split",
-    "lastUpdated": "2026-04-09T11:24:58.163Z",
+    "lastUpdated": "2026-04-09T11:31:59.325Z",
     "eventCount": 0,
     "events": []
   },
   "stlouis": {
     "displayName": "St Louis",
-    "lastUpdated": "2026-04-09T11:24:59.877Z",
+    "lastUpdated": "2026-04-09T11:31:59.885Z",
     "eventCount": 0,
     "events": []
   },
   "stockholm": {
     "displayName": "Stockholm",
-    "lastUpdated": "2026-04-09T11:25:01.653Z",
+    "lastUpdated": "2026-04-09T11:32:00.412Z",
     "eventCount": 0,
     "events": []
   },
   "stuttgart": {
     "displayName": "Stuttgart",
-    "lastUpdated": "2026-04-09T11:25:03.612Z",
+    "lastUpdated": "2026-04-09T11:32:01.049Z",
     "eventCount": 0,
     "events": []
   },
   "sulzbach": {
     "displayName": "Sulzbach",
-    "lastUpdated": "2026-04-09T11:25:05.510Z",
-    "eventCount": 2,
-    "events": [
-      {
-        "id": "Z698xZC2Z16v4fG4uE",
-        "name": "Hatsune Miku - MIKU EXPO 2026 EUROPE",
-        "url": "https://www.ticketmaster.de/event/hatsune-miku-miku-expo-2026-europe-tickets/1554315367?language=en-us",
-        "date": "2026-11-17",
-        "time": "20:00:00",
-        "venueName": null,
-        "venueAddress": "Paul-Heyse-Straße 26",
-        "venueCity": "Berlin",
-        "venueCountry": "Germany",
-        "segment": "Music",
-        "genre": "Rock",
-        "subGenre": "Pop",
-        "image": "https://s1.ticketm.net/dam/a/791/b71f3243-1ee8-4f64-a2e7-a2aa14509791_RETINA_PORTRAIT_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "Z698xZC2Z16vAwbb-F",
-        "name": "Hatsune Miku - MIKU EXPO 2026 EUROPE",
-        "url": "https://www.ticketmaster.de/event/hatsune-miku-miku-expo-2026-europe-tickets/1172618848?language=en-us",
-        "date": "2026-11-20",
-        "time": "20:00:00",
-        "venueName": null,
-        "venueAddress": "Theodorstraße 281",
-        "venueCity": "Düsseldorf",
-        "venueCountry": "Germany",
-        "segment": "Music",
-        "genre": "Rock",
-        "subGenre": "Pop",
-        "image": "https://s1.ticketm.net/dam/a/791/b71f3243-1ee8-4f64-a2e7-a2aa14509791_RETINA_PORTRAIT_16_9.jpg",
-        "priceRange": null
-      }
-    ]
+    "lastUpdated": "2026-04-09T11:32:01.589Z",
+    "eventCount": 0,
+    "events": []
   },
   "sydney": {
     "displayName": "Sydney",
-    "lastUpdated": "2026-04-09T11:25:07.377Z",
+    "lastUpdated": "2026-04-09T11:32:02.142Z",
     "eventCount": 0,
     "events": []
   },
   "tallahassee": {
     "displayName": "Tallahassee",
-    "lastUpdated": "2026-04-09T11:25:09.152Z",
+    "lastUpdated": "2026-04-09T11:32:02.694Z",
     "eventCount": 0,
     "events": []
   },
   "tampa": {
     "displayName": "Tampa",
-    "lastUpdated": "2026-04-09T11:25:10.893Z",
+    "lastUpdated": "2026-04-09T11:32:03.258Z",
     "eventCount": 0,
     "events": []
   },
   "tbilisi": {
     "displayName": "Tbilisi",
-    "lastUpdated": "2026-04-09T11:25:12.646Z",
+    "lastUpdated": "2026-04-09T11:32:03.795Z",
     "eventCount": 0,
     "events": []
   },
   "texas": {
     "displayName": "Texas",
-    "lastUpdated": "2026-04-09T11:25:14.852Z",
-    "eventCount": 10,
-    "events": [
-      {
-        "id": "G5dIZ_6CLwQjU",
-        "name": "Palm City Tattoo Expo",
-        "url": "https://www.ticketmaster.com/palm-city-tattoo-expo-mcallen-texas-04-17-2026/event/3A0064739FC9A736",
-        "date": "2026-04-17",
-        "time": null,
-        "venueName": "McAllen Convention Center",
-        "venueAddress": "700 Convention Center Blvd.",
-        "venueCity": "McAllen",
-        "venueCountry": "United States Of America",
-        "segment": "Miscellaneous",
-        "genre": "Hobby/Special Interest Expos",
-        "subGenre": "Hobby/Special Interest Expos",
-        "image": "https://s1.ticketm.net/dam/a/f9e/07eff6fd-8e66-450a-b586-7e0cbdc68f9e_RETINA_LANDSCAPE_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "G5dIZbgj7SyVD",
-        "name": "Hatsune Miku - EXPO 2026 North America Tour",
-        "url": "https://www.ticketmaster.com/hatsune-miku-expo-2026-north-america-cedar-park-texas-05-01-2026/event/3A00635704CF9D3B",
-        "date": "2026-05-01",
-        "time": "20:00:00",
-        "venueName": "H-E-B Center at Cedar Park",
-        "venueAddress": "2100 Avenue of the Stars",
-        "venueCity": "Cedar Park",
-        "venueCountry": "United States Of America",
-        "segment": "Music",
-        "genre": "Pop",
-        "subGenre": "Pop",
-        "image": "https://s1.ticketm.net/dam/e/1b4/221aa6d5-d837-44de-b833-c26d9649e1b4_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "Z7r9jZ1A7Oxp_",
-        "name": "Houston Dash vs. Denver Summit FC",
-        "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Oxp_",
-        "date": "2026-05-09",
-        "time": "19:00:00",
-        "venueName": "Shell Energy Stadium",
-        "venueAddress": "South Rice Avenue & Westpark Drive",
-        "venueCity": "Houston",
-        "venueCountry": "United States Of America",
-        "segment": "Sports",
-        "genre": "Soccer",
-        "subGenre": "Soccer",
-        "image": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_LANDSCAPE_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "LvZ18QhdEwINPcZZHi-Qq",
-        "name": "Heritage Life Conference",
-        "url": "https://www.universe.com/events/heritage-life-conference-tickets-JXC0LT?ref=ticketmaster",
-        "date": "2026-05-14",
-        "time": "09:00:00",
-        "venueName": "Santa Fe Hall",
-        "venueAddress": "496 Halbert Ln",
-        "venueCity": "Waco",
-        "venueCountry": "United States Of America",
-        "segment": "Miscellaneous",
-        "genre": "Lecture/Seminar",
-        "subGenre": "Lecture/Seminar",
-        "image": "https://s1.ticketm.net/dam/c/8cf/a6653880-7899-4f67-8067-1f95f4d158cf_124761_RETINA_LANDSCAPE_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "vvG1YZbykDzpW8",
-        "name": "Wheels & Ink Expo - 2 Day Admission",
-        "url": "https://www.ticketmaster.com/wheels-ink-expo-2-day-admission-el-paso-texas-06-06-2026/event/0C006391BBE16F50",
-        "date": "2026-06-06",
-        "time": null,
-        "venueName": "El Paso Convention Center",
-        "venueAddress": "1 Civic Center Plaza",
-        "venueCity": "El Paso",
-        "venueCountry": "United States Of America",
-        "segment": "Miscellaneous",
-        "genre": "Hobby/Special Interest Expos",
-        "subGenre": "Hobby/Special Interest Expos",
-        "image": "https://s1.ticketm.net/dam/e/cd7/052e6aa9-ce1a-4434-8334-b878faa0ecd7_RETINA_PORTRAIT_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "LvZ18Q959YG9KpYZl_s_H",
-        "name": "Katy | ImagineNation Kid Expo",
-        "url": "https://www.universe.com/events/katy-imaginenation-kid-expo-tickets-81HS3W?ref=ticketmaster",
-        "date": "2026-06-20",
-        "time": "10:00:00",
-        "venueName": "Leonard E Merrell Center",
-        "venueAddress": "6301 South Stadium Lane",
-        "venueCity": "Katy",
-        "venueCountry": "United States Of America",
-        "segment": null,
-        "genre": null,
-        "subGenre": null,
-        "image": "https://s1.ticketm.net/dam/c/8cf/a6653880-7899-4f67-8067-1f95f4d158cf_124761_RETINA_LANDSCAPE_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "LvZ18Q95JPagQ1YZwBzIr",
-        "name": "New Braunfels | ImagineNation Kid Expo",
-        "url": "https://www.universe.com/events/new-braunfels-imaginenation-kid-expo-tickets-30SPCY?ref=ticketmaster",
-        "date": "2026-07-11",
-        "time": "10:00:00",
-        "venueName": "Leonard E Merrell Center",
-        "venueAddress": "6301 South Stadium Lane",
-        "venueCity": "Katy",
-        "venueCountry": "United States Of America",
-        "segment": null,
-        "genre": null,
-        "subGenre": null,
-        "image": "https://s1.ticketm.net/dam/c/8cf/a6653880-7899-4f67-8067-1f95f4d158cf_124761_RETINA_LANDSCAPE_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "G5dIZbgQ9IUW2",
-        "name": "Oddities & Curiosities Expo: Scorpion Habitat Entomology 1:30PM-3:30PM",
-        "url": "https://www.ticketmaster.com/oddities-curiosities-expo-scorpion-habitat-entomology-san-antonio-texas-08-01-2026/event/3A00635697A36F4F",
-        "date": "2026-08-01",
-        "time": "13:30:00",
-        "venueName": "Henry B. Gonzalez Convention Center",
-        "venueAddress": "900 E. Market Street",
-        "venueCity": "San Antonio",
-        "venueCountry": "United States Of America",
-        "segment": "Miscellaneous",
-        "genre": "Community/Civic",
-        "subGenre": "Community/Civic",
-        "image": "https://s1.ticketm.net/dam/e/3c8/4c970c53-a198-4414-af74-c262cae4e3c8_RETINA_LANDSCAPE_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "G5dIZbgQ9IkHs",
-        "name": "Oddities & Curiosities Expo: Raccoon Taxidermy Class 10 AM-4 PM",
-        "url": "https://www.ticketmaster.com/oddities-curiosities-expo-raccoon-taxidermy-class-san-antonio-texas-08-01-2026/event/3A00635697A06F31",
-        "date": "2026-08-01",
-        "time": null,
-        "venueName": "Henry B. Gonzalez Convention Center",
-        "venueAddress": "900 E. Market Street",
-        "venueCity": "San Antonio",
-        "venueCountry": "United States Of America",
-        "segment": "Miscellaneous",
-        "genre": "Community/Civic",
-        "subGenre": "Community/Civic",
-        "image": "https://s1.ticketm.net/dam/e/a5b/cd02e25e-2437-47ef-b2d7-5748046cba5b_TABLET_LANDSCAPE_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "G5dIZbgQ9PkH8",
-        "name": "Oddities & Curiosities Expo: Sunset Moth Entomology Class 10 AM-12 PM",
-        "url": "https://www.ticketmaster.com/oddities-curiosities-expo-sunset-moth-entomology-san-antonio-texas-08-01-2026/event/3A00635697946F10",
-        "date": "2026-08-01",
-        "time": null,
-        "venueName": "Henry B. Gonzalez Convention Center",
-        "venueAddress": "900 E. Market Street",
-        "venueCity": "San Antonio",
-        "venueCountry": "United States Of America",
-        "segment": "Miscellaneous",
-        "genre": "Community/Civic",
-        "subGenre": "Community/Civic",
-        "image": "https://s1.ticketm.net/dam/e/87d/ea2c060e-0c1e-458b-a2bf-99194824b87d_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-        "priceRange": null
-      }
-    ]
+    "lastUpdated": "2026-04-09T11:32:04.349Z",
+    "eventCount": 0,
+    "events": []
   },
   "tokyo": {
     "displayName": "Tokyo",
-    "lastUpdated": "2026-04-09T11:25:16.533Z",
+    "lastUpdated": "2026-04-09T11:32:04.885Z",
     "eventCount": 0,
     "events": []
   },
   "toronto": {
     "displayName": "Toronto",
-    "lastUpdated": "2026-04-09T11:25:18.383Z",
-    "eventCount": 1,
-    "events": [
-      {
-        "id": "1AvZZbUGkwsfBqb",
-        "name": "TORONTO BARBER EXPO: HAIRFEST CHAPTER IV",
-        "url": "https://www.ticketmaster.ca/toronto-barber-expo-hairfest-chapter-iv-toronto-ontario-06-28-2026/event/1000636CB153A758",
-        "date": "2026-06-28",
-        "time": "11:00:00",
-        "venueName": "The Theatre at Great Canadian Casino Resort Toronto",
-        "venueAddress": "1133 Queens Plate Dr",
-        "venueCity": "Toronto",
-        "venueCountry": "Canada",
-        "segment": "Miscellaneous",
-        "genre": "Hobby/Special Interest Expos",
-        "subGenre": "Hobby/Special Interest Expos",
-        "image": "https://s1.ticketm.net/dam/e/c67/dbff7354-2a07-4754-95f9-e357fcf75c67_RETINA_LANDSCAPE_16_9.jpg",
-        "priceRange": null
-      }
-    ]
+    "lastUpdated": "2026-04-09T11:32:05.464Z",
+    "eventCount": 0,
+    "events": []
   },
   "toulouse": {
     "displayName": "Toulouse",
-    "lastUpdated": "2026-04-09T11:25:20.085Z",
+    "lastUpdated": "2026-04-09T11:32:06.018Z",
     "eventCount": 0,
     "events": []
   },
   "tucson": {
     "displayName": "Tucson",
-    "lastUpdated": "2026-04-09T11:25:21.878Z",
-    "eventCount": 1,
-    "events": [
-      {
-        "id": "1A_Zko3GkeB-1-H",
-        "name": "Tucson International Mariachi Conference Espectacular Concert",
-        "url": "https://www.ticketmaster.com/tucson-international-mariachi-conference-espectacular-concert-tucson-arizona-05-01-2026/event/19006452BA84A87C",
-        "date": "2026-05-01",
-        "time": "19:00:00",
-        "venueName": "Linda Ronstadt Music Hall",
-        "venueAddress": "260 South Church Avenue",
-        "venueCity": "Tucson",
-        "venueCountry": "United States Of America",
-        "segment": "Music",
-        "genre": "World",
-        "subGenre": "World",
-        "image": "https://s1.ticketm.net/dam/e/853/41e02b22-ecd9-4af7-aa57-a44ca5934853_SOURCE",
-        "priceRange": null
-      }
-    ]
+    "lastUpdated": "2026-04-09T11:32:06.560Z",
+    "eventCount": 0,
+    "events": []
   },
   "tulsa": {
     "displayName": "Tulsa",
-    "lastUpdated": "2026-04-09T11:25:23.674Z",
+    "lastUpdated": "2026-04-09T11:32:07.122Z",
     "eventCount": 0,
     "events": []
   },
   "valencia": {
     "displayName": "Valencia",
-    "lastUpdated": "2026-04-09T11:25:25.392Z",
+    "lastUpdated": "2026-04-09T11:32:07.659Z",
     "eventCount": 0,
     "events": []
   },
   "vancouver": {
     "displayName": "Vancouver",
-    "lastUpdated": "2026-04-09T11:25:27.252Z",
-    "eventCount": 1,
-    "events": [
-      {
-        "id": "1AoZkupGkdq_a43",
-        "name": "Hatsune Miku - EXPO 2026 North America",
-        "url": "https://www.ticketmaster.ca/hatsune-miku-expo-2026-north-america-vancouver-british-columbia-04-18-2026/event/11006356DD649552",
-        "date": "2026-04-18",
-        "time": "20:00:00",
-        "venueName": "UBC - Doug Mitchell Thunderbird Sports Centre",
-        "venueAddress": "6066 Thunderbird Boulevard",
-        "venueCity": "Vancouver",
-        "venueCountry": "Canada",
-        "segment": "Music",
-        "genre": "Pop",
-        "subGenre": "Pop",
-        "image": "https://s1.ticketm.net/dam/a/5f0/997858a4-dcc7-4096-95b3-0e1b23fe15f0_RETINA_PORTRAIT_16_9.jpg",
-        "priceRange": null
-      }
-    ]
+    "lastUpdated": "2026-04-09T11:32:08.186Z",
+    "eventCount": 0,
+    "events": []
   },
   "venice": {
     "displayName": "Venice",
-    "lastUpdated": "2026-04-09T11:25:28.960Z",
+    "lastUpdated": "2026-04-09T11:32:08.719Z",
     "eventCount": 0,
     "events": []
   },
   "victoria": {
     "displayName": "Victoria",
-    "lastUpdated": "2026-04-09T11:25:30.647Z",
+    "lastUpdated": "2026-04-09T11:32:09.289Z",
     "eventCount": 0,
     "events": []
   },
   "vienna": {
     "displayName": "Vienna",
-    "lastUpdated": "2026-04-09T11:25:32.333Z",
+    "lastUpdated": "2026-04-09T11:32:09.832Z",
     "eventCount": 0,
     "events": []
   },
   "virginiabeach": {
     "displayName": "Virginia Beach",
-    "lastUpdated": "2026-04-09T11:25:34.263Z",
+    "lastUpdated": "2026-04-09T11:32:10.450Z",
     "eventCount": 0,
     "events": []
   },
   "warren": {
     "displayName": "Warren",
-    "lastUpdated": "2026-04-09T11:25:35.964Z",
+    "lastUpdated": "2026-04-09T11:32:10.983Z",
     "eventCount": 0,
     "events": []
   },
   "warsaw": {
     "displayName": "Warsaw",
-    "lastUpdated": "2026-04-09T11:25:37.929Z",
+    "lastUpdated": "2026-04-09T11:32:11.554Z",
     "eventCount": 0,
     "events": []
   },
   "washington": {
     "displayName": "Washington",
-    "lastUpdated": "2026-04-09T11:25:38.564Z",
+    "lastUpdated": "2026-04-09T11:32:12.107Z",
     "eventCount": 0,
     "events": []
   },
   "westgate": {
     "displayName": "Westgate",
-    "lastUpdated": "2026-04-09T11:25:39.219Z",
+    "lastUpdated": "2026-04-09T11:32:12.673Z",
     "eventCount": 0,
     "events": []
   },
   "winnipeg": {
     "displayName": "Winnipeg",
-    "lastUpdated": "2026-04-09T11:25:39.854Z",
+    "lastUpdated": "2026-04-09T11:32:13.212Z",
     "eventCount": 0,
     "events": []
   },
   "yerevan": {
     "displayName": "Yerevan",
-    "lastUpdated": "2026-04-09T11:25:40.488Z",
+    "lastUpdated": "2026-04-09T11:32:13.768Z",
     "eventCount": 0,
     "events": []
   },
   "zagreb": {
     "displayName": "Zagreb",
-    "lastUpdated": "2026-04-09T11:25:41.131Z",
+    "lastUpdated": "2026-04-09T11:32:14.306Z",
     "eventCount": 0,
     "events": []
   },
   "zurich": {
     "displayName": "Zurich",
-    "lastUpdated": "2026-04-09T11:25:41.788Z",
+    "lastUpdated": "2026-04-09T11:32:14.856Z",
     "eventCount": 0,
     "events": []
   }
