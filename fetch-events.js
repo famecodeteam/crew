@@ -153,54 +153,89 @@ function buildUrl(params) {
   return `${BASE_URL}?${queryParams.toString()}`;
 }
 
+// Keywords we'll search for. Ticketmaster's "Miscellaneous" segment covers
+// expos & conventions, but coverage is thin — layering keyword searches on top
+// catches B2B events that Ticketmaster classifies under Music/Arts/etc.
+const KEYWORD_QUERIES = ['conference', 'expo', 'trade show', 'summit', 'convention'];
+
+// Client-side filter: after we merge results, drop anything that looks like
+// a concert, sports match, or theatre show. Keep Miscellaneous-segment events
+// unconditionally, and keep events from other segments only if their name
+// contains one of our keywords.
+const KEEP_KEYWORDS = /\b(conference|expo|summit|convention|trade show|forum|symposium|congress|fair|festival|exhibition)\b/i;
+const REJECT_KEYWORDS = /\b(concert|tour|vs\.|vs |match|game|playoff|on ice|the musical|ballet|opera|comedy|stand-?up)\b/i;
+
+function parseEvent(event) {
+  const venue = event._embedded?.venues?.[0];
+  const classifications = event.classifications?.[0];
+  const startDate = event.dates?.start?.localDate;
+  const startTime = event.dates?.start?.localTime;
+  const image = event.images?.find((img) => img.ratio === '16_9' && img.width >= 640) || event.images?.[0];
+
+  return {
+    id: event.id,
+    name: event.name,
+    url: event.url,
+    date: startDate,
+    time: startTime || null,
+    venueName: venue?.name || null,
+    venueAddress: venue?.address?.line1 || null,
+    venueCity: venue?.city?.name || null,
+    venueCountry: venue?.country?.name || null,
+    segment: classifications?.segment?.name || null,
+    genre: classifications?.genre?.name || null,
+    subGenre: classifications?.subGenre?.name || null,
+    image: image?.url || null,
+    priceRange: event.priceRanges?.[0]
+      ? `${event.priceRanges[0].currency} ${event.priceRanges[0].min}-${event.priceRanges[0].max}`
+      : null,
+  };
+}
+
+function isRelevantEvent(evt) {
+  const name = evt.name || '';
+  if (REJECT_KEYWORDS.test(name)) return false;
+  // Always keep anything Ticketmaster classifies as Miscellaneous
+  if (evt.segment === 'Miscellaneous') return true;
+  // For other segments (or unknown), require a keyword hit in the name
+  return KEEP_KEYWORDS.test(name);
+}
+
 async function fetchEventsForLocation(locationKey, locationData) {
   const params = getQueryParams(locationKey, locationData.displayName);
+  const seen = new Map(); // id -> event (dedupe)
 
-  // Fetch two classifications: Conferences & Summits + Trade Shows & Expos
-  const classifications = ['Conferences & Summits', 'Trade Shows & Expos'];
-  const allEvents = [];
+  // Query 1: Miscellaneous segment (covers expos, conventions, fairs)
+  try {
+    const url = buildUrl({ ...params, segmentName: 'Miscellaneous' });
+    const response = await fetchJson(url);
+    for (const raw of response._embedded?.events || []) {
+      const evt = parseEvent(raw);
+      if (!seen.has(evt.id)) seen.set(evt.id, evt);
+    }
+  } catch (err) {
+    // Silently skip — not all locations have results
+  }
 
-  for (const classification of classifications) {
-    const url = buildUrl({ ...params, classificationName: classification });
-
+  // Queries 2-N: keyword searches for conference-like terms
+  for (const keyword of KEYWORD_QUERIES) {
     try {
+      const url = buildUrl({ ...params, keyword });
       const response = await fetchJson(url);
-      const rawEvents = response._embedded?.events || [];
-
-      const parsedEvents = rawEvents.map((event) => {
-        const venue = event._embedded?.venues?.[0];
-        const classifications = event.classifications?.[0];
-        const startDate = event.dates?.start?.localDate;
-        const startTime = event.dates?.start?.localTime;
-        const image = event.images?.find((img) => img.ratio === '16_9' && img.width >= 640) || event.images?.[0];
-
-        return {
-          id: event.id,
-          name: event.name,
-          url: event.url,
-          date: startDate,
-          time: startTime || null,
-          venueName: venue?.name || null,
-          venueAddress: venue?.address?.line1 || null,
-          venueCity: venue?.city?.name || null,
-          venueCountry: venue?.country?.name || null,
-          segment: classifications?.segment?.name || null,
-          genre: classifications?.genre?.name || null,
-          image: image?.url || null,
-          priceRange: event.priceRanges?.[0]
-            ? `${event.priceRanges[0].currency} ${event.priceRanges[0].min}-${event.priceRanges[0].max}`
-            : null,
-        };
-      });
-
-      allEvents.push(...parsedEvents);
+      for (const raw of response._embedded?.events || []) {
+        const evt = parseEvent(raw);
+        if (!seen.has(evt.id)) seen.set(evt.id, evt);
+      }
+      // Gentle rate limiting between keyword calls
+      await sleep(150);
     } catch (err) {
-      // Silently skip classification if it fails — not all locations have all types
+      // Silently skip
     }
   }
 
-  // Return up to EVENTS_PER_LOCATION total, sorted by date
-  return allEvents
+  // Filter out concerts/sports/theatre, then sort by date and cap
+  return Array.from(seen.values())
+    .filter(isRelevantEvent)
     .sort((a, b) => (a.date || '').localeCompare(b.date || ''))
     .slice(0, EVENTS_PER_LOCATION);
 }
