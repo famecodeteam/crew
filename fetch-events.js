@@ -312,6 +312,72 @@ async function main() {
   console.log(`✓ Total events: ${totalEvents}`);
   console.log(`✓ Locations with events: ${locationsWithEvents}/${locationKeys.length}`);
   console.log(`✓ Coverage: ${((locationsWithEvents / locationKeys.length) * 100).toFixed(1)}%`);
+
+  // ============================================================
+  // VALIDATION REPORT — prints sample events so you can eyeball
+  // the output in the GitHub Actions log without touching Webflow
+  // ============================================================
+  console.log('\n===========================');
+  console.log('VALIDATION SAMPLE');
+  console.log('===========================');
+
+  // Show sample events from flagship locations
+  const SAMPLE_LOCATIONS = [
+    'london', 'newyork', 'losangeles', 'sanfrancisco', 'chicago',
+    'dubai', 'paris', 'berlin', 'sydney', 'toronto', 'singapore',
+  ];
+  for (const key of SAMPLE_LOCATIONS) {
+    const loc = eventsData[key];
+    if (!loc || !loc.events || loc.events.length === 0) {
+      console.log(`\n[${key}] — no events`);
+      continue;
+    }
+    console.log(`\n[${loc.displayName}] (${loc.eventCount} events)`);
+    loc.events.slice(0, 5).forEach((evt, i) => {
+      const segInfo = [evt.segment, evt.genre, evt.subGenre].filter(Boolean).join(' > ');
+      console.log(`  ${i + 1}. ${evt.name}`);
+      console.log(`     ${evt.date} @ ${evt.venueName || '?'}  |  ${segInfo}`);
+    });
+  }
+
+  // Distribution of segments across the whole dataset — a sanity check.
+  // Lots of "Arts & Theatre" or "Sports" means the filter is leaking.
+  const segmentCounts = {};
+  const genreCounts = {};
+  const suspiciousNames = [];
+  const SUSPICIOUS_PATTERN = /\b(ticket|entry|experience|tour|ride|attraction|standard|admission|vs\.?|the musical|ballet|opera|on ice)\b/i;
+
+  for (const key of Object.keys(eventsData)) {
+    for (const evt of eventsData[key].events || []) {
+      segmentCounts[evt.segment || 'Unknown'] = (segmentCounts[evt.segment || 'Unknown'] || 0) + 1;
+      genreCounts[evt.genre || 'Unknown'] = (genreCounts[evt.genre || 'Unknown'] || 0) + 1;
+      if (SUSPICIOUS_PATTERN.test(evt.name || '')) {
+        suspiciousNames.push(`${eventsData[key].displayName}: ${evt.name}`);
+      }
+    }
+  }
+
+  console.log('\n---------------------------');
+  console.log('Segment distribution:');
+  Object.entries(segmentCounts)
+    .sort((a, b) => b[1] - a[1])
+    .forEach(([seg, n]) => console.log(`  ${seg}: ${n}`));
+
+  console.log('\nTop 10 genres:');
+  Object.entries(genreCounts)
+    .sort((a, b) => b[1] - a[1])
+    .slice(0, 10)
+    .forEach(([g, n]) => console.log(`  ${g}: ${n}`));
+
+  if (suspiciousNames.length > 0) {
+    console.log(`\n⚠️  ${suspiciousNames.length} events matched suspicious-name patterns (review these):`);
+    suspiciousNames.slice(0, 30).forEach((n) => console.log(`  - ${n}`));
+    if (suspiciousNames.length > 30) {
+      console.log(`  ... and ${suspiciousNames.length - 30} more`);
+    }
+  } else {
+    console.log('\n✓ No events matched suspicious-name patterns');
+  }
 }
 
 main().catch((err) => {
