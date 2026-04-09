@@ -61,12 +61,17 @@ jobs:
             top.forEach(t => console.log('  ' + t.name + ': ' + t.count));
           "
 
-- name: Commit updated events.json
+      - name: Commit updated events.json
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # Save the generated events.json outside the git directory
+          cp events.json /tmp/events.json
+          # Pull latest from remote to sync with any manual edits
           git fetch origin main
-          git reset origin/main
+          git reset --hard origin/main
+          # Restore the generated events.json
+          cp /tmp/events.json events.json
           git add events.json
           if git diff --staged --quiet; then
             echo "No changes to commit"
