@@ -143,11 +143,17 @@ function fetchJson(url) {
   });
 }
 
+// Only return events starting from today onwards (ISO 8601, no ms)
+function getStartDateTime() {
+  return new Date().toISOString().split('.')[0] + 'Z';
+}
+
 function buildUrl(params) {
   const queryParams = new URLSearchParams({
     apikey: API_KEY,
-    size: String(EVENTS_PER_LOCATION),
+    size: '50', // fetch more so the post-filter has something to work with
     sort: 'date,asc',
+    startDateTime: getStartDateTime(),
     ...params,
   });
   return `${BASE_URL}?${queryParams.toString()}`;
@@ -158,12 +164,24 @@ function buildUrl(params) {
 // catches B2B events that Ticketmaster classifies under Music/Arts/etc.
 const KEYWORD_QUERIES = ['conference', 'expo', 'trade show', 'summit', 'convention'];
 
-// Client-side filter: after we merge results, drop anything that looks like
-// a concert, sports match, or theatre show. Keep Miscellaneous-segment events
-// unconditionally, and keep events from other segments only if their name
-// contains one of our keywords.
-const KEEP_KEYWORDS = /\b(conference|expo|summit|convention|trade show|forum|symposium|congress|fair|festival|exhibition)\b/i;
-const REJECT_KEYWORDS = /\b(concert|tour|vs\.|vs |match|game|playoff|on ice|the musical|ballet|opera|comedy|stand-?up)\b/i;
+// Client-side filter: ALL events must match a positive keyword (b2b signal).
+// This is stricter than the prior "allow all Miscellaneous" rule because
+// Ticketmaster's Miscellaneous segment also includes tourist attractions
+// (London Eye, Madame Tussauds, etc.) which have no business here.
+const KEEP_KEYWORDS = /\b(conference|expo|summit|convention|trade show|tradeshow|forum|symposium|congress|b2b|b2c|exhibition)\b/i;
+
+// Belt-and-braces reject list. Since KEEP_KEYWORDS is already required,
+// most attractions are filtered out automatically — this catches edge
+// cases where an attraction happens to contain a keep word.
+const REJECT_KEYWORDS = /standard entry|standard experience|standard admission|skip the line|fast track|guided tour|observation deck|madame tussauds|london eye|london dungeon|sea life|legoland|ripley's/i;
+
+// Genres/subGenres that signal tourist attractions rather than B2B events
+const REJECT_GENRES = new Set([
+  'Attraction/Experience',
+  'Family',
+  'Multi Event',
+  'Theme Parks/Attractions',
+]);
 
 function parseEvent(event) {
   const venue = event._embedded?.venues?.[0];
@@ -194,10 +212,15 @@ function parseEvent(event) {
 
 function isRelevantEvent(evt) {
   const name = evt.name || '';
+
+  // Hard rejects by name pattern (attractions, concerts, sports, theatre)
   if (REJECT_KEYWORDS.test(name)) return false;
-  // Always keep anything Ticketmaster classifies as Miscellaneous
-  if (evt.segment === 'Miscellaneous') return true;
-  // For other segments (or unknown), require a keyword hit in the name
+
+  // Hard rejects by genre/subGenre (Ticketmaster's own attraction tagging)
+  if (REJECT_GENRES.has(evt.genre || '')) return false;
+  if (REJECT_GENRES.has(evt.subGenre || '')) return false;
+
+  // Must look like a conference/expo/summit by name
   return KEEP_KEYWORDS.test(name);
 }
 
