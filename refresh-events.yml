@@ -1,0 +1,74 @@
+name: Refresh Fame Crew Events
+
+on:
+  schedule:
+    # Runs daily at 06:00 UTC (adjust if you want a different time)
+    - cron: '0 6 * * *'
+  workflow_dispatch: # Allows manual trigger from the GitHub Actions tab
+
+permissions:
+  contents: write # Needed to commit the updated events.json
+
+jobs:
+  refresh-events:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Fetch Ticketmaster events
+        env:
+          TICKETMASTER_API_KEY: ${{ secrets.TICKETMASTER_API_KEY }}
+        run: node fetch-events.js
+
+      - name: Verify output
+        run: |
+          if [ ! -f events.json ]; then
+            echo "ERROR: events.json was not created"
+            exit 1
+          fi
+          SIZE=$(wc -c < events.json)
+          echo "events.json size: $SIZE bytes"
+          if [ "$SIZE" -lt 1000 ]; then
+            echo "ERROR: events.json is suspiciously small"
+            exit 1
+          fi
+          # Quick sanity check — valid JSON
+          node -e "JSON.parse(require('fs').readFileSync('events.json','utf8')); console.log('JSON valid')"
+
+      - name: Report stats
+        run: |
+          node -e "
+            const data = JSON.parse(require('fs').readFileSync('events.json','utf8'));
+            const locs = Object.keys(data);
+            const withEvents = locs.filter(k => data[k].eventCount > 0);
+            const total = locs.reduce((s, k) => s + data[k].eventCount, 0);
+            console.log('Total locations:', locs.length);
+            console.log('Locations with events:', withEvents.length, '(' + Math.round(withEvents.length/locs.length*100) + '%)');
+            console.log('Total events fetched:', total);
+            const top = locs
+              .map(k => ({ key: k, name: data[k].displayName, count: data[k].eventCount }))
+              .sort((a, b) => b.count - a.count)
+              .slice(0, 10);
+            console.log('\nTop 10 locations by event count:');
+            top.forEach(t => console.log('  ' + t.name + ': ' + t.count));
+          "
+
+      - name: Commit updated events.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add events.json
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: daily events refresh $(date -u +'%Y-%m-%d')"
+            git push
+          fi
