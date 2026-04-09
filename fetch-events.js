@@ -155,41 +155,54 @@ function buildUrl(params) {
 
 async function fetchEventsForLocation(locationKey, locationData) {
   const params = getQueryParams(locationKey, locationData.displayName);
-  const url = buildUrl(params);
 
-  try {
-    const response = await fetchJson(url);
-    const rawEvents = response._embedded?.events || [];
+  // Fetch two classifications: Conferences & Summits + Trade Shows & Expos
+  const classifications = ['Conferences & Summits', 'Trade Shows & Expos'];
+  const allEvents = [];
 
-    return rawEvents.map((event) => {
-      const venue = event._embedded?.venues?.[0];
-      const classifications = event.classifications?.[0];
-      const startDate = event.dates?.start?.localDate;
-      const startTime = event.dates?.start?.localTime;
-      const image = event.images?.find((img) => img.ratio === '16_9' && img.width >= 640) || event.images?.[0];
+  for (const classification of classifications) {
+    const url = buildUrl({ ...params, classificationName: classification });
 
-      return {
-        id: event.id,
-        name: event.name,
-        url: event.url,
-        date: startDate,
-        time: startTime || null,
-        venueName: venue?.name || null,
-        venueAddress: venue?.address?.line1 || null,
-        venueCity: venue?.city?.name || null,
-        venueCountry: venue?.country?.name || null,
-        segment: classifications?.segment?.name || null,
-        genre: classifications?.genre?.name || null,
-        image: image?.url || null,
-        priceRange: event.priceRanges?.[0]
-          ? `${event.priceRanges[0].currency} ${event.priceRanges[0].min}-${event.priceRanges[0].max}`
-          : null,
-      };
-    });
-  } catch (err) {
-    console.error(`  ✗ ${locationData.displayName}: ${err.message}`);
-    return [];
+    try {
+      const response = await fetchJson(url);
+      const rawEvents = response._embedded?.events || [];
+
+      const parsedEvents = rawEvents.map((event) => {
+        const venue = event._embedded?.venues?.[0];
+        const classifications = event.classifications?.[0];
+        const startDate = event.dates?.start?.localDate;
+        const startTime = event.dates?.start?.localTime;
+        const image = event.images?.find((img) => img.ratio === '16_9' && img.width >= 640) || event.images?.[0];
+
+        return {
+          id: event.id,
+          name: event.name,
+          url: event.url,
+          date: startDate,
+          time: startTime || null,
+          venueName: venue?.name || null,
+          venueAddress: venue?.address?.line1 || null,
+          venueCity: venue?.city?.name || null,
+          venueCountry: venue?.country?.name || null,
+          segment: classifications?.segment?.name || null,
+          genre: classifications?.genre?.name || null,
+          image: image?.url || null,
+          priceRange: event.priceRanges?.[0]
+            ? `${event.priceRanges[0].currency} ${event.priceRanges[0].min}-${event.priceRanges[0].max}`
+            : null,
+        };
+      });
+
+      allEvents.push(...parsedEvents);
+    } catch (err) {
+      // Silently skip classification if it fails — not all locations have all types
+    }
   }
+
+  // Return up to EVENTS_PER_LOCATION total, sorted by date
+  return allEvents
+    .sort((a, b) => (a.date || '').localeCompare(b.date || ''))
+    .slice(0, EVENTS_PER_LOCATION);
 }
 
 async function sleep(ms) {
