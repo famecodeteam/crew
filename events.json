@@ -1,7 +1,7 @@
 {
   "abudhabi": {
     "displayName": "Abu Dhabi",
-    "lastUpdated": "2026-07-20T08:38:46.114Z",
+    "lastUpdated": "2026-07-21T08:06:43.598Z",
     "eventCount": 1,
     "events": [
       {
@@ -24,31 +24,31 @@
   },
   "albany": {
     "displayName": "Albany",
-    "lastUpdated": "2026-07-20T08:38:48.047Z",
+    "lastUpdated": "2026-07-21T08:06:45.433Z",
     "eventCount": 0,
     "events": []
   },
   "albuquerque": {
     "displayName": "Albuquerque",
-    "lastUpdated": "2026-07-20T08:38:49.890Z",
+    "lastUpdated": "2026-07-21T08:06:47.287Z",
     "eventCount": 0,
     "events": []
   },
   "alkhobar": {
     "displayName": "Al Khobar",
-    "lastUpdated": "2026-07-20T08:38:51.673Z",
+    "lastUpdated": "2026-07-21T08:06:48.937Z",
     "eventCount": 0,
     "events": []
   },
   "allentown": {
     "displayName": "Allentown",
-    "lastUpdated": "2026-07-20T08:38:53.507Z",
+    "lastUpdated": "2026-07-21T08:06:50.716Z",
     "eventCount": 0,
     "events": []
   },
   "amsterdam": {
     "displayName": "Amsterdam",
-    "lastUpdated": "2026-07-20T08:38:55.552Z",
+    "lastUpdated": "2026-07-21T08:06:52.719Z",
     "eventCount": 2,
     "events": [
       {
@@ -87,25 +87,25 @@
   },
   "ankara": {
     "displayName": "Ankara",
-    "lastUpdated": "2026-07-20T08:38:57.310Z",
+    "lastUpdated": "2026-07-21T08:06:54.406Z",
     "eventCount": 0,
     "events": []
   },
   "arizona": {
     "displayName": "Arizona",
-    "lastUpdated": "2026-07-20T08:38:59.220Z",
+    "lastUpdated": "2026-07-21T08:06:56.229Z",
     "eventCount": 0,
     "events": []
   },
   "athens": {
     "displayName": "Athens",
-    "lastUpdated": "2026-07-20T08:39:01.221Z",
+    "lastUpdated": "2026-07-21T08:06:57.987Z",
     "eventCount": 0,
     "events": []
   },
   "atlanta": {
     "displayName": "Atlanta",
-    "lastUpdated": "2026-07-20T08:39:03.282Z",
+    "lastUpdated": "2026-07-21T08:07:00.458Z",
     "eventCount": 1,
     "events": [
       {
@@ -128,7 +128,7 @@
   },
   "auckland": {
     "displayName": "Auckland",
-    "lastUpdated": "2026-07-20T08:39:05.128Z",
+    "lastUpdated": "2026-07-21T08:07:02.357Z",
     "eventCount": 1,
     "events": [
       {
@@ -151,7 +151,7 @@
   },
   "austin": {
     "displayName": "Austin",
-    "lastUpdated": "2026-07-20T08:39:06.969Z",
+    "lastUpdated": "2026-07-21T08:07:04.093Z",
     "eventCount": 2,
     "events": [
       {
@@ -190,55 +190,55 @@
   },
   "bahrain": {
     "displayName": "Bahrain",
-    "lastUpdated": "2026-07-20T08:39:08.604Z",
+    "lastUpdated": "2026-07-21T08:07:05.735Z",
     "eventCount": 0,
     "events": []
   },
   "bali": {
     "displayName": "Bali",
-    "lastUpdated": "2026-07-20T08:39:10.357Z",
+    "lastUpdated": "2026-07-21T08:07:07.436Z",
     "eventCount": 0,
     "events": []
   },
   "baltimore": {
     "displayName": "Baltimore",
-    "lastUpdated": "2026-07-20T08:39:12.509Z",
+    "lastUpdated": "2026-07-21T08:07:09.328Z",
     "eventCount": 0,
     "events": []
   },
   "barcelona": {
     "displayName": "Barcelona",
-    "lastUpdated": "2026-07-20T08:39:14.351Z",
+    "lastUpdated": "2026-07-21T08:07:11.210Z",
     "eventCount": 0,
     "events": []
   },
   "batonrouge": {
     "displayName": "Baton Rouge",
-    "lastUpdated": "2026-07-20T08:39:16.169Z",
+    "lastUpdated": "2026-07-21T08:07:12.916Z",
     "eventCount": 0,
     "events": []
   },
   "beijing": {
     "displayName": "Beijing",
-    "lastUpdated": "2026-07-20T08:39:17.923Z",
+    "lastUpdated": "2026-07-21T08:07:14.552Z",
     "eventCount": 0,
     "events": []
   },
   "beirut": {
     "displayName": "Beirut",
-    "lastUpdated": "2026-07-20T08:39:19.666Z",
+    "lastUpdated": "2026-07-21T08:07:16.257Z",
     "eventCount": 0,
     "events": []
   },
   "belgrade": {
     "displayName": "Belgrade",
-    "lastUpdated": "2026-07-20T08:39:21.479Z",
+    "lastUpdated": "2026-07-21T08:07:17.910Z",
     "eventCount": 0,
     "events": []
   },
   "berlin": {
     "displayName": "Berlin",
-    "lastUpdated": "2026-07-20T08:39:23.493Z",
+    "lastUpdated": "2026-07-21T08:07:19.884Z",
     "eventCount": 1,
     "events": [
       {
@@ -261,25 +261,25 @@
   },
   "birmingham": {
     "displayName": "Birmingham",
-    "lastUpdated": "2026-07-20T08:39:25.404Z",
+    "lastUpdated": "2026-07-21T08:07:21.771Z",
     "eventCount": 0,
     "events": []
   },
   "bologna": {
     "displayName": "Bologna",
-    "lastUpdated": "2026-07-20T08:39:27.280Z",
+    "lastUpdated": "2026-07-21T08:07:23.499Z",
     "eventCount": 0,
     "events": []
   },
   "bordeaux": {
     "displayName": "Bordeaux",
-    "lastUpdated": "2026-07-20T08:39:29.086Z",
+    "lastUpdated": "2026-07-21T08:07:25.177Z",
     "eventCount": 0,
     "events": []
   },
   "boston": {
     "displayName": "Boston",
-    "lastUpdated": "2026-07-20T08:39:31.049Z",
+    "lastUpdated": "2026-07-21T08:07:26.901Z",
     "eventCount": 1,
     "events": [
       {
@@ -302,25 +302,25 @@
   },
   "bratislava": {
     "displayName": "Bratislava",
-    "lastUpdated": "2026-07-20T08:39:32.895Z",
+    "lastUpdated": "2026-07-21T08:07:28.540Z",
     "eventCount": 0,
     "events": []
   },
   "bridgeport": {
     "displayName": "Bridgeport",
-    "lastUpdated": "2026-07-20T08:39:34.670Z",
+    "lastUpdated": "2026-07-21T08:07:30.212Z",
     "eventCount": 0,
     "events": []
   },
   "brisbane": {
     "displayName": "Brisbane",
-    "lastUpdated": "2026-07-20T08:39:36.603Z",
+    "lastUpdated": "2026-07-21T08:07:31.880Z",
     "eventCount": 0,
     "events": []
   },
   "bristol": {
     "displayName": "Bristol",
-    "lastUpdated": "2026-07-20T08:39:38.427Z",
+    "lastUpdated": "2026-07-21T08:07:33.560Z",
     "eventCount": 1,
     "events": [
       {
@@ -343,19 +343,19 @@
   },
   "brno": {
     "displayName": "Brno",
-    "lastUpdated": "2026-07-20T08:39:40.339Z",
+    "lastUpdated": "2026-07-21T08:07:35.403Z",
     "eventCount": 0,
     "events": []
   },
   "bronx": {
     "displayName": "Bronx",
-    "lastUpdated": "2026-07-20T08:39:42.085Z",
+    "lastUpdated": "2026-07-21T08:07:37.059Z",
     "eventCount": 0,
     "events": []
   },
   "brooklyn": {
     "displayName": "Brooklyn",
-    "lastUpdated": "2026-07-20T08:39:44.078Z",
+    "lastUpdated": "2026-07-21T08:07:38.986Z",
     "eventCount": 1,
     "events": [
       {
@@ -378,7 +378,7 @@
   },
   "brussels": {
     "displayName": "Brussels",
-    "lastUpdated": "2026-07-20T08:39:45.879Z",
+    "lastUpdated": "2026-07-21T08:07:40.802Z",
     "eventCount": 1,
     "events": [
       {
@@ -401,31 +401,31 @@
   },
   "bucharest": {
     "displayName": "Bucharest",
-    "lastUpdated": "2026-07-20T08:39:47.754Z",
+    "lastUpdated": "2026-07-21T08:07:42.491Z",
     "eventCount": 0,
     "events": []
   },
   "budapest": {
     "displayName": "Budapest",
-    "lastUpdated": "2026-07-20T08:39:49.512Z",
+    "lastUpdated": "2026-07-21T08:07:44.205Z",
     "eventCount": 0,
     "events": []
   },
   "buffalo": {
     "displayName": "Buffalo",
-    "lastUpdated": "2026-07-20T08:39:51.398Z",
+    "lastUpdated": "2026-07-21T08:07:46.060Z",
     "eventCount": 0,
     "events": []
   },
   "calgary": {
     "displayName": "Calgary",
-    "lastUpdated": "2026-07-20T08:39:53.239Z",
+    "lastUpdated": "2026-07-21T08:07:47.779Z",
     "eventCount": 0,
     "events": []
   },
   "california": {
     "displayName": "California",
-    "lastUpdated": "2026-07-20T08:39:55.456Z",
+    "lastUpdated": "2026-07-21T08:07:49.868Z",
     "eventCount": 10,
     "events": [
       {
@@ -573,44 +573,44 @@
         "priceRange": null
       },
       {
-        "id": "vvG10Z_2ehsEh9",
-        "name": "2026 Lake Elsinore Mariachi Fest Mezcal Expo",
-        "url": "https://www.ticketmaster.com/2026-lake-elsinore-mariachi-fest-mezcal-lake-elsinore-california-09-19-2026/event/090064F09BC676D7",
-        "date": "2026-09-19",
-        "time": "18:00:00",
-        "venueName": "LAKE ELSINORE DIAMOND STADIUM",
-        "venueAddress": "500 DIAMOND DR.",
-        "venueCity": "Lake Elsinore",
+        "id": "vvG1iZ_uNIhgSN",
+        "name": "Latin Music Conference SINGLE DAY Ticket",
+        "url": "https://www.ticketmaster.com/latin-music-conference-single-day-ticket-los-angeles-california-09-30-2026/event/0B0064D8E86F5CE3",
+        "date": "2026-09-30",
+        "time": "11:00:00",
+        "venueName": "Luckman Fine Arts Complex",
+        "venueAddress": "5151 State University Drive",
+        "venueCity": "Los Angeles",
         "venueCountry": "United States Of America",
-        "segment": "Miscellaneous",
-        "genre": "Undefined",
-        "subGenre": "Undefined",
-        "image": "https://s1.ticketm.net/dam/c/03e/e15ef00f-2c87-4421-ae61-d740851a703e_105891_TABLET_LANDSCAPE_16_9.jpg",
+        "segment": "Music",
+        "genre": "Latin",
+        "subGenre": "Latin",
+        "image": "https://s1.ticketm.net/dam/e/4e4/6350818c-18cc-4f7b-8782-75ba797534e4_RETINA_PORTRAIT_16_9.jpg",
         "priceRange": null
       }
     ]
   },
   "cambridge": {
     "displayName": "Cambridge",
-    "lastUpdated": "2026-07-20T08:39:57.341Z",
+    "lastUpdated": "2026-07-21T08:07:51.544Z",
     "eventCount": 0,
     "events": []
   },
   "capecoral": {
     "displayName": "Cape Coral",
-    "lastUpdated": "2026-07-20T08:39:59.078Z",
+    "lastUpdated": "2026-07-21T08:07:53.168Z",
     "eventCount": 0,
     "events": []
   },
   "charleston": {
     "displayName": "Charleston",
-    "lastUpdated": "2026-07-20T08:40:01.058Z",
+    "lastUpdated": "2026-07-21T08:07:54.977Z",
     "eventCount": 0,
     "events": []
   },
   "charlotte": {
     "displayName": "Charlotte",
-    "lastUpdated": "2026-07-20T08:40:03.390Z",
+    "lastUpdated": "2026-07-21T08:07:56.969Z",
     "eventCount": 2,
     "events": [
       {
@@ -649,13 +649,13 @@
   },
   "chengjiang": {
     "displayName": "Chengjiang",
-    "lastUpdated": "2026-07-20T08:40:05.040Z",
+    "lastUpdated": "2026-07-21T08:07:58.534Z",
     "eventCount": 0,
     "events": []
   },
   "chicago": {
     "displayName": "Chicago",
-    "lastUpdated": "2026-07-20T08:40:07.144Z",
+    "lastUpdated": "2026-07-21T08:08:00.467Z",
     "eventCount": 2,
     "events": [
       {
@@ -694,19 +694,19 @@
   },
   "cincinnati": {
     "displayName": "Cincinnati",
-    "lastUpdated": "2026-07-20T08:40:08.986Z",
+    "lastUpdated": "2026-07-21T08:08:02.376Z",
     "eventCount": 0,
     "events": []
   },
   "cleveland": {
     "displayName": "Cleveland",
-    "lastUpdated": "2026-07-20T08:40:10.858Z",
+    "lastUpdated": "2026-07-21T08:08:04.131Z",
     "eventCount": 0,
     "events": []
   },
   "colorado": {
     "displayName": "Colorado",
-    "lastUpdated": "2026-07-20T08:40:13.258Z",
+    "lastUpdated": "2026-07-21T08:08:06.247Z",
     "eventCount": 8,
     "events": [
       {
@@ -841,7 +841,7 @@
   },
   "coloradosprings": {
     "displayName": "Colorado Springs",
-    "lastUpdated": "2026-07-20T08:40:15.109Z",
+    "lastUpdated": "2026-07-21T08:08:07.892Z",
     "eventCount": 1,
     "events": [
       {
@@ -864,7 +864,7 @@
   },
   "columbus": {
     "displayName": "Columbus",
-    "lastUpdated": "2026-07-20T08:40:17.139Z",
+    "lastUpdated": "2026-07-21T08:08:09.688Z",
     "eventCount": 1,
     "events": [
       {
@@ -887,31 +887,31 @@
   },
   "concord": {
     "displayName": "Concord",
-    "lastUpdated": "2026-07-20T08:40:18.961Z",
+    "lastUpdated": "2026-07-21T08:08:11.413Z",
     "eventCount": 0,
     "events": []
   },
   "connecticut": {
     "displayName": "Connecticut",
-    "lastUpdated": "2026-07-20T08:40:20.821Z",
+    "lastUpdated": "2026-07-21T08:08:13.224Z",
     "eventCount": 0,
     "events": []
   },
   "copenhagen": {
     "displayName": "Copenhagen",
-    "lastUpdated": "2026-07-20T08:40:22.698Z",
+    "lastUpdated": "2026-07-21T08:08:14.964Z",
     "eventCount": 0,
     "events": []
   },
   "cyprus": {
     "displayName": "Cyprus",
-    "lastUpdated": "2026-07-20T08:40:24.369Z",
+    "lastUpdated": "2026-07-21T08:08:16.540Z",
     "eventCount": 0,
     "events": []
   },
   "dallas": {
     "displayName": "Dallas",
-    "lastUpdated": "2026-07-20T08:40:26.301Z",
+    "lastUpdated": "2026-07-21T08:08:18.364Z",
     "eventCount": 4,
     "events": [
       {
@@ -982,43 +982,43 @@
   },
   "dammam": {
     "displayName": "Dammam",
-    "lastUpdated": "2026-07-20T08:40:28.196Z",
+    "lastUpdated": "2026-07-21T08:08:20.024Z",
     "eventCount": 0,
     "events": []
   },
   "dayton": {
     "displayName": "Dayton",
-    "lastUpdated": "2026-07-20T08:40:29.968Z",
+    "lastUpdated": "2026-07-21T08:08:21.725Z",
     "eventCount": 0,
     "events": []
   },
   "denver": {
     "displayName": "Denver",
-    "lastUpdated": "2026-07-20T08:40:32.259Z",
+    "lastUpdated": "2026-07-21T08:08:23.777Z",
     "eventCount": 0,
     "events": []
   },
   "detroit": {
     "displayName": "Detroit",
-    "lastUpdated": "2026-07-20T08:40:34.224Z",
+    "lastUpdated": "2026-07-21T08:08:25.625Z",
     "eventCount": 0,
     "events": []
   },
   "dresden": {
     "displayName": "Dresden",
-    "lastUpdated": "2026-07-20T08:40:36.063Z",
+    "lastUpdated": "2026-07-21T08:08:27.345Z",
     "eventCount": 0,
     "events": []
   },
   "dubai": {
     "displayName": "Dubai",
-    "lastUpdated": "2026-07-20T08:40:37.920Z",
+    "lastUpdated": "2026-07-21T08:08:29.100Z",
     "eventCount": 0,
     "events": []
   },
   "dublin": {
     "displayName": "Dublin",
-    "lastUpdated": "2026-07-20T08:40:39.815Z",
+    "lastUpdated": "2026-07-21T08:08:30.992Z",
     "eventCount": 1,
     "events": [
       {
@@ -1041,7 +1041,7 @@
   },
   "dusseldorf": {
     "displayName": "Dusseldorf",
-    "lastUpdated": "2026-07-20T08:40:41.649Z",
+    "lastUpdated": "2026-07-21T08:08:32.691Z",
     "eventCount": 1,
     "events": [
       {
@@ -1064,19 +1064,19 @@
   },
   "edinburgh": {
     "displayName": "Edinburgh",
-    "lastUpdated": "2026-07-20T08:40:43.649Z",
+    "lastUpdated": "2026-07-21T08:08:34.408Z",
     "eventCount": 0,
     "events": []
   },
   "edmonton": {
     "displayName": "Edmonton",
-    "lastUpdated": "2026-07-20T08:40:45.666Z",
+    "lastUpdated": "2026-07-21T08:08:36.302Z",
     "eventCount": 0,
     "events": []
   },
   "elpaso": {
     "displayName": "El Paso",
-    "lastUpdated": "2026-07-20T08:40:47.663Z",
+    "lastUpdated": "2026-07-21T08:08:38.278Z",
     "eventCount": 1,
     "events": [
       {
@@ -1099,19 +1099,19 @@
   },
   "esbjerg": {
     "displayName": "Esbjerg",
-    "lastUpdated": "2026-07-20T08:40:49.397Z",
+    "lastUpdated": "2026-07-21T08:08:40.033Z",
     "eventCount": 0,
     "events": []
   },
   "florence": {
     "displayName": "Florence",
-    "lastUpdated": "2026-07-20T08:40:51.213Z",
+    "lastUpdated": "2026-07-21T08:08:41.764Z",
     "eventCount": 0,
     "events": []
   },
   "florida": {
     "displayName": "Florida",
-    "lastUpdated": "2026-07-20T08:40:53.448Z",
+    "lastUpdated": "2026-07-21T08:08:43.900Z",
     "eventCount": 10,
     "events": [
       {
@@ -1278,7 +1278,7 @@
   },
   "fortworth": {
     "displayName": "Fort Worth",
-    "lastUpdated": "2026-07-20T08:40:55.283Z",
+    "lastUpdated": "2026-07-21T08:08:45.607Z",
     "eventCount": 4,
     "events": [
       {
@@ -1349,37 +1349,37 @@
   },
   "france": {
     "displayName": "France",
-    "lastUpdated": "2026-07-20T08:40:57.093Z",
+    "lastUpdated": "2026-07-21T08:08:47.231Z",
     "eventCount": 0,
     "events": []
   },
   "frankfurt": {
     "displayName": "Frankfurt",
-    "lastUpdated": "2026-07-20T08:40:58.867Z",
+    "lastUpdated": "2026-07-21T08:08:48.919Z",
     "eventCount": 0,
     "events": []
   },
   "fresno": {
     "displayName": "Fresno",
-    "lastUpdated": "2026-07-20T08:41:00.792Z",
+    "lastUpdated": "2026-07-21T08:08:50.913Z",
     "eventCount": 0,
     "events": []
   },
   "geneva": {
     "displayName": "Geneva",
-    "lastUpdated": "2026-07-20T08:41:02.603Z",
+    "lastUpdated": "2026-07-21T08:08:52.603Z",
     "eventCount": 0,
     "events": []
   },
   "genoa": {
     "displayName": "Genoa",
-    "lastUpdated": "2026-07-20T08:41:04.400Z",
+    "lastUpdated": "2026-07-21T08:08:54.259Z",
     "eventCount": 0,
     "events": []
   },
   "glasgow": {
     "displayName": "Glasgow",
-    "lastUpdated": "2026-07-20T08:41:06.533Z",
+    "lastUpdated": "2026-07-21T08:08:56.180Z",
     "eventCount": 3,
     "events": [
       {
@@ -1434,19 +1434,19 @@
   },
   "halifax": {
     "displayName": "Halifax",
-    "lastUpdated": "2026-07-20T08:41:08.430Z",
+    "lastUpdated": "2026-07-21T08:08:57.917Z",
     "eventCount": 0,
     "events": []
   },
   "hamburg": {
     "displayName": "Hamburg",
-    "lastUpdated": "2026-07-20T08:41:10.323Z",
+    "lastUpdated": "2026-07-21T08:08:59.641Z",
     "eventCount": 0,
     "events": []
   },
   "hamilton": {
     "displayName": "Hamilton",
-    "lastUpdated": "2026-07-20T08:41:12.218Z",
+    "lastUpdated": "2026-07-21T08:09:01.381Z",
     "eventCount": 1,
     "events": [
       {
@@ -1469,19 +1469,19 @@
   },
   "hannover": {
     "displayName": "Hannover",
-    "lastUpdated": "2026-07-20T08:41:14.069Z",
+    "lastUpdated": "2026-07-21T08:09:03.124Z",
     "eventCount": 0,
     "events": []
   },
   "hartford": {
     "displayName": "Hartford",
-    "lastUpdated": "2026-07-20T08:41:15.880Z",
+    "lastUpdated": "2026-07-21T08:09:04.926Z",
     "eventCount": 0,
     "events": []
   },
   "helsinki": {
     "displayName": "Helsinki",
-    "lastUpdated": "2026-07-20T08:41:17.978Z",
+    "lastUpdated": "2026-07-21T08:09:06.780Z",
     "eventCount": 3,
     "events": [
       {
@@ -1536,13 +1536,13 @@
   },
   "hongkong": {
     "displayName": "Hong Kong",
-    "lastUpdated": "2026-07-20T08:41:19.623Z",
+    "lastUpdated": "2026-07-21T08:09:08.323Z",
     "eventCount": 0,
     "events": []
   },
   "honolulu": {
     "displayName": "Honolulu",
-    "lastUpdated": "2026-07-20T08:41:21.506Z",
+    "lastUpdated": "2026-07-21T08:09:10.050Z",
     "eventCount": 1,
     "events": [
       {
@@ -1565,7 +1565,7 @@
   },
   "houston": {
     "displayName": "Houston",
-    "lastUpdated": "2026-07-20T08:41:23.506Z",
+    "lastUpdated": "2026-07-21T08:09:11.921Z",
     "eventCount": 2,
     "events": [
       {
@@ -1604,19 +1604,19 @@
   },
   "indianapolis": {
     "displayName": "Indianapolis",
-    "lastUpdated": "2026-07-20T08:41:25.496Z",
+    "lastUpdated": "2026-07-21T08:09:13.718Z",
     "eventCount": 0,
     "events": []
   },
   "istanbul": {
     "displayName": "Istanbul",
-    "lastUpdated": "2026-07-20T08:41:27.414Z",
+    "lastUpdated": "2026-07-21T08:09:15.486Z",
     "eventCount": 0,
     "events": []
   },
   "jacksonville": {
     "displayName": "Jacksonville",
-    "lastUpdated": "2026-07-20T08:41:29.451Z",
+    "lastUpdated": "2026-07-21T08:09:17.424Z",
     "eventCount": 10,
     "events": [
       {
@@ -1783,13 +1783,13 @@
   },
   "jeddah": {
     "displayName": "Jeddah",
-    "lastUpdated": "2026-07-20T08:41:31.248Z",
+    "lastUpdated": "2026-07-21T08:09:19.105Z",
     "eventCount": 0,
     "events": []
   },
   "kansascity": {
     "displayName": "Kansas City",
-    "lastUpdated": "2026-07-20T08:41:33.044Z",
+    "lastUpdated": "2026-07-21T08:09:20.790Z",
     "eventCount": 1,
     "events": [
       {
@@ -1812,19 +1812,19 @@
   },
   "kokoszki": {
     "displayName": "Kokoszki",
-    "lastUpdated": "2026-07-20T08:41:34.911Z",
+    "lastUpdated": "2026-07-21T08:09:22.601Z",
     "eventCount": 0,
     "events": []
   },
   "kuwait": {
     "displayName": "Kuwait",
-    "lastUpdated": "2026-07-20T08:41:36.590Z",
+    "lastUpdated": "2026-07-21T08:09:24.133Z",
     "eventCount": 0,
     "events": []
   },
   "lasvegas": {
     "displayName": "Las Vegas",
-    "lastUpdated": "2026-07-20T08:41:38.640Z",
+    "lastUpdated": "2026-07-21T08:09:26.043Z",
     "eventCount": 1,
     "events": [
       {
@@ -1847,43 +1847,43 @@
   },
   "lebanon": {
     "displayName": "Lebanon",
-    "lastUpdated": "2026-07-20T08:41:40.298Z",
+    "lastUpdated": "2026-07-21T08:09:27.735Z",
     "eventCount": 0,
     "events": []
   },
   "leeds": {
     "displayName": "Leeds",
-    "lastUpdated": "2026-07-20T08:41:42.257Z",
+    "lastUpdated": "2026-07-21T08:09:29.474Z",
     "eventCount": 0,
     "events": []
   },
   "leipzig": {
     "displayName": "Leipzig",
-    "lastUpdated": "2026-07-20T08:41:44.288Z",
+    "lastUpdated": "2026-07-21T08:09:31.317Z",
     "eventCount": 0,
     "events": []
   },
   "lisbon": {
     "displayName": "Lisbon",
-    "lastUpdated": "2026-07-20T08:41:46.109Z",
+    "lastUpdated": "2026-07-21T08:09:32.978Z",
     "eventCount": 0,
     "events": []
   },
   "littlerock": {
     "displayName": "Little Rock",
-    "lastUpdated": "2026-07-20T08:41:47.989Z",
+    "lastUpdated": "2026-07-21T08:09:34.586Z",
     "eventCount": 0,
     "events": []
   },
   "liverpool": {
     "displayName": "Liverpool",
-    "lastUpdated": "2026-07-20T08:41:49.855Z",
+    "lastUpdated": "2026-07-21T08:09:36.371Z",
     "eventCount": 0,
     "events": []
   },
   "london": {
     "displayName": "London",
-    "lastUpdated": "2026-07-20T08:41:51.982Z",
+    "lastUpdated": "2026-07-21T08:09:38.282Z",
     "eventCount": 3,
     "events": [
       {
@@ -1938,13 +1938,13 @@
   },
   "longbeach": {
     "displayName": "Long Beach",
-    "lastUpdated": "2026-07-20T08:41:53.831Z",
+    "lastUpdated": "2026-07-21T08:09:40.098Z",
     "eventCount": 0,
     "events": []
   },
   "losangeles": {
     "displayName": "Los Angeles",
-    "lastUpdated": "2026-07-20T08:41:55.786Z",
+    "lastUpdated": "2026-07-21T08:09:42.002Z",
     "eventCount": 4,
     "events": [
       {
@@ -2015,25 +2015,25 @@
   },
   "louisville": {
     "displayName": "Louisville",
-    "lastUpdated": "2026-07-20T08:41:58.053Z",
+    "lastUpdated": "2026-07-21T08:09:44.016Z",
     "eventCount": 0,
     "events": []
   },
   "luxembourgcity": {
     "displayName": "Luxembourg City",
-    "lastUpdated": "2026-07-20T08:41:59.791Z",
+    "lastUpdated": "2026-07-21T08:09:45.706Z",
     "eventCount": 0,
     "events": []
   },
   "lyon": {
     "displayName": "Lyon",
-    "lastUpdated": "2026-07-20T08:42:01.679Z",
+    "lastUpdated": "2026-07-21T08:09:47.430Z",
     "eventCount": 0,
     "events": []
   },
   "madrid": {
     "displayName": "Madrid",
-    "lastUpdated": "2026-07-20T08:42:03.894Z",
+    "lastUpdated": "2026-07-21T08:09:49.343Z",
     "eventCount": 3,
     "events": [
       {
@@ -2088,13 +2088,13 @@
   },
   "malaga": {
     "displayName": "Malaga",
-    "lastUpdated": "2026-07-20T08:42:05.716Z",
+    "lastUpdated": "2026-07-21T08:09:51.237Z",
     "eventCount": 0,
     "events": []
   },
   "manchester": {
     "displayName": "Manchester",
-    "lastUpdated": "2026-07-20T08:42:07.605Z",
+    "lastUpdated": "2026-07-21T08:09:53.380Z",
     "eventCount": 1,
     "events": [
       {
@@ -2117,7 +2117,7 @@
   },
   "manhattan": {
     "displayName": "Manhattan",
-    "lastUpdated": "2026-07-20T08:42:09.511Z",
+    "lastUpdated": "2026-07-21T08:09:55.343Z",
     "eventCount": 4,
     "events": [
       {
@@ -2188,13 +2188,13 @@
   },
   "marseille": {
     "displayName": "Marseille",
-    "lastUpdated": "2026-07-20T08:42:11.284Z",
+    "lastUpdated": "2026-07-21T08:09:57.028Z",
     "eventCount": 0,
     "events": []
   },
   "massachusetts": {
     "displayName": "Massachusetts",
-    "lastUpdated": "2026-07-20T08:42:13.142Z",
+    "lastUpdated": "2026-07-21T08:09:58.897Z",
     "eventCount": 3,
     "events": [
       {
@@ -2249,37 +2249,37 @@
   },
   "mcallen": {
     "displayName": "Mcallen",
-    "lastUpdated": "2026-07-20T08:42:14.948Z",
+    "lastUpdated": "2026-07-21T08:10:00.860Z",
     "eventCount": 0,
     "events": []
   },
   "meixedo": {
     "displayName": "Meixedo",
-    "lastUpdated": "2026-07-20T08:42:16.687Z",
+    "lastUpdated": "2026-07-21T08:10:02.507Z",
     "eventCount": 0,
     "events": []
   },
   "melbourne": {
     "displayName": "Melbourne",
-    "lastUpdated": "2026-07-20T08:42:18.485Z",
+    "lastUpdated": "2026-07-21T08:10:04.207Z",
     "eventCount": 0,
     "events": []
   },
   "memphis": {
     "displayName": "Memphis",
-    "lastUpdated": "2026-07-20T08:42:20.255Z",
+    "lastUpdated": "2026-07-21T08:10:05.970Z",
     "eventCount": 0,
     "events": []
   },
   "mesa": {
     "displayName": "Mesa",
-    "lastUpdated": "2026-07-20T08:42:22.075Z",
+    "lastUpdated": "2026-07-21T08:10:07.719Z",
     "eventCount": 0,
     "events": []
   },
   "miami": {
     "displayName": "Miami",
-    "lastUpdated": "2026-07-20T08:42:24.336Z",
+    "lastUpdated": "2026-07-21T08:10:09.943Z",
     "eventCount": 10,
     "events": [
       {
@@ -2446,7 +2446,7 @@
   },
   "michigan": {
     "displayName": "Michigan",
-    "lastUpdated": "2026-07-20T08:42:26.286Z",
+    "lastUpdated": "2026-07-21T08:10:12.040Z",
     "eventCount": 1,
     "events": [
       {
@@ -2469,31 +2469,31 @@
   },
   "milan": {
     "displayName": "Milan",
-    "lastUpdated": "2026-07-20T08:42:28.069Z",
+    "lastUpdated": "2026-07-21T08:10:13.789Z",
     "eventCount": 0,
     "events": []
   },
   "milwaukee": {
     "displayName": "Milwaukee",
-    "lastUpdated": "2026-07-20T08:42:29.968Z",
+    "lastUpdated": "2026-07-21T08:10:15.583Z",
     "eventCount": 0,
     "events": []
   },
   "minneapolis": {
     "displayName": "Minneapolis",
-    "lastUpdated": "2026-07-20T08:42:31.884Z",
+    "lastUpdated": "2026-07-21T08:10:17.672Z",
     "eventCount": 0,
     "events": []
   },
   "monaco": {
     "displayName": "Monaco",
-    "lastUpdated": "2026-07-20T08:42:33.571Z",
+    "lastUpdated": "2026-07-21T08:10:19.311Z",
     "eventCount": 0,
     "events": []
   },
   "montreal": {
     "displayName": "Montreal",
-    "lastUpdated": "2026-07-20T08:42:35.541Z",
+    "lastUpdated": "2026-07-21T08:10:21.292Z",
     "eventCount": 3,
     "events": [
       {
@@ -2548,25 +2548,25 @@
   },
   "munich": {
     "displayName": "Munich",
-    "lastUpdated": "2026-07-20T08:42:37.473Z",
+    "lastUpdated": "2026-07-21T08:10:23.227Z",
     "eventCount": 0,
     "events": []
   },
   "naples": {
     "displayName": "Naples",
-    "lastUpdated": "2026-07-20T08:42:39.293Z",
+    "lastUpdated": "2026-07-21T08:10:24.837Z",
     "eventCount": 0,
     "events": []
   },
   "nashville": {
     "displayName": "Nashville",
-    "lastUpdated": "2026-07-20T08:42:41.337Z",
+    "lastUpdated": "2026-07-21T08:10:26.672Z",
     "eventCount": 0,
     "events": []
   },
   "nevada": {
     "displayName": "Nevada",
-    "lastUpdated": "2026-07-20T08:42:43.256Z",
+    "lastUpdated": "2026-07-21T08:10:28.503Z",
     "eventCount": 1,
     "events": [
       {
@@ -2589,7 +2589,7 @@
   },
   "newjersey": {
     "displayName": "New Jersey",
-    "lastUpdated": "2026-07-20T08:42:45.391Z",
+    "lastUpdated": "2026-07-21T08:10:30.685Z",
     "eventCount": 1,
     "events": [
       {
@@ -2612,13 +2612,13 @@
   },
   "neworleans": {
     "displayName": "New Orleans",
-    "lastUpdated": "2026-07-20T08:42:47.153Z",
+    "lastUpdated": "2026-07-21T08:10:32.387Z",
     "eventCount": 0,
     "events": []
   },
   "newyork": {
     "displayName": "New York",
-    "lastUpdated": "2026-07-20T08:42:49.086Z",
+    "lastUpdated": "2026-07-21T08:10:34.211Z",
     "eventCount": 4,
     "events": [
       {
@@ -2689,13 +2689,13 @@
   },
   "nice": {
     "displayName": "Nice",
-    "lastUpdated": "2026-07-20T08:42:50.879Z",
+    "lastUpdated": "2026-07-21T08:10:35.931Z",
     "eventCount": 0,
     "events": []
   },
   "northcarolina": {
     "displayName": "North Carolina",
-    "lastUpdated": "2026-07-20T08:42:52.781Z",
+    "lastUpdated": "2026-07-21T08:10:37.862Z",
     "eventCount": 4,
     "events": [
       {
@@ -2766,19 +2766,19 @@
   },
   "nuremberg": {
     "displayName": "Nuremberg",
-    "lastUpdated": "2026-07-20T08:42:54.550Z",
+    "lastUpdated": "2026-07-21T08:10:39.524Z",
     "eventCount": 0,
     "events": []
   },
   "oklahomacity": {
     "displayName": "Oklahoma City",
-    "lastUpdated": "2026-07-20T08:42:56.376Z",
+    "lastUpdated": "2026-07-21T08:10:41.455Z",
     "eventCount": 0,
     "events": []
   },
   "omaha": {
     "displayName": "Omaha",
-    "lastUpdated": "2026-07-20T08:42:58.321Z",
+    "lastUpdated": "2026-07-21T08:10:43.324Z",
     "eventCount": 5,
     "events": [
       {
@@ -2865,13 +2865,13 @@
   },
   "oman": {
     "displayName": "Oman",
-    "lastUpdated": "2026-07-20T08:42:59.957Z",
+    "lastUpdated": "2026-07-21T08:10:44.890Z",
     "eventCount": 0,
     "events": []
   },
   "oregon": {
     "displayName": "Oregon",
-    "lastUpdated": "2026-07-20T08:43:01.890Z",
+    "lastUpdated": "2026-07-21T08:10:46.837Z",
     "eventCount": 1,
     "events": [
       {
@@ -2894,7 +2894,7 @@
   },
   "orlando": {
     "displayName": "Orlando",
-    "lastUpdated": "2026-07-20T08:43:03.888Z",
+    "lastUpdated": "2026-07-21T08:10:48.602Z",
     "eventCount": 1,
     "events": [
       {
@@ -2917,37 +2917,37 @@
   },
   "oslo": {
     "displayName": "Oslo",
-    "lastUpdated": "2026-07-20T08:43:05.822Z",
+    "lastUpdated": "2026-07-21T08:10:50.386Z",
     "eventCount": 0,
     "events": []
   },
   "ottawa": {
     "displayName": "Ottawa",
-    "lastUpdated": "2026-07-20T08:43:07.691Z",
+    "lastUpdated": "2026-07-21T08:10:52.145Z",
     "eventCount": 0,
     "events": []
   },
   "pansol": {
     "displayName": "Pansol",
-    "lastUpdated": "2026-07-20T08:43:09.489Z",
+    "lastUpdated": "2026-07-21T08:10:53.756Z",
     "eventCount": 0,
     "events": []
   },
   "paris": {
     "displayName": "Paris",
-    "lastUpdated": "2026-07-20T08:43:11.306Z",
+    "lastUpdated": "2026-07-21T08:10:55.591Z",
     "eventCount": 0,
     "events": []
   },
   "perth": {
     "displayName": "Perth",
-    "lastUpdated": "2026-07-20T08:43:13.127Z",
+    "lastUpdated": "2026-07-21T08:10:57.318Z",
     "eventCount": 0,
     "events": []
   },
   "philadelphia": {
     "displayName": "Philadelphia",
-    "lastUpdated": "2026-07-20T08:43:15.250Z",
+    "lastUpdated": "2026-07-21T08:10:59.173Z",
     "eventCount": 1,
     "events": [
       {
@@ -2970,61 +2970,61 @@
   },
   "phoenix": {
     "displayName": "Phoenix",
-    "lastUpdated": "2026-07-20T08:43:17.161Z",
+    "lastUpdated": "2026-07-21T08:11:01.050Z",
     "eventCount": 0,
     "events": []
   },
   "pittsburgh": {
     "displayName": "Pittsburgh",
-    "lastUpdated": "2026-07-20T08:43:19.123Z",
+    "lastUpdated": "2026-07-21T08:11:02.801Z",
     "eventCount": 0,
     "events": []
   },
   "porto": {
     "displayName": "Porto",
-    "lastUpdated": "2026-07-20T08:43:20.896Z",
+    "lastUpdated": "2026-07-21T08:11:04.454Z",
     "eventCount": 0,
     "events": []
   },
   "prague": {
     "displayName": "Prague",
-    "lastUpdated": "2026-07-20T08:43:22.669Z",
+    "lastUpdated": "2026-07-21T08:11:06.098Z",
     "eventCount": 0,
     "events": []
   },
   "providence": {
     "displayName": "Providence",
-    "lastUpdated": "2026-07-20T08:43:24.732Z",
+    "lastUpdated": "2026-07-21T08:11:07.973Z",
     "eventCount": 0,
     "events": []
   },
   "puertovallarta": {
     "displayName": "Puerto Vallarta",
-    "lastUpdated": "2026-07-20T08:43:26.481Z",
+    "lastUpdated": "2026-07-21T08:11:09.662Z",
     "eventCount": 0,
     "events": []
   },
   "qatar": {
     "displayName": "Qatar",
-    "lastUpdated": "2026-07-20T08:43:28.142Z",
+    "lastUpdated": "2026-07-21T08:11:11.308Z",
     "eventCount": 0,
     "events": []
   },
   "quebeccity": {
     "displayName": "Quebec City",
-    "lastUpdated": "2026-07-20T08:43:29.901Z",
+    "lastUpdated": "2026-07-21T08:11:13.027Z",
     "eventCount": 0,
     "events": []
   },
   "queens": {
     "displayName": "Queens",
-    "lastUpdated": "2026-07-20T08:43:31.716Z",
+    "lastUpdated": "2026-07-21T08:11:14.750Z",
     "eventCount": 0,
     "events": []
   },
   "queenstown": {
     "displayName": "Queenstown",
-    "lastUpdated": "2026-07-20T08:43:33.674Z",
+    "lastUpdated": "2026-07-21T08:11:16.481Z",
     "eventCount": 1,
     "events": [
       {
@@ -3047,49 +3047,49 @@
   },
   "raleigh": {
     "displayName": "Raleigh",
-    "lastUpdated": "2026-07-20T08:43:35.731Z",
+    "lastUpdated": "2026-07-21T08:11:18.438Z",
     "eventCount": 0,
     "events": []
   },
   "reno": {
     "displayName": "Reno",
-    "lastUpdated": "2026-07-20T08:43:37.628Z",
+    "lastUpdated": "2026-07-21T08:11:20.243Z",
     "eventCount": 0,
     "events": []
   },
   "richmond": {
     "displayName": "Richmond",
-    "lastUpdated": "2026-07-20T08:43:39.411Z",
+    "lastUpdated": "2026-07-21T08:11:21.935Z",
     "eventCount": 0,
     "events": []
   },
   "riverside": {
     "displayName": "Riverside",
-    "lastUpdated": "2026-07-20T08:43:41.210Z",
+    "lastUpdated": "2026-07-21T08:11:23.604Z",
     "eventCount": 0,
     "events": []
   },
   "riyadh": {
     "displayName": "Riyadh",
-    "lastUpdated": "2026-07-20T08:43:43.011Z",
+    "lastUpdated": "2026-07-21T08:11:25.357Z",
     "eventCount": 0,
     "events": []
   },
   "rochester": {
     "displayName": "Rochester",
-    "lastUpdated": "2026-07-20T08:43:44.911Z",
+    "lastUpdated": "2026-07-21T08:11:27.084Z",
     "eventCount": 0,
     "events": []
   },
   "rome": {
     "displayName": "Rome",
-    "lastUpdated": "2026-07-20T08:43:46.690Z",
+    "lastUpdated": "2026-07-21T08:11:28.755Z",
     "eventCount": 0,
     "events": []
   },
   "rotterdam": {
     "displayName": "Rotterdam",
-    "lastUpdated": "2026-07-20T08:43:48.714Z",
+    "lastUpdated": "2026-07-21T08:11:30.779Z",
     "eventCount": 1,
     "events": [
       {
@@ -3112,19 +3112,19 @@
   },
   "sacramento": {
     "displayName": "Sacramento",
-    "lastUpdated": "2026-07-20T08:43:50.779Z",
+    "lastUpdated": "2026-07-21T08:11:32.641Z",
     "eventCount": 0,
     "events": []
   },
   "saltlakecity": {
     "displayName": "Salt Lake City",
-    "lastUpdated": "2026-07-20T08:43:52.522Z",
+    "lastUpdated": "2026-07-21T08:11:34.283Z",
     "eventCount": 0,
     "events": []
   },
   "sanantonio": {
     "displayName": "San Antonio",
-    "lastUpdated": "2026-07-20T08:43:54.555Z",
+    "lastUpdated": "2026-07-21T08:11:36.202Z",
     "eventCount": 10,
     "events": [
       {
@@ -3291,7 +3291,7 @@
   },
   "sandiego": {
     "displayName": "San Diego",
-    "lastUpdated": "2026-07-20T08:43:56.432Z",
+    "lastUpdated": "2026-07-21T08:11:38.000Z",
     "eventCount": 1,
     "events": [
       {
@@ -3314,79 +3314,79 @@
   },
   "sanfrancisco": {
     "displayName": "San Francisco",
-    "lastUpdated": "2026-07-20T08:43:58.300Z",
+    "lastUpdated": "2026-07-21T08:11:39.729Z",
     "eventCount": 0,
     "events": []
   },
   "sanjose": {
     "displayName": "San Jose",
-    "lastUpdated": "2026-07-20T08:44:00.350Z",
+    "lastUpdated": "2026-07-21T08:11:41.688Z",
     "eventCount": 0,
     "events": []
   },
   "seattle": {
     "displayName": "Seattle",
-    "lastUpdated": "2026-07-20T08:44:02.413Z",
+    "lastUpdated": "2026-07-21T08:11:43.521Z",
     "eventCount": 0,
     "events": []
   },
   "seville": {
     "displayName": "Seville",
-    "lastUpdated": "2026-07-20T08:44:04.184Z",
+    "lastUpdated": "2026-07-21T08:11:45.411Z",
     "eventCount": 0,
     "events": []
   },
   "shanghai": {
     "displayName": "Shanghai",
-    "lastUpdated": "2026-07-20T08:44:06.005Z",
+    "lastUpdated": "2026-07-21T08:11:47.126Z",
     "eventCount": 0,
     "events": []
   },
   "sheffield": {
     "displayName": "Sheffield",
-    "lastUpdated": "2026-07-20T08:44:07.977Z",
+    "lastUpdated": "2026-07-21T08:11:48.933Z",
     "eventCount": 0,
     "events": []
   },
   "singapore": {
     "displayName": "Singapore",
-    "lastUpdated": "2026-07-20T08:44:09.864Z",
+    "lastUpdated": "2026-07-21T08:11:50.721Z",
     "eventCount": 0,
     "events": []
   },
   "sofia": {
     "displayName": "Sofia",
-    "lastUpdated": "2026-07-20T08:44:11.649Z",
+    "lastUpdated": "2026-07-21T08:11:52.406Z",
     "eventCount": 0,
     "events": []
   },
   "split": {
     "displayName": "Split",
-    "lastUpdated": "2026-07-20T08:44:13.421Z",
+    "lastUpdated": "2026-07-21T08:11:54.076Z",
     "eventCount": 0,
     "events": []
   },
   "stlouis": {
     "displayName": "St Louis",
-    "lastUpdated": "2026-07-20T08:44:15.162Z",
+    "lastUpdated": "2026-07-21T08:11:55.715Z",
     "eventCount": 0,
     "events": []
   },
   "stockholm": {
     "displayName": "Stockholm",
-    "lastUpdated": "2026-07-20T08:44:17.053Z",
+    "lastUpdated": "2026-07-21T08:11:57.663Z",
     "eventCount": 0,
     "events": []
   },
   "stuttgart": {
     "displayName": "Stuttgart",
-    "lastUpdated": "2026-07-20T08:44:18.863Z",
+    "lastUpdated": "2026-07-21T08:11:59.390Z",
     "eventCount": 0,
     "events": []
   },
   "sulzbach": {
     "displayName": "Sulzbach",
-    "lastUpdated": "2026-07-20T08:44:20.910Z",
+    "lastUpdated": "2026-07-21T08:12:01.529Z",
     "eventCount": 2,
     "events": [
       {
@@ -3425,31 +3425,31 @@
   },
   "sydney": {
     "displayName": "Sydney",
-    "lastUpdated": "2026-07-20T08:44:22.887Z",
+    "lastUpdated": "2026-07-21T08:12:03.460Z",
     "eventCount": 0,
     "events": []
   },
   "tallahassee": {
     "displayName": "Tallahassee",
-    "lastUpdated": "2026-07-20T08:44:24.706Z",
+    "lastUpdated": "2026-07-21T08:12:05.176Z",
     "eventCount": 0,
     "events": []
   },
   "tampa": {
     "displayName": "Tampa",
-    "lastUpdated": "2026-07-20T08:44:26.572Z",
+    "lastUpdated": "2026-07-21T08:12:06.948Z",
     "eventCount": 0,
     "events": []
   },
   "tbilisi": {
     "displayName": "Tbilisi",
-    "lastUpdated": "2026-07-20T08:44:28.359Z",
+    "lastUpdated": "2026-07-21T08:12:08.636Z",
     "eventCount": 0,
     "events": []
   },
   "texas": {
     "displayName": "Texas",
-    "lastUpdated": "2026-07-20T08:44:30.614Z",
+    "lastUpdated": "2026-07-21T08:12:10.902Z",
     "eventCount": 10,
     "events": [
       {
@@ -3616,13 +3616,13 @@
   },
   "tokyo": {
     "displayName": "Tokyo",
-    "lastUpdated": "2026-07-20T08:44:32.365Z",
+    "lastUpdated": "2026-07-21T08:12:12.628Z",
     "eventCount": 0,
     "events": []
   },
   "toronto": {
     "displayName": "Toronto",
-    "lastUpdated": "2026-07-20T08:44:34.389Z",
+    "lastUpdated": "2026-07-21T08:12:14.486Z",
     "eventCount": 3,
     "events": [
       {
@@ -3677,19 +3677,19 @@
   },
   "toulouse": {
     "displayName": "Toulouse",
-    "lastUpdated": "2026-07-20T08:44:36.155Z",
+    "lastUpdated": "2026-07-21T08:12:16.183Z",
     "eventCount": 0,
     "events": []
   },
   "tucson": {
     "displayName": "Tucson",
-    "lastUpdated": "2026-07-20T08:44:38.055Z",
+    "lastUpdated": "2026-07-21T08:12:17.964Z",
     "eventCount": 0,
     "events": []
   },
   "tulsa": {
     "displayName": "Tulsa",
-    "lastUpdated": "2026-07-20T08:44:39.906Z",
+    "lastUpdated": "2026-07-21T08:12:19.833Z",
     "eventCount": 9,
     "events": [
       {
@@ -3840,55 +3840,55 @@
   },
   "valencia": {
     "displayName": "Valencia",
-    "lastUpdated": "2026-07-20T08:44:41.642Z",
+    "lastUpdated": "2026-07-21T08:12:21.632Z",
     "eventCount": 0,
     "events": []
   },
   "vancouver": {
     "displayName": "Vancouver",
-    "lastUpdated": "2026-07-20T08:44:43.436Z",
+    "lastUpdated": "2026-07-21T08:12:23.413Z",
     "eventCount": 0,
     "events": []
   },
   "venice": {
     "displayName": "Venice",
-    "lastUpdated": "2026-07-20T08:44:45.199Z",
+    "lastUpdated": "2026-07-21T08:12:25.313Z",
     "eventCount": 0,
     "events": []
   },
   "victoria": {
     "displayName": "Victoria",
-    "lastUpdated": "2026-07-20T08:44:46.967Z",
+    "lastUpdated": "2026-07-21T08:12:26.989Z",
     "eventCount": 0,
     "events": []
   },
   "vienna": {
     "displayName": "Vienna",
-    "lastUpdated": "2026-07-20T08:44:48.730Z",
+    "lastUpdated": "2026-07-21T08:12:28.609Z",
     "eventCount": 0,
     "events": []
   },
   "virginiabeach": {
     "displayName": "Virginia Beach",
-    "lastUpdated": "2026-07-20T08:44:50.633Z",
+    "lastUpdated": "2026-07-21T08:12:30.328Z",
     "eventCount": 0,
     "events": []
   },
   "warren": {
     "displayName": "Warren",
-    "lastUpdated": "2026-07-20T08:44:52.386Z",
+    "lastUpdated": "2026-07-21T08:12:31.982Z",
     "eventCount": 0,
     "events": []
   },
   "warsaw": {
     "displayName": "Warsaw",
-    "lastUpdated": "2026-07-20T08:44:54.493Z",
+    "lastUpdated": "2026-07-21T08:12:34.118Z",
     "eventCount": 0,
     "events": []
   },
   "washington": {
     "displayName": "Washington",
-    "lastUpdated": "2026-07-20T08:44:56.580Z",
+    "lastUpdated": "2026-07-21T08:12:35.984Z",
     "eventCount": 3,
     "events": [
       {
@@ -3943,7 +3943,7 @@
   },
   "westgate": {
     "displayName": "Westgate",
-    "lastUpdated": "2026-07-20T08:44:59.203Z",
+    "lastUpdated": "2026-07-21T08:12:38.495Z",
     "eventCount": 10,
     "events": [
       {
@@ -4110,25 +4110,25 @@
   },
   "winnipeg": {
     "displayName": "Winnipeg",
-    "lastUpdated": "2026-07-20T08:45:01.116Z",
+    "lastUpdated": "2026-07-21T08:12:40.410Z",
     "eventCount": 0,
     "events": []
   },
   "yerevan": {
     "displayName": "Yerevan",
-    "lastUpdated": "2026-07-20T08:45:02.892Z",
+    "lastUpdated": "2026-07-21T08:12:42.066Z",
     "eventCount": 0,
     "events": []
   },
   "zagreb": {
     "displayName": "Zagreb",
-    "lastUpdated": "2026-07-20T08:45:04.752Z",
+    "lastUpdated": "2026-07-21T08:12:43.709Z",
     "eventCount": 0,
     "events": []
   },
   "zurich": {
     "displayName": "Zurich",
-    "lastUpdated": "2026-07-20T08:45:06.482Z",
+    "lastUpdated": "2026-07-21T08:12:45.496Z",
     "eventCount": 0,
     "events": []
   }
