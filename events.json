@@ -1,7 +1,7 @@
 {
   "abudhabi": {
     "displayName": "Abu Dhabi",
-    "lastUpdated": "2026-08-01T08:02:26.015Z",
+    "lastUpdated": "2026-08-02T08:04:04.362Z",
     "eventCount": 1,
     "events": [
       {
@@ -24,31 +24,31 @@
   },
   "albany": {
     "displayName": "Albany",
-    "lastUpdated": "2026-08-01T08:02:27.952Z",
+    "lastUpdated": "2026-08-02T08:04:06.415Z",
     "eventCount": 0,
     "events": []
   },
   "albuquerque": {
     "displayName": "Albuquerque",
-    "lastUpdated": "2026-08-01T08:02:29.745Z",
+    "lastUpdated": "2026-08-02T08:04:08.415Z",
     "eventCount": 0,
     "events": []
   },
   "alkhobar": {
     "displayName": "Al Khobar",
-    "lastUpdated": "2026-08-01T08:02:31.527Z",
+    "lastUpdated": "2026-08-02T08:04:10.238Z",
     "eventCount": 0,
     "events": []
   },
   "allentown": {
     "displayName": "Allentown",
-    "lastUpdated": "2026-08-01T08:02:33.288Z",
+    "lastUpdated": "2026-08-02T08:04:12.125Z",
     "eventCount": 0,
     "events": []
   },
   "amsterdam": {
     "displayName": "Amsterdam",
-    "lastUpdated": "2026-08-01T08:02:35.547Z",
+    "lastUpdated": "2026-08-02T08:04:14.479Z",
     "eventCount": 2,
     "events": [
       {
@@ -87,25 +87,25 @@
   },
   "ankara": {
     "displayName": "Ankara",
-    "lastUpdated": "2026-08-01T08:02:37.542Z",
+    "lastUpdated": "2026-08-02T08:04:16.381Z",
     "eventCount": 0,
     "events": []
   },
   "arizona": {
     "displayName": "Arizona",
-    "lastUpdated": "2026-08-01T08:02:39.566Z",
+    "lastUpdated": "2026-08-02T08:04:18.620Z",
     "eventCount": 0,
     "events": []
   },
   "athens": {
     "displayName": "Athens",
-    "lastUpdated": "2026-08-01T08:02:41.420Z",
+    "lastUpdated": "2026-08-02T08:04:20.571Z",
     "eventCount": 0,
     "events": []
   },
   "atlanta": {
     "displayName": "Atlanta",
-    "lastUpdated": "2026-08-01T08:02:43.346Z",
+    "lastUpdated": "2026-08-02T08:04:22.621Z",
     "eventCount": 1,
     "events": [
       {
@@ -128,30 +128,13 @@
   },
   "auckland": {
     "displayName": "Auckland",
-    "lastUpdated": "2026-08-01T08:02:45.218Z",
-    "eventCount": 1,
-    "events": [
-      {
-        "id": "ZFwVzcymWZ17kfvP",
-        "name": "South Summit 'RUN IT BACK' New Zealand Tour | Auckland",
-        "url": "https://www.moshtix.co.nz/v2/event/south-summit-run-it-back-new-zealand-tour-auckland/194065",
-        "date": "2026-08-02",
-        "time": "19:00:00",
-        "venueName": "Double Whammy",
-        "venueAddress": "183 Karangahape Road",
-        "venueCity": "Auckland",
-        "venueCountry": "New Zealand",
-        "segment": "Music",
-        "genre": "Alternative",
-        "subGenre": "Alternative",
-        "image": "https://s1.ticketm.net/dam/c/797/5e693c26-2881-4776-8f0c-3aa94bfa3797_106511_RETINA_LANDSCAPE_16_9.jpg",
-        "priceRange": null
-      }
-    ]
+    "lastUpdated": "2026-08-02T08:04:24.822Z",
+    "eventCount": 0,
+    "events": []
   },
   "austin": {
     "displayName": "Austin",
-    "lastUpdated": "2026-08-01T08:02:47.062Z",
+    "lastUpdated": "2026-08-02T08:04:27.220Z",
     "eventCount": 2,
     "events": [
       {
@@ -190,31 +173,31 @@
   },
   "bahrain": {
     "displayName": "Bahrain",
-    "lastUpdated": "2026-08-01T08:02:48.796Z",
+    "lastUpdated": "2026-08-02T08:04:28.978Z",
     "eventCount": 0,
     "events": []
   },
   "bali": {
     "displayName": "Bali",
-    "lastUpdated": "2026-08-01T08:02:50.521Z",
+    "lastUpdated": "2026-08-02T08:04:30.979Z",
     "eventCount": 0,
     "events": []
   },
   "baltimore": {
     "displayName": "Baltimore",
-    "lastUpdated": "2026-08-01T08:02:52.530Z",
+    "lastUpdated": "2026-08-02T08:04:33.103Z",
     "eventCount": 0,
     "events": []
   },
   "barcelona": {
     "displayName": "Barcelona",
-    "lastUpdated": "2026-08-01T08:02:54.298Z",
+    "lastUpdated": "2026-08-02T08:04:34.995Z",
     "eventCount": 0,
     "events": []
   },
   "batonrouge": {
     "displayName": "Baton Rouge",
-    "lastUpdated": "2026-08-01T08:02:56.059Z",
+    "lastUpdated": "2026-08-02T08:04:36.962Z",
     "eventCount": 1,
     "events": [
       {
@@ -237,25 +220,25 @@
   },
   "beijing": {
     "displayName": "Beijing",
-    "lastUpdated": "2026-08-01T08:02:57.750Z",
+    "lastUpdated": "2026-08-02T08:04:38.925Z",
     "eventCount": 0,
     "events": []
   },
   "beirut": {
     "displayName": "Beirut",
-    "lastUpdated": "2026-08-01T08:02:59.407Z",
+    "lastUpdated": "2026-08-02T08:04:40.769Z",
     "eventCount": 0,
     "events": []
   },
   "belgrade": {
     "displayName": "Belgrade",
-    "lastUpdated": "2026-08-01T08:03:01.194Z",
+    "lastUpdated": "2026-08-02T08:04:42.671Z",
     "eventCount": 0,
     "events": []
   },
   "berlin": {
     "displayName": "Berlin",
-    "lastUpdated": "2026-08-01T08:03:03.481Z",
+    "lastUpdated": "2026-08-02T08:04:44.914Z",
     "eventCount": 1,
     "events": [
       {
@@ -278,25 +261,25 @@
   },
   "birmingham": {
     "displayName": "Birmingham",
-    "lastUpdated": "2026-08-01T08:03:05.371Z",
+    "lastUpdated": "2026-08-02T08:04:47.030Z",
     "eventCount": 0,
     "events": []
   },
   "bologna": {
     "displayName": "Bologna",
-    "lastUpdated": "2026-08-01T08:03:07.106Z",
+    "lastUpdated": "2026-08-02T08:04:48.627Z",
     "eventCount": 0,
     "events": []
   },
   "bordeaux": {
     "displayName": "Bordeaux",
-    "lastUpdated": "2026-08-01T08:03:08.760Z",
+    "lastUpdated": "2026-08-02T08:04:50.550Z",
     "eventCount": 0,
     "events": []
   },
   "boston": {
     "displayName": "Boston",
-    "lastUpdated": "2026-08-01T08:03:10.703Z",
+    "lastUpdated": "2026-08-02T08:04:52.564Z",
     "eventCount": 1,
     "events": [
       {
@@ -319,25 +302,25 @@
   },
   "bratislava": {
     "displayName": "Bratislava",
-    "lastUpdated": "2026-08-01T08:03:12.374Z",
+    "lastUpdated": "2026-08-02T08:04:54.509Z",
     "eventCount": 0,
     "events": []
   },
   "bridgeport": {
     "displayName": "Bridgeport",
-    "lastUpdated": "2026-08-01T08:03:14.173Z",
+    "lastUpdated": "2026-08-02T08:04:56.544Z",
     "eventCount": 0,
     "events": []
   },
   "brisbane": {
     "displayName": "Brisbane",
-    "lastUpdated": "2026-08-01T08:03:15.947Z",
+    "lastUpdated": "2026-08-02T08:04:58.424Z",
     "eventCount": 0,
     "events": []
   },
   "bristol": {
     "displayName": "Bristol",
-    "lastUpdated": "2026-08-01T08:03:17.852Z",
+    "lastUpdated": "2026-08-02T08:05:00.478Z",
     "eventCount": 1,
     "events": [
       {
@@ -360,19 +343,19 @@
   },
   "brno": {
     "displayName": "Brno",
-    "lastUpdated": "2026-08-01T08:03:19.568Z",
+    "lastUpdated": "2026-08-02T08:05:02.878Z",
     "eventCount": 0,
     "events": []
   },
   "bronx": {
     "displayName": "Bronx",
-    "lastUpdated": "2026-08-01T08:03:21.256Z",
+    "lastUpdated": "2026-08-02T08:05:04.807Z",
     "eventCount": 0,
     "events": []
   },
   "brooklyn": {
     "displayName": "Brooklyn",
-    "lastUpdated": "2026-08-01T08:03:23.426Z",
+    "lastUpdated": "2026-08-02T08:05:07.085Z",
     "eventCount": 1,
     "events": [
       {
@@ -395,7 +378,7 @@
   },
   "brussels": {
     "displayName": "Brussels",
-    "lastUpdated": "2026-08-01T08:03:24.960Z",
+    "lastUpdated": "2026-08-02T08:05:09.083Z",
     "eventCount": 1,
     "events": [
       {
@@ -418,31 +401,31 @@
   },
   "bucharest": {
     "displayName": "Bucharest",
-    "lastUpdated": "2026-08-01T08:03:26.622Z",
+    "lastUpdated": "2026-08-02T08:05:10.906Z",
     "eventCount": 0,
     "events": []
   },
   "budapest": {
     "displayName": "Budapest",
-    "lastUpdated": "2026-08-01T08:03:28.374Z",
+    "lastUpdated": "2026-08-02T08:05:12.752Z",
     "eventCount": 0,
     "events": []
   },
   "buffalo": {
     "displayName": "Buffalo",
-    "lastUpdated": "2026-08-01T08:03:30.349Z",
+    "lastUpdated": "2026-08-02T08:05:14.896Z",
     "eventCount": 0,
     "events": []
   },
   "calgary": {
     "displayName": "Calgary",
-    "lastUpdated": "2026-08-01T08:03:32.105Z",
+    "lastUpdated": "2026-08-02T08:05:16.862Z",
     "eventCount": 0,
     "events": []
   },
   "california": {
     "displayName": "California",
-    "lastUpdated": "2026-08-01T08:03:34.342Z",
+    "lastUpdated": "2026-08-02T08:05:19.190Z",
     "eventCount": 10,
     "events": [
       {
@@ -609,25 +592,25 @@
   },
   "cambridge": {
     "displayName": "Cambridge",
-    "lastUpdated": "2026-08-01T08:03:36.060Z",
+    "lastUpdated": "2026-08-02T08:05:21.259Z",
     "eventCount": 0,
     "events": []
   },
   "capecoral": {
     "displayName": "Cape Coral",
-    "lastUpdated": "2026-08-01T08:03:38.064Z",
+    "lastUpdated": "2026-08-02T08:05:23.120Z",
     "eventCount": 0,
     "events": []
   },
   "charleston": {
     "displayName": "Charleston",
-    "lastUpdated": "2026-08-01T08:03:39.930Z",
+    "lastUpdated": "2026-08-02T08:05:24.817Z",
     "eventCount": 0,
     "events": []
   },
   "charlotte": {
     "displayName": "Charlotte",
-    "lastUpdated": "2026-08-01T08:03:41.856Z",
+    "lastUpdated": "2026-08-02T08:05:27.315Z",
     "eventCount": 2,
     "events": [
       {
@@ -666,13 +649,13 @@
   },
   "chengjiang": {
     "displayName": "Chengjiang",
-    "lastUpdated": "2026-08-01T08:03:43.480Z",
+    "lastUpdated": "2026-08-02T08:05:29.209Z",
     "eventCount": 0,
     "events": []
   },
   "chicago": {
     "displayName": "Chicago",
-    "lastUpdated": "2026-08-01T08:03:45.396Z",
+    "lastUpdated": "2026-08-02T08:05:31.465Z",
     "eventCount": 2,
     "events": [
       {
@@ -711,19 +694,19 @@
   },
   "cincinnati": {
     "displayName": "Cincinnati",
-    "lastUpdated": "2026-08-01T08:03:47.167Z",
+    "lastUpdated": "2026-08-02T08:05:33.744Z",
     "eventCount": 0,
     "events": []
   },
   "cleveland": {
     "displayName": "Cleveland",
-    "lastUpdated": "2026-08-01T08:03:48.980Z",
+    "lastUpdated": "2026-08-02T08:05:35.873Z",
     "eventCount": 9,
     "events": [
       {
         "id": "LvZ18QJPlW536jPeAw85a",
-        "name": "Jurassic Quest | Huntington Convention Center  | Cleveland, OH 2026",
-        "url": "https://www.universe.com/events/jurassic-quest-huntington-convention-center-cleveland-oh-2026-tickets-2QLJTY?ref=ticketmaster",
+        "name": "Jurassic Quest – Cleveland, OH | Huntington Convention Center",
+        "url": "https://www.universe.com/events/jurassic-quest-cleveland-oh-huntington-convention-center-tickets-2QLJTY?ref=ticketmaster",
         "date": "2026-10-30",
         "time": "13:00:00",
         "venueName": "Huntington Convention Center of Cleveland",
@@ -738,8 +721,8 @@
       },
       {
         "id": "LvZ18QJPlW536jPeAw851",
-        "name": "Jurassic Quest | Huntington Convention Center  | Cleveland, OH 2026",
-        "url": "https://www.universe.com/events/jurassic-quest-huntington-convention-center-cleveland-oh-2026-tickets-2QLJTY?ref=ticketmaster",
+        "name": "Jurassic Quest – Cleveland, OH | Huntington Convention Center",
+        "url": "https://www.universe.com/events/jurassic-quest-cleveland-oh-huntington-convention-center-tickets-2QLJTY?ref=ticketmaster",
         "date": "2026-10-30",
         "time": "15:00:00",
         "venueName": "Huntington Convention Center of Cleveland",
@@ -754,8 +737,8 @@
       },
       {
         "id": "LvZ18QJPlW536jPeAw855",
-        "name": "Jurassic Quest | Huntington Convention Center  | Cleveland, OH 2026",
-        "url": "https://www.universe.com/events/jurassic-quest-huntington-convention-center-cleveland-oh-2026-tickets-2QLJTY?ref=ticketmaster",
+        "name": "Jurassic Quest – Cleveland, OH | Huntington Convention Center",
+        "url": "https://www.universe.com/events/jurassic-quest-cleveland-oh-huntington-convention-center-tickets-2QLJTY?ref=ticketmaster",
         "date": "2026-10-30",
         "time": "17:00:00",
         "venueName": "Huntington Convention Center of Cleveland",
@@ -770,8 +753,8 @@
       },
       {
         "id": "LvZ18QJPlWuS6kWxbqgRD",
-        "name": "Jurassic Quest | Huntington Convention Center  | Cleveland, OH 2026",
-        "url": "https://www.universe.com/events/jurassic-quest-huntington-convention-center-cleveland-oh-2026-tickets-2QLJTY?ref=ticketmaster",
+        "name": "Jurassic Quest – Cleveland, OH | Huntington Convention Center",
+        "url": "https://www.universe.com/events/jurassic-quest-cleveland-oh-huntington-convention-center-tickets-2QLJTY?ref=ticketmaster",
         "date": "2026-10-31",
         "time": "08:00:00",
         "venueName": "Huntington Convention Center of Cleveland",
@@ -786,8 +769,8 @@
       },
       {
         "id": "LvZ18QJPlWuS6kWxbqgRH",
-        "name": "Jurassic Quest | Huntington Convention Center  | Cleveland, OH 2026",
-        "url": "https://www.universe.com/events/jurassic-quest-huntington-convention-center-cleveland-oh-2026-tickets-2QLJTY?ref=ticketmaster",
+        "name": "Jurassic Quest – Cleveland, OH | Huntington Convention Center",
+        "url": "https://www.universe.com/events/jurassic-quest-cleveland-oh-huntington-convention-center-tickets-2QLJTY?ref=ticketmaster",
         "date": "2026-10-31",
         "time": "09:00:00",
         "venueName": "Huntington Convention Center of Cleveland",
@@ -802,8 +785,8 @@
       },
       {
         "id": "LvZ18QJPlWuS6kWxbqgRW",
-        "name": "Jurassic Quest | Huntington Convention Center  | Cleveland, OH 2026",
-        "url": "https://www.universe.com/events/jurassic-quest-huntington-convention-center-cleveland-oh-2026-tickets-2QLJTY?ref=ticketmaster",
+        "name": "Jurassic Quest – Cleveland, OH | Huntington Convention Center",
+        "url": "https://www.universe.com/events/jurassic-quest-cleveland-oh-huntington-convention-center-tickets-2QLJTY?ref=ticketmaster",
         "date": "2026-10-31",
         "time": "12:00:00",
         "venueName": "Huntington Convention Center of Cleveland",
@@ -818,8 +801,8 @@
       },
       {
         "id": "LvZ18QJPlWuS6kWxbqgRX",
-        "name": "Jurassic Quest | Huntington Convention Center  | Cleveland, OH 2026",
-        "url": "https://www.universe.com/events/jurassic-quest-huntington-convention-center-cleveland-oh-2026-tickets-2QLJTY?ref=ticketmaster",
+        "name": "Jurassic Quest – Cleveland, OH | Huntington Convention Center",
+        "url": "https://www.universe.com/events/jurassic-quest-cleveland-oh-huntington-convention-center-tickets-2QLJTY?ref=ticketmaster",
         "date": "2026-10-31",
         "time": "15:00:00",
         "venueName": "Huntington Convention Center of Cleveland",
@@ -834,8 +817,8 @@
       },
       {
         "id": "LvZ18QJPlW536jPeAw858",
-        "name": "Jurassic Quest | Huntington Convention Center  | Cleveland, OH 2026",
-        "url": "https://www.universe.com/events/jurassic-quest-huntington-convention-center-cleveland-oh-2026-tickets-2QLJTY?ref=ticketmaster",
+        "name": "Jurassic Quest – Cleveland, OH | Huntington Convention Center",
+        "url": "https://www.universe.com/events/jurassic-quest-cleveland-oh-huntington-convention-center-tickets-2QLJTY?ref=ticketmaster",
         "date": "2026-11-01",
         "time": "09:00:00",
         "venueName": "Huntington Convention Center of Cleveland",
@@ -850,8 +833,8 @@
       },
       {
         "id": "LvZ18QJPlW536jPeAw85o",
-        "name": "Jurassic Quest | Huntington Convention Center  | Cleveland, OH 2026",
-        "url": "https://www.universe.com/events/jurassic-quest-huntington-convention-center-cleveland-oh-2026-tickets-2QLJTY?ref=ticketmaster",
+        "name": "Jurassic Quest – Cleveland, OH | Huntington Convention Center",
+        "url": "https://www.universe.com/events/jurassic-quest-cleveland-oh-huntington-convention-center-tickets-2QLJTY?ref=ticketmaster",
         "date": "2026-11-01",
         "time": "12:00:00",
         "venueName": "Huntington Convention Center of Cleveland",
@@ -868,7 +851,7 @@
   },
   "colorado": {
     "displayName": "Colorado",
-    "lastUpdated": "2026-08-01T08:03:51.303Z",
+    "lastUpdated": "2026-08-02T08:05:38.111Z",
     "eventCount": 8,
     "events": [
       {
@@ -1003,7 +986,7 @@
   },
   "coloradosprings": {
     "displayName": "Colorado Springs",
-    "lastUpdated": "2026-08-01T08:03:53.021Z",
+    "lastUpdated": "2026-08-02T08:05:40.307Z",
     "eventCount": 1,
     "events": [
       {
@@ -1026,7 +1009,7 @@
   },
   "columbus": {
     "displayName": "Columbus",
-    "lastUpdated": "2026-08-01T08:03:54.887Z",
+    "lastUpdated": "2026-08-02T08:05:42.386Z",
     "eventCount": 1,
     "events": [
       {
@@ -1049,31 +1032,31 @@
   },
   "concord": {
     "displayName": "Concord",
-    "lastUpdated": "2026-08-01T08:03:56.620Z",
+    "lastUpdated": "2026-08-02T08:05:44.331Z",
     "eventCount": 0,
     "events": []
   },
   "connecticut": {
     "displayName": "Connecticut",
-    "lastUpdated": "2026-08-01T08:03:58.419Z",
+    "lastUpdated": "2026-08-02T08:05:46.346Z",
     "eventCount": 0,
     "events": []
   },
   "copenhagen": {
     "displayName": "Copenhagen",
-    "lastUpdated": "2026-08-01T08:04:00.170Z",
+    "lastUpdated": "2026-08-02T08:05:48.247Z",
     "eventCount": 0,
     "events": []
   },
   "cyprus": {
     "displayName": "Cyprus",
-    "lastUpdated": "2026-08-01T08:04:01.874Z",
+    "lastUpdated": "2026-08-02T08:05:50.083Z",
     "eventCount": 0,
     "events": []
   },
   "dallas": {
     "displayName": "Dallas",
-    "lastUpdated": "2026-08-01T08:04:03.788Z",
+    "lastUpdated": "2026-08-02T08:05:52.275Z",
     "eventCount": 4,
     "events": [
       {
@@ -1144,43 +1127,43 @@
   },
   "dammam": {
     "displayName": "Dammam",
-    "lastUpdated": "2026-08-01T08:04:05.493Z",
+    "lastUpdated": "2026-08-02T08:05:54.241Z",
     "eventCount": 0,
     "events": []
   },
   "dayton": {
     "displayName": "Dayton",
-    "lastUpdated": "2026-08-01T08:04:07.217Z",
+    "lastUpdated": "2026-08-02T08:05:56.186Z",
     "eventCount": 0,
     "events": []
   },
   "denver": {
     "displayName": "Denver",
-    "lastUpdated": "2026-08-01T08:04:09.310Z",
+    "lastUpdated": "2026-08-02T08:05:58.621Z",
     "eventCount": 0,
     "events": []
   },
   "detroit": {
     "displayName": "Detroit",
-    "lastUpdated": "2026-08-01T08:04:11.040Z",
+    "lastUpdated": "2026-08-02T08:06:01.030Z",
     "eventCount": 0,
     "events": []
   },
   "dresden": {
     "displayName": "Dresden",
-    "lastUpdated": "2026-08-01T08:04:12.763Z",
+    "lastUpdated": "2026-08-02T08:06:03.025Z",
     "eventCount": 0,
     "events": []
   },
   "dubai": {
     "displayName": "Dubai",
-    "lastUpdated": "2026-08-01T08:04:14.555Z",
+    "lastUpdated": "2026-08-02T08:06:05.297Z",
     "eventCount": 0,
     "events": []
   },
   "dublin": {
     "displayName": "Dublin",
-    "lastUpdated": "2026-08-01T08:04:16.578Z",
+    "lastUpdated": "2026-08-02T08:06:07.355Z",
     "eventCount": 1,
     "events": [
       {
@@ -1203,7 +1186,7 @@
   },
   "dusseldorf": {
     "displayName": "Dusseldorf",
-    "lastUpdated": "2026-08-01T08:04:18.382Z",
+    "lastUpdated": "2026-08-02T08:06:09.331Z",
     "eventCount": 1,
     "events": [
       {
@@ -1226,19 +1209,19 @@
   },
   "edinburgh": {
     "displayName": "Edinburgh",
-    "lastUpdated": "2026-08-01T08:04:20.205Z",
+    "lastUpdated": "2026-08-02T08:06:11.342Z",
     "eventCount": 0,
     "events": []
   },
   "edmonton": {
     "displayName": "Edmonton",
-    "lastUpdated": "2026-08-01T08:04:22.202Z",
+    "lastUpdated": "2026-08-02T08:06:13.390Z",
     "eventCount": 0,
     "events": []
   },
   "elpaso": {
     "displayName": "El Paso",
-    "lastUpdated": "2026-08-01T08:04:24.152Z",
+    "lastUpdated": "2026-08-02T08:06:15.523Z",
     "eventCount": 1,
     "events": [
       {
@@ -1261,91 +1244,43 @@
   },
   "esbjerg": {
     "displayName": "Esbjerg",
-    "lastUpdated": "2026-08-01T08:04:25.891Z",
+    "lastUpdated": "2026-08-02T08:06:17.492Z",
     "eventCount": 0,
     "events": []
   },
   "florence": {
     "displayName": "Florence",
-    "lastUpdated": "2026-08-01T08:04:28.177Z",
+    "lastUpdated": "2026-08-02T08:06:19.448Z",
     "eventCount": 0,
     "events": []
   },
   "florida": {
     "displayName": "Florida",
-    "lastUpdated": "2026-08-01T08:04:30.400Z",
+    "lastUpdated": "2026-08-02T08:06:21.926Z",
     "eventCount": 10,
     "events": [
-      {
-        "id": "LvZ18QLf2Q7I54OZvZ-E3",
-        "name": "Jurassic Quest | Prime F Osborn Convention Center | Jacksonville, FL 2026",
-        "url": "https://www.universe.com/events/jurassic-quest-prime-f-osborn-convention-center-jacksonville-fl-2026-tickets-NRF612?ref=ticketmaster",
-        "date": "2026-08-01",
-        "time": "08:00:00",
-        "venueName": "Prime Osborn Convention Center",
-        "venueAddress": "1000 Water Street",
-        "venueCity": "Jacksonville",
-        "venueCountry": "United States Of America",
-        "segment": "Miscellaneous",
-        "genre": "Fairs & Festivals",
-        "subGenre": "Fairs & Festivals",
-        "image": "https://s1.ticketm.net/dam/a/4c2/bac7ae96-6fcc-42ac-882a-fb3843e1f4c2_RETINA_PORTRAIT_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "LvZ18QLf2Q7I54OZvZ-EK",
-        "name": "Jurassic Quest | Prime F Osborn Convention Center | Jacksonville, FL 2026",
-        "url": "https://www.universe.com/events/jurassic-quest-prime-f-osborn-convention-center-jacksonville-fl-2026-tickets-NRF612?ref=ticketmaster",
-        "date": "2026-08-01",
-        "time": "09:00:00",
-        "venueName": "Prime Osborn Convention Center",
-        "venueAddress": "1000 Water Street",
-        "venueCity": "Jacksonville",
-        "venueCountry": "United States Of America",
-        "segment": "Miscellaneous",
-        "genre": "Fairs & Festivals",
-        "subGenre": "Fairs & Festivals",
-        "image": "https://s1.ticketm.net/dam/a/4c2/bac7ae96-6fcc-42ac-882a-fb3843e1f4c2_RETINA_PORTRAIT_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "LvZ18QLf2Q7I54OZvZ-Ef",
-        "name": "Jurassic Quest | Prime F Osborn Convention Center | Jacksonville, FL 2026",
-        "url": "https://www.universe.com/events/jurassic-quest-prime-f-osborn-convention-center-jacksonville-fl-2026-tickets-NRF612?ref=ticketmaster",
-        "date": "2026-08-01",
-        "time": "12:00:00",
-        "venueName": "Prime Osborn Convention Center",
-        "venueAddress": "1000 Water Street",
-        "venueCity": "Jacksonville",
-        "venueCountry": "United States Of America",
-        "segment": "Miscellaneous",
-        "genre": "Fairs & Festivals",
-        "subGenre": "Fairs & Festivals",
-        "image": "https://s1.ticketm.net/dam/a/4c2/bac7ae96-6fcc-42ac-882a-fb3843e1f4c2_RETINA_PORTRAIT_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "LvZ18QLf2Q7I54OZvZ-E4",
-        "name": "Jurassic Quest | Prime F Osborn Convention Center | Jacksonville, FL 2026",
-        "url": "https://www.universe.com/events/jurassic-quest-prime-f-osborn-convention-center-jacksonville-fl-2026-tickets-NRF612?ref=ticketmaster",
-        "date": "2026-08-01",
-        "time": "15:00:00",
-        "venueName": "Prime Osborn Convention Center",
-        "venueAddress": "1000 Water Street",
-        "venueCity": "Jacksonville",
-        "venueCountry": "United States Of America",
-        "segment": "Miscellaneous",
-        "genre": "Fairs & Festivals",
-        "subGenre": "Fairs & Festivals",
-        "image": "https://s1.ticketm.net/dam/a/4c2/bac7ae96-6fcc-42ac-882a-fb3843e1f4c2_RETINA_PORTRAIT_16_9.jpg",
-        "priceRange": null
-      },
       {
         "id": "LvZ18QLf2QFMYpOZvKk17",
         "name": "Jurassic Quest | Prime F Osborn Convention Center | Jacksonville, FL 2026",
         "url": "https://www.universe.com/events/jurassic-quest-prime-f-osborn-convention-center-jacksonville-fl-2026-tickets-NRF612?ref=ticketmaster",
         "date": "2026-08-02",
         "time": "09:00:00",
+        "venueName": "Prime Osborn Convention Center",
+        "venueAddress": "1000 Water Street",
+        "venueCity": "Jacksonville",
+        "venueCountry": "United States Of America",
+        "segment": "Miscellaneous",
+        "genre": "Fairs & Festivals",
+        "subGenre": "Fairs & Festivals",
+        "image": "https://s1.ticketm.net/dam/a/4c2/bac7ae96-6fcc-42ac-882a-fb3843e1f4c2_RETINA_PORTRAIT_16_9.jpg",
+        "priceRange": null
+      },
+      {
+        "id": "LvZ18QLf2QFMYpOZvKk1A",
+        "name": "Jurassic Quest | Prime F Osborn Convention Center | Jacksonville, FL 2026",
+        "url": "https://www.universe.com/events/jurassic-quest-prime-f-osborn-convention-center-jacksonville-fl-2026-tickets-NRF612?ref=ticketmaster",
+        "date": "2026-08-02",
+        "time": "12:00:00",
         "venueName": "Prime Osborn Convention Center",
         "venueAddress": "1000 Water Street",
         "venueCity": "Jacksonville",
@@ -1435,12 +1370,60 @@
         "subGenre": "Fairs & Festivals",
         "image": "https://s1.ticketm.net/dam/a/4c2/bac7ae96-6fcc-42ac-882a-fb3843e1f4c2_RETINA_PORTRAIT_16_9.jpg",
         "priceRange": null
+      },
+      {
+        "id": "LvZ18Qx5tbOj--YZvnRFo",
+        "name": "Jurassic Quest | Miami-Dade County Fair & Expo | Miami, FL 2026",
+        "url": "https://www.universe.com/events/jurassic-quest-miami-dade-county-fair-expo-miami-fl-2026-tickets-K3Y0T5?ref=ticketmaster",
+        "date": "2026-09-12",
+        "time": "09:00:00",
+        "venueName": "Miami Dade Fair Expo Center",
+        "venueAddress": "10901 Coral Way (SW 24 St.)",
+        "venueCity": "Miami",
+        "venueCountry": "United States Of America",
+        "segment": "Miscellaneous",
+        "genre": "Fairs & Festivals",
+        "subGenre": "Fairs & Festivals",
+        "image": "https://s1.ticketm.net/dam/a/4c2/bac7ae96-6fcc-42ac-882a-fb3843e1f4c2_RETINA_PORTRAIT_16_9.jpg",
+        "priceRange": null
+      },
+      {
+        "id": "LvZ18Qx5tbOj--YZvnRF3",
+        "name": "Jurassic Quest | Miami-Dade County Fair & Expo | Miami, FL 2026",
+        "url": "https://www.universe.com/events/jurassic-quest-miami-dade-county-fair-expo-miami-fl-2026-tickets-K3Y0T5?ref=ticketmaster",
+        "date": "2026-09-12",
+        "time": "12:00:00",
+        "venueName": "Miami Dade Fair Expo Center",
+        "venueAddress": "10901 Coral Way (SW 24 St.)",
+        "venueCity": "Miami",
+        "venueCountry": "United States Of America",
+        "segment": "Miscellaneous",
+        "genre": "Fairs & Festivals",
+        "subGenre": "Fairs & Festivals",
+        "image": "https://s1.ticketm.net/dam/a/4c2/bac7ae96-6fcc-42ac-882a-fb3843e1f4c2_RETINA_PORTRAIT_16_9.jpg",
+        "priceRange": null
+      },
+      {
+        "id": "LvZ18Qx5tbOj--YZvnRFK",
+        "name": "Jurassic Quest | Miami-Dade County Fair & Expo | Miami, FL 2026",
+        "url": "https://www.universe.com/events/jurassic-quest-miami-dade-county-fair-expo-miami-fl-2026-tickets-K3Y0T5?ref=ticketmaster",
+        "date": "2026-09-12",
+        "time": "15:00:00",
+        "venueName": "Miami Dade Fair Expo Center",
+        "venueAddress": "10901 Coral Way (SW 24 St.)",
+        "venueCity": "Miami",
+        "venueCountry": "United States Of America",
+        "segment": "Miscellaneous",
+        "genre": "Fairs & Festivals",
+        "subGenre": "Fairs & Festivals",
+        "image": "https://s1.ticketm.net/dam/a/4c2/bac7ae96-6fcc-42ac-882a-fb3843e1f4c2_RETINA_PORTRAIT_16_9.jpg",
+        "priceRange": null
       }
     ]
   },
   "fortworth": {
     "displayName": "Fort Worth",
-    "lastUpdated": "2026-08-01T08:04:32.244Z",
+    "lastUpdated": "2026-08-02T08:06:24.036Z",
     "eventCount": 4,
     "events": [
       {
@@ -1511,37 +1494,37 @@
   },
   "france": {
     "displayName": "France",
-    "lastUpdated": "2026-08-01T08:04:33.931Z",
+    "lastUpdated": "2026-08-02T08:06:25.877Z",
     "eventCount": 0,
     "events": []
   },
   "frankfurt": {
     "displayName": "Frankfurt",
-    "lastUpdated": "2026-08-01T08:04:35.744Z",
+    "lastUpdated": "2026-08-02T08:06:27.724Z",
     "eventCount": 0,
     "events": []
   },
   "fresno": {
     "displayName": "Fresno",
-    "lastUpdated": "2026-08-01T08:04:37.629Z",
+    "lastUpdated": "2026-08-02T08:06:29.767Z",
     "eventCount": 0,
     "events": []
   },
   "geneva": {
     "displayName": "Geneva",
-    "lastUpdated": "2026-08-01T08:04:39.320Z",
+    "lastUpdated": "2026-08-02T08:06:31.560Z",
     "eventCount": 0,
     "events": []
   },
   "genoa": {
     "displayName": "Genoa",
-    "lastUpdated": "2026-08-01T08:04:41.084Z",
+    "lastUpdated": "2026-08-02T08:06:33.480Z",
     "eventCount": 0,
     "events": []
   },
   "glasgow": {
     "displayName": "Glasgow",
-    "lastUpdated": "2026-08-01T08:04:43.297Z",
+    "lastUpdated": "2026-08-02T08:06:35.821Z",
     "eventCount": 3,
     "events": [
       {
@@ -1596,19 +1579,19 @@
   },
   "halifax": {
     "displayName": "Halifax",
-    "lastUpdated": "2026-08-01T08:04:44.988Z",
+    "lastUpdated": "2026-08-02T08:06:37.705Z",
     "eventCount": 0,
     "events": []
   },
   "hamburg": {
     "displayName": "Hamburg",
-    "lastUpdated": "2026-08-01T08:04:46.729Z",
+    "lastUpdated": "2026-08-02T08:06:39.688Z",
     "eventCount": 0,
     "events": []
   },
   "hamilton": {
     "displayName": "Hamilton",
-    "lastUpdated": "2026-08-01T08:04:48.412Z",
+    "lastUpdated": "2026-08-02T08:06:41.686Z",
     "eventCount": 1,
     "events": [
       {
@@ -1631,19 +1614,19 @@
   },
   "hannover": {
     "displayName": "Hannover",
-    "lastUpdated": "2026-08-01T08:04:50.115Z",
+    "lastUpdated": "2026-08-02T08:06:43.665Z",
     "eventCount": 0,
     "events": []
   },
   "hartford": {
     "displayName": "Hartford",
-    "lastUpdated": "2026-08-01T08:04:51.887Z",
+    "lastUpdated": "2026-08-02T08:06:45.627Z",
     "eventCount": 0,
     "events": []
   },
   "helsinki": {
     "displayName": "Helsinki",
-    "lastUpdated": "2026-08-01T08:04:53.931Z",
+    "lastUpdated": "2026-08-02T08:06:47.567Z",
     "eventCount": 3,
     "events": [
       {
@@ -1698,37 +1681,37 @@
   },
   "hongkong": {
     "displayName": "Hong Kong",
-    "lastUpdated": "2026-08-01T08:04:55.512Z",
+    "lastUpdated": "2026-08-02T08:06:49.414Z",
     "eventCount": 0,
     "events": []
   },
   "honolulu": {
     "displayName": "Honolulu",
-    "lastUpdated": "2026-08-01T08:04:57.442Z",
+    "lastUpdated": "2026-08-02T08:06:51.350Z",
     "eventCount": 3,
     "events": [
-      {
-        "id": "vvG1IZ_6BlcbsP",
-        "name": "2026 Hawaii Aviation Expo",
-        "url": "https://www.ticketmaster.com/2026-hawaii-aviation-expo-honolulu-hawaii-08-01-2026/event/0A00647EABB58C65",
-        "date": "2026-08-01",
-        "time": "09:00:00",
-        "venueName": " Blaisdell Hawaii Suites",
-        "venueAddress": "777 Ward Ave",
-        "venueCity": "Honolulu",
-        "venueCountry": "United States Of America",
-        "segment": "Miscellaneous",
-        "genre": "Lecture/Seminar",
-        "subGenre": "Lecture/Seminar",
-        "image": "https://s1.ticketm.net/dam/e/079/63dc8e26-5c58-4b1f-b785-f51591eb9079_RETINA_PORTRAIT_16_9.jpg",
-        "priceRange": null
-      },
       {
         "id": "vvG1IZ_2lsQHEX",
         "name": "Spirit Expo - Saturday",
         "url": "https://www.ticketmaster.com/spirit-expo-saturday-honolulu-hawaii-08-08-2026/event/0A0064FAF16BC9FE",
         "date": "2026-08-08",
         "time": "11:00:00",
+        "venueName": " Blaisdell Hawaii Suites",
+        "venueAddress": "777 Ward Ave",
+        "venueCity": "Honolulu",
+        "venueCountry": "United States Of America",
+        "segment": "Miscellaneous",
+        "genre": "Hobby/Special Interest Expos",
+        "subGenre": "Hobby/Special Interest Expos",
+        "image": "https://s1.ticketm.net/dam/c/b89/718f87fe-8471-4d9c-a8c4-910da3eb2b89_105871_RETINA_PORTRAIT_16_9.jpg",
+        "priceRange": null
+      },
+      {
+        "id": "vvG1IZ_2XwEq8r",
+        "name": "Spirit Expo - 2 Day Pass",
+        "url": "https://www.ticketmaster.com/spirit-expo-2-day-pass-honolulu-hawaii-08-08-2026/event/0A0064FFB29DD41E",
+        "date": "2026-08-08",
+        "time": null,
         "venueName": " Blaisdell Hawaii Suites",
         "venueAddress": "777 Ward Ave",
         "venueCity": "Honolulu",
@@ -1759,7 +1742,7 @@
   },
   "houston": {
     "displayName": "Houston",
-    "lastUpdated": "2026-08-01T08:04:59.275Z",
+    "lastUpdated": "2026-08-02T08:06:53.596Z",
     "eventCount": 2,
     "events": [
       {
@@ -1798,85 +1781,21 @@
   },
   "indianapolis": {
     "displayName": "Indianapolis",
-    "lastUpdated": "2026-08-01T08:05:01.133Z",
+    "lastUpdated": "2026-08-02T08:06:55.830Z",
     "eventCount": 0,
     "events": []
   },
   "istanbul": {
     "displayName": "Istanbul",
-    "lastUpdated": "2026-08-01T08:05:02.920Z",
+    "lastUpdated": "2026-08-02T08:06:57.711Z",
     "eventCount": 0,
     "events": []
   },
   "jacksonville": {
     "displayName": "Jacksonville",
-    "lastUpdated": "2026-08-01T08:05:04.786Z",
-    "eventCount": 7,
+    "lastUpdated": "2026-08-02T08:06:59.857Z",
+    "eventCount": 3,
     "events": [
-      {
-        "id": "LvZ18QLf2Q7I54OZvZ-E3",
-        "name": "Jurassic Quest | Prime F Osborn Convention Center | Jacksonville, FL 2026",
-        "url": "https://www.universe.com/events/jurassic-quest-prime-f-osborn-convention-center-jacksonville-fl-2026-tickets-NRF612?ref=ticketmaster",
-        "date": "2026-08-01",
-        "time": "08:00:00",
-        "venueName": "Prime Osborn Convention Center",
-        "venueAddress": "1000 Water Street",
-        "venueCity": "Jacksonville",
-        "venueCountry": "United States Of America",
-        "segment": "Miscellaneous",
-        "genre": "Fairs & Festivals",
-        "subGenre": "Fairs & Festivals",
-        "image": "https://s1.ticketm.net/dam/a/4c2/bac7ae96-6fcc-42ac-882a-fb3843e1f4c2_RETINA_PORTRAIT_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "LvZ18QLf2Q7I54OZvZ-EK",
-        "name": "Jurassic Quest | Prime F Osborn Convention Center | Jacksonville, FL 2026",
-        "url": "https://www.universe.com/events/jurassic-quest-prime-f-osborn-convention-center-jacksonville-fl-2026-tickets-NRF612?ref=ticketmaster",
-        "date": "2026-08-01",
-        "time": "09:00:00",
-        "venueName": "Prime Osborn Convention Center",
-        "venueAddress": "1000 Water Street",
-        "venueCity": "Jacksonville",
-        "venueCountry": "United States Of America",
-        "segment": "Miscellaneous",
-        "genre": "Fairs & Festivals",
-        "subGenre": "Fairs & Festivals",
-        "image": "https://s1.ticketm.net/dam/a/4c2/bac7ae96-6fcc-42ac-882a-fb3843e1f4c2_RETINA_PORTRAIT_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "LvZ18QLf2Q7I54OZvZ-Ef",
-        "name": "Jurassic Quest | Prime F Osborn Convention Center | Jacksonville, FL 2026",
-        "url": "https://www.universe.com/events/jurassic-quest-prime-f-osborn-convention-center-jacksonville-fl-2026-tickets-NRF612?ref=ticketmaster",
-        "date": "2026-08-01",
-        "time": "12:00:00",
-        "venueName": "Prime Osborn Convention Center",
-        "venueAddress": "1000 Water Street",
-        "venueCity": "Jacksonville",
-        "venueCountry": "United States Of America",
-        "segment": "Miscellaneous",
-        "genre": "Fairs & Festivals",
-        "subGenre": "Fairs & Festivals",
-        "image": "https://s1.ticketm.net/dam/a/4c2/bac7ae96-6fcc-42ac-882a-fb3843e1f4c2_RETINA_PORTRAIT_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "LvZ18QLf2Q7I54OZvZ-E4",
-        "name": "Jurassic Quest | Prime F Osborn Convention Center | Jacksonville, FL 2026",
-        "url": "https://www.universe.com/events/jurassic-quest-prime-f-osborn-convention-center-jacksonville-fl-2026-tickets-NRF612?ref=ticketmaster",
-        "date": "2026-08-01",
-        "time": "15:00:00",
-        "venueName": "Prime Osborn Convention Center",
-        "venueAddress": "1000 Water Street",
-        "venueCity": "Jacksonville",
-        "venueCountry": "United States Of America",
-        "segment": "Miscellaneous",
-        "genre": "Fairs & Festivals",
-        "subGenre": "Fairs & Festivals",
-        "image": "https://s1.ticketm.net/dam/a/4c2/bac7ae96-6fcc-42ac-882a-fb3843e1f4c2_RETINA_PORTRAIT_16_9.jpg",
-        "priceRange": null
-      },
       {
         "id": "LvZ18QLf2QFMYpOZvKk17",
         "name": "Jurassic Quest | Prime F Osborn Convention Center | Jacksonville, FL 2026",
@@ -1929,13 +1848,13 @@
   },
   "jeddah": {
     "displayName": "Jeddah",
-    "lastUpdated": "2026-08-01T08:05:06.691Z",
+    "lastUpdated": "2026-08-02T08:07:02.004Z",
     "eventCount": 0,
     "events": []
   },
   "kansascity": {
     "displayName": "Kansas City",
-    "lastUpdated": "2026-08-01T08:05:08.469Z",
+    "lastUpdated": "2026-08-02T08:07:03.901Z",
     "eventCount": 1,
     "events": [
       {
@@ -1958,19 +1877,19 @@
   },
   "kokoszki": {
     "displayName": "Kokoszki",
-    "lastUpdated": "2026-08-01T08:05:10.336Z",
+    "lastUpdated": "2026-08-02T08:07:05.980Z",
     "eventCount": 0,
     "events": []
   },
   "kuwait": {
     "displayName": "Kuwait",
-    "lastUpdated": "2026-08-01T08:05:11.873Z",
+    "lastUpdated": "2026-08-02T08:07:07.749Z",
     "eventCount": 0,
     "events": []
   },
   "lasvegas": {
     "displayName": "Las Vegas",
-    "lastUpdated": "2026-08-01T08:05:13.738Z",
+    "lastUpdated": "2026-08-02T08:07:09.894Z",
     "eventCount": 1,
     "events": [
       {
@@ -1993,37 +1912,37 @@
   },
   "lebanon": {
     "displayName": "Lebanon",
-    "lastUpdated": "2026-08-01T08:05:15.298Z",
+    "lastUpdated": "2026-08-02T08:07:11.671Z",
     "eventCount": 0,
     "events": []
   },
   "leeds": {
     "displayName": "Leeds",
-    "lastUpdated": "2026-08-01T08:05:17.006Z",
+    "lastUpdated": "2026-08-02T08:07:13.728Z",
     "eventCount": 0,
     "events": []
   },
   "leipzig": {
     "displayName": "Leipzig",
-    "lastUpdated": "2026-08-01T08:05:18.935Z",
+    "lastUpdated": "2026-08-02T08:07:16.045Z",
     "eventCount": 0,
     "events": []
   },
   "lisbon": {
     "displayName": "Lisbon",
-    "lastUpdated": "2026-08-01T08:05:20.642Z",
+    "lastUpdated": "2026-08-02T08:07:18.106Z",
     "eventCount": 0,
     "events": []
   },
   "littlerock": {
     "displayName": "Little Rock",
-    "lastUpdated": "2026-08-01T08:05:22.430Z",
+    "lastUpdated": "2026-08-02T08:07:20.169Z",
     "eventCount": 9,
     "events": [
       {
         "id": "LvZ18QJPR_EC4k2EiPygm",
-        "name": "Jurassic Quest | Statehouse Convention Center | Little Rock, AR 2026",
-        "url": "https://www.universe.com/events/jurassic-quest-statehouse-convention-center-little-rock-ar-2026-tickets-ZTJ8RX?ref=ticketmaster",
+        "name": "Jurassic Quest – Little Rock, AR | Statehouse Convention Center",
+        "url": "https://www.universe.com/events/jurassic-quest-little-rock-ar-statehouse-convention-center-tickets-ZTJ8RX?ref=ticketmaster",
         "date": "2026-11-06",
         "time": "13:00:00",
         "venueName": "Statehouse Convention Center",
@@ -2038,8 +1957,8 @@
       },
       {
         "id": "LvZ18QJPR_EC4k2EiPygR",
-        "name": "Jurassic Quest | Statehouse Convention Center | Little Rock, AR 2026",
-        "url": "https://www.universe.com/events/jurassic-quest-statehouse-convention-center-little-rock-ar-2026-tickets-ZTJ8RX?ref=ticketmaster",
+        "name": "Jurassic Quest – Little Rock, AR | Statehouse Convention Center",
+        "url": "https://www.universe.com/events/jurassic-quest-little-rock-ar-statehouse-convention-center-tickets-ZTJ8RX?ref=ticketmaster",
         "date": "2026-11-06",
         "time": "15:00:00",
         "venueName": "Statehouse Convention Center",
@@ -2054,8 +1973,8 @@
       },
       {
         "id": "LvZ18QJPR_EC4k2EiPygY",
-        "name": "Jurassic Quest | Statehouse Convention Center | Little Rock, AR 2026",
-        "url": "https://www.universe.com/events/jurassic-quest-statehouse-convention-center-little-rock-ar-2026-tickets-ZTJ8RX?ref=ticketmaster",
+        "name": "Jurassic Quest – Little Rock, AR | Statehouse Convention Center",
+        "url": "https://www.universe.com/events/jurassic-quest-little-rock-ar-statehouse-convention-center-tickets-ZTJ8RX?ref=ticketmaster",
         "date": "2026-11-06",
         "time": "17:00:00",
         "venueName": "Statehouse Convention Center",
@@ -2070,8 +1989,8 @@
       },
       {
         "id": "LvZ18QJPR_RVDlcLDYPMP",
-        "name": "Jurassic Quest | Statehouse Convention Center | Little Rock, AR 2026",
-        "url": "https://www.universe.com/events/jurassic-quest-statehouse-convention-center-little-rock-ar-2026-tickets-ZTJ8RX?ref=ticketmaster",
+        "name": "Jurassic Quest – Little Rock, AR | Statehouse Convention Center",
+        "url": "https://www.universe.com/events/jurassic-quest-little-rock-ar-statehouse-convention-center-tickets-ZTJ8RX?ref=ticketmaster",
         "date": "2026-11-07",
         "time": "08:00:00",
         "venueName": "Statehouse Convention Center",
@@ -2086,8 +2005,8 @@
       },
       {
         "id": "LvZ18QJPR_RVDlcLDYPMJ",
-        "name": "Jurassic Quest | Statehouse Convention Center | Little Rock, AR 2026",
-        "url": "https://www.universe.com/events/jurassic-quest-statehouse-convention-center-little-rock-ar-2026-tickets-ZTJ8RX?ref=ticketmaster",
+        "name": "Jurassic Quest – Little Rock, AR | Statehouse Convention Center",
+        "url": "https://www.universe.com/events/jurassic-quest-little-rock-ar-statehouse-convention-center-tickets-ZTJ8RX?ref=ticketmaster",
         "date": "2026-11-07",
         "time": "09:00:00",
         "venueName": "Statehouse Convention Center",
@@ -2102,8 +2021,8 @@
       },
       {
         "id": "LvZ18QJPR_RVDlcLDYPME",
-        "name": "Jurassic Quest | Statehouse Convention Center | Little Rock, AR 2026",
-        "url": "https://www.universe.com/events/jurassic-quest-statehouse-convention-center-little-rock-ar-2026-tickets-ZTJ8RX?ref=ticketmaster",
+        "name": "Jurassic Quest – Little Rock, AR | Statehouse Convention Center",
+        "url": "https://www.universe.com/events/jurassic-quest-little-rock-ar-statehouse-convention-center-tickets-ZTJ8RX?ref=ticketmaster",
         "date": "2026-11-07",
         "time": "12:00:00",
         "venueName": "Statehouse Convention Center",
@@ -2118,8 +2037,8 @@
       },
       {
         "id": "LvZ18QJPR_RVDlcLDYPMI",
-        "name": "Jurassic Quest | Statehouse Convention Center | Little Rock, AR 2026",
-        "url": "https://www.universe.com/events/jurassic-quest-statehouse-convention-center-little-rock-ar-2026-tickets-ZTJ8RX?ref=ticketmaster",
+        "name": "Jurassic Quest – Little Rock, AR | Statehouse Convention Center",
+        "url": "https://www.universe.com/events/jurassic-quest-little-rock-ar-statehouse-convention-center-tickets-ZTJ8RX?ref=ticketmaster",
         "date": "2026-11-07",
         "time": "15:00:00",
         "venueName": "Statehouse Convention Center",
@@ -2134,8 +2053,8 @@
       },
       {
         "id": "LvZ18QJPR_Iyf9foEMihs",
-        "name": "Jurassic Quest | Statehouse Convention Center | Little Rock, AR 2026",
-        "url": "https://www.universe.com/events/jurassic-quest-statehouse-convention-center-little-rock-ar-2026-tickets-ZTJ8RX?ref=ticketmaster",
+        "name": "Jurassic Quest – Little Rock, AR | Statehouse Convention Center",
+        "url": "https://www.universe.com/events/jurassic-quest-little-rock-ar-statehouse-convention-center-tickets-ZTJ8RX?ref=ticketmaster",
         "date": "2026-11-08",
         "time": "09:00:00",
         "venueName": "Statehouse Convention Center",
@@ -2150,8 +2069,8 @@
       },
       {
         "id": "LvZ18QJPR_Iyf9foEMihw",
-        "name": "Jurassic Quest | Statehouse Convention Center | Little Rock, AR 2026",
-        "url": "https://www.universe.com/events/jurassic-quest-statehouse-convention-center-little-rock-ar-2026-tickets-ZTJ8RX?ref=ticketmaster",
+        "name": "Jurassic Quest – Little Rock, AR | Statehouse Convention Center",
+        "url": "https://www.universe.com/events/jurassic-quest-little-rock-ar-statehouse-convention-center-tickets-ZTJ8RX?ref=ticketmaster",
         "date": "2026-11-08",
         "time": "12:00:00",
         "venueName": "Statehouse Convention Center",
@@ -2168,13 +2087,13 @@
   },
   "liverpool": {
     "displayName": "Liverpool",
-    "lastUpdated": "2026-08-01T08:05:24.135Z",
+    "lastUpdated": "2026-08-02T08:07:22.130Z",
     "eventCount": 0,
     "events": []
   },
   "london": {
     "displayName": "London",
-    "lastUpdated": "2026-08-01T08:05:26.181Z",
+    "lastUpdated": "2026-08-02T08:07:24.446Z",
     "eventCount": 3,
     "events": [
       {
@@ -2229,13 +2148,13 @@
   },
   "longbeach": {
     "displayName": "Long Beach",
-    "lastUpdated": "2026-08-01T08:05:28.129Z",
+    "lastUpdated": "2026-08-02T08:07:26.521Z",
     "eventCount": 0,
     "events": []
   },
   "losangeles": {
     "displayName": "Los Angeles",
-    "lastUpdated": "2026-08-01T08:05:30.119Z",
+    "lastUpdated": "2026-08-02T08:07:28.643Z",
     "eventCount": 5,
     "events": [
       {
@@ -2322,25 +2241,25 @@
   },
   "louisville": {
     "displayName": "Louisville",
-    "lastUpdated": "2026-08-01T08:05:32.283Z",
+    "lastUpdated": "2026-08-02T08:07:31.430Z",
     "eventCount": 0,
     "events": []
   },
   "luxembourgcity": {
     "displayName": "Luxembourg City",
-    "lastUpdated": "2026-08-01T08:05:33.957Z",
+    "lastUpdated": "2026-08-02T08:07:33.241Z",
     "eventCount": 0,
     "events": []
   },
   "lyon": {
     "displayName": "Lyon",
-    "lastUpdated": "2026-08-01T08:05:35.677Z",
+    "lastUpdated": "2026-08-02T08:07:35.121Z",
     "eventCount": 0,
     "events": []
   },
   "madrid": {
     "displayName": "Madrid",
-    "lastUpdated": "2026-08-01T08:05:37.589Z",
+    "lastUpdated": "2026-08-02T08:07:37.116Z",
     "eventCount": 3,
     "events": [
       {
@@ -2395,13 +2314,13 @@
   },
   "malaga": {
     "displayName": "Malaga",
-    "lastUpdated": "2026-08-01T08:05:39.346Z",
+    "lastUpdated": "2026-08-02T08:07:39.295Z",
     "eventCount": 0,
     "events": []
   },
   "manchester": {
     "displayName": "Manchester",
-    "lastUpdated": "2026-08-01T08:05:41.200Z",
+    "lastUpdated": "2026-08-02T08:07:41.478Z",
     "eventCount": 1,
     "events": [
       {
@@ -2424,19 +2343,19 @@
   },
   "manhattan": {
     "displayName": "Manhattan",
-    "lastUpdated": "2026-08-01T08:05:43.176Z",
+    "lastUpdated": "2026-08-02T08:07:43.532Z",
     "eventCount": 0,
     "events": []
   },
   "marseille": {
     "displayName": "Marseille",
-    "lastUpdated": "2026-08-01T08:05:44.864Z",
+    "lastUpdated": "2026-08-02T08:07:45.390Z",
     "eventCount": 0,
     "events": []
   },
   "massachusetts": {
     "displayName": "Massachusetts",
-    "lastUpdated": "2026-08-01T08:05:46.855Z",
+    "lastUpdated": "2026-08-02T08:07:47.420Z",
     "eventCount": 3,
     "events": [
       {
@@ -2491,7 +2410,7 @@
   },
   "mcallen": {
     "displayName": "Mcallen",
-    "lastUpdated": "2026-08-01T08:05:48.590Z",
+    "lastUpdated": "2026-08-02T08:07:49.508Z",
     "eventCount": 3,
     "events": [
       {
@@ -2546,31 +2465,31 @@
   },
   "meixedo": {
     "displayName": "Meixedo",
-    "lastUpdated": "2026-08-01T08:05:50.229Z",
+    "lastUpdated": "2026-08-02T08:07:51.319Z",
     "eventCount": 0,
     "events": []
   },
   "melbourne": {
     "displayName": "Melbourne",
-    "lastUpdated": "2026-08-01T08:05:51.980Z",
+    "lastUpdated": "2026-08-02T08:07:53.185Z",
     "eventCount": 0,
     "events": []
   },
   "memphis": {
     "displayName": "Memphis",
-    "lastUpdated": "2026-08-01T08:05:53.704Z",
+    "lastUpdated": "2026-08-02T08:07:55.422Z",
     "eventCount": 0,
     "events": []
   },
   "mesa": {
     "displayName": "Mesa",
-    "lastUpdated": "2026-08-01T08:05:55.526Z",
+    "lastUpdated": "2026-08-02T08:07:57.256Z",
     "eventCount": 0,
     "events": []
   },
   "miami": {
     "displayName": "Miami",
-    "lastUpdated": "2026-08-01T08:05:57.858Z",
+    "lastUpdated": "2026-08-02T08:07:59.851Z",
     "eventCount": 10,
     "events": [
       {
@@ -2737,7 +2656,7 @@
   },
   "michigan": {
     "displayName": "Michigan",
-    "lastUpdated": "2026-08-01T08:05:59.702Z",
+    "lastUpdated": "2026-08-02T08:08:01.901Z",
     "eventCount": 1,
     "events": [
       {
@@ -2760,31 +2679,31 @@
   },
   "milan": {
     "displayName": "Milan",
-    "lastUpdated": "2026-08-01T08:06:01.552Z",
+    "lastUpdated": "2026-08-02T08:08:04.016Z",
     "eventCount": 0,
     "events": []
   },
   "milwaukee": {
     "displayName": "Milwaukee",
-    "lastUpdated": "2026-08-01T08:06:03.296Z",
+    "lastUpdated": "2026-08-02T08:08:05.927Z",
     "eventCount": 0,
     "events": []
   },
   "minneapolis": {
     "displayName": "Minneapolis",
-    "lastUpdated": "2026-08-01T08:06:05.326Z",
+    "lastUpdated": "2026-08-02T08:08:08.048Z",
     "eventCount": 0,
     "events": []
   },
   "monaco": {
     "displayName": "Monaco",
-    "lastUpdated": "2026-08-01T08:06:07.016Z",
+    "lastUpdated": "2026-08-02T08:08:09.806Z",
     "eventCount": 0,
     "events": []
   },
   "montreal": {
     "displayName": "Montreal",
-    "lastUpdated": "2026-08-01T08:06:08.899Z",
+    "lastUpdated": "2026-08-02T08:08:11.924Z",
     "eventCount": 3,
     "events": [
       {
@@ -2839,25 +2758,25 @@
   },
   "munich": {
     "displayName": "Munich",
-    "lastUpdated": "2026-08-01T08:06:10.969Z",
+    "lastUpdated": "2026-08-02T08:08:14.011Z",
     "eventCount": 0,
     "events": []
   },
   "naples": {
     "displayName": "Naples",
-    "lastUpdated": "2026-08-01T08:06:12.704Z",
+    "lastUpdated": "2026-08-02T08:08:15.875Z",
     "eventCount": 0,
     "events": []
   },
   "nashville": {
     "displayName": "Nashville",
-    "lastUpdated": "2026-08-01T08:06:14.687Z",
+    "lastUpdated": "2026-08-02T08:08:18.100Z",
     "eventCount": 0,
     "events": []
   },
   "nevada": {
     "displayName": "Nevada",
-    "lastUpdated": "2026-08-01T08:06:16.616Z",
+    "lastUpdated": "2026-08-02T08:08:20.363Z",
     "eventCount": 1,
     "events": [
       {
@@ -2880,7 +2799,7 @@
   },
   "newjersey": {
     "displayName": "New Jersey",
-    "lastUpdated": "2026-08-01T08:06:18.783Z",
+    "lastUpdated": "2026-08-02T08:08:22.664Z",
     "eventCount": 1,
     "events": [
       {
@@ -2903,25 +2822,25 @@
   },
   "neworleans": {
     "displayName": "New Orleans",
-    "lastUpdated": "2026-08-01T08:06:20.615Z",
+    "lastUpdated": "2026-08-02T08:08:24.622Z",
     "eventCount": 0,
     "events": []
   },
   "newyork": {
     "displayName": "New York",
-    "lastUpdated": "2026-08-01T08:06:22.492Z",
+    "lastUpdated": "2026-08-02T08:08:26.882Z",
     "eventCount": 0,
     "events": []
   },
   "nice": {
     "displayName": "Nice",
-    "lastUpdated": "2026-08-01T08:06:24.214Z",
+    "lastUpdated": "2026-08-02T08:08:28.864Z",
     "eventCount": 0,
     "events": []
   },
   "northcarolina": {
     "displayName": "North Carolina",
-    "lastUpdated": "2026-08-01T08:06:26.091Z",
+    "lastUpdated": "2026-08-02T08:08:31.342Z",
     "eventCount": 4,
     "events": [
       {
@@ -2992,19 +2911,19 @@
   },
   "nuremberg": {
     "displayName": "Nuremberg",
-    "lastUpdated": "2026-08-01T08:06:27.882Z",
+    "lastUpdated": "2026-08-02T08:08:33.206Z",
     "eventCount": 0,
     "events": []
   },
   "oklahomacity": {
     "displayName": "Oklahoma City",
-    "lastUpdated": "2026-08-01T08:06:29.728Z",
+    "lastUpdated": "2026-08-02T08:08:35.221Z",
     "eventCount": 0,
     "events": []
   },
   "omaha": {
     "displayName": "Omaha",
-    "lastUpdated": "2026-08-01T08:06:31.546Z",
+    "lastUpdated": "2026-08-02T08:08:37.286Z",
     "eventCount": 3,
     "events": [
       {
@@ -3059,13 +2978,13 @@
   },
   "oman": {
     "displayName": "Oman",
-    "lastUpdated": "2026-08-01T08:06:33.141Z",
+    "lastUpdated": "2026-08-02T08:08:39.126Z",
     "eventCount": 0,
     "events": []
   },
   "oregon": {
     "displayName": "Oregon",
-    "lastUpdated": "2026-08-01T08:06:34.957Z",
+    "lastUpdated": "2026-08-02T08:08:41.255Z",
     "eventCount": 10,
     "events": [
       {
@@ -3086,8 +3005,8 @@
       },
       {
         "id": "LvZ18QJIvqY9txwNkcxqi",
-        "name": "Jurassic Quest | Oregon State Fair and Expo Center | Salem, OR 2026",
-        "url": "https://www.universe.com/events/jurassic-quest-oregon-state-fair-and-expo-center-salem-or-2026-tickets-FTNL92?ref=ticketmaster",
+        "name": "Jurassic Quest – Salem, OR | Oregon State Fair and Expo Center",
+        "url": "https://www.universe.com/events/jurassic-quest-salem-or-oregon-state-fair-and-expo-center-tickets-FTNL92?ref=ticketmaster",
         "date": "2026-11-06",
         "time": "13:00:00",
         "venueName": "Oregon State Fair & Exposition Center",
@@ -3102,8 +3021,8 @@
       },
       {
         "id": "LvZ18QJIvqY9txwNkcxqc",
-        "name": "Jurassic Quest | Oregon State Fair and Expo Center | Salem, OR 2026",
-        "url": "https://www.universe.com/events/jurassic-quest-oregon-state-fair-and-expo-center-salem-or-2026-tickets-FTNL92?ref=ticketmaster",
+        "name": "Jurassic Quest – Salem, OR | Oregon State Fair and Expo Center",
+        "url": "https://www.universe.com/events/jurassic-quest-salem-or-oregon-state-fair-and-expo-center-tickets-FTNL92?ref=ticketmaster",
         "date": "2026-11-06",
         "time": "15:00:00",
         "venueName": "Oregon State Fair & Exposition Center",
@@ -3118,8 +3037,8 @@
       },
       {
         "id": "LvZ18QJIvqY9txwNkcxqm",
-        "name": "Jurassic Quest | Oregon State Fair and Expo Center | Salem, OR 2026",
-        "url": "https://www.universe.com/events/jurassic-quest-oregon-state-fair-and-expo-center-salem-or-2026-tickets-FTNL92?ref=ticketmaster",
+        "name": "Jurassic Quest – Salem, OR | Oregon State Fair and Expo Center",
+        "url": "https://www.universe.com/events/jurassic-quest-salem-or-oregon-state-fair-and-expo-center-tickets-FTNL92?ref=ticketmaster",
         "date": "2026-11-06",
         "time": "17:00:00",
         "venueName": "Oregon State Fair & Exposition Center",
@@ -3134,8 +3053,8 @@
       },
       {
         "id": "LvZ18QJIvqMUYLqD6qaEK",
-        "name": "Jurassic Quest | Oregon State Fair and Expo Center | Salem, OR 2026",
-        "url": "https://www.universe.com/events/jurassic-quest-oregon-state-fair-and-expo-center-salem-or-2026-tickets-FTNL92?ref=ticketmaster",
+        "name": "Jurassic Quest – Salem, OR | Oregon State Fair and Expo Center",
+        "url": "https://www.universe.com/events/jurassic-quest-salem-or-oregon-state-fair-and-expo-center-tickets-FTNL92?ref=ticketmaster",
         "date": "2026-11-07",
         "time": "08:00:00",
         "venueName": "Oregon State Fair & Exposition Center",
@@ -3150,8 +3069,8 @@
       },
       {
         "id": "LvZ18QJIvqMUYLqD6qaEf",
-        "name": "Jurassic Quest | Oregon State Fair and Expo Center | Salem, OR 2026",
-        "url": "https://www.universe.com/events/jurassic-quest-oregon-state-fair-and-expo-center-salem-or-2026-tickets-FTNL92?ref=ticketmaster",
+        "name": "Jurassic Quest – Salem, OR | Oregon State Fair and Expo Center",
+        "url": "https://www.universe.com/events/jurassic-quest-salem-or-oregon-state-fair-and-expo-center-tickets-FTNL92?ref=ticketmaster",
         "date": "2026-11-07",
         "time": "09:00:00",
         "venueName": "Oregon State Fair & Exposition Center",
@@ -3166,8 +3085,8 @@
       },
       {
         "id": "LvZ18QJIvqMUYLqD6qaE4",
-        "name": "Jurassic Quest | Oregon State Fair and Expo Center | Salem, OR 2026",
-        "url": "https://www.universe.com/events/jurassic-quest-oregon-state-fair-and-expo-center-salem-or-2026-tickets-FTNL92?ref=ticketmaster",
+        "name": "Jurassic Quest – Salem, OR | Oregon State Fair and Expo Center",
+        "url": "https://www.universe.com/events/jurassic-quest-salem-or-oregon-state-fair-and-expo-center-tickets-FTNL92?ref=ticketmaster",
         "date": "2026-11-07",
         "time": "12:00:00",
         "venueName": "Oregon State Fair & Exposition Center",
@@ -3182,8 +3101,8 @@
       },
       {
         "id": "LvZ18QJIvqMUYLqD6qaEp",
-        "name": "Jurassic Quest | Oregon State Fair and Expo Center | Salem, OR 2026",
-        "url": "https://www.universe.com/events/jurassic-quest-oregon-state-fair-and-expo-center-salem-or-2026-tickets-FTNL92?ref=ticketmaster",
+        "name": "Jurassic Quest – Salem, OR | Oregon State Fair and Expo Center",
+        "url": "https://www.universe.com/events/jurassic-quest-salem-or-oregon-state-fair-and-expo-center-tickets-FTNL92?ref=ticketmaster",
         "date": "2026-11-07",
         "time": "15:00:00",
         "venueName": "Oregon State Fair & Exposition Center",
@@ -3198,8 +3117,8 @@
       },
       {
         "id": "LvZ18QJIvqD9gjhkLlhMB",
-        "name": "Jurassic Quest | Oregon State Fair and Expo Center | Salem, OR 2026",
-        "url": "https://www.universe.com/events/jurassic-quest-oregon-state-fair-and-expo-center-salem-or-2026-tickets-FTNL92?ref=ticketmaster",
+        "name": "Jurassic Quest – Salem, OR | Oregon State Fair and Expo Center",
+        "url": "https://www.universe.com/events/jurassic-quest-salem-or-oregon-state-fair-and-expo-center-tickets-FTNL92?ref=ticketmaster",
         "date": "2026-11-08",
         "time": "09:00:00",
         "venueName": "Oregon State Fair & Exposition Center",
@@ -3214,8 +3133,8 @@
       },
       {
         "id": "LvZ18QJIvqD9gjhkLlhMD",
-        "name": "Jurassic Quest | Oregon State Fair and Expo Center | Salem, OR 2026",
-        "url": "https://www.universe.com/events/jurassic-quest-oregon-state-fair-and-expo-center-salem-or-2026-tickets-FTNL92?ref=ticketmaster",
+        "name": "Jurassic Quest – Salem, OR | Oregon State Fair and Expo Center",
+        "url": "https://www.universe.com/events/jurassic-quest-salem-or-oregon-state-fair-and-expo-center-tickets-FTNL92?ref=ticketmaster",
         "date": "2026-11-08",
         "time": "12:00:00",
         "venueName": "Oregon State Fair & Exposition Center",
@@ -3232,7 +3151,7 @@
   },
   "orlando": {
     "displayName": "Orlando",
-    "lastUpdated": "2026-08-01T08:06:36.997Z",
+    "lastUpdated": "2026-08-02T08:08:43.242Z",
     "eventCount": 1,
     "events": [
       {
@@ -3255,37 +3174,37 @@
   },
   "oslo": {
     "displayName": "Oslo",
-    "lastUpdated": "2026-08-01T08:06:38.817Z",
+    "lastUpdated": "2026-08-02T08:08:45.160Z",
     "eventCount": 0,
     "events": []
   },
   "ottawa": {
     "displayName": "Ottawa",
-    "lastUpdated": "2026-08-01T08:06:40.629Z",
+    "lastUpdated": "2026-08-02T08:08:47.081Z",
     "eventCount": 0,
     "events": []
   },
   "pansol": {
     "displayName": "Pansol",
-    "lastUpdated": "2026-08-01T08:06:42.225Z",
+    "lastUpdated": "2026-08-02T08:08:48.827Z",
     "eventCount": 0,
     "events": []
   },
   "paris": {
     "displayName": "Paris",
-    "lastUpdated": "2026-08-01T08:06:43.974Z",
+    "lastUpdated": "2026-08-02T08:08:50.749Z",
     "eventCount": 0,
     "events": []
   },
   "perth": {
     "displayName": "Perth",
-    "lastUpdated": "2026-08-01T08:06:45.881Z",
+    "lastUpdated": "2026-08-02T08:08:52.688Z",
     "eventCount": 0,
     "events": []
   },
   "philadelphia": {
     "displayName": "Philadelphia",
-    "lastUpdated": "2026-08-01T08:06:47.843Z",
+    "lastUpdated": "2026-08-02T08:08:54.928Z",
     "eventCount": 1,
     "events": [
       {
@@ -3308,109 +3227,109 @@
   },
   "phoenix": {
     "displayName": "Phoenix",
-    "lastUpdated": "2026-08-01T08:06:49.795Z",
+    "lastUpdated": "2026-08-02T08:08:56.953Z",
     "eventCount": 0,
     "events": []
   },
   "pittsburgh": {
     "displayName": "Pittsburgh",
-    "lastUpdated": "2026-08-01T08:06:51.581Z",
+    "lastUpdated": "2026-08-02T08:08:58.935Z",
     "eventCount": 0,
     "events": []
   },
   "porto": {
     "displayName": "Porto",
-    "lastUpdated": "2026-08-01T08:06:53.443Z",
+    "lastUpdated": "2026-08-02T08:09:01.093Z",
     "eventCount": 0,
     "events": []
   },
   "prague": {
     "displayName": "Prague",
-    "lastUpdated": "2026-08-01T08:06:55.124Z",
+    "lastUpdated": "2026-08-02T08:09:02.984Z",
     "eventCount": 0,
     "events": []
   },
   "providence": {
     "displayName": "Providence",
-    "lastUpdated": "2026-08-01T08:06:57.030Z",
+    "lastUpdated": "2026-08-02T08:09:05.109Z",
     "eventCount": 0,
     "events": []
   },
   "puertovallarta": {
     "displayName": "Puerto Vallarta",
-    "lastUpdated": "2026-08-01T08:06:58.672Z",
+    "lastUpdated": "2026-08-02T08:09:06.942Z",
     "eventCount": 0,
     "events": []
   },
   "qatar": {
     "displayName": "Qatar",
-    "lastUpdated": "2026-08-01T08:07:00.651Z",
+    "lastUpdated": "2026-08-02T08:09:08.669Z",
     "eventCount": 0,
     "events": []
   },
   "quebeccity": {
     "displayName": "Quebec City",
-    "lastUpdated": "2026-08-01T08:07:02.356Z",
+    "lastUpdated": "2026-08-02T08:09:10.583Z",
     "eventCount": 0,
     "events": []
   },
   "queens": {
     "displayName": "Queens",
-    "lastUpdated": "2026-08-01T08:07:04.008Z",
+    "lastUpdated": "2026-08-02T08:09:12.495Z",
     "eventCount": 0,
     "events": []
   },
   "queenstown": {
     "displayName": "Queenstown",
-    "lastUpdated": "2026-08-01T08:07:05.685Z",
+    "lastUpdated": "2026-08-02T08:09:14.467Z",
     "eventCount": 0,
     "events": []
   },
   "raleigh": {
     "displayName": "Raleigh",
-    "lastUpdated": "2026-08-01T08:07:07.631Z",
+    "lastUpdated": "2026-08-02T08:09:16.813Z",
     "eventCount": 0,
     "events": []
   },
   "reno": {
     "displayName": "Reno",
-    "lastUpdated": "2026-08-01T08:07:09.597Z",
+    "lastUpdated": "2026-08-02T08:09:18.746Z",
     "eventCount": 0,
     "events": []
   },
   "richmond": {
     "displayName": "Richmond",
-    "lastUpdated": "2026-08-01T08:07:11.451Z",
+    "lastUpdated": "2026-08-02T08:09:20.658Z",
     "eventCount": 0,
     "events": []
   },
   "riverside": {
     "displayName": "Riverside",
-    "lastUpdated": "2026-08-01T08:07:13.234Z",
+    "lastUpdated": "2026-08-02T08:09:22.484Z",
     "eventCount": 0,
     "events": []
   },
   "riyadh": {
     "displayName": "Riyadh",
-    "lastUpdated": "2026-08-01T08:07:14.911Z",
+    "lastUpdated": "2026-08-02T08:09:24.431Z",
     "eventCount": 0,
     "events": []
   },
   "rochester": {
     "displayName": "Rochester",
-    "lastUpdated": "2026-08-01T08:07:16.643Z",
+    "lastUpdated": "2026-08-02T08:09:26.301Z",
     "eventCount": 0,
     "events": []
   },
   "rome": {
     "displayName": "Rome",
-    "lastUpdated": "2026-08-01T08:07:18.306Z",
+    "lastUpdated": "2026-08-02T08:09:28.187Z",
     "eventCount": 0,
     "events": []
   },
   "rotterdam": {
     "displayName": "Rotterdam",
-    "lastUpdated": "2026-08-01T08:07:20.219Z",
+    "lastUpdated": "2026-08-02T08:09:30.574Z",
     "eventCount": 1,
     "events": [
       {
@@ -3433,85 +3352,21 @@
   },
   "sacramento": {
     "displayName": "Sacramento",
-    "lastUpdated": "2026-08-01T08:07:22.129Z",
+    "lastUpdated": "2026-08-02T08:09:32.734Z",
     "eventCount": 0,
     "events": []
   },
   "saltlakecity": {
     "displayName": "Salt Lake City",
-    "lastUpdated": "2026-08-01T08:07:23.820Z",
+    "lastUpdated": "2026-08-02T08:09:34.573Z",
     "eventCount": 0,
     "events": []
   },
   "sanantonio": {
     "displayName": "San Antonio",
-    "lastUpdated": "2026-08-01T08:07:25.998Z",
+    "lastUpdated": "2026-08-02T08:09:36.649Z",
     "eventCount": 10,
     "events": [
-      {
-        "id": "G5dIZbgQ9IUW2",
-        "name": "Oddities & Curiosities Expo: Scorpion Habitat Entomology 1:30PM-3:30PM",
-        "url": "https://www.ticketmaster.com/oddities-curiosities-expo-scorpion-habitat-entomology-san-antonio-texas-08-01-2026/event/3A00635697A36F4F",
-        "date": "2026-08-01",
-        "time": "13:30:00",
-        "venueName": "Henry B. Gonzalez Convention Center",
-        "venueAddress": "900 E. Market Street",
-        "venueCity": "San Antonio",
-        "venueCountry": "United States Of America",
-        "segment": "Miscellaneous",
-        "genre": "Community/Civic",
-        "subGenre": "Community/Civic",
-        "image": "https://s1.ticketm.net/dam/e/3c8/4c970c53-a198-4414-af74-c262cae4e3c8_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "G5dIZbgQ9IkHs",
-        "name": "Oddities & Curiosities Expo: Raccoon Taxidermy Class 10 AM-4 PM",
-        "url": "https://www.ticketmaster.com/oddities-curiosities-expo-raccoon-taxidermy-class-san-antonio-texas-08-01-2026/event/3A00635697A06F31",
-        "date": "2026-08-01",
-        "time": null,
-        "venueName": "Henry B. Gonzalez Convention Center",
-        "venueAddress": "900 E. Market Street",
-        "venueCity": "San Antonio",
-        "venueCountry": "United States Of America",
-        "segment": "Miscellaneous",
-        "genre": "Community/Civic",
-        "subGenre": "Community/Civic",
-        "image": "https://s1.ticketm.net/dam/e/a5b/cd02e25e-2437-47ef-b2d7-5748046cba5b_TABLET_LANDSCAPE_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "G5dIZbgQ9PkH8",
-        "name": "Oddities & Curiosities Expo: Sunset Moth Entomology Class 10 AM-12 PM",
-        "url": "https://www.ticketmaster.com/oddities-curiosities-expo-sunset-moth-entomology-san-antonio-texas-08-01-2026/event/3A00635697946F10",
-        "date": "2026-08-01",
-        "time": null,
-        "venueName": "Henry B. Gonzalez Convention Center",
-        "venueAddress": "900 E. Market Street",
-        "venueCity": "San Antonio",
-        "venueCountry": "United States Of America",
-        "segment": "Miscellaneous",
-        "genre": "Community/Civic",
-        "subGenre": "Community/Civic",
-        "image": "https://s1.ticketm.net/dam/e/87d/ea2c060e-0c1e-458b-a2bf-99194824b87d_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "G5dIZbgSMVnBl",
-        "name": "Oddities & Curiosities Expo from 10AM to 5PM",
-        "url": "https://www.ticketmaster.com/oddities-curiosities-expo-from-10am-to-san-antonio-texas-08-01-2026/event/3A00635CF7D2AEAB",
-        "date": "2026-08-01",
-        "time": null,
-        "venueName": "Henry B. Gonzalez Convention Center",
-        "venueAddress": "900 E. Market Street",
-        "venueCity": "San Antonio",
-        "venueCountry": "United States Of America",
-        "segment": "Miscellaneous",
-        "genre": "Community/Civic",
-        "subGenre": "Community/Civic",
-        "image": "https://s1.ticketm.net/dam/e/704/755ea9dc-5346-4971-9b5a-aa4ec221d704_TABLET_LANDSCAPE_16_9.jpg",
-        "priceRange": null
-      },
       {
         "id": "G5dIZbgQ9tUW_",
         "name": "Oddities & Curiosities Expo: Scorpion Habitat Entomology 1:30PM-3:30PM",
@@ -3607,12 +3462,76 @@
         "subGenre": "Fairs & Festivals",
         "image": "https://s1.ticketm.net/dam/a/4c2/bac7ae96-6fcc-42ac-882a-fb3843e1f4c2_RETINA_PORTRAIT_16_9.jpg",
         "priceRange": null
+      },
+      {
+        "id": "LvZ18QO9SwxnDY8ZvXhd8",
+        "name": "Jurassic Quest | Freeman Expo Hall | San Antonio, TX 2026",
+        "url": "https://www.universe.com/events/jurassic-quest-freeman-expo-hall-san-antonio-tx-2026-tickets-GPJCV2?ref=ticketmaster",
+        "date": "2026-08-21",
+        "time": "15:00:00",
+        "venueName": "Freeman Expo Hall",
+        "venueAddress": "3201 E Houston St",
+        "venueCity": "San Antonio",
+        "venueCountry": "United States Of America",
+        "segment": "Miscellaneous",
+        "genre": "Fairs & Festivals",
+        "subGenre": "Fairs & Festivals",
+        "image": "https://s1.ticketm.net/dam/a/4c2/bac7ae96-6fcc-42ac-882a-fb3843e1f4c2_RETINA_PORTRAIT_16_9.jpg",
+        "priceRange": null
+      },
+      {
+        "id": "LvZ18QO9SwxnDY8ZvXhdo",
+        "name": "Jurassic Quest | Freeman Expo Hall | San Antonio, TX 2026",
+        "url": "https://www.universe.com/events/jurassic-quest-freeman-expo-hall-san-antonio-tx-2026-tickets-GPJCV2?ref=ticketmaster",
+        "date": "2026-08-21",
+        "time": "17:00:00",
+        "venueName": "Freeman Expo Hall",
+        "venueAddress": "3201 E Houston St",
+        "venueCity": "San Antonio",
+        "venueCountry": "United States Of America",
+        "segment": "Miscellaneous",
+        "genre": "Fairs & Festivals",
+        "subGenre": "Fairs & Festivals",
+        "image": "https://s1.ticketm.net/dam/a/4c2/bac7ae96-6fcc-42ac-882a-fb3843e1f4c2_RETINA_PORTRAIT_16_9.jpg",
+        "priceRange": null
+      },
+      {
+        "id": "LvZ18QO9SwmdFOYZvee2h",
+        "name": "Jurassic Quest | Freeman Expo Hall | San Antonio, TX 2026",
+        "url": "https://www.universe.com/events/jurassic-quest-freeman-expo-hall-san-antonio-tx-2026-tickets-GPJCV2?ref=ticketmaster",
+        "date": "2026-08-22",
+        "time": "08:00:00",
+        "venueName": "Freeman Expo Hall",
+        "venueAddress": "3201 E Houston St",
+        "venueCity": "San Antonio",
+        "venueCountry": "United States Of America",
+        "segment": "Miscellaneous",
+        "genre": "Fairs & Festivals",
+        "subGenre": "Fairs & Festivals",
+        "image": "https://s1.ticketm.net/dam/a/4c2/bac7ae96-6fcc-42ac-882a-fb3843e1f4c2_RETINA_PORTRAIT_16_9.jpg",
+        "priceRange": null
+      },
+      {
+        "id": "LvZ18QO9SwmdFOYZvee2j",
+        "name": "Jurassic Quest | Freeman Expo Hall | San Antonio, TX 2026",
+        "url": "https://www.universe.com/events/jurassic-quest-freeman-expo-hall-san-antonio-tx-2026-tickets-GPJCV2?ref=ticketmaster",
+        "date": "2026-08-22",
+        "time": "09:00:00",
+        "venueName": "Freeman Expo Hall",
+        "venueAddress": "3201 E Houston St",
+        "venueCity": "San Antonio",
+        "venueCountry": "United States Of America",
+        "segment": "Miscellaneous",
+        "genre": "Fairs & Festivals",
+        "subGenre": "Fairs & Festivals",
+        "image": "https://s1.ticketm.net/dam/a/4c2/bac7ae96-6fcc-42ac-882a-fb3843e1f4c2_RETINA_PORTRAIT_16_9.jpg",
+        "priceRange": null
       }
     ]
   },
   "sandiego": {
     "displayName": "San Diego",
-    "lastUpdated": "2026-08-01T08:07:27.816Z",
+    "lastUpdated": "2026-08-02T08:09:38.629Z",
     "eventCount": 1,
     "events": [
       {
@@ -3635,79 +3554,79 @@
   },
   "sanfrancisco": {
     "displayName": "San Francisco",
-    "lastUpdated": "2026-08-01T08:07:29.540Z",
+    "lastUpdated": "2026-08-02T08:09:40.693Z",
     "eventCount": 0,
     "events": []
   },
   "sanjose": {
     "displayName": "San Jose",
-    "lastUpdated": "2026-08-01T08:07:31.394Z",
+    "lastUpdated": "2026-08-02T08:09:42.791Z",
     "eventCount": 0,
     "events": []
   },
   "seattle": {
     "displayName": "Seattle",
-    "lastUpdated": "2026-08-01T08:07:33.466Z",
+    "lastUpdated": "2026-08-02T08:09:45.087Z",
     "eventCount": 0,
     "events": []
   },
   "seville": {
     "displayName": "Seville",
-    "lastUpdated": "2026-08-01T08:07:35.169Z",
+    "lastUpdated": "2026-08-02T08:09:46.976Z",
     "eventCount": 0,
     "events": []
   },
   "shanghai": {
     "displayName": "Shanghai",
-    "lastUpdated": "2026-08-01T08:07:37.157Z",
+    "lastUpdated": "2026-08-02T08:09:48.792Z",
     "eventCount": 0,
     "events": []
   },
   "sheffield": {
     "displayName": "Sheffield",
-    "lastUpdated": "2026-08-01T08:07:39.174Z",
+    "lastUpdated": "2026-08-02T08:09:51.093Z",
     "eventCount": 0,
     "events": []
   },
   "singapore": {
     "displayName": "Singapore",
-    "lastUpdated": "2026-08-01T08:07:40.907Z",
+    "lastUpdated": "2026-08-02T08:09:53.001Z",
     "eventCount": 0,
     "events": []
   },
   "sofia": {
     "displayName": "Sofia",
-    "lastUpdated": "2026-08-01T08:07:42.545Z",
+    "lastUpdated": "2026-08-02T08:09:54.965Z",
     "eventCount": 0,
     "events": []
   },
   "split": {
     "displayName": "Split",
-    "lastUpdated": "2026-08-01T08:07:44.216Z",
+    "lastUpdated": "2026-08-02T08:09:56.943Z",
     "eventCount": 0,
     "events": []
   },
   "stlouis": {
     "displayName": "St Louis",
-    "lastUpdated": "2026-08-01T08:07:46.239Z",
+    "lastUpdated": "2026-08-02T08:09:58.795Z",
     "eventCount": 0,
     "events": []
   },
   "stockholm": {
     "displayName": "Stockholm",
-    "lastUpdated": "2026-08-01T08:07:48.192Z",
+    "lastUpdated": "2026-08-02T08:10:00.836Z",
     "eventCount": 0,
     "events": []
   },
   "stuttgart": {
     "displayName": "Stuttgart",
-    "lastUpdated": "2026-08-01T08:07:50.057Z",
+    "lastUpdated": "2026-08-02T08:10:02.742Z",
     "eventCount": 0,
     "events": []
   },
   "sulzbach": {
     "displayName": "Sulzbach",
-    "lastUpdated": "2026-08-01T08:07:51.862Z",
+    "lastUpdated": "2026-08-02T08:10:04.915Z",
     "eventCount": 2,
     "events": [
       {
@@ -3746,97 +3665,33 @@
   },
   "sydney": {
     "displayName": "Sydney",
-    "lastUpdated": "2026-08-01T08:07:53.726Z",
+    "lastUpdated": "2026-08-02T08:10:07.369Z",
     "eventCount": 0,
     "events": []
   },
   "tallahassee": {
     "displayName": "Tallahassee",
-    "lastUpdated": "2026-08-01T08:07:55.485Z",
+    "lastUpdated": "2026-08-02T08:10:09.502Z",
     "eventCount": 0,
     "events": []
   },
   "tampa": {
     "displayName": "Tampa",
-    "lastUpdated": "2026-08-01T08:07:57.265Z",
+    "lastUpdated": "2026-08-02T08:10:11.430Z",
     "eventCount": 0,
     "events": []
   },
   "tbilisi": {
     "displayName": "Tbilisi",
-    "lastUpdated": "2026-08-01T08:07:59.285Z",
+    "lastUpdated": "2026-08-02T08:10:13.303Z",
     "eventCount": 0,
     "events": []
   },
   "texas": {
     "displayName": "Texas",
-    "lastUpdated": "2026-08-01T08:08:01.567Z",
+    "lastUpdated": "2026-08-02T08:10:15.761Z",
     "eventCount": 10,
     "events": [
-      {
-        "id": "G5dIZbgQ9IUW2",
-        "name": "Oddities & Curiosities Expo: Scorpion Habitat Entomology 1:30PM-3:30PM",
-        "url": "https://www.ticketmaster.com/oddities-curiosities-expo-scorpion-habitat-entomology-san-antonio-texas-08-01-2026/event/3A00635697A36F4F",
-        "date": "2026-08-01",
-        "time": "13:30:00",
-        "venueName": "Henry B. Gonzalez Convention Center",
-        "venueAddress": "900 E. Market Street",
-        "venueCity": "San Antonio",
-        "venueCountry": "United States Of America",
-        "segment": "Miscellaneous",
-        "genre": "Community/Civic",
-        "subGenre": "Community/Civic",
-        "image": "https://s1.ticketm.net/dam/e/3c8/4c970c53-a198-4414-af74-c262cae4e3c8_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "G5dIZbgQ9IkHs",
-        "name": "Oddities & Curiosities Expo: Raccoon Taxidermy Class 10 AM-4 PM",
-        "url": "https://www.ticketmaster.com/oddities-curiosities-expo-raccoon-taxidermy-class-san-antonio-texas-08-01-2026/event/3A00635697A06F31",
-        "date": "2026-08-01",
-        "time": null,
-        "venueName": "Henry B. Gonzalez Convention Center",
-        "venueAddress": "900 E. Market Street",
-        "venueCity": "San Antonio",
-        "venueCountry": "United States Of America",
-        "segment": "Miscellaneous",
-        "genre": "Community/Civic",
-        "subGenre": "Community/Civic",
-        "image": "https://s1.ticketm.net/dam/e/a5b/cd02e25e-2437-47ef-b2d7-5748046cba5b_TABLET_LANDSCAPE_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "G5dIZbgQ9PkH8",
-        "name": "Oddities & Curiosities Expo: Sunset Moth Entomology Class 10 AM-12 PM",
-        "url": "https://www.ticketmaster.com/oddities-curiosities-expo-sunset-moth-entomology-san-antonio-texas-08-01-2026/event/3A00635697946F10",
-        "date": "2026-08-01",
-        "time": null,
-        "venueName": "Henry B. Gonzalez Convention Center",
-        "venueAddress": "900 E. Market Street",
-        "venueCity": "San Antonio",
-        "venueCountry": "United States Of America",
-        "segment": "Miscellaneous",
-        "genre": "Community/Civic",
-        "subGenre": "Community/Civic",
-        "image": "https://s1.ticketm.net/dam/e/87d/ea2c060e-0c1e-458b-a2bf-99194824b87d_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "G5dIZbgSMVnBl",
-        "name": "Oddities & Curiosities Expo from 10AM to 5PM",
-        "url": "https://www.ticketmaster.com/oddities-curiosities-expo-from-10am-to-san-antonio-texas-08-01-2026/event/3A00635CF7D2AEAB",
-        "date": "2026-08-01",
-        "time": null,
-        "venueName": "Henry B. Gonzalez Convention Center",
-        "venueAddress": "900 E. Market Street",
-        "venueCity": "San Antonio",
-        "venueCountry": "United States Of America",
-        "segment": "Miscellaneous",
-        "genre": "Community/Civic",
-        "subGenre": "Community/Civic",
-        "image": "https://s1.ticketm.net/dam/e/704/755ea9dc-5346-4971-9b5a-aa4ec221d704_TABLET_LANDSCAPE_16_9.jpg",
-        "priceRange": null
-      },
       {
         "id": "G5dIZbgQ9tUW_",
         "name": "Oddities & Curiosities Expo: Scorpion Habitat Entomology 1:30PM-3:30PM",
@@ -3932,18 +3787,82 @@
         "subGenre": "Lecture/Seminar",
         "image": "https://s1.ticketm.net/dam/e/b7d/60803928-1914-4eb8-b36d-32cedcf61b7d_SOURCE",
         "priceRange": null
+      },
+      {
+        "id": "Z7r9jZ1A7PPoZ",
+        "name": "Dallas Dead Summit featuring an All-Star Bob Weir Tribute",
+        "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PPoZ",
+        "date": "2026-08-15",
+        "time": "18:00:00",
+        "venueName": "Longhorn Ballroom - Dallas",
+        "venueAddress": "216 Corinth St",
+        "venueCity": "Dallas",
+        "venueCountry": "United States Of America",
+        "segment": "Undefined",
+        "genre": null,
+        "subGenre": null,
+        "image": "https://s1.ticketm.net/dam/c/8cf/a6653880-7899-4f67-8067-1f95f4d158cf_124761_RETINA_PORTRAIT_16_9.jpg",
+        "priceRange": null
+      },
+      {
+        "id": "LvZ18QO9SwxnDY8ZvXhd2",
+        "name": "Jurassic Quest | Freeman Expo Hall | San Antonio, TX 2026",
+        "url": "https://www.universe.com/events/jurassic-quest-freeman-expo-hall-san-antonio-tx-2026-tickets-GPJCV2?ref=ticketmaster",
+        "date": "2026-08-21",
+        "time": "13:00:00",
+        "venueName": "Freeman Expo Hall",
+        "venueAddress": "3201 E Houston St",
+        "venueCity": "San Antonio",
+        "venueCountry": "United States Of America",
+        "segment": "Miscellaneous",
+        "genre": "Fairs & Festivals",
+        "subGenre": "Fairs & Festivals",
+        "image": "https://s1.ticketm.net/dam/a/4c2/bac7ae96-6fcc-42ac-882a-fb3843e1f4c2_RETINA_PORTRAIT_16_9.jpg",
+        "priceRange": null
+      },
+      {
+        "id": "LvZ18QO9SwxnDY8ZvXhd8",
+        "name": "Jurassic Quest | Freeman Expo Hall | San Antonio, TX 2026",
+        "url": "https://www.universe.com/events/jurassic-quest-freeman-expo-hall-san-antonio-tx-2026-tickets-GPJCV2?ref=ticketmaster",
+        "date": "2026-08-21",
+        "time": "15:00:00",
+        "venueName": "Freeman Expo Hall",
+        "venueAddress": "3201 E Houston St",
+        "venueCity": "San Antonio",
+        "venueCountry": "United States Of America",
+        "segment": "Miscellaneous",
+        "genre": "Fairs & Festivals",
+        "subGenre": "Fairs & Festivals",
+        "image": "https://s1.ticketm.net/dam/a/4c2/bac7ae96-6fcc-42ac-882a-fb3843e1f4c2_RETINA_PORTRAIT_16_9.jpg",
+        "priceRange": null
+      },
+      {
+        "id": "LvZ18QO9SwxnDY8ZvXhdo",
+        "name": "Jurassic Quest | Freeman Expo Hall | San Antonio, TX 2026",
+        "url": "https://www.universe.com/events/jurassic-quest-freeman-expo-hall-san-antonio-tx-2026-tickets-GPJCV2?ref=ticketmaster",
+        "date": "2026-08-21",
+        "time": "17:00:00",
+        "venueName": "Freeman Expo Hall",
+        "venueAddress": "3201 E Houston St",
+        "venueCity": "San Antonio",
+        "venueCountry": "United States Of America",
+        "segment": "Miscellaneous",
+        "genre": "Fairs & Festivals",
+        "subGenre": "Fairs & Festivals",
+        "image": "https://s1.ticketm.net/dam/a/4c2/bac7ae96-6fcc-42ac-882a-fb3843e1f4c2_RETINA_PORTRAIT_16_9.jpg",
+        "priceRange": null
       }
     ]
   },
   "tokyo": {
     "displayName": "Tokyo",
-    "lastUpdated": "2026-08-01T08:08:03.352Z",
+    "lastUpdated": "2026-08-02T08:10:17.637Z",
     "eventCount": 0,
     "events": []
   },
   "toronto": {
     "displayName": "Toronto",
-    "lastUpdated": "2026-08-01T08:08:05.121Z",
+    "lastUpdated": "2026-08-02T08:10:19.800Z",
     "eventCount": 3,
     "events": [
       {
@@ -3998,19 +3917,19 @@
   },
   "toulouse": {
     "displayName": "Toulouse",
-    "lastUpdated": "2026-08-01T08:08:06.859Z",
+    "lastUpdated": "2026-08-02T08:10:21.729Z",
     "eventCount": 0,
     "events": []
   },
   "tucson": {
     "displayName": "Tucson",
-    "lastUpdated": "2026-08-01T08:08:08.678Z",
+    "lastUpdated": "2026-08-02T08:10:23.670Z",
     "eventCount": 0,
     "events": []
   },
   "tulsa": {
     "displayName": "Tulsa",
-    "lastUpdated": "2026-08-01T08:08:10.490Z",
+    "lastUpdated": "2026-08-02T08:10:25.907Z",
     "eventCount": 9,
     "events": [
       {
@@ -4161,55 +4080,55 @@
   },
   "valencia": {
     "displayName": "Valencia",
-    "lastUpdated": "2026-08-01T08:08:12.172Z",
+    "lastUpdated": "2026-08-02T08:10:27.764Z",
     "eventCount": 0,
     "events": []
   },
   "vancouver": {
     "displayName": "Vancouver",
-    "lastUpdated": "2026-08-01T08:08:14.015Z",
+    "lastUpdated": "2026-08-02T08:10:29.866Z",
     "eventCount": 0,
     "events": []
   },
   "venice": {
     "displayName": "Venice",
-    "lastUpdated": "2026-08-01T08:08:15.785Z",
+    "lastUpdated": "2026-08-02T08:10:31.741Z",
     "eventCount": 0,
     "events": []
   },
   "victoria": {
     "displayName": "Victoria",
-    "lastUpdated": "2026-08-01T08:08:17.491Z",
+    "lastUpdated": "2026-08-02T08:10:33.838Z",
     "eventCount": 0,
     "events": []
   },
   "vienna": {
     "displayName": "Vienna",
-    "lastUpdated": "2026-08-01T08:08:19.073Z",
+    "lastUpdated": "2026-08-02T08:10:35.713Z",
     "eventCount": 0,
     "events": []
   },
   "virginiabeach": {
     "displayName": "Virginia Beach",
-    "lastUpdated": "2026-08-01T08:08:20.823Z",
+    "lastUpdated": "2026-08-02T08:10:37.566Z",
     "eventCount": 0,
     "events": []
   },
   "warren": {
     "displayName": "Warren",
-    "lastUpdated": "2026-08-01T08:08:22.584Z",
+    "lastUpdated": "2026-08-02T08:10:39.377Z",
     "eventCount": 0,
     "events": []
   },
   "warsaw": {
     "displayName": "Warsaw",
-    "lastUpdated": "2026-08-01T08:08:24.499Z",
+    "lastUpdated": "2026-08-02T08:10:41.601Z",
     "eventCount": 0,
     "events": []
   },
   "washington": {
     "displayName": "Washington",
-    "lastUpdated": "2026-08-01T08:08:26.484Z",
+    "lastUpdated": "2026-08-02T08:10:43.625Z",
     "eventCount": 1,
     "events": [
       {
@@ -4232,30 +4151,14 @@
   },
   "westgate": {
     "displayName": "Westgate",
-    "lastUpdated": "2026-08-01T08:08:28.967Z",
+    "lastUpdated": "2026-08-02T08:10:46.771Z",
     "eventCount": 10,
     "events": [
       {
-        "id": "LvZ18QLf2Q7I54OZvZ-E3",
+        "id": "LvZ18QLf2QFMYpOZvKk17",
         "name": "Jurassic Quest | Prime F Osborn Convention Center | Jacksonville, FL 2026",
         "url": "https://www.universe.com/events/jurassic-quest-prime-f-osborn-convention-center-jacksonville-fl-2026-tickets-NRF612?ref=ticketmaster",
-        "date": "2026-08-01",
-        "time": "08:00:00",
-        "venueName": "Prime Osborn Convention Center",
-        "venueAddress": "1000 Water Street",
-        "venueCity": "Jacksonville",
-        "venueCountry": "United States Of America",
-        "segment": "Miscellaneous",
-        "genre": "Fairs & Festivals",
-        "subGenre": "Fairs & Festivals",
-        "image": "https://s1.ticketm.net/dam/a/4c2/bac7ae96-6fcc-42ac-882a-fb3843e1f4c2_RETINA_PORTRAIT_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "LvZ18QLf2Q7I54OZvZ-EK",
-        "name": "Jurassic Quest | Prime F Osborn Convention Center | Jacksonville, FL 2026",
-        "url": "https://www.universe.com/events/jurassic-quest-prime-f-osborn-convention-center-jacksonville-fl-2026-tickets-NRF612?ref=ticketmaster",
-        "date": "2026-08-01",
+        "date": "2026-08-02",
         "time": "09:00:00",
         "venueName": "Prime Osborn Convention Center",
         "venueAddress": "1000 Water Street",
@@ -4268,107 +4171,11 @@
         "priceRange": null
       },
       {
-        "id": "LvZ18QLf2Q7I54OZvZ-Ef",
+        "id": "LvZ18QLf2QFMYpOZvKk1A",
         "name": "Jurassic Quest | Prime F Osborn Convention Center | Jacksonville, FL 2026",
         "url": "https://www.universe.com/events/jurassic-quest-prime-f-osborn-convention-center-jacksonville-fl-2026-tickets-NRF612?ref=ticketmaster",
-        "date": "2026-08-01",
+        "date": "2026-08-02",
         "time": "12:00:00",
-        "venueName": "Prime Osborn Convention Center",
-        "venueAddress": "1000 Water Street",
-        "venueCity": "Jacksonville",
-        "venueCountry": "United States Of America",
-        "segment": "Miscellaneous",
-        "genre": "Fairs & Festivals",
-        "subGenre": "Fairs & Festivals",
-        "image": "https://s1.ticketm.net/dam/a/4c2/bac7ae96-6fcc-42ac-882a-fb3843e1f4c2_RETINA_PORTRAIT_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "G5dIZbgQ9IUW2",
-        "name": "Oddities & Curiosities Expo: Scorpion Habitat Entomology 1:30PM-3:30PM",
-        "url": "https://www.ticketmaster.com/oddities-curiosities-expo-scorpion-habitat-entomology-san-antonio-texas-08-01-2026/event/3A00635697A36F4F",
-        "date": "2026-08-01",
-        "time": "13:30:00",
-        "venueName": "Henry B. Gonzalez Convention Center",
-        "venueAddress": "900 E. Market Street",
-        "venueCity": "San Antonio",
-        "venueCountry": "United States Of America",
-        "segment": "Miscellaneous",
-        "genre": "Community/Civic",
-        "subGenre": "Community/Civic",
-        "image": "https://s1.ticketm.net/dam/e/3c8/4c970c53-a198-4414-af74-c262cae4e3c8_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "vvG1IZ_6BlcbsP",
-        "name": "2026 Hawaii Aviation Expo",
-        "url": "https://www.ticketmaster.com/2026-hawaii-aviation-expo-honolulu-hawaii-08-01-2026/event/0A00647EABB58C65",
-        "date": "2026-08-01",
-        "time": "09:00:00",
-        "venueName": " Blaisdell Hawaii Suites",
-        "venueAddress": "777 Ward Ave",
-        "venueCity": "Honolulu",
-        "venueCountry": "United States Of America",
-        "segment": "Miscellaneous",
-        "genre": "Lecture/Seminar",
-        "subGenre": "Lecture/Seminar",
-        "image": "https://s1.ticketm.net/dam/e/079/63dc8e26-5c58-4b1f-b785-f51591eb9079_RETINA_PORTRAIT_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "G5dIZbgQ9IkHs",
-        "name": "Oddities & Curiosities Expo: Raccoon Taxidermy Class 10 AM-4 PM",
-        "url": "https://www.ticketmaster.com/oddities-curiosities-expo-raccoon-taxidermy-class-san-antonio-texas-08-01-2026/event/3A00635697A06F31",
-        "date": "2026-08-01",
-        "time": null,
-        "venueName": "Henry B. Gonzalez Convention Center",
-        "venueAddress": "900 E. Market Street",
-        "venueCity": "San Antonio",
-        "venueCountry": "United States Of America",
-        "segment": "Miscellaneous",
-        "genre": "Community/Civic",
-        "subGenre": "Community/Civic",
-        "image": "https://s1.ticketm.net/dam/e/a5b/cd02e25e-2437-47ef-b2d7-5748046cba5b_TABLET_LANDSCAPE_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "G5dIZbgQ9PkH8",
-        "name": "Oddities & Curiosities Expo: Sunset Moth Entomology Class 10 AM-12 PM",
-        "url": "https://www.ticketmaster.com/oddities-curiosities-expo-sunset-moth-entomology-san-antonio-texas-08-01-2026/event/3A00635697946F10",
-        "date": "2026-08-01",
-        "time": null,
-        "venueName": "Henry B. Gonzalez Convention Center",
-        "venueAddress": "900 E. Market Street",
-        "venueCity": "San Antonio",
-        "venueCountry": "United States Of America",
-        "segment": "Miscellaneous",
-        "genre": "Community/Civic",
-        "subGenre": "Community/Civic",
-        "image": "https://s1.ticketm.net/dam/e/87d/ea2c060e-0c1e-458b-a2bf-99194824b87d_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "G5dIZbgSMVnBl",
-        "name": "Oddities & Curiosities Expo from 10AM to 5PM",
-        "url": "https://www.ticketmaster.com/oddities-curiosities-expo-from-10am-to-san-antonio-texas-08-01-2026/event/3A00635CF7D2AEAB",
-        "date": "2026-08-01",
-        "time": null,
-        "venueName": "Henry B. Gonzalez Convention Center",
-        "venueAddress": "900 E. Market Street",
-        "venueCity": "San Antonio",
-        "venueCountry": "United States Of America",
-        "segment": "Miscellaneous",
-        "genre": "Community/Civic",
-        "subGenre": "Community/Civic",
-        "image": "https://s1.ticketm.net/dam/e/704/755ea9dc-5346-4971-9b5a-aa4ec221d704_TABLET_LANDSCAPE_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "LvZ18QLf2Q7I54OZvZ-E4",
-        "name": "Jurassic Quest | Prime F Osborn Convention Center | Jacksonville, FL 2026",
-        "url": "https://www.universe.com/events/jurassic-quest-prime-f-osborn-convention-center-jacksonville-fl-2026-tickets-NRF612?ref=ticketmaster",
-        "date": "2026-08-01",
-        "time": "15:00:00",
         "venueName": "Prime Osborn Convention Center",
         "venueAddress": "1000 Water Street",
         "venueCity": "Jacksonville",
@@ -4394,12 +4201,124 @@
         "subGenre": "Community/Civic",
         "image": "https://s1.ticketm.net/dam/e/06e/5ec33426-3256-4531-abe6-d7d33723c06e_TABLET_LANDSCAPE_16_9.jpg",
         "priceRange": null
+      },
+      {
+        "id": "G5dIZbgQ9EpHt",
+        "name": "Oddities & Curiosities Expo:Ratalope Coffin Taxidermy 1:30 PM-3:30 PM",
+        "url": "https://www.ticketmaster.com/oddities-curiosities-exporatalope-coffin-taxidermy-130-san-antonio-texas-08-02-2026/event/3A006356979D6F29",
+        "date": "2026-08-02",
+        "time": null,
+        "venueName": "Henry B. Gonzalez Convention Center",
+        "venueAddress": "900 E. Market Street",
+        "venueCity": "San Antonio",
+        "venueCountry": "United States Of America",
+        "segment": "Miscellaneous",
+        "genre": "Community/Civic",
+        "subGenre": "Community/Civic",
+        "image": "https://s1.ticketm.net/dam/e/d29/b8fef989-dd8f-4f91-a216-b96a96715d29_SOURCE",
+        "priceRange": null
+      },
+      {
+        "id": "G5dIZbgQ9JJHx",
+        "name": "Oddities & Curiosities Expo:Octopus Wet Specimen Class 10 AM-12 PM",
+        "url": "https://www.ticketmaster.com/oddities-curiosities-expooctopus-wet-specimen-class-san-antonio-texas-08-02-2026/event/3A006356979A6F22",
+        "date": "2026-08-02",
+        "time": null,
+        "venueName": "Henry B. Gonzalez Convention Center",
+        "venueAddress": "900 E. Market Street",
+        "venueCity": "San Antonio",
+        "venueCountry": "United States Of America",
+        "segment": "Miscellaneous",
+        "genre": "Community/Civic",
+        "subGenre": "Community/Civic",
+        "image": "https://s1.ticketm.net/dam/e/ef0/c82547d0-78a1-43ae-91e6-3a1ad7fe1ef0_SOURCE",
+        "priceRange": null
+      },
+      {
+        "id": "G5dIZbgQ9PUHQ",
+        "name": "Oddities & Curiosities Expo: Sunset Moth Entomology Class 10 AM-12 PM",
+        "url": "https://www.ticketmaster.com/oddities-curiosities-expo-sunset-moth-entomology-san-antonio-texas-08-02-2026/event/3A00635697976F1A",
+        "date": "2026-08-02",
+        "time": null,
+        "venueName": "Henry B. Gonzalez Convention Center",
+        "venueAddress": "900 E. Market Street",
+        "venueCity": "San Antonio",
+        "venueCountry": "United States Of America",
+        "segment": "Miscellaneous",
+        "genre": "Community/Civic",
+        "subGenre": "Community/Civic",
+        "image": "https://s1.ticketm.net/dam/e/d34/b8406690-28be-4576-b1d2-1069a8b21d34_SOURCE",
+        "priceRange": null
+      },
+      {
+        "id": "G5dIZbgSzZnDo",
+        "name": "Oddities & Curiosities Expo from 10 am to 5 pm",
+        "url": "https://www.ticketmaster.com/oddities-curiosities-expo-from-10-am-san-antonio-texas-08-02-2026/event/3A00635CF802AED1",
+        "date": "2026-08-02",
+        "time": null,
+        "venueName": "Henry B. Gonzalez Convention Center",
+        "venueAddress": "900 E. Market Street",
+        "venueCity": "San Antonio",
+        "venueCountry": "United States Of America",
+        "segment": "Miscellaneous",
+        "genre": "Community/Civic",
+        "subGenre": "Community/Civic",
+        "image": "https://s1.ticketm.net/dam/e/52d/daa1ba20-5790-4906-b278-7c9c178c252d_RETINA_PORTRAIT_16_9.jpg",
+        "priceRange": null
+      },
+      {
+        "id": "Z7r9jZ1A7Ox4w",
+        "name": "Denver Summit FC vs. Boston Legacy FC",
+        "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Ox4w",
+        "date": "2026-08-02",
+        "time": "19:00:00",
+        "venueName": "Centennial Stadium",
+        "venueAddress": "Potomac Park",
+        "venueCity": "Centennial",
+        "venueCountry": "United States Of America",
+        "segment": "Sports",
+        "genre": "Soccer",
+        "subGenre": "Soccer",
+        "image": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
+        "priceRange": null
+      },
+      {
+        "id": "Z7r9jZ1A7Ox4S",
+        "name": "Denver Summit FC vs. North Carolina Courage",
+        "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Ox4S",
+        "date": "2026-08-05",
+        "time": "20:00:00",
+        "venueName": "Centennial Stadium",
+        "venueAddress": "Potomac Park",
+        "venueCity": "Centennial",
+        "venueCountry": "United States Of America",
+        "segment": "Sports",
+        "genre": "Soccer",
+        "subGenre": "Soccer",
+        "image": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
+        "priceRange": null
+      },
+      {
+        "id": "1AxZk3vGkeHx0qT",
+        "name": "Breakers Conference with Mike Signorelli and V1 Worship",
+        "url": "https://www.ticketmaster.com/breakers-conference-with-mike-signorelli-and-orlando-florida-08-07-2026/event/22006481BC8A477F",
+        "date": "2026-08-07",
+        "time": null,
+        "venueName": "Addition Financial Arena",
+        "venueAddress": "12777 Gemini Blvd",
+        "venueCity": "Orlando",
+        "venueCountry": "United States Of America",
+        "segment": "Miscellaneous",
+        "genre": "Lecture/Seminar",
+        "subGenre": "Lecture/Seminar",
+        "image": "https://s1.ticketm.net/dam/e/3d2/66a31c97-8e55-461e-ba2d-a3772da973d2_SOURCE",
+        "priceRange": null
       }
     ]
   },
   "winnipeg": {
     "displayName": "Winnipeg",
-    "lastUpdated": "2026-08-01T08:08:30.738Z",
+    "lastUpdated": "2026-08-02T08:10:48.719Z",
     "eventCount": 1,
     "events": [
       {
@@ -4422,19 +4341,19 @@
   },
   "yerevan": {
     "displayName": "Yerevan",
-    "lastUpdated": "2026-08-01T08:08:32.410Z",
+    "lastUpdated": "2026-08-02T08:10:50.514Z",
     "eventCount": 0,
     "events": []
   },
   "zagreb": {
     "displayName": "Zagreb",
-    "lastUpdated": "2026-08-01T08:08:34.032Z",
+    "lastUpdated": "2026-08-02T08:10:52.464Z",
     "eventCount": 0,
     "events": []
   },
   "zurich": {
     "displayName": "Zurich",
-    "lastUpdated": "2026-08-01T08:08:35.782Z",
+    "lastUpdated": "2026-08-02T08:10:54.413Z",
     "eventCount": 0,
     "events": []
   }
