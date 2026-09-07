@@ -1,37 +1,37 @@
 {
   "abudhabi": {
     "displayName": "Abu Dhabi",
-    "lastUpdated": "2026-09-06T09:53:21.184Z",
+    "lastUpdated": "2026-09-07T11:00:23.835Z",
     "eventCount": 0,
     "events": []
   },
   "albany": {
     "displayName": "Albany",
-    "lastUpdated": "2026-09-06T09:53:22.916Z",
+    "lastUpdated": "2026-09-07T11:00:25.658Z",
     "eventCount": 0,
     "events": []
   },
   "albuquerque": {
     "displayName": "Albuquerque",
-    "lastUpdated": "2026-09-06T09:53:24.705Z",
+    "lastUpdated": "2026-09-07T11:00:27.426Z",
     "eventCount": 0,
     "events": []
   },
   "alkhobar": {
     "displayName": "Al Khobar",
-    "lastUpdated": "2026-09-06T09:53:26.393Z",
+    "lastUpdated": "2026-09-07T11:00:28.980Z",
     "eventCount": 0,
     "events": []
   },
   "allentown": {
     "displayName": "Allentown",
-    "lastUpdated": "2026-09-06T09:53:28.862Z",
+    "lastUpdated": "2026-09-07T11:00:30.669Z",
     "eventCount": 0,
     "events": []
   },
   "amsterdam": {
     "displayName": "Amsterdam",
-    "lastUpdated": "2026-09-06T09:53:30.941Z",
+    "lastUpdated": "2026-09-07T11:00:32.531Z",
     "eventCount": 2,
     "events": [
       {
@@ -47,7 +47,7 @@
         "segment": "Music",
         "genre": "Rock",
         "subGenre": "Pop",
-        "image": "https://s1.ticketm.net/dam/a/9c2/0c0137a4-0f82-422f-8142-b1c76596c9c2_SOURCE",
+        "image": "https://s1.ticketm.net/dam/a/9c2/0c0137a4-0f82-422f-8142-b1c76596c9c2_TABLET_LANDSCAPE_16_9.jpg",
         "priceRange": null
       },
       {
@@ -63,32 +63,32 @@
         "segment": "Music",
         "genre": "Rock",
         "subGenre": "Pop",
-        "image": "https://s1.ticketm.net/dam/a/9c2/0c0137a4-0f82-422f-8142-b1c76596c9c2_SOURCE",
+        "image": "https://s1.ticketm.net/dam/a/9c2/0c0137a4-0f82-422f-8142-b1c76596c9c2_TABLET_LANDSCAPE_16_9.jpg",
         "priceRange": null
       }
     ]
   },
   "ankara": {
     "displayName": "Ankara",
-    "lastUpdated": "2026-09-06T09:53:32.748Z",
+    "lastUpdated": "2026-09-07T11:00:34.169Z",
     "eventCount": 0,
     "events": []
   },
   "arizona": {
     "displayName": "Arizona",
-    "lastUpdated": "2026-09-06T09:53:34.775Z",
+    "lastUpdated": "2026-09-07T11:00:35.958Z",
     "eventCount": 0,
     "events": []
   },
   "athens": {
     "displayName": "Athens",
-    "lastUpdated": "2026-09-06T09:53:36.600Z",
+    "lastUpdated": "2026-09-07T11:00:37.687Z",
     "eventCount": 0,
     "events": []
   },
   "atlanta": {
     "displayName": "Atlanta",
-    "lastUpdated": "2026-09-06T09:53:38.507Z",
+    "lastUpdated": "2026-09-07T11:00:39.522Z",
     "eventCount": 1,
     "events": [
       {
@@ -111,13 +111,13 @@
   },
   "auckland": {
     "displayName": "Auckland",
-    "lastUpdated": "2026-09-06T09:53:40.372Z",
+    "lastUpdated": "2026-09-07T11:00:41.318Z",
     "eventCount": 0,
     "events": []
   },
   "austin": {
     "displayName": "Austin",
-    "lastUpdated": "2026-09-06T09:53:42.188Z",
+    "lastUpdated": "2026-09-07T11:00:43.082Z",
     "eventCount": 3,
     "events": [
       {
@@ -172,31 +172,31 @@
   },
   "bahrain": {
     "displayName": "Bahrain",
-    "lastUpdated": "2026-09-06T09:53:43.760Z",
+    "lastUpdated": "2026-09-07T11:00:44.571Z",
     "eventCount": 0,
     "events": []
   },
   "bali": {
     "displayName": "Bali",
-    "lastUpdated": "2026-09-06T09:53:45.454Z",
+    "lastUpdated": "2026-09-07T11:00:46.180Z",
     "eventCount": 0,
     "events": []
   },
   "baltimore": {
     "displayName": "Baltimore",
-    "lastUpdated": "2026-09-06T09:53:47.486Z",
+    "lastUpdated": "2026-09-07T11:00:47.912Z",
     "eventCount": 0,
     "events": []
   },
   "barcelona": {
     "displayName": "Barcelona",
-    "lastUpdated": "2026-09-06T09:53:49.205Z",
+    "lastUpdated": "2026-09-07T11:00:49.547Z",
     "eventCount": 0,
     "events": []
   },
   "batonrouge": {
     "displayName": "Baton Rouge",
-    "lastUpdated": "2026-09-06T09:53:50.855Z",
+    "lastUpdated": "2026-09-07T11:00:51.210Z",
     "eventCount": 1,
     "events": [
       {
@@ -219,26 +219,26 @@
   },
   "beijing": {
     "displayName": "Beijing",
-    "lastUpdated": "2026-09-06T09:53:52.537Z",
+    "lastUpdated": "2026-09-07T11:00:52.883Z",
     "eventCount": 0,
     "events": []
   },
   "beirut": {
     "displayName": "Beirut",
-    "lastUpdated": "2026-09-06T09:53:54.244Z",
+    "lastUpdated": "2026-09-07T11:00:54.466Z",
     "eventCount": 0,
     "events": []
   },
   "belgrade": {
     "displayName": "Belgrade",
-    "lastUpdated": "2026-09-06T09:53:56.074Z",
+    "lastUpdated": "2026-09-07T11:00:56.023Z",
     "eventCount": 0,
     "events": []
   },
   "berlin": {
     "displayName": "Berlin",
-    "lastUpdated": "2026-09-06T09:53:58.071Z",
-    "eventCount": 1,
+    "lastUpdated": "2026-09-07T11:00:57.784Z",
+    "eventCount": 2,
     "events": [
       {
         "id": "Z698xZC2Z16v4fG4uE",
@@ -255,30 +255,46 @@
         "subGenre": "Pop",
         "image": "https://s1.ticketm.net/dam/a/791/b71f3243-1ee8-4f64-a2e7-a2aa14509791_RETINA_PORTRAIT_16_9.jpg",
         "priceRange": null
+      },
+      {
+        "id": "Z698xZC2Z1kOg8_3a",
+        "name": "DIGITAL STARS @MIKU EXPO",
+        "url": "https://www.ticketmaster.de/event/digital-stars-miku-expo-tickets/835419489?language=en-us",
+        "date": "2026-11-19",
+        "time": "20:00:00",
+        "venueName": null,
+        "venueAddress": "Hermannstraße 146",
+        "venueCity": "Berlin",
+        "venueCountry": "Germany",
+        "segment": "Music",
+        "genre": "Dance/Electronic",
+        "subGenre": "Dance/Electronic",
+        "image": "https://s1.ticketm.net/dam/a/000/088945ce-5d8d-49fe-9d07-547f8e62a000_RETINA_PORTRAIT_16_9.jpg",
+        "priceRange": null
       }
     ]
   },
   "birmingham": {
     "displayName": "Birmingham",
-    "lastUpdated": "2026-09-06T09:53:59.985Z",
+    "lastUpdated": "2026-09-07T11:00:59.493Z",
     "eventCount": 0,
     "events": []
   },
   "bologna": {
     "displayName": "Bologna",
-    "lastUpdated": "2026-09-06T09:54:01.831Z",
+    "lastUpdated": "2026-09-07T11:01:01.483Z",
     "eventCount": 0,
     "events": []
   },
   "bordeaux": {
     "displayName": "Bordeaux",
-    "lastUpdated": "2026-09-06T09:54:03.575Z",
+    "lastUpdated": "2026-09-07T11:01:03.172Z",
     "eventCount": 0,
     "events": []
   },
   "boston": {
     "displayName": "Boston",
-    "lastUpdated": "2026-09-06T09:54:05.609Z",
+    "lastUpdated": "2026-09-07T11:01:05.063Z",
     "eventCount": 1,
     "events": [
       {
@@ -301,25 +317,25 @@
   },
   "bratislava": {
     "displayName": "Bratislava",
-    "lastUpdated": "2026-09-06T09:54:07.419Z",
+    "lastUpdated": "2026-09-07T11:01:06.753Z",
     "eventCount": 0,
     "events": []
   },
   "bridgeport": {
     "displayName": "Bridgeport",
-    "lastUpdated": "2026-09-06T09:54:09.122Z",
+    "lastUpdated": "2026-09-07T11:01:08.367Z",
     "eventCount": 0,
     "events": []
   },
   "brisbane": {
     "displayName": "Brisbane",
-    "lastUpdated": "2026-09-06T09:54:10.910Z",
+    "lastUpdated": "2026-09-07T11:01:09.978Z",
     "eventCount": 0,
     "events": []
   },
   "bristol": {
     "displayName": "Bristol",
-    "lastUpdated": "2026-09-06T09:54:12.715Z",
+    "lastUpdated": "2026-09-07T11:01:11.722Z",
     "eventCount": 1,
     "events": [
       {
@@ -342,19 +358,19 @@
   },
   "brno": {
     "displayName": "Brno",
-    "lastUpdated": "2026-09-06T09:54:14.423Z",
+    "lastUpdated": "2026-09-07T11:01:13.432Z",
     "eventCount": 0,
     "events": []
   },
   "bronx": {
     "displayName": "Bronx",
-    "lastUpdated": "2026-09-06T09:54:16.184Z",
+    "lastUpdated": "2026-09-07T11:01:15.018Z",
     "eventCount": 0,
     "events": []
   },
   "brooklyn": {
     "displayName": "Brooklyn",
-    "lastUpdated": "2026-09-06T09:54:18.129Z",
+    "lastUpdated": "2026-09-07T11:01:16.995Z",
     "eventCount": 1,
     "events": [
       {
@@ -377,7 +393,7 @@
   },
   "brussels": {
     "displayName": "Brussels",
-    "lastUpdated": "2026-09-06T09:54:19.949Z",
+    "lastUpdated": "2026-09-07T11:01:18.716Z",
     "eventCount": 1,
     "events": [
       {
@@ -400,31 +416,31 @@
   },
   "bucharest": {
     "displayName": "Bucharest",
-    "lastUpdated": "2026-09-06T09:54:21.756Z",
+    "lastUpdated": "2026-09-07T11:01:20.320Z",
     "eventCount": 0,
     "events": []
   },
   "budapest": {
     "displayName": "Budapest",
-    "lastUpdated": "2026-09-06T09:54:23.508Z",
+    "lastUpdated": "2026-09-07T11:01:21.988Z",
     "eventCount": 0,
     "events": []
   },
   "buffalo": {
     "displayName": "Buffalo",
-    "lastUpdated": "2026-09-06T09:54:25.392Z",
+    "lastUpdated": "2026-09-07T11:01:23.681Z",
     "eventCount": 0,
     "events": []
   },
   "calgary": {
     "displayName": "Calgary",
-    "lastUpdated": "2026-09-06T09:54:27.271Z",
+    "lastUpdated": "2026-09-07T11:01:25.362Z",
     "eventCount": 0,
     "events": []
   },
   "california": {
     "displayName": "California",
-    "lastUpdated": "2026-09-06T09:54:29.435Z",
+    "lastUpdated": "2026-09-07T11:01:27.362Z",
     "eventCount": 10,
     "events": [
       {
@@ -591,25 +607,25 @@
   },
   "cambridge": {
     "displayName": "Cambridge",
-    "lastUpdated": "2026-09-06T09:54:31.246Z",
+    "lastUpdated": "2026-09-07T11:01:29.035Z",
     "eventCount": 0,
     "events": []
   },
   "capecoral": {
     "displayName": "Cape Coral",
-    "lastUpdated": "2026-09-06T09:54:32.938Z",
+    "lastUpdated": "2026-09-07T11:01:30.710Z",
     "eventCount": 0,
     "events": []
   },
   "charleston": {
     "displayName": "Charleston",
-    "lastUpdated": "2026-09-06T09:54:34.817Z",
+    "lastUpdated": "2026-09-07T11:01:32.386Z",
     "eventCount": 0,
     "events": []
   },
   "charlotte": {
     "displayName": "Charlotte",
-    "lastUpdated": "2026-09-06T09:54:36.657Z",
+    "lastUpdated": "2026-09-07T11:01:34.136Z",
     "eventCount": 2,
     "events": [
       {
@@ -648,13 +664,13 @@
   },
   "chengjiang": {
     "displayName": "Chengjiang",
-    "lastUpdated": "2026-09-06T09:54:38.261Z",
+    "lastUpdated": "2026-09-07T11:01:35.594Z",
     "eventCount": 0,
     "events": []
   },
   "chicago": {
     "displayName": "Chicago",
-    "lastUpdated": "2026-09-06T09:54:40.168Z",
+    "lastUpdated": "2026-09-07T11:01:37.380Z",
     "eventCount": 4,
     "events": [
       {
@@ -725,13 +741,13 @@
   },
   "cincinnati": {
     "displayName": "Cincinnati",
-    "lastUpdated": "2026-09-06T09:54:41.989Z",
+    "lastUpdated": "2026-09-07T11:01:39.109Z",
     "eventCount": 0,
     "events": []
   },
   "cleveland": {
     "displayName": "Cleveland",
-    "lastUpdated": "2026-09-06T09:54:43.817Z",
+    "lastUpdated": "2026-09-07T11:01:40.839Z",
     "eventCount": 10,
     "events": [
       {
@@ -898,25 +914,9 @@
   },
   "colorado": {
     "displayName": "Colorado",
-    "lastUpdated": "2026-09-06T09:54:45.918Z",
-    "eventCount": 6,
+    "lastUpdated": "2026-09-07T11:01:42.901Z",
+    "eventCount": 5,
     "events": [
-      {
-        "id": "Z7r9jZ1A7Ox4U",
-        "name": "Denver Summit FC vs. NJ/NY Gotham FC",
-        "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Ox4U",
-        "date": "2026-09-06",
-        "time": "12:00:00",
-        "venueName": "Centennial Stadium",
-        "venueAddress": "Potomac Park",
-        "venueCity": "Centennial",
-        "venueCountry": "United States Of America",
-        "segment": "Sports",
-        "genre": "Soccer",
-        "subGenre": "Soccer",
-        "image": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
-        "priceRange": null
-      },
       {
         "id": "Z7r9jZ1A7Ox4M",
         "name": "Denver Summit FC vs. Bay FC",
@@ -1001,7 +1001,7 @@
   },
   "coloradosprings": {
     "displayName": "Colorado Springs",
-    "lastUpdated": "2026-09-06T09:54:47.613Z",
+    "lastUpdated": "2026-09-07T11:01:44.561Z",
     "eventCount": 1,
     "events": [
       {
@@ -1024,7 +1024,7 @@
   },
   "columbus": {
     "displayName": "Columbus",
-    "lastUpdated": "2026-09-06T09:54:49.637Z",
+    "lastUpdated": "2026-09-07T11:01:46.246Z",
     "eventCount": 1,
     "events": [
       {
@@ -1047,79 +1047,79 @@
   },
   "concord": {
     "displayName": "Concord",
-    "lastUpdated": "2026-09-06T09:54:51.479Z",
+    "lastUpdated": "2026-09-07T11:01:47.864Z",
     "eventCount": 0,
     "events": []
   },
   "connecticut": {
     "displayName": "Connecticut",
-    "lastUpdated": "2026-09-06T09:54:53.347Z",
+    "lastUpdated": "2026-09-07T11:01:49.512Z",
     "eventCount": 0,
     "events": []
   },
   "copenhagen": {
     "displayName": "Copenhagen",
-    "lastUpdated": "2026-09-06T09:54:55.123Z",
+    "lastUpdated": "2026-09-07T11:01:51.107Z",
     "eventCount": 0,
     "events": []
   },
   "cyprus": {
     "displayName": "Cyprus",
-    "lastUpdated": "2026-09-06T09:54:56.785Z",
+    "lastUpdated": "2026-09-07T11:01:52.573Z",
     "eventCount": 0,
     "events": []
   },
   "dallas": {
     "displayName": "Dallas",
-    "lastUpdated": "2026-09-06T09:54:58.715Z",
+    "lastUpdated": "2026-09-07T11:01:54.532Z",
     "eventCount": 0,
     "events": []
   },
   "dammam": {
     "displayName": "Dammam",
-    "lastUpdated": "2026-09-06T09:55:00.466Z",
+    "lastUpdated": "2026-09-07T11:01:56.211Z",
     "eventCount": 0,
     "events": []
   },
   "dayton": {
     "displayName": "Dayton",
-    "lastUpdated": "2026-09-06T09:55:02.285Z",
+    "lastUpdated": "2026-09-07T11:01:57.864Z",
     "eventCount": 0,
     "events": []
   },
   "denver": {
     "displayName": "Denver",
-    "lastUpdated": "2026-09-06T09:55:04.618Z",
+    "lastUpdated": "2026-09-07T11:01:59.897Z",
     "eventCount": 0,
     "events": []
   },
   "detroit": {
     "displayName": "Detroit",
-    "lastUpdated": "2026-09-06T09:55:06.420Z",
+    "lastUpdated": "2026-09-07T11:02:01.638Z",
     "eventCount": 0,
     "events": []
   },
   "dresden": {
     "displayName": "Dresden",
-    "lastUpdated": "2026-09-06T09:55:08.256Z",
+    "lastUpdated": "2026-09-07T11:02:03.332Z",
     "eventCount": 0,
     "events": []
   },
   "dubai": {
     "displayName": "Dubai",
-    "lastUpdated": "2026-09-06T09:55:10.076Z",
+    "lastUpdated": "2026-09-07T11:02:05.076Z",
     "eventCount": 0,
     "events": []
   },
   "dublin": {
     "displayName": "Dublin",
-    "lastUpdated": "2026-09-06T09:55:11.983Z",
+    "lastUpdated": "2026-09-07T11:02:06.873Z",
     "eventCount": 0,
     "events": []
   },
   "dusseldorf": {
     "displayName": "Dusseldorf",
-    "lastUpdated": "2026-09-06T09:55:13.780Z",
+    "lastUpdated": "2026-09-07T11:02:08.807Z",
     "eventCount": 1,
     "events": [
       {
@@ -1142,19 +1142,19 @@
   },
   "edinburgh": {
     "displayName": "Edinburgh",
-    "lastUpdated": "2026-09-06T09:55:15.602Z",
+    "lastUpdated": "2026-09-07T11:02:10.538Z",
     "eventCount": 0,
     "events": []
   },
   "edmonton": {
     "displayName": "Edmonton",
-    "lastUpdated": "2026-09-06T09:55:17.647Z",
+    "lastUpdated": "2026-09-07T11:02:12.370Z",
     "eventCount": 0,
     "events": []
   },
   "elpaso": {
     "displayName": "El Paso",
-    "lastUpdated": "2026-09-06T09:55:19.501Z",
+    "lastUpdated": "2026-09-07T11:02:14.107Z",
     "eventCount": 1,
     "events": [
       {
@@ -1177,19 +1177,19 @@
   },
   "esbjerg": {
     "displayName": "Esbjerg",
-    "lastUpdated": "2026-09-06T09:55:21.327Z",
+    "lastUpdated": "2026-09-07T11:02:15.723Z",
     "eventCount": 0,
     "events": []
   },
   "florence": {
     "displayName": "Florence",
-    "lastUpdated": "2026-09-06T09:55:23.046Z",
+    "lastUpdated": "2026-09-07T11:02:17.363Z",
     "eventCount": 0,
     "events": []
   },
   "florida": {
     "displayName": "Florida",
-    "lastUpdated": "2026-09-06T09:55:25.228Z",
+    "lastUpdated": "2026-09-07T11:02:19.610Z",
     "eventCount": 10,
     "events": [
       {
@@ -1356,7 +1356,7 @@
   },
   "fortworth": {
     "displayName": "Fort Worth",
-    "lastUpdated": "2026-09-06T09:55:27.080Z",
+    "lastUpdated": "2026-09-07T11:02:21.536Z",
     "eventCount": 10,
     "events": [
       {
@@ -1523,37 +1523,37 @@
   },
   "france": {
     "displayName": "France",
-    "lastUpdated": "2026-09-06T09:55:28.744Z",
+    "lastUpdated": "2026-09-07T11:02:23.179Z",
     "eventCount": 0,
     "events": []
   },
   "frankfurt": {
     "displayName": "Frankfurt",
-    "lastUpdated": "2026-09-06T09:55:30.450Z",
+    "lastUpdated": "2026-09-07T11:02:24.828Z",
     "eventCount": 0,
     "events": []
   },
   "fresno": {
     "displayName": "Fresno",
-    "lastUpdated": "2026-09-06T09:55:32.329Z",
+    "lastUpdated": "2026-09-07T11:02:26.545Z",
     "eventCount": 0,
     "events": []
   },
   "geneva": {
     "displayName": "Geneva",
-    "lastUpdated": "2026-09-06T09:55:34.072Z",
+    "lastUpdated": "2026-09-07T11:02:28.291Z",
     "eventCount": 0,
     "events": []
   },
   "genoa": {
     "displayName": "Genoa",
-    "lastUpdated": "2026-09-06T09:55:35.828Z",
+    "lastUpdated": "2026-09-07T11:02:29.951Z",
     "eventCount": 0,
     "events": []
   },
   "glasgow": {
     "displayName": "Glasgow",
-    "lastUpdated": "2026-09-06T09:55:37.884Z",
+    "lastUpdated": "2026-09-07T11:02:32.010Z",
     "eventCount": 3,
     "events": [
       {
@@ -1608,19 +1608,19 @@
   },
   "halifax": {
     "displayName": "Halifax",
-    "lastUpdated": "2026-09-06T09:55:39.643Z",
+    "lastUpdated": "2026-09-07T11:02:34.532Z",
     "eventCount": 0,
     "events": []
   },
   "hamburg": {
     "displayName": "Hamburg",
-    "lastUpdated": "2026-09-06T09:55:41.480Z",
+    "lastUpdated": "2026-09-07T11:02:36.335Z",
     "eventCount": 0,
     "events": []
   },
   "hamilton": {
     "displayName": "Hamilton",
-    "lastUpdated": "2026-09-06T09:55:43.278Z",
+    "lastUpdated": "2026-09-07T11:02:38.009Z",
     "eventCount": 1,
     "events": [
       {
@@ -1643,19 +1643,19 @@
   },
   "hannover": {
     "displayName": "Hannover",
-    "lastUpdated": "2026-09-06T09:55:45.035Z",
+    "lastUpdated": "2026-09-07T11:02:39.658Z",
     "eventCount": 0,
     "events": []
   },
   "hartford": {
     "displayName": "Hartford",
-    "lastUpdated": "2026-09-06T09:55:46.977Z",
+    "lastUpdated": "2026-09-07T11:02:41.324Z",
     "eventCount": 0,
     "events": []
   },
   "helsinki": {
     "displayName": "Helsinki",
-    "lastUpdated": "2026-09-06T09:55:48.850Z",
+    "lastUpdated": "2026-09-07T11:02:43.217Z",
     "eventCount": 3,
     "events": [
       {
@@ -1710,19 +1710,19 @@
   },
   "hongkong": {
     "displayName": "Hong Kong",
-    "lastUpdated": "2026-09-06T09:55:50.435Z",
+    "lastUpdated": "2026-09-07T11:02:44.765Z",
     "eventCount": 0,
     "events": []
   },
   "honolulu": {
     "displayName": "Honolulu",
-    "lastUpdated": "2026-09-06T09:55:52.253Z",
+    "lastUpdated": "2026-09-07T11:02:46.719Z",
     "eventCount": 0,
     "events": []
   },
   "houston": {
     "displayName": "Houston",
-    "lastUpdated": "2026-09-06T09:55:54.242Z",
+    "lastUpdated": "2026-09-07T11:02:48.645Z",
     "eventCount": 2,
     "events": [
       {
@@ -1761,19 +1761,19 @@
   },
   "indianapolis": {
     "displayName": "Indianapolis",
-    "lastUpdated": "2026-09-06T09:55:56.115Z",
+    "lastUpdated": "2026-09-07T11:02:50.457Z",
     "eventCount": 0,
     "events": []
   },
   "istanbul": {
     "displayName": "Istanbul",
-    "lastUpdated": "2026-09-06T09:55:57.953Z",
+    "lastUpdated": "2026-09-07T11:02:52.199Z",
     "eventCount": 0,
     "events": []
   },
   "jacksonville": {
     "displayName": "Jacksonville",
-    "lastUpdated": "2026-09-06T09:55:59.753Z",
+    "lastUpdated": "2026-09-07T11:02:54.021Z",
     "eventCount": 1,
     "events": [
       {
@@ -1796,13 +1796,13 @@
   },
   "jeddah": {
     "displayName": "Jeddah",
-    "lastUpdated": "2026-09-06T09:56:01.483Z",
+    "lastUpdated": "2026-09-07T11:02:55.865Z",
     "eventCount": 0,
     "events": []
   },
   "kansascity": {
     "displayName": "Kansas City",
-    "lastUpdated": "2026-09-06T09:56:03.325Z",
+    "lastUpdated": "2026-09-07T11:02:57.632Z",
     "eventCount": 1,
     "events": [
       {
@@ -1825,19 +1825,19 @@
   },
   "kokoszki": {
     "displayName": "Kokoszki",
-    "lastUpdated": "2026-09-06T09:56:05.142Z",
+    "lastUpdated": "2026-09-07T11:02:59.439Z",
     "eventCount": 0,
     "events": []
   },
   "kuwait": {
     "displayName": "Kuwait",
-    "lastUpdated": "2026-09-06T09:56:06.857Z",
+    "lastUpdated": "2026-09-07T11:03:01.309Z",
     "eventCount": 0,
     "events": []
   },
   "lasvegas": {
     "displayName": "Las Vegas",
-    "lastUpdated": "2026-09-06T09:56:08.874Z",
+    "lastUpdated": "2026-09-07T11:03:03.189Z",
     "eventCount": 9,
     "events": [
       {
@@ -1988,43 +1988,43 @@
   },
   "lebanon": {
     "displayName": "Lebanon",
-    "lastUpdated": "2026-09-06T09:56:10.537Z",
+    "lastUpdated": "2026-09-07T11:03:04.672Z",
     "eventCount": 0,
     "events": []
   },
   "leeds": {
     "displayName": "Leeds",
-    "lastUpdated": "2026-09-06T09:56:12.460Z",
+    "lastUpdated": "2026-09-07T11:03:06.393Z",
     "eventCount": 0,
     "events": []
   },
   "leipzig": {
     "displayName": "Leipzig",
-    "lastUpdated": "2026-09-06T09:56:14.381Z",
+    "lastUpdated": "2026-09-07T11:03:08.310Z",
     "eventCount": 0,
     "events": []
   },
   "lisbon": {
     "displayName": "Lisbon",
-    "lastUpdated": "2026-09-06T09:56:16.137Z",
+    "lastUpdated": "2026-09-07T11:03:10.069Z",
     "eventCount": 0,
     "events": []
   },
   "littlerock": {
     "displayName": "Little Rock",
-    "lastUpdated": "2026-09-06T09:56:17.819Z",
+    "lastUpdated": "2026-09-07T11:03:11.876Z",
     "eventCount": 0,
     "events": []
   },
   "liverpool": {
     "displayName": "Liverpool",
-    "lastUpdated": "2026-09-06T09:56:19.674Z",
+    "lastUpdated": "2026-09-07T11:03:13.826Z",
     "eventCount": 0,
     "events": []
   },
   "london": {
     "displayName": "London",
-    "lastUpdated": "2026-09-06T09:56:21.648Z",
+    "lastUpdated": "2026-09-07T11:03:15.719Z",
     "eventCount": 3,
     "events": [
       {
@@ -2079,7 +2079,7 @@
   },
   "longbeach": {
     "displayName": "Long Beach",
-    "lastUpdated": "2026-09-06T09:56:23.698Z",
+    "lastUpdated": "2026-09-07T11:03:17.680Z",
     "eventCount": 1,
     "events": [
       {
@@ -2102,7 +2102,7 @@
   },
   "losangeles": {
     "displayName": "Los Angeles",
-    "lastUpdated": "2026-09-06T09:56:25.651Z",
+    "lastUpdated": "2026-09-07T11:03:19.749Z",
     "eventCount": 5,
     "events": [
       {
@@ -2189,25 +2189,25 @@
   },
   "louisville": {
     "displayName": "Louisville",
-    "lastUpdated": "2026-09-06T09:56:27.708Z",
+    "lastUpdated": "2026-09-07T11:03:21.783Z",
     "eventCount": 0,
     "events": []
   },
   "luxembourgcity": {
     "displayName": "Luxembourg City",
-    "lastUpdated": "2026-09-06T09:56:29.415Z",
+    "lastUpdated": "2026-09-07T11:03:23.445Z",
     "eventCount": 0,
     "events": []
   },
   "lyon": {
     "displayName": "Lyon",
-    "lastUpdated": "2026-09-06T09:56:31.176Z",
+    "lastUpdated": "2026-09-07T11:03:24.941Z",
     "eventCount": 0,
     "events": []
   },
   "madrid": {
     "displayName": "Madrid",
-    "lastUpdated": "2026-09-06T09:56:33.085Z",
+    "lastUpdated": "2026-09-07T11:03:26.747Z",
     "eventCount": 3,
     "events": [
       {
@@ -2262,13 +2262,13 @@
   },
   "malaga": {
     "displayName": "Malaga",
-    "lastUpdated": "2026-09-06T09:56:34.890Z",
+    "lastUpdated": "2026-09-07T11:03:28.495Z",
     "eventCount": 0,
     "events": []
   },
   "manchester": {
     "displayName": "Manchester",
-    "lastUpdated": "2026-09-06T09:56:36.878Z",
+    "lastUpdated": "2026-09-07T11:03:30.318Z",
     "eventCount": 1,
     "events": [
       {
@@ -2291,19 +2291,19 @@
   },
   "manhattan": {
     "displayName": "Manhattan",
-    "lastUpdated": "2026-09-06T09:56:38.867Z",
+    "lastUpdated": "2026-09-07T11:03:32.241Z",
     "eventCount": 0,
     "events": []
   },
   "marseille": {
     "displayName": "Marseille",
-    "lastUpdated": "2026-09-06T09:56:40.621Z",
+    "lastUpdated": "2026-09-07T11:03:33.945Z",
     "eventCount": 0,
     "events": []
   },
   "massachusetts": {
     "displayName": "Massachusetts",
-    "lastUpdated": "2026-09-06T09:56:42.610Z",
+    "lastUpdated": "2026-09-07T11:03:35.837Z",
     "eventCount": 2,
     "events": [
       {
@@ -2342,7 +2342,7 @@
   },
   "mcallen": {
     "displayName": "Mcallen",
-    "lastUpdated": "2026-09-06T09:56:44.395Z",
+    "lastUpdated": "2026-09-07T11:03:37.725Z",
     "eventCount": 3,
     "events": [
       {
@@ -2397,31 +2397,31 @@
   },
   "meixedo": {
     "displayName": "Meixedo",
-    "lastUpdated": "2026-09-06T09:56:46.020Z",
+    "lastUpdated": "2026-09-07T11:03:39.291Z",
     "eventCount": 0,
     "events": []
   },
   "melbourne": {
     "displayName": "Melbourne",
-    "lastUpdated": "2026-09-06T09:56:47.800Z",
+    "lastUpdated": "2026-09-07T11:03:41.007Z",
     "eventCount": 0,
     "events": []
   },
   "memphis": {
     "displayName": "Memphis",
-    "lastUpdated": "2026-09-06T09:56:49.536Z",
+    "lastUpdated": "2026-09-07T11:03:42.730Z",
     "eventCount": 0,
     "events": []
   },
   "mesa": {
     "displayName": "Mesa",
-    "lastUpdated": "2026-09-06T09:56:51.321Z",
+    "lastUpdated": "2026-09-07T11:03:44.439Z",
     "eventCount": 0,
     "events": []
   },
   "miami": {
     "displayName": "Miami",
-    "lastUpdated": "2026-09-06T09:56:53.908Z",
+    "lastUpdated": "2026-09-07T11:03:46.523Z",
     "eventCount": 10,
     "events": [
       {
@@ -2588,37 +2588,37 @@
   },
   "michigan": {
     "displayName": "Michigan",
-    "lastUpdated": "2026-09-06T09:56:55.921Z",
+    "lastUpdated": "2026-09-07T11:03:48.357Z",
     "eventCount": 0,
     "events": []
   },
   "milan": {
     "displayName": "Milan",
-    "lastUpdated": "2026-09-06T09:56:57.647Z",
+    "lastUpdated": "2026-09-07T11:03:50.108Z",
     "eventCount": 0,
     "events": []
   },
   "milwaukee": {
     "displayName": "Milwaukee",
-    "lastUpdated": "2026-09-06T09:56:59.474Z",
+    "lastUpdated": "2026-09-07T11:03:51.943Z",
     "eventCount": 0,
     "events": []
   },
   "minneapolis": {
     "displayName": "Minneapolis",
-    "lastUpdated": "2026-09-06T09:57:01.447Z",
+    "lastUpdated": "2026-09-07T11:03:53.818Z",
     "eventCount": 0,
     "events": []
   },
   "monaco": {
     "displayName": "Monaco",
-    "lastUpdated": "2026-09-06T09:57:03.093Z",
+    "lastUpdated": "2026-09-07T11:03:55.307Z",
     "eventCount": 0,
     "events": []
   },
   "montreal": {
     "displayName": "Montreal",
-    "lastUpdated": "2026-09-06T09:57:05.031Z",
+    "lastUpdated": "2026-09-07T11:03:57.186Z",
     "eventCount": 3,
     "events": [
       {
@@ -2673,25 +2673,25 @@
   },
   "munich": {
     "displayName": "Munich",
-    "lastUpdated": "2026-09-06T09:57:06.890Z",
+    "lastUpdated": "2026-09-07T11:03:59.020Z",
     "eventCount": 0,
     "events": []
   },
   "naples": {
     "displayName": "Naples",
-    "lastUpdated": "2026-09-06T09:57:08.557Z",
+    "lastUpdated": "2026-09-07T11:04:00.645Z",
     "eventCount": 0,
     "events": []
   },
   "nashville": {
     "displayName": "Nashville",
-    "lastUpdated": "2026-09-06T09:57:10.514Z",
+    "lastUpdated": "2026-09-07T11:04:02.454Z",
     "eventCount": 0,
     "events": []
   },
   "nevada": {
     "displayName": "Nevada",
-    "lastUpdated": "2026-09-06T09:57:12.514Z",
+    "lastUpdated": "2026-09-07T11:04:04.334Z",
     "eventCount": 9,
     "events": [
       {
@@ -2842,7 +2842,7 @@
   },
   "newjersey": {
     "displayName": "New Jersey",
-    "lastUpdated": "2026-09-06T09:57:14.590Z",
+    "lastUpdated": "2026-09-07T11:04:06.504Z",
     "eventCount": 1,
     "events": [
       {
@@ -2865,7 +2865,7 @@
   },
   "neworleans": {
     "displayName": "New Orleans",
-    "lastUpdated": "2026-09-06T09:57:16.359Z",
+    "lastUpdated": "2026-09-07T11:04:08.216Z",
     "eventCount": 1,
     "events": [
       {
@@ -2888,19 +2888,19 @@
   },
   "newyork": {
     "displayName": "New York",
-    "lastUpdated": "2026-09-06T09:57:18.269Z",
+    "lastUpdated": "2026-09-07T11:04:10.042Z",
     "eventCount": 0,
     "events": []
   },
   "nice": {
     "displayName": "Nice",
-    "lastUpdated": "2026-09-06T09:57:19.983Z",
+    "lastUpdated": "2026-09-07T11:04:11.708Z",
     "eventCount": 0,
     "events": []
   },
   "northcarolina": {
     "displayName": "North Carolina",
-    "lastUpdated": "2026-09-06T09:57:21.856Z",
+    "lastUpdated": "2026-09-07T11:04:13.564Z",
     "eventCount": 4,
     "events": [
       {
@@ -2971,31 +2971,31 @@
   },
   "nuremberg": {
     "displayName": "Nuremberg",
-    "lastUpdated": "2026-09-06T09:57:23.542Z",
+    "lastUpdated": "2026-09-07T11:04:15.241Z",
     "eventCount": 0,
     "events": []
   },
   "oklahomacity": {
     "displayName": "Oklahoma City",
-    "lastUpdated": "2026-09-06T09:57:25.437Z",
+    "lastUpdated": "2026-09-07T11:04:16.992Z",
     "eventCount": 0,
     "events": []
   },
   "omaha": {
     "displayName": "Omaha",
-    "lastUpdated": "2026-09-06T09:57:27.365Z",
+    "lastUpdated": "2026-09-07T11:04:18.806Z",
     "eventCount": 0,
     "events": []
   },
   "oman": {
     "displayName": "Oman",
-    "lastUpdated": "2026-09-06T09:57:29.029Z",
+    "lastUpdated": "2026-09-07T11:04:20.279Z",
     "eventCount": 0,
     "events": []
   },
   "oregon": {
     "displayName": "Oregon",
-    "lastUpdated": "2026-09-06T09:57:30.999Z",
+    "lastUpdated": "2026-09-07T11:04:22.099Z",
     "eventCount": 9,
     "events": [
       {
@@ -3146,43 +3146,43 @@
   },
   "orlando": {
     "displayName": "Orlando",
-    "lastUpdated": "2026-09-06T09:57:32.890Z",
+    "lastUpdated": "2026-09-07T11:04:23.869Z",
     "eventCount": 0,
     "events": []
   },
   "oslo": {
     "displayName": "Oslo",
-    "lastUpdated": "2026-09-06T09:57:34.615Z",
+    "lastUpdated": "2026-09-07T11:04:25.295Z",
     "eventCount": 0,
     "events": []
   },
   "ottawa": {
     "displayName": "Ottawa",
-    "lastUpdated": "2026-09-06T09:57:36.415Z",
+    "lastUpdated": "2026-09-07T11:04:27.021Z",
     "eventCount": 0,
     "events": []
   },
   "pansol": {
     "displayName": "Pansol",
-    "lastUpdated": "2026-09-06T09:57:38.178Z",
+    "lastUpdated": "2026-09-07T11:04:28.614Z",
     "eventCount": 0,
     "events": []
   },
   "paris": {
     "displayName": "Paris",
-    "lastUpdated": "2026-09-06T09:57:39.883Z",
+    "lastUpdated": "2026-09-07T11:04:30.404Z",
     "eventCount": 0,
     "events": []
   },
   "perth": {
     "displayName": "Perth",
-    "lastUpdated": "2026-09-06T09:57:41.589Z",
+    "lastUpdated": "2026-09-07T11:04:32.070Z",
     "eventCount": 0,
     "events": []
   },
   "philadelphia": {
     "displayName": "Philadelphia",
-    "lastUpdated": "2026-09-06T09:57:43.473Z",
+    "lastUpdated": "2026-09-07T11:04:33.883Z",
     "eventCount": 1,
     "events": [
       {
@@ -3205,109 +3205,109 @@
   },
   "phoenix": {
     "displayName": "Phoenix",
-    "lastUpdated": "2026-09-06T09:57:45.313Z",
+    "lastUpdated": "2026-09-07T11:04:35.689Z",
     "eventCount": 0,
     "events": []
   },
   "pittsburgh": {
     "displayName": "Pittsburgh",
-    "lastUpdated": "2026-09-06T09:57:47.102Z",
+    "lastUpdated": "2026-09-07T11:04:37.359Z",
     "eventCount": 0,
     "events": []
   },
   "porto": {
     "displayName": "Porto",
-    "lastUpdated": "2026-09-06T09:57:48.808Z",
+    "lastUpdated": "2026-09-07T11:04:38.996Z",
     "eventCount": 0,
     "events": []
   },
   "prague": {
     "displayName": "Prague",
-    "lastUpdated": "2026-09-06T09:57:50.534Z",
+    "lastUpdated": "2026-09-07T11:04:40.621Z",
     "eventCount": 0,
     "events": []
   },
   "providence": {
     "displayName": "Providence",
-    "lastUpdated": "2026-09-06T09:57:52.632Z",
+    "lastUpdated": "2026-09-07T11:04:42.508Z",
     "eventCount": 0,
     "events": []
   },
   "puertovallarta": {
     "displayName": "Puerto Vallarta",
-    "lastUpdated": "2026-09-06T09:57:55.560Z",
+    "lastUpdated": "2026-09-07T11:04:44.116Z",
     "eventCount": 0,
     "events": []
   },
   "qatar": {
     "displayName": "Qatar",
-    "lastUpdated": "2026-09-06T09:57:57.253Z",
+    "lastUpdated": "2026-09-07T11:04:45.626Z",
     "eventCount": 0,
     "events": []
   },
   "quebeccity": {
     "displayName": "Quebec City",
-    "lastUpdated": "2026-09-06T09:57:58.972Z",
+    "lastUpdated": "2026-09-07T11:04:47.080Z",
     "eventCount": 0,
     "events": []
   },
   "queens": {
     "displayName": "Queens",
-    "lastUpdated": "2026-09-06T09:58:00.676Z",
+    "lastUpdated": "2026-09-07T11:04:48.739Z",
     "eventCount": 0,
     "events": []
   },
   "queenstown": {
     "displayName": "Queenstown",
-    "lastUpdated": "2026-09-06T09:58:02.414Z",
+    "lastUpdated": "2026-09-07T11:04:50.351Z",
     "eventCount": 0,
     "events": []
   },
   "raleigh": {
     "displayName": "Raleigh",
-    "lastUpdated": "2026-09-06T09:58:04.372Z",
+    "lastUpdated": "2026-09-07T11:04:52.116Z",
     "eventCount": 0,
     "events": []
   },
   "reno": {
     "displayName": "Reno",
-    "lastUpdated": "2026-09-06T09:58:06.209Z",
+    "lastUpdated": "2026-09-07T11:04:53.858Z",
     "eventCount": 0,
     "events": []
   },
   "richmond": {
     "displayName": "Richmond",
-    "lastUpdated": "2026-09-06T09:58:07.904Z",
+    "lastUpdated": "2026-09-07T11:04:55.514Z",
     "eventCount": 0,
     "events": []
   },
   "riverside": {
     "displayName": "Riverside",
-    "lastUpdated": "2026-09-06T09:58:09.615Z",
+    "lastUpdated": "2026-09-07T11:04:57.133Z",
     "eventCount": 0,
     "events": []
   },
   "riyadh": {
     "displayName": "Riyadh",
-    "lastUpdated": "2026-09-06T09:58:11.319Z",
+    "lastUpdated": "2026-09-07T11:04:58.736Z",
     "eventCount": 0,
     "events": []
   },
   "rochester": {
     "displayName": "Rochester",
-    "lastUpdated": "2026-09-06T09:58:12.994Z",
+    "lastUpdated": "2026-09-07T11:05:00.348Z",
     "eventCount": 0,
     "events": []
   },
   "rome": {
     "displayName": "Rome",
-    "lastUpdated": "2026-09-06T09:58:14.713Z",
+    "lastUpdated": "2026-09-07T11:05:01.991Z",
     "eventCount": 0,
     "events": []
   },
   "rotterdam": {
     "displayName": "Rotterdam",
-    "lastUpdated": "2026-09-06T09:58:16.699Z",
+    "lastUpdated": "2026-09-07T11:05:03.807Z",
     "eventCount": 1,
     "events": [
       {
@@ -3330,25 +3330,25 @@
   },
   "sacramento": {
     "displayName": "Sacramento",
-    "lastUpdated": "2026-09-06T09:58:18.679Z",
+    "lastUpdated": "2026-09-07T11:05:05.569Z",
     "eventCount": 0,
     "events": []
   },
   "saltlakecity": {
     "displayName": "Salt Lake City",
-    "lastUpdated": "2026-09-06T09:58:20.430Z",
+    "lastUpdated": "2026-09-07T11:05:07.208Z",
     "eventCount": 0,
     "events": []
   },
   "sanantonio": {
     "displayName": "San Antonio",
-    "lastUpdated": "2026-09-06T09:58:22.339Z",
+    "lastUpdated": "2026-09-07T11:05:09.055Z",
     "eventCount": 0,
     "events": []
   },
   "sandiego": {
     "displayName": "San Diego",
-    "lastUpdated": "2026-09-06T09:58:24.129Z",
+    "lastUpdated": "2026-09-07T11:05:10.776Z",
     "eventCount": 1,
     "events": [
       {
@@ -3371,80 +3371,80 @@
   },
   "sanfrancisco": {
     "displayName": "San Francisco",
-    "lastUpdated": "2026-09-06T09:58:25.843Z",
+    "lastUpdated": "2026-09-07T11:05:12.424Z",
     "eventCount": 0,
     "events": []
   },
   "sanjose": {
     "displayName": "San Jose",
-    "lastUpdated": "2026-09-06T09:58:27.614Z",
+    "lastUpdated": "2026-09-07T11:05:14.125Z",
     "eventCount": 0,
     "events": []
   },
   "seattle": {
     "displayName": "Seattle",
-    "lastUpdated": "2026-09-06T09:58:29.599Z",
+    "lastUpdated": "2026-09-07T11:05:15.873Z",
     "eventCount": 0,
     "events": []
   },
   "seville": {
     "displayName": "Seville",
-    "lastUpdated": "2026-09-06T09:58:31.294Z",
+    "lastUpdated": "2026-09-07T11:05:17.512Z",
     "eventCount": 0,
     "events": []
   },
   "shanghai": {
     "displayName": "Shanghai",
-    "lastUpdated": "2026-09-06T09:58:33.020Z",
+    "lastUpdated": "2026-09-07T11:05:19.150Z",
     "eventCount": 0,
     "events": []
   },
   "sheffield": {
     "displayName": "Sheffield",
-    "lastUpdated": "2026-09-06T09:58:34.913Z",
+    "lastUpdated": "2026-09-07T11:05:20.983Z",
     "eventCount": 0,
     "events": []
   },
   "singapore": {
     "displayName": "Singapore",
-    "lastUpdated": "2026-09-06T09:58:36.695Z",
+    "lastUpdated": "2026-09-07T11:05:22.625Z",
     "eventCount": 0,
     "events": []
   },
   "sofia": {
     "displayName": "Sofia",
-    "lastUpdated": "2026-09-06T09:58:38.376Z",
+    "lastUpdated": "2026-09-07T11:05:24.197Z",
     "eventCount": 0,
     "events": []
   },
   "split": {
     "displayName": "Split",
-    "lastUpdated": "2026-09-06T09:58:40.097Z",
+    "lastUpdated": "2026-09-07T11:05:25.792Z",
     "eventCount": 0,
     "events": []
   },
   "stlouis": {
     "displayName": "St Louis",
-    "lastUpdated": "2026-09-06T09:58:41.797Z",
+    "lastUpdated": "2026-09-07T11:05:27.400Z",
     "eventCount": 0,
     "events": []
   },
   "stockholm": {
     "displayName": "Stockholm",
-    "lastUpdated": "2026-09-06T09:58:43.643Z",
+    "lastUpdated": "2026-09-07T11:05:29.065Z",
     "eventCount": 0,
     "events": []
   },
   "stuttgart": {
     "displayName": "Stuttgart",
-    "lastUpdated": "2026-09-06T09:58:45.420Z",
+    "lastUpdated": "2026-09-07T11:05:30.818Z",
     "eventCount": 0,
     "events": []
   },
   "sulzbach": {
     "displayName": "Sulzbach",
-    "lastUpdated": "2026-09-06T09:58:47.414Z",
-    "eventCount": 2,
+    "lastUpdated": "2026-09-07T11:05:32.602Z",
+    "eventCount": 3,
     "events": [
       {
         "id": "Z698xZC2Z16v4fG4uE",
@@ -3460,6 +3460,22 @@
         "genre": "Rock",
         "subGenre": "Pop",
         "image": "https://s1.ticketm.net/dam/a/791/b71f3243-1ee8-4f64-a2e7-a2aa14509791_RETINA_PORTRAIT_16_9.jpg",
+        "priceRange": null
+      },
+      {
+        "id": "Z698xZC2Z1kOg8_3a",
+        "name": "DIGITAL STARS @MIKU EXPO",
+        "url": "https://www.ticketmaster.de/event/digital-stars-miku-expo-tickets/835419489?language=en-us",
+        "date": "2026-11-19",
+        "time": "20:00:00",
+        "venueName": null,
+        "venueAddress": "Hermannstraße 146",
+        "venueCity": "Berlin",
+        "venueCountry": "Germany",
+        "segment": "Music",
+        "genre": "Dance/Electronic",
+        "subGenre": "Dance/Electronic",
+        "image": "https://s1.ticketm.net/dam/a/000/088945ce-5d8d-49fe-9d07-547f8e62a000_RETINA_PORTRAIT_16_9.jpg",
         "priceRange": null
       },
       {
@@ -3482,31 +3498,31 @@
   },
   "sydney": {
     "displayName": "Sydney",
-    "lastUpdated": "2026-09-06T09:58:49.419Z",
+    "lastUpdated": "2026-09-07T11:05:34.469Z",
     "eventCount": 0,
     "events": []
   },
   "tallahassee": {
     "displayName": "Tallahassee",
-    "lastUpdated": "2026-09-06T09:58:51.108Z",
+    "lastUpdated": "2026-09-07T11:05:36.164Z",
     "eventCount": 0,
     "events": []
   },
   "tampa": {
     "displayName": "Tampa",
-    "lastUpdated": "2026-09-06T09:58:53.101Z",
+    "lastUpdated": "2026-09-07T11:05:37.887Z",
     "eventCount": 0,
     "events": []
   },
   "tbilisi": {
     "displayName": "Tbilisi",
-    "lastUpdated": "2026-09-06T09:58:54.842Z",
+    "lastUpdated": "2026-09-07T11:05:39.470Z",
     "eventCount": 0,
     "events": []
   },
   "texas": {
     "displayName": "Texas",
-    "lastUpdated": "2026-09-06T09:58:57.001Z",
+    "lastUpdated": "2026-09-07T11:05:41.520Z",
     "eventCount": 10,
     "events": [
       {
@@ -3673,13 +3689,13 @@
   },
   "tokyo": {
     "displayName": "Tokyo",
-    "lastUpdated": "2026-09-06T09:58:58.727Z",
+    "lastUpdated": "2026-09-07T11:05:43.102Z",
     "eventCount": 0,
     "events": []
   },
   "toronto": {
     "displayName": "Toronto",
-    "lastUpdated": "2026-09-06T09:59:00.658Z",
+    "lastUpdated": "2026-09-07T11:05:44.857Z",
     "eventCount": 1,
     "events": [
       {
@@ -3702,19 +3718,19 @@
   },
   "toulouse": {
     "displayName": "Toulouse",
-    "lastUpdated": "2026-09-06T09:59:02.365Z",
+    "lastUpdated": "2026-09-07T11:05:46.521Z",
     "eventCount": 0,
     "events": []
   },
   "tucson": {
     "displayName": "Tucson",
-    "lastUpdated": "2026-09-06T09:59:04.188Z",
+    "lastUpdated": "2026-09-07T11:05:48.223Z",
     "eventCount": 0,
     "events": []
   },
   "tulsa": {
     "displayName": "Tulsa",
-    "lastUpdated": "2026-09-06T09:59:06.368Z",
+    "lastUpdated": "2026-09-07T11:05:50.060Z",
     "eventCount": 9,
     "events": [
       {
@@ -3865,55 +3881,55 @@
   },
   "valencia": {
     "displayName": "Valencia",
-    "lastUpdated": "2026-09-06T09:59:08.024Z",
+    "lastUpdated": "2026-09-07T11:05:51.602Z",
     "eventCount": 0,
     "events": []
   },
   "vancouver": {
     "displayName": "Vancouver",
-    "lastUpdated": "2026-09-06T09:59:09.893Z",
+    "lastUpdated": "2026-09-07T11:05:53.281Z",
     "eventCount": 0,
     "events": []
   },
   "venice": {
     "displayName": "Venice",
-    "lastUpdated": "2026-09-06T09:59:11.673Z",
+    "lastUpdated": "2026-09-07T11:05:54.895Z",
     "eventCount": 0,
     "events": []
   },
   "victoria": {
     "displayName": "Victoria",
-    "lastUpdated": "2026-09-06T09:59:13.422Z",
+    "lastUpdated": "2026-09-07T11:05:56.497Z",
     "eventCount": 0,
     "events": []
   },
   "vienna": {
     "displayName": "Vienna",
-    "lastUpdated": "2026-09-06T09:59:15.143Z",
+    "lastUpdated": "2026-09-07T11:05:58.098Z",
     "eventCount": 0,
     "events": []
   },
   "virginiabeach": {
     "displayName": "Virginia Beach",
-    "lastUpdated": "2026-09-06T09:59:16.852Z",
+    "lastUpdated": "2026-09-07T11:05:59.845Z",
     "eventCount": 0,
     "events": []
   },
   "warren": {
     "displayName": "Warren",
-    "lastUpdated": "2026-09-06T09:59:18.508Z",
+    "lastUpdated": "2026-09-07T11:06:01.431Z",
     "eventCount": 0,
     "events": []
   },
   "warsaw": {
     "displayName": "Warsaw",
-    "lastUpdated": "2026-09-06T09:59:20.402Z",
+    "lastUpdated": "2026-09-07T11:06:03.124Z",
     "eventCount": 0,
     "events": []
   },
   "washington": {
     "displayName": "Washington",
-    "lastUpdated": "2026-09-06T09:59:22.327Z",
+    "lastUpdated": "2026-09-07T11:06:04.927Z",
     "eventCount": 1,
     "events": [
       {
@@ -3936,73 +3952,9 @@
   },
   "westgate": {
     "displayName": "Westgate",
-    "lastUpdated": "2026-09-06T09:59:24.846Z",
+    "lastUpdated": "2026-09-07T11:06:07.299Z",
     "eventCount": 10,
     "events": [
-      {
-        "id": "LvZ18QOUiN_3poOZvzMqz",
-        "name": "Jurassic Quest | AG Expo Park | Franklin, TN 2026",
-        "url": "https://www.universe.com/events/jurassic-quest-ag-expo-park-franklin-tn-2026-tickets-RV9DT8?ref=ticketmaster",
-        "date": "2026-09-06",
-        "time": "09:00:00",
-        "venueName": "Williamson County Ag Expo Park",
-        "venueAddress": "4215 Long Ln",
-        "venueCity": "Franklin",
-        "venueCountry": "United States Of America",
-        "segment": "Miscellaneous",
-        "genre": "Fairs & Festivals",
-        "subGenre": "Fairs & Festivals",
-        "image": "https://s1.ticketm.net/dam/a/4c2/bac7ae96-6fcc-42ac-882a-fb3843e1f4c2_RETINA_PORTRAIT_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "LvZ18QOUiN_3poOZvzMqy",
-        "name": "Jurassic Quest | AG Expo Park | Franklin, TN 2026",
-        "url": "https://www.universe.com/events/jurassic-quest-ag-expo-park-franklin-tn-2026-tickets-RV9DT8?ref=ticketmaster",
-        "date": "2026-09-06",
-        "time": "12:00:00",
-        "venueName": "Williamson County Ag Expo Park",
-        "venueAddress": "4215 Long Ln",
-        "venueCity": "Franklin",
-        "venueCountry": "United States Of America",
-        "segment": "Miscellaneous",
-        "genre": "Fairs & Festivals",
-        "subGenre": "Fairs & Festivals",
-        "image": "https://s1.ticketm.net/dam/a/4c2/bac7ae96-6fcc-42ac-882a-fb3843e1f4c2_RETINA_PORTRAIT_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "LvZ18QOUiN_3poOZvzMqB",
-        "name": "Jurassic Quest | AG Expo Park | Franklin, TN 2026",
-        "url": "https://www.universe.com/events/jurassic-quest-ag-expo-park-franklin-tn-2026-tickets-RV9DT8?ref=ticketmaster",
-        "date": "2026-09-06",
-        "time": "15:00:00",
-        "venueName": "Williamson County Ag Expo Park",
-        "venueAddress": "4215 Long Ln",
-        "venueCity": "Franklin",
-        "venueCountry": "United States Of America",
-        "segment": "Miscellaneous",
-        "genre": "Fairs & Festivals",
-        "subGenre": "Fairs & Festivals",
-        "image": "https://s1.ticketm.net/dam/a/4c2/bac7ae96-6fcc-42ac-882a-fb3843e1f4c2_RETINA_PORTRAIT_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "Z7r9jZ1A7Ox4U",
-        "name": "Denver Summit FC vs. NJ/NY Gotham FC",
-        "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Ox4U",
-        "date": "2026-09-06",
-        "time": "12:00:00",
-        "venueName": "Centennial Stadium",
-        "venueAddress": "Potomac Park",
-        "venueCity": "Centennial",
-        "venueCountry": "United States Of America",
-        "segment": "Sports",
-        "genre": "Soccer",
-        "subGenre": "Soccer",
-        "image": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
-        "priceRange": null
-      },
       {
         "id": "LvZ18QOUiN1RZNZZvEyG8",
         "name": "Jurassic Quest | AG Expo Park | Franklin, TN 2026",
@@ -4098,30 +4050,94 @@
         "subGenre": "Fairs & Festivals",
         "image": "https://s1.ticketm.net/dam/a/4c2/bac7ae96-6fcc-42ac-882a-fb3843e1f4c2_RETINA_PORTRAIT_16_9.jpg",
         "priceRange": null
+      },
+      {
+        "id": "LvZ18Qx5tbOj--YZvnRF2",
+        "name": "Jurassic Quest | Miami-Dade County Fair & Expo | Miami, FL 2026",
+        "url": "https://www.universe.com/events/jurassic-quest-miami-dade-county-fair-expo-miami-fl-2026-tickets-K3Y0T5?ref=ticketmaster",
+        "date": "2026-09-11",
+        "time": "17:00:00",
+        "venueName": "Miami Dade Fair Expo Center",
+        "venueAddress": "10901 Coral Way (SW 24 St.)",
+        "venueCity": "Miami",
+        "venueCountry": "United States Of America",
+        "segment": "Miscellaneous",
+        "genre": "Fairs & Festivals",
+        "subGenre": "Fairs & Festivals",
+        "image": "https://s1.ticketm.net/dam/a/4c2/bac7ae96-6fcc-42ac-882a-fb3843e1f4c2_RETINA_PORTRAIT_16_9.jpg",
+        "priceRange": null
+      },
+      {
+        "id": "LvZ18QIwzGq0zZOIze96R",
+        "name": "Jurassic Quest | Lamar-Dixon Expo Center | Gonzales, LA 2026",
+        "url": "https://www.universe.com/events/jurassic-quest-lamar-dixon-expo-center-gonzales-la-2026-tickets-30QXTW?ref=ticketmaster",
+        "date": "2026-09-11",
+        "time": "17:00:00",
+        "venueName": "Lamar-Dixon Expo Center",
+        "venueAddress": "9039 St. Landry Road",
+        "venueCity": "Gonzales",
+        "venueCountry": "United States Of America",
+        "segment": "Miscellaneous",
+        "genre": "Fairs & Festivals",
+        "subGenre": "Fairs & Festivals",
+        "image": "https://s1.ticketm.net/dam/a/4c2/bac7ae96-6fcc-42ac-882a-fb3843e1f4c2_RETINA_PORTRAIT_16_9.jpg",
+        "priceRange": null
+      },
+      {
+        "id": "vvG1IZ_eUSZFFa",
+        "name": "Angel City FC vs. Denver Summit FC",
+        "url": "https://www.ticketmaster.com/angel-city-fc-vs-denver-summit-los-angeles-california-09-11-2026/event/0A00642DB3008209",
+        "date": "2026-09-11",
+        "time": "19:00:00",
+        "venueName": "BMO Stadium",
+        "venueAddress": "3939 S. Figueroa St",
+        "venueCity": "Los Angeles",
+        "venueCountry": "United States Of America",
+        "segment": "Sports",
+        "genre": "Soccer",
+        "subGenre": "Soccer",
+        "image": "https://s1.ticketm.net/dam/a/02c/68e12c1f-c3b1-4162-8c89-199cbe72202c_SOURCE",
+        "priceRange": null
+      },
+      {
+        "id": "LvZ18Qx5tbOj--YZvnRF8",
+        "name": "Jurassic Quest | Miami-Dade County Fair & Expo | Miami, FL 2026",
+        "url": "https://www.universe.com/events/jurassic-quest-miami-dade-county-fair-expo-miami-fl-2026-tickets-K3Y0T5?ref=ticketmaster",
+        "date": "2026-09-12",
+        "time": "08:00:00",
+        "venueName": "Miami Dade Fair Expo Center",
+        "venueAddress": "10901 Coral Way (SW 24 St.)",
+        "venueCity": "Miami",
+        "venueCountry": "United States Of America",
+        "segment": "Miscellaneous",
+        "genre": "Fairs & Festivals",
+        "subGenre": "Fairs & Festivals",
+        "image": "https://s1.ticketm.net/dam/a/4c2/bac7ae96-6fcc-42ac-882a-fb3843e1f4c2_RETINA_PORTRAIT_16_9.jpg",
+        "priceRange": null
       }
     ]
   },
   "winnipeg": {
     "displayName": "Winnipeg",
-    "lastUpdated": "2026-09-06T09:59:26.771Z",
+    "lastUpdated": "2026-09-07T11:06:09.032Z",
     "eventCount": 0,
     "events": []
   },
   "yerevan": {
     "displayName": "Yerevan",
-    "lastUpdated": "2026-09-06T09:59:28.511Z",
+    "lastUpdated": "2026-09-07T11:06:11.180Z",
     "eventCount": 0,
     "events": []
   },
   "zagreb": {
     "displayName": "Zagreb",
-    "lastUpdated": "2026-09-06T09:59:30.166Z",
+    "lastUpdated": "2026-09-07T11:06:12.766Z",
     "eventCount": 0,
     "events": []
   },
   "zurich": {
     "displayName": "Zurich",
-    "lastUpdated": "2026-09-06T09:59:31.922Z",
+    "lastUpdated": "2026-09-07T11:06:14.295Z",
     "eventCount": 0,
     "events": []
   }
