@@ -1,37 +1,37 @@
 {
   "abudhabi": {
     "displayName": "Abu Dhabi",
-    "lastUpdated": "2026-09-19T09:55:18.103Z",
+    "lastUpdated": "2026-09-20T10:16:19.217Z",
     "eventCount": 0,
     "events": []
   },
   "albany": {
     "displayName": "Albany",
-    "lastUpdated": "2026-09-19T09:55:20.120Z",
+    "lastUpdated": "2026-09-20T10:16:21.333Z",
     "eventCount": 0,
     "events": []
   },
   "albuquerque": {
     "displayName": "Albuquerque",
-    "lastUpdated": "2026-09-19T09:55:21.896Z",
+    "lastUpdated": "2026-09-20T10:16:23.385Z",
     "eventCount": 0,
     "events": []
   },
   "alkhobar": {
     "displayName": "Al Khobar",
-    "lastUpdated": "2026-09-19T09:55:23.620Z",
+    "lastUpdated": "2026-09-20T10:16:25.084Z",
     "eventCount": 0,
     "events": []
   },
   "allentown": {
     "displayName": "Allentown",
-    "lastUpdated": "2026-09-19T09:55:25.577Z",
+    "lastUpdated": "2026-09-20T10:16:27.103Z",
     "eventCount": 0,
     "events": []
   },
   "amsterdam": {
     "displayName": "Amsterdam",
-    "lastUpdated": "2026-09-19T09:55:27.552Z",
+    "lastUpdated": "2026-09-20T10:16:29.371Z",
     "eventCount": 2,
     "events": [
       {
@@ -70,25 +70,25 @@
   },
   "ankara": {
     "displayName": "Ankara",
-    "lastUpdated": "2026-09-19T09:55:29.314Z",
+    "lastUpdated": "2026-09-20T10:16:31.304Z",
     "eventCount": 0,
     "events": []
   },
   "arizona": {
     "displayName": "Arizona",
-    "lastUpdated": "2026-09-19T09:55:31.194Z",
+    "lastUpdated": "2026-09-20T10:16:33.541Z",
     "eventCount": 0,
     "events": []
   },
   "athens": {
     "displayName": "Athens",
-    "lastUpdated": "2026-09-19T09:55:32.894Z",
+    "lastUpdated": "2026-09-20T10:16:35.329Z",
     "eventCount": 0,
     "events": []
   },
   "atlanta": {
     "displayName": "Atlanta",
-    "lastUpdated": "2026-09-19T09:55:34.907Z",
+    "lastUpdated": "2026-09-20T10:16:37.401Z",
     "eventCount": 1,
     "events": [
       {
@@ -111,13 +111,13 @@
   },
   "auckland": {
     "displayName": "Auckland",
-    "lastUpdated": "2026-09-19T09:55:36.868Z",
+    "lastUpdated": "2026-09-20T10:16:39.426Z",
     "eventCount": 0,
     "events": []
   },
   "austin": {
     "displayName": "Austin",
-    "lastUpdated": "2026-09-19T09:55:38.677Z",
+    "lastUpdated": "2026-09-20T10:16:41.409Z",
     "eventCount": 3,
     "events": [
       {
@@ -133,7 +133,7 @@
         "segment": "Music",
         "genre": "R&B",
         "subGenre": "Funk",
-        "image": "https://s1.ticketm.net/dam/e/6fd/5d6692b6-f1a9-448f-b624-ebca4be886fd_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+        "image": "https://s1.ticketm.net/dam/e/6fd/5d6692b6-f1a9-448f-b624-ebca4be886fd_RETINA_LANDSCAPE_16_9.jpg",
         "priceRange": null
       },
       {
@@ -147,8 +147,8 @@
         "venueCity": "Austin",
         "venueCountry": "United States Of America",
         "segment": "Music",
-        "genre": "Pop",
-        "subGenre": "Electro Pop",
+        "genre": "Dance/Electronic",
+        "subGenre": "Amapiano",
         "image": "https://s1.ticketm.net/dam/a/b99/44736a1a-46cb-41c3-8c65-d735b5a45b99_RETINA_LANDSCAPE_16_9.jpg",
         "priceRange": null
       },
@@ -172,31 +172,31 @@
   },
   "bahrain": {
     "displayName": "Bahrain",
-    "lastUpdated": "2026-09-19T09:55:40.291Z",
+    "lastUpdated": "2026-09-20T10:16:43.172Z",
     "eventCount": 0,
     "events": []
   },
   "bali": {
     "displayName": "Bali",
-    "lastUpdated": "2026-09-19T09:55:42.060Z",
+    "lastUpdated": "2026-09-20T10:16:45.131Z",
     "eventCount": 0,
     "events": []
   },
   "baltimore": {
     "displayName": "Baltimore",
-    "lastUpdated": "2026-09-19T09:55:43.966Z",
+    "lastUpdated": "2026-09-20T10:16:47.169Z",
     "eventCount": 0,
     "events": []
   },
   "barcelona": {
     "displayName": "Barcelona",
-    "lastUpdated": "2026-09-19T09:55:45.696Z",
+    "lastUpdated": "2026-09-20T10:16:49.004Z",
     "eventCount": 0,
     "events": []
   },
   "batonrouge": {
     "displayName": "Baton Rouge",
-    "lastUpdated": "2026-09-19T09:55:47.392Z",
+    "lastUpdated": "2026-09-20T10:16:51.043Z",
     "eventCount": 1,
     "events": [
       {
@@ -219,25 +219,25 @@
   },
   "beijing": {
     "displayName": "Beijing",
-    "lastUpdated": "2026-09-19T09:55:49.158Z",
+    "lastUpdated": "2026-09-20T10:16:52.939Z",
     "eventCount": 0,
     "events": []
   },
   "beirut": {
     "displayName": "Beirut",
-    "lastUpdated": "2026-09-19T09:55:50.884Z",
+    "lastUpdated": "2026-09-20T10:16:54.774Z",
     "eventCount": 0,
     "events": []
   },
   "belgrade": {
     "displayName": "Belgrade",
-    "lastUpdated": "2026-09-19T09:55:52.578Z",
+    "lastUpdated": "2026-09-20T10:16:56.602Z",
     "eventCount": 0,
     "events": []
   },
   "berlin": {
     "displayName": "Berlin",
-    "lastUpdated": "2026-09-19T09:55:54.549Z",
+    "lastUpdated": "2026-09-20T10:16:58.668Z",
     "eventCount": 2,
     "events": [
       {
@@ -276,25 +276,25 @@
   },
   "birmingham": {
     "displayName": "Birmingham",
-    "lastUpdated": "2026-09-19T09:55:56.381Z",
+    "lastUpdated": "2026-09-20T10:17:00.525Z",
     "eventCount": 0,
     "events": []
   },
   "bologna": {
     "displayName": "Bologna",
-    "lastUpdated": "2026-09-19T09:55:58.089Z",
+    "lastUpdated": "2026-09-20T10:17:02.382Z",
     "eventCount": 0,
     "events": []
   },
   "bordeaux": {
     "displayName": "Bordeaux",
-    "lastUpdated": "2026-09-19T09:55:59.807Z",
+    "lastUpdated": "2026-09-20T10:17:04.163Z",
     "eventCount": 0,
     "events": []
   },
   "boston": {
     "displayName": "Boston",
-    "lastUpdated": "2026-09-19T09:56:01.758Z",
+    "lastUpdated": "2026-09-20T10:17:06.302Z",
     "eventCount": 1,
     "events": [
       {
@@ -317,25 +317,25 @@
   },
   "bratislava": {
     "displayName": "Bratislava",
-    "lastUpdated": "2026-09-19T09:56:03.593Z",
+    "lastUpdated": "2026-09-20T10:17:08.156Z",
     "eventCount": 0,
     "events": []
   },
   "bridgeport": {
     "displayName": "Bridgeport",
-    "lastUpdated": "2026-09-19T09:56:05.324Z",
+    "lastUpdated": "2026-09-20T10:17:09.972Z",
     "eventCount": 0,
     "events": []
   },
   "brisbane": {
     "displayName": "Brisbane",
-    "lastUpdated": "2026-09-19T09:56:07.080Z",
+    "lastUpdated": "2026-09-20T10:17:11.901Z",
     "eventCount": 0,
     "events": []
   },
   "bristol": {
     "displayName": "Bristol",
-    "lastUpdated": "2026-09-19T09:56:08.812Z",
+    "lastUpdated": "2026-09-20T10:17:13.804Z",
     "eventCount": 1,
     "events": [
       {
@@ -358,19 +358,19 @@
   },
   "brno": {
     "displayName": "Brno",
-    "lastUpdated": "2026-09-19T09:56:10.544Z",
+    "lastUpdated": "2026-09-20T10:17:15.684Z",
     "eventCount": 0,
     "events": []
   },
   "bronx": {
     "displayName": "Bronx",
-    "lastUpdated": "2026-09-19T09:56:12.259Z",
+    "lastUpdated": "2026-09-20T10:17:17.592Z",
     "eventCount": 0,
     "events": []
   },
   "brooklyn": {
     "displayName": "Brooklyn",
-    "lastUpdated": "2026-09-19T09:56:14.330Z",
+    "lastUpdated": "2026-09-20T10:17:19.658Z",
     "eventCount": 1,
     "events": [
       {
@@ -384,8 +384,8 @@
         "venueCity": "Brooklyn",
         "venueCountry": "United States Of America",
         "segment": "Music",
-        "genre": "Pop",
-        "subGenre": "Electro Pop",
+        "genre": "Dance/Electronic",
+        "subGenre": "Amapiano",
         "image": "https://s1.ticketm.net/dam/a/b99/44736a1a-46cb-41c3-8c65-d735b5a45b99_RETINA_LANDSCAPE_16_9.jpg",
         "priceRange": null
       }
@@ -393,7 +393,7 @@
   },
   "brussels": {
     "displayName": "Brussels",
-    "lastUpdated": "2026-09-19T09:56:16.145Z",
+    "lastUpdated": "2026-09-20T10:17:21.629Z",
     "eventCount": 1,
     "events": [
       {
@@ -416,49 +416,33 @@
   },
   "bucharest": {
     "displayName": "Bucharest",
-    "lastUpdated": "2026-09-19T09:56:17.834Z",
+    "lastUpdated": "2026-09-20T10:17:23.431Z",
     "eventCount": 0,
     "events": []
   },
   "budapest": {
     "displayName": "Budapest",
-    "lastUpdated": "2026-09-19T09:56:19.585Z",
+    "lastUpdated": "2026-09-20T10:17:25.232Z",
     "eventCount": 0,
     "events": []
   },
   "buffalo": {
     "displayName": "Buffalo",
-    "lastUpdated": "2026-09-19T09:56:21.365Z",
+    "lastUpdated": "2026-09-20T10:17:26.933Z",
     "eventCount": 0,
     "events": []
   },
   "calgary": {
     "displayName": "Calgary",
-    "lastUpdated": "2026-09-19T09:56:23.117Z",
+    "lastUpdated": "2026-09-20T10:17:28.723Z",
     "eventCount": 0,
     "events": []
   },
   "california": {
     "displayName": "California",
-    "lastUpdated": "2026-09-19T09:56:25.208Z",
+    "lastUpdated": "2026-09-20T10:17:30.964Z",
     "eventCount": 10,
     "events": [
-      {
-        "id": "vvG10Z_2ehsEh9",
-        "name": "2026 Lake Elsinore Mariachi Fest Tequila & Mezcal Expo",
-        "url": "https://www.ticketmaster.com/2026-lake-elsinore-mariachi-fest-tequila-lake-elsinore-california-09-19-2026/event/090064F09BC676D7",
-        "date": "2026-09-19",
-        "time": "18:00:00",
-        "venueName": "LAKE ELSINORE DIAMOND STADIUM",
-        "venueAddress": "500 DIAMOND DR.",
-        "venueCity": "Lake Elsinore",
-        "venueCountry": "United States Of America",
-        "segment": "Miscellaneous",
-        "genre": "Undefined",
-        "subGenre": "Undefined",
-        "image": "https://s1.ticketm.net/dam/e/d5e/fc240842-02db-4faf-87f7-ceda3e748d5e_TABLET_LANDSCAPE_16_9.jpg",
-        "priceRange": null
-      },
       {
         "id": "vvG1iZ_uNIhgSN",
         "name": "Latin Music Conference SINGLE DAY Ticket",
@@ -602,30 +586,46 @@
         "subGenre": null,
         "image": "https://s1.ticketm.net/dam/c/ab4/6367448e-7474-4650-bd2d-02a8f7166ab4_106161_TABLET_LANDSCAPE_16_9.jpg",
         "priceRange": "USD 23.39-23.39"
+      },
+      {
+        "id": "G5vYZ_5925f5N",
+        "name": "JOHN SUMMIT - CTRL ESCAPE ARENA TOUR",
+        "url": "https://www.ticketmaster.com/john-summit-ctrl-escape-arena-tour-oakland-california-12-05-2026/event/1C0064B5CF2D42E3",
+        "date": "2026-12-05",
+        "time": "19:00:00",
+        "venueName": "Oakland Arena",
+        "venueAddress": "7000 Coliseum Way",
+        "venueCity": "Oakland",
+        "venueCountry": "United States Of America",
+        "segment": "Music",
+        "genre": "Dance/Electronic",
+        "subGenre": "Amapiano",
+        "image": "https://s1.ticketm.net/dam/a/b99/44736a1a-46cb-41c3-8c65-d735b5a45b99_RETINA_LANDSCAPE_16_9.jpg",
+        "priceRange": null
       }
     ]
   },
   "cambridge": {
     "displayName": "Cambridge",
-    "lastUpdated": "2026-09-19T09:56:26.879Z",
+    "lastUpdated": "2026-09-20T10:17:32.824Z",
     "eventCount": 0,
     "events": []
   },
   "capecoral": {
     "displayName": "Cape Coral",
-    "lastUpdated": "2026-09-19T09:56:28.618Z",
+    "lastUpdated": "2026-09-20T10:17:34.694Z",
     "eventCount": 0,
     "events": []
   },
   "charleston": {
     "displayName": "Charleston",
-    "lastUpdated": "2026-09-19T09:56:30.449Z",
+    "lastUpdated": "2026-09-20T10:17:36.639Z",
     "eventCount": 0,
     "events": []
   },
   "charlotte": {
     "displayName": "Charlotte",
-    "lastUpdated": "2026-09-19T09:56:32.333Z",
+    "lastUpdated": "2026-09-20T10:17:38.664Z",
     "eventCount": 2,
     "events": [
       {
@@ -664,13 +664,13 @@
   },
   "chengjiang": {
     "displayName": "Chengjiang",
-    "lastUpdated": "2026-09-19T09:56:34.007Z",
+    "lastUpdated": "2026-09-20T10:17:40.285Z",
     "eventCount": 0,
     "events": []
   },
   "chicago": {
     "displayName": "Chicago",
-    "lastUpdated": "2026-09-19T09:56:36.009Z",
+    "lastUpdated": "2026-09-20T10:17:42.391Z",
     "eventCount": 6,
     "events": [
       {
@@ -773,13 +773,13 @@
   },
   "cincinnati": {
     "displayName": "Cincinnati",
-    "lastUpdated": "2026-09-19T09:56:37.770Z",
+    "lastUpdated": "2026-09-20T10:17:44.252Z",
     "eventCount": 0,
     "events": []
   },
   "cleveland": {
     "displayName": "Cleveland",
-    "lastUpdated": "2026-09-19T09:56:39.770Z",
+    "lastUpdated": "2026-09-20T10:17:46.315Z",
     "eventCount": 10,
     "events": [
       {
@@ -946,25 +946,9 @@
   },
   "colorado": {
     "displayName": "Colorado",
-    "lastUpdated": "2026-09-19T09:56:41.981Z",
-    "eventCount": 4,
+    "lastUpdated": "2026-09-20T10:17:48.532Z",
+    "eventCount": 3,
     "events": [
-      {
-        "id": "Z7r9jZ1A7Ox4z",
-        "name": "Denver Summit FC vs. Seattle Reign FC",
-        "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Ox4z",
-        "date": "2026-09-19",
-        "time": "18:45:00",
-        "venueName": "Centennial Stadium",
-        "venueAddress": "Potomac Park",
-        "venueCity": "Centennial",
-        "venueCountry": "United States Of America",
-        "segment": "Sports",
-        "genre": "Soccer",
-        "subGenre": "Soccer",
-        "image": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
-        "priceRange": null
-      },
       {
         "id": "LvZ18QO6zsV9_E8ZMigcr",
         "name": "BRICK CONVENTION | LEGO Fan Expo | Colorado Springs, CO",
@@ -1017,7 +1001,7 @@
   },
   "coloradosprings": {
     "displayName": "Colorado Springs",
-    "lastUpdated": "2026-09-19T09:56:43.702Z",
+    "lastUpdated": "2026-09-20T10:17:50.362Z",
     "eventCount": 1,
     "events": [
       {
@@ -1040,7 +1024,7 @@
   },
   "columbus": {
     "displayName": "Columbus",
-    "lastUpdated": "2026-09-19T09:56:45.539Z",
+    "lastUpdated": "2026-09-20T10:17:52.225Z",
     "eventCount": 1,
     "events": [
       {
@@ -1063,79 +1047,79 @@
   },
   "concord": {
     "displayName": "Concord",
-    "lastUpdated": "2026-09-19T09:56:47.223Z",
+    "lastUpdated": "2026-09-20T10:17:54.054Z",
     "eventCount": 0,
     "events": []
   },
   "connecticut": {
     "displayName": "Connecticut",
-    "lastUpdated": "2026-09-19T09:56:49.152Z",
+    "lastUpdated": "2026-09-20T10:17:55.948Z",
     "eventCount": 0,
     "events": []
   },
   "copenhagen": {
     "displayName": "Copenhagen",
-    "lastUpdated": "2026-09-19T09:56:50.854Z",
+    "lastUpdated": "2026-09-20T10:17:57.826Z",
     "eventCount": 0,
     "events": []
   },
   "cyprus": {
     "displayName": "Cyprus",
-    "lastUpdated": "2026-09-19T09:56:52.461Z",
+    "lastUpdated": "2026-09-20T10:17:59.461Z",
     "eventCount": 0,
     "events": []
   },
   "dallas": {
     "displayName": "Dallas",
-    "lastUpdated": "2026-09-19T09:56:54.452Z",
+    "lastUpdated": "2026-09-20T10:18:01.610Z",
     "eventCount": 0,
     "events": []
   },
   "dammam": {
     "displayName": "Dammam",
-    "lastUpdated": "2026-09-19T09:56:56.158Z",
+    "lastUpdated": "2026-09-20T10:18:03.439Z",
     "eventCount": 0,
     "events": []
   },
   "dayton": {
     "displayName": "Dayton",
-    "lastUpdated": "2026-09-19T09:56:57.931Z",
+    "lastUpdated": "2026-09-20T10:18:05.300Z",
     "eventCount": 0,
     "events": []
   },
   "denver": {
     "displayName": "Denver",
-    "lastUpdated": "2026-09-19T09:57:00.204Z",
+    "lastUpdated": "2026-09-20T10:18:07.792Z",
     "eventCount": 0,
     "events": []
   },
   "detroit": {
     "displayName": "Detroit",
-    "lastUpdated": "2026-09-19T09:57:02.118Z",
+    "lastUpdated": "2026-09-20T10:18:09.743Z",
     "eventCount": 0,
     "events": []
   },
   "dresden": {
     "displayName": "Dresden",
-    "lastUpdated": "2026-09-19T09:57:03.881Z",
+    "lastUpdated": "2026-09-20T10:18:11.659Z",
     "eventCount": 0,
     "events": []
   },
   "dubai": {
     "displayName": "Dubai",
-    "lastUpdated": "2026-09-19T09:57:05.664Z",
+    "lastUpdated": "2026-09-20T10:18:13.679Z",
     "eventCount": 0,
     "events": []
   },
   "dublin": {
     "displayName": "Dublin",
-    "lastUpdated": "2026-09-19T09:57:07.463Z",
+    "lastUpdated": "2026-09-20T10:18:15.694Z",
     "eventCount": 0,
     "events": []
   },
   "dusseldorf": {
     "displayName": "Dusseldorf",
-    "lastUpdated": "2026-09-19T09:57:09.308Z",
+    "lastUpdated": "2026-09-20T10:18:17.580Z",
     "eventCount": 1,
     "events": [
       {
@@ -1158,19 +1142,19 @@
   },
   "edinburgh": {
     "displayName": "Edinburgh",
-    "lastUpdated": "2026-09-19T09:57:11.071Z",
+    "lastUpdated": "2026-09-20T10:18:19.482Z",
     "eventCount": 0,
     "events": []
   },
   "edmonton": {
     "displayName": "Edmonton",
-    "lastUpdated": "2026-09-19T09:57:13.018Z",
+    "lastUpdated": "2026-09-20T10:18:21.643Z",
     "eventCount": 0,
     "events": []
   },
   "elpaso": {
     "displayName": "El Paso",
-    "lastUpdated": "2026-09-19T09:57:14.962Z",
+    "lastUpdated": "2026-09-20T10:18:23.604Z",
     "eventCount": 1,
     "events": [
       {
@@ -1193,19 +1177,19 @@
   },
   "esbjerg": {
     "displayName": "Esbjerg",
-    "lastUpdated": "2026-09-19T09:57:16.705Z",
+    "lastUpdated": "2026-09-20T10:18:25.320Z",
     "eventCount": 0,
     "events": []
   },
   "florence": {
     "displayName": "Florence",
-    "lastUpdated": "2026-09-19T09:57:18.412Z",
+    "lastUpdated": "2026-09-20T10:18:27.151Z",
     "eventCount": 0,
     "events": []
   },
   "florida": {
     "displayName": "Florida",
-    "lastUpdated": "2026-09-19T09:57:20.514Z",
+    "lastUpdated": "2026-09-20T10:18:29.489Z",
     "eventCount": 3,
     "events": [
       {
@@ -1260,7 +1244,7 @@
   },
   "fortworth": {
     "displayName": "Fort Worth",
-    "lastUpdated": "2026-09-19T09:57:22.320Z",
+    "lastUpdated": "2026-09-20T10:18:31.470Z",
     "eventCount": 10,
     "events": [
       {
@@ -1427,37 +1411,37 @@
   },
   "france": {
     "displayName": "France",
-    "lastUpdated": "2026-09-19T09:57:24.021Z",
+    "lastUpdated": "2026-09-20T10:18:33.174Z",
     "eventCount": 0,
     "events": []
   },
   "frankfurt": {
     "displayName": "Frankfurt",
-    "lastUpdated": "2026-09-19T09:57:25.747Z",
+    "lastUpdated": "2026-09-20T10:18:35.015Z",
     "eventCount": 0,
     "events": []
   },
   "fresno": {
     "displayName": "Fresno",
-    "lastUpdated": "2026-09-19T09:57:27.605Z",
+    "lastUpdated": "2026-09-20T10:18:36.976Z",
     "eventCount": 0,
     "events": []
   },
   "geneva": {
     "displayName": "Geneva",
-    "lastUpdated": "2026-09-19T09:57:29.405Z",
+    "lastUpdated": "2026-09-20T10:18:38.781Z",
     "eventCount": 0,
     "events": []
   },
   "genoa": {
     "displayName": "Genoa",
-    "lastUpdated": "2026-09-19T09:57:31.106Z",
+    "lastUpdated": "2026-09-20T10:18:40.702Z",
     "eventCount": 0,
     "events": []
   },
   "glasgow": {
     "displayName": "Glasgow",
-    "lastUpdated": "2026-09-19T09:57:33.139Z",
+    "lastUpdated": "2026-09-20T10:18:42.850Z",
     "eventCount": 3,
     "events": [
       {
@@ -1512,19 +1496,19 @@
   },
   "halifax": {
     "displayName": "Halifax",
-    "lastUpdated": "2026-09-19T09:57:34.946Z",
+    "lastUpdated": "2026-09-20T10:18:44.712Z",
     "eventCount": 0,
     "events": []
   },
   "hamburg": {
     "displayName": "Hamburg",
-    "lastUpdated": "2026-09-19T09:57:36.786Z",
+    "lastUpdated": "2026-09-20T10:18:46.732Z",
     "eventCount": 0,
     "events": []
   },
   "hamilton": {
     "displayName": "Hamilton",
-    "lastUpdated": "2026-09-19T09:57:38.577Z",
+    "lastUpdated": "2026-09-20T10:18:48.709Z",
     "eventCount": 1,
     "events": [
       {
@@ -1547,101 +1531,21 @@
   },
   "hannover": {
     "displayName": "Hannover",
-    "lastUpdated": "2026-09-19T09:57:40.284Z",
+    "lastUpdated": "2026-09-20T10:18:50.626Z",
     "eventCount": 0,
     "events": []
   },
   "hartford": {
     "displayName": "Hartford",
-    "lastUpdated": "2026-09-19T09:57:42.079Z",
+    "lastUpdated": "2026-09-20T10:18:52.603Z",
     "eventCount": 0,
     "events": []
   },
   "helsinki": {
     "displayName": "Helsinki",
-    "lastUpdated": "2026-09-19T09:57:44.128Z",
-    "eventCount": 6,
+    "lastUpdated": "2026-09-20T10:18:54.670Z",
+    "eventCount": 1,
     "events": [
-      {
-        "id": "Z698xZ8KZ16vvJ-EG9",
-        "name": "Dance Stage Convention - 2 × Saturday Evening Workshops",
-        "url": "https://www.ticketmaster.fi/event/dance-stage-convention-2--saturday-evening-workshops-tickets/1066867317?language=en-us",
-        "date": "2026-09-19",
-        "time": "16:15:00",
-        "venueName": null,
-        "venueAddress": "Mannerheimintie 3",
-        "venueCity": "Helsinki",
-        "venueCountry": "Finland",
-        "segment": "Arts & Theatre",
-        "genre": "Dance",
-        "subGenre": "Dance",
-        "image": "https://s1.ticketm.net/dam/a/4de/19a11744-8e66-475a-84bf-d1d156a0d4de_RETINA_LANDSCAPE_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "Z698xZ8KZ16vGMbg4o",
-        "name": "Dance Stage Convention - Saturday Open Stage",
-        "url": "https://www.ticketmaster.fi/event/dance-stage-convention-saturday-open-stage-tickets/1337635551?language=en-us",
-        "date": "2026-09-19",
-        "time": "20:00:00",
-        "venueName": null,
-        "venueAddress": "Mannerheimintie 3",
-        "venueCity": "Helsinki",
-        "venueCountry": "Finland",
-        "segment": "Arts & Theatre",
-        "genre": "Dance",
-        "subGenre": "Dance",
-        "image": "https://s1.ticketm.net/dam/a/4de/19a11744-8e66-475a-84bf-d1d156a0d4de_RETINA_LANDSCAPE_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "Z698xZ8KZ16ev40b3k",
-        "name": "Dance Stage Convention - 4 days 17.-20.9.2026",
-        "url": "https://www.ticketmaster.fi/event/dance-stage-convention-4-days-17-2092026-tickets/2055918486?language=en-us",
-        "date": "2026-09-20",
-        "time": "08:00:00",
-        "venueName": null,
-        "venueAddress": "Mannerheimintie 3",
-        "venueCity": "Helsinki",
-        "venueCountry": "Finland",
-        "segment": "Arts & Theatre",
-        "genre": "Dance",
-        "subGenre": "Dance",
-        "image": "https://s1.ticketm.net/dam/e/16f/29aea3cb-de3c-4a3c-b275-e30d4710f16f_SOURCE",
-        "priceRange": null
-      },
-      {
-        "id": "Z698xZ8KZ16vqtbJqy",
-        "name": "Dance Stage Convention - 1 day 17.-20.9.2026",
-        "url": "https://www.ticketmaster.fi/event/dance-stage-convention-1-day-17-2092026-tickets/1769626779?language=en-us",
-        "date": "2026-09-20",
-        "time": "08:00:00",
-        "venueName": null,
-        "venueAddress": "Mannerheimintie 3",
-        "venueCity": "Helsinki",
-        "venueCountry": "Finland",
-        "segment": "Arts & Theatre",
-        "genre": "Dance",
-        "subGenre": "Dance",
-        "image": "https://s1.ticketm.net/dam/a/4de/19a11744-8e66-475a-84bf-d1d156a0d4de_RETINA_LANDSCAPE_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "Z698xZ8KZ16vxpu9P-",
-        "name": "Dance Stage Convention - 2 days 17.-20.9.2026",
-        "url": "https://www.ticketmaster.fi/event/dance-stage-convention-2-days-17-2092026-tickets/1896357961?language=en-us",
-        "date": "2026-09-20",
-        "time": "08:00:00",
-        "venueName": null,
-        "venueAddress": "Mannerheimintie 3",
-        "venueCity": "Helsinki",
-        "venueCountry": "Finland",
-        "segment": "Arts & Theatre",
-        "genre": "Dance",
-        "subGenre": "Dance",
-        "image": "https://s1.ticketm.net/dam/a/4de/19a11744-8e66-475a-84bf-d1d156a0d4de_RETINA_LANDSCAPE_16_9.jpg",
-        "priceRange": null
-      },
       {
         "id": "Z698xZ8KZ16vx9_Zaw",
         "name": "Dance Stage Convention - 2 × Sunday Evening Workshops",
@@ -1662,13 +1566,13 @@
   },
   "hongkong": {
     "displayName": "Hong Kong",
-    "lastUpdated": "2026-09-19T09:57:45.791Z",
+    "lastUpdated": "2026-09-20T10:18:56.376Z",
     "eventCount": 0,
     "events": []
   },
   "honolulu": {
     "displayName": "Honolulu",
-    "lastUpdated": "2026-09-19T09:57:47.530Z",
+    "lastUpdated": "2026-09-20T10:18:58.270Z",
     "eventCount": 2,
     "events": [
       {
@@ -1707,7 +1611,7 @@
   },
   "houston": {
     "displayName": "Houston",
-    "lastUpdated": "2026-09-19T09:57:49.440Z",
+    "lastUpdated": "2026-09-20T10:19:00.414Z",
     "eventCount": 2,
     "events": [
       {
@@ -1746,19 +1650,19 @@
   },
   "indianapolis": {
     "displayName": "Indianapolis",
-    "lastUpdated": "2026-09-19T09:57:51.250Z",
+    "lastUpdated": "2026-09-20T10:19:02.501Z",
     "eventCount": 0,
     "events": []
   },
   "istanbul": {
     "displayName": "Istanbul",
-    "lastUpdated": "2026-09-19T09:57:53.011Z",
+    "lastUpdated": "2026-09-20T10:19:04.387Z",
     "eventCount": 0,
     "events": []
   },
   "jacksonville": {
     "displayName": "Jacksonville",
-    "lastUpdated": "2026-09-19T09:57:54.818Z",
+    "lastUpdated": "2026-09-20T10:19:06.271Z",
     "eventCount": 1,
     "events": [
       {
@@ -1781,13 +1685,13 @@
   },
   "jeddah": {
     "displayName": "Jeddah",
-    "lastUpdated": "2026-09-19T09:57:56.575Z",
+    "lastUpdated": "2026-09-20T10:19:08.093Z",
     "eventCount": 0,
     "events": []
   },
   "kansascity": {
     "displayName": "Kansas City",
-    "lastUpdated": "2026-09-19T09:57:58.348Z",
+    "lastUpdated": "2026-09-20T10:19:10.103Z",
     "eventCount": 1,
     "events": [
       {
@@ -1810,19 +1714,19 @@
   },
   "kokoszki": {
     "displayName": "Kokoszki",
-    "lastUpdated": "2026-09-19T09:58:00.295Z",
+    "lastUpdated": "2026-09-20T10:19:11.982Z",
     "eventCount": 0,
     "events": []
   },
   "kuwait": {
     "displayName": "Kuwait",
-    "lastUpdated": "2026-09-19T09:58:02.018Z",
+    "lastUpdated": "2026-09-20T10:19:13.621Z",
     "eventCount": 0,
     "events": []
   },
   "lasvegas": {
     "displayName": "Las Vegas",
-    "lastUpdated": "2026-09-19T09:58:04.183Z",
+    "lastUpdated": "2026-09-20T10:19:15.567Z",
     "eventCount": 10,
     "events": [
       {
@@ -1989,43 +1893,43 @@
   },
   "lebanon": {
     "displayName": "Lebanon",
-    "lastUpdated": "2026-09-19T09:58:05.947Z",
+    "lastUpdated": "2026-09-20T10:19:17.223Z",
     "eventCount": 0,
     "events": []
   },
   "leeds": {
     "displayName": "Leeds",
-    "lastUpdated": "2026-09-19T09:58:07.753Z",
+    "lastUpdated": "2026-09-20T10:19:19.224Z",
     "eventCount": 0,
     "events": []
   },
   "leipzig": {
     "displayName": "Leipzig",
-    "lastUpdated": "2026-09-19T09:58:09.654Z",
+    "lastUpdated": "2026-09-20T10:19:21.411Z",
     "eventCount": 0,
     "events": []
   },
   "lisbon": {
     "displayName": "Lisbon",
-    "lastUpdated": "2026-09-19T09:58:11.430Z",
+    "lastUpdated": "2026-09-20T10:19:23.193Z",
     "eventCount": 0,
     "events": []
   },
   "littlerock": {
     "displayName": "Little Rock",
-    "lastUpdated": "2026-09-19T09:58:13.120Z",
+    "lastUpdated": "2026-09-20T10:19:25.012Z",
     "eventCount": 0,
     "events": []
   },
   "liverpool": {
     "displayName": "Liverpool",
-    "lastUpdated": "2026-09-19T09:58:14.923Z",
+    "lastUpdated": "2026-09-20T10:19:27.074Z",
     "eventCount": 0,
     "events": []
   },
   "london": {
     "displayName": "London",
-    "lastUpdated": "2026-09-19T09:58:16.844Z",
+    "lastUpdated": "2026-09-20T10:19:29.141Z",
     "eventCount": 4,
     "events": [
       {
@@ -2096,7 +2000,7 @@
   },
   "longbeach": {
     "displayName": "Long Beach",
-    "lastUpdated": "2026-09-19T09:58:19.011Z",
+    "lastUpdated": "2026-09-20T10:19:31.236Z",
     "eventCount": 1,
     "events": [
       {
@@ -2119,7 +2023,7 @@
   },
   "losangeles": {
     "displayName": "Los Angeles",
-    "lastUpdated": "2026-09-19T09:58:20.980Z",
+    "lastUpdated": "2026-09-20T10:19:33.231Z",
     "eventCount": 4,
     "events": [
       {
@@ -2190,7 +2094,7 @@
   },
   "louisville": {
     "displayName": "Louisville",
-    "lastUpdated": "2026-09-19T09:58:22.985Z",
+    "lastUpdated": "2026-09-20T10:19:35.361Z",
     "eventCount": 9,
     "events": [
       {
@@ -2341,19 +2245,19 @@
   },
   "luxembourgcity": {
     "displayName": "Luxembourg City",
-    "lastUpdated": "2026-09-19T09:58:24.683Z",
+    "lastUpdated": "2026-09-20T10:19:37.104Z",
     "eventCount": 0,
     "events": []
   },
   "lyon": {
     "displayName": "Lyon",
-    "lastUpdated": "2026-09-19T09:58:26.528Z",
+    "lastUpdated": "2026-09-20T10:19:39.037Z",
     "eventCount": 0,
     "events": []
   },
   "madrid": {
     "displayName": "Madrid",
-    "lastUpdated": "2026-09-19T09:58:28.390Z",
+    "lastUpdated": "2026-09-20T10:19:41.046Z",
     "eventCount": 3,
     "events": [
       {
@@ -2408,13 +2312,13 @@
   },
   "malaga": {
     "displayName": "Malaga",
-    "lastUpdated": "2026-09-19T09:58:30.183Z",
+    "lastUpdated": "2026-09-20T10:19:42.763Z",
     "eventCount": 0,
     "events": []
   },
   "manchester": {
     "displayName": "Manchester",
-    "lastUpdated": "2026-09-19T09:58:32.045Z",
+    "lastUpdated": "2026-09-20T10:19:44.710Z",
     "eventCount": 1,
     "events": [
       {
@@ -2437,7 +2341,7 @@
   },
   "manhattan": {
     "displayName": "Manhattan",
-    "lastUpdated": "2026-09-19T09:58:33.972Z",
+    "lastUpdated": "2026-09-20T10:19:46.843Z",
     "eventCount": 1,
     "events": [
       {
@@ -2460,13 +2364,13 @@
   },
   "marseille": {
     "displayName": "Marseille",
-    "lastUpdated": "2026-09-19T09:58:35.707Z",
+    "lastUpdated": "2026-09-20T10:19:48.658Z",
     "eventCount": 0,
     "events": []
   },
   "massachusetts": {
     "displayName": "Massachusetts",
-    "lastUpdated": "2026-09-19T09:58:37.666Z",
+    "lastUpdated": "2026-09-20T10:19:50.756Z",
     "eventCount": 2,
     "events": [
       {
@@ -2505,7 +2409,7 @@
   },
   "mcallen": {
     "displayName": "Mcallen",
-    "lastUpdated": "2026-09-19T09:58:39.709Z",
+    "lastUpdated": "2026-09-20T10:19:52.792Z",
     "eventCount": 3,
     "events": [
       {
@@ -2560,19 +2464,19 @@
   },
   "meixedo": {
     "displayName": "Meixedo",
-    "lastUpdated": "2026-09-19T09:58:41.481Z",
+    "lastUpdated": "2026-09-20T10:19:54.464Z",
     "eventCount": 0,
     "events": []
   },
   "melbourne": {
     "displayName": "Melbourne",
-    "lastUpdated": "2026-09-19T09:58:43.298Z",
+    "lastUpdated": "2026-09-20T10:19:56.298Z",
     "eventCount": 0,
     "events": []
   },
   "memphis": {
     "displayName": "Memphis",
-    "lastUpdated": "2026-09-19T09:58:45.263Z",
+    "lastUpdated": "2026-09-20T10:19:58.230Z",
     "eventCount": 9,
     "events": [
       {
@@ -2723,13 +2627,13 @@
   },
   "mesa": {
     "displayName": "Mesa",
-    "lastUpdated": "2026-09-19T09:58:47.036Z",
+    "lastUpdated": "2026-09-20T10:20:00.014Z",
     "eventCount": 0,
     "events": []
   },
   "miami": {
     "displayName": "Miami",
-    "lastUpdated": "2026-09-19T09:58:49.293Z",
+    "lastUpdated": "2026-09-20T10:20:02.361Z",
     "eventCount": 2,
     "events": [
       {
@@ -2768,37 +2672,37 @@
   },
   "michigan": {
     "displayName": "Michigan",
-    "lastUpdated": "2026-09-19T09:58:51.132Z",
+    "lastUpdated": "2026-09-20T10:20:04.279Z",
     "eventCount": 0,
     "events": []
   },
   "milan": {
     "displayName": "Milan",
-    "lastUpdated": "2026-09-19T09:58:52.897Z",
+    "lastUpdated": "2026-09-20T10:20:06.090Z",
     "eventCount": 0,
     "events": []
   },
   "milwaukee": {
     "displayName": "Milwaukee",
-    "lastUpdated": "2026-09-19T09:58:54.644Z",
+    "lastUpdated": "2026-09-20T10:20:07.924Z",
     "eventCount": 0,
     "events": []
   },
   "minneapolis": {
     "displayName": "Minneapolis",
-    "lastUpdated": "2026-09-19T09:58:56.513Z",
+    "lastUpdated": "2026-09-20T10:20:09.860Z",
     "eventCount": 0,
     "events": []
   },
   "monaco": {
     "displayName": "Monaco",
-    "lastUpdated": "2026-09-19T09:58:58.172Z",
+    "lastUpdated": "2026-09-20T10:20:11.622Z",
     "eventCount": 0,
     "events": []
   },
   "montreal": {
     "displayName": "Montreal",
-    "lastUpdated": "2026-09-19T09:59:00.229Z",
+    "lastUpdated": "2026-09-20T10:20:13.633Z",
     "eventCount": 3,
     "events": [
       {
@@ -2830,7 +2734,7 @@
         "segment": "Miscellaneous",
         "genre": "Undefined",
         "subGenre": "Undefined",
-        "image": "https://s1.ticketm.net/dam/a/628/8bc04cce-9401-420a-9cad-24a70ed04628_1266961_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+        "image": "https://s1.ticketm.net/dam/a/628/8bc04cce-9401-420a-9cad-24a70ed04628_1266961_TABLET_LANDSCAPE_16_9.jpg",
         "priceRange": null
       },
       {
@@ -2853,25 +2757,25 @@
   },
   "munich": {
     "displayName": "Munich",
-    "lastUpdated": "2026-09-19T09:59:02.101Z",
+    "lastUpdated": "2026-09-20T10:20:15.539Z",
     "eventCount": 0,
     "events": []
   },
   "naples": {
     "displayName": "Naples",
-    "lastUpdated": "2026-09-19T09:59:03.841Z",
+    "lastUpdated": "2026-09-20T10:20:17.227Z",
     "eventCount": 0,
     "events": []
   },
   "nashville": {
     "displayName": "Nashville",
-    "lastUpdated": "2026-09-19T09:59:05.902Z",
+    "lastUpdated": "2026-09-20T10:20:19.289Z",
     "eventCount": 0,
     "events": []
   },
   "nevada": {
     "displayName": "Nevada",
-    "lastUpdated": "2026-09-19T09:59:07.865Z",
+    "lastUpdated": "2026-09-20T10:20:21.286Z",
     "eventCount": 10,
     "events": [
       {
@@ -3038,13 +2942,13 @@
   },
   "newjersey": {
     "displayName": "New Jersey",
-    "lastUpdated": "2026-09-19T09:59:09.890Z",
+    "lastUpdated": "2026-09-20T10:20:23.524Z",
     "eventCount": 0,
     "events": []
   },
   "neworleans": {
     "displayName": "New Orleans",
-    "lastUpdated": "2026-09-19T09:59:11.636Z",
+    "lastUpdated": "2026-09-20T10:20:25.311Z",
     "eventCount": 1,
     "events": [
       {
@@ -3067,7 +2971,7 @@
   },
   "newyork": {
     "displayName": "New York",
-    "lastUpdated": "2026-09-19T09:59:13.577Z",
+    "lastUpdated": "2026-09-20T10:20:27.319Z",
     "eventCount": 1,
     "events": [
       {
@@ -3090,13 +2994,13 @@
   },
   "nice": {
     "displayName": "Nice",
-    "lastUpdated": "2026-09-19T09:59:15.352Z",
+    "lastUpdated": "2026-09-20T10:20:29.134Z",
     "eventCount": 0,
     "events": []
   },
   "northcarolina": {
     "displayName": "North Carolina",
-    "lastUpdated": "2026-09-19T09:59:17.342Z",
+    "lastUpdated": "2026-09-20T10:20:31.213Z",
     "eventCount": 3,
     "events": [
       {
@@ -3151,31 +3055,31 @@
   },
   "nuremberg": {
     "displayName": "Nuremberg",
-    "lastUpdated": "2026-09-19T09:59:19.101Z",
+    "lastUpdated": "2026-09-20T10:20:33.055Z",
     "eventCount": 0,
     "events": []
   },
   "oklahomacity": {
     "displayName": "Oklahoma City",
-    "lastUpdated": "2026-09-19T09:59:20.991Z",
+    "lastUpdated": "2026-09-20T10:20:34.974Z",
     "eventCount": 0,
     "events": []
   },
   "omaha": {
     "displayName": "Omaha",
-    "lastUpdated": "2026-09-19T09:59:22.758Z",
+    "lastUpdated": "2026-09-20T10:20:36.842Z",
     "eventCount": 0,
     "events": []
   },
   "oman": {
     "displayName": "Oman",
-    "lastUpdated": "2026-09-19T09:59:24.410Z",
+    "lastUpdated": "2026-09-20T10:20:38.452Z",
     "eventCount": 0,
     "events": []
   },
   "oregon": {
     "displayName": "Oregon",
-    "lastUpdated": "2026-09-19T09:59:26.400Z",
+    "lastUpdated": "2026-09-20T10:20:40.390Z",
     "eventCount": 9,
     "events": [
       {
@@ -3326,43 +3230,43 @@
   },
   "orlando": {
     "displayName": "Orlando",
-    "lastUpdated": "2026-09-19T09:59:28.216Z",
+    "lastUpdated": "2026-09-20T10:20:42.425Z",
     "eventCount": 0,
     "events": []
   },
   "oslo": {
     "displayName": "Oslo",
-    "lastUpdated": "2026-09-19T09:59:29.956Z",
+    "lastUpdated": "2026-09-20T10:20:44.404Z",
     "eventCount": 0,
     "events": []
   },
   "ottawa": {
     "displayName": "Ottawa",
-    "lastUpdated": "2026-09-19T09:59:32.040Z",
+    "lastUpdated": "2026-09-20T10:20:46.275Z",
     "eventCount": 0,
     "events": []
   },
   "pansol": {
     "displayName": "Pansol",
-    "lastUpdated": "2026-09-19T09:59:33.725Z",
+    "lastUpdated": "2026-09-20T10:20:48.024Z",
     "eventCount": 0,
     "events": []
   },
   "paris": {
     "displayName": "Paris",
-    "lastUpdated": "2026-09-19T09:59:35.432Z",
+    "lastUpdated": "2026-09-20T10:20:49.834Z",
     "eventCount": 0,
     "events": []
   },
   "perth": {
     "displayName": "Perth",
-    "lastUpdated": "2026-09-19T09:59:37.188Z",
+    "lastUpdated": "2026-09-20T10:20:51.590Z",
     "eventCount": 0,
     "events": []
   },
   "philadelphia": {
     "displayName": "Philadelphia",
-    "lastUpdated": "2026-09-19T09:59:39.244Z",
+    "lastUpdated": "2026-09-20T10:20:53.576Z",
     "eventCount": 1,
     "events": [
       {
@@ -3385,79 +3289,79 @@
   },
   "phoenix": {
     "displayName": "Phoenix",
-    "lastUpdated": "2026-09-19T09:59:41.095Z",
+    "lastUpdated": "2026-09-20T10:20:55.487Z",
     "eventCount": 0,
     "events": []
   },
   "pittsburgh": {
     "displayName": "Pittsburgh",
-    "lastUpdated": "2026-09-19T09:59:42.915Z",
+    "lastUpdated": "2026-09-20T10:20:57.322Z",
     "eventCount": 0,
     "events": []
   },
   "porto": {
     "displayName": "Porto",
-    "lastUpdated": "2026-09-19T09:59:44.845Z",
+    "lastUpdated": "2026-09-20T10:20:59.101Z",
     "eventCount": 0,
     "events": []
   },
   "prague": {
     "displayName": "Prague",
-    "lastUpdated": "2026-09-19T09:59:46.544Z",
+    "lastUpdated": "2026-09-20T10:21:01.131Z",
     "eventCount": 0,
     "events": []
   },
   "providence": {
     "displayName": "Providence",
-    "lastUpdated": "2026-09-19T09:59:48.469Z",
+    "lastUpdated": "2026-09-20T10:21:03.118Z",
     "eventCount": 0,
     "events": []
   },
   "puertovallarta": {
     "displayName": "Puerto Vallarta",
-    "lastUpdated": "2026-09-19T09:59:50.219Z",
+    "lastUpdated": "2026-09-20T10:21:04.753Z",
     "eventCount": 0,
     "events": []
   },
   "qatar": {
     "displayName": "Qatar",
-    "lastUpdated": "2026-09-19T09:59:51.800Z",
+    "lastUpdated": "2026-09-20T10:21:06.466Z",
     "eventCount": 0,
     "events": []
   },
   "quebeccity": {
     "displayName": "Quebec City",
-    "lastUpdated": "2026-09-19T09:59:53.536Z",
+    "lastUpdated": "2026-09-20T10:21:08.239Z",
     "eventCount": 0,
     "events": []
   },
   "queens": {
     "displayName": "Queens",
-    "lastUpdated": "2026-09-19T09:59:55.298Z",
+    "lastUpdated": "2026-09-20T10:21:10.180Z",
     "eventCount": 0,
     "events": []
   },
   "queenstown": {
     "displayName": "Queenstown",
-    "lastUpdated": "2026-09-19T09:59:56.991Z",
+    "lastUpdated": "2026-09-20T10:21:12.065Z",
     "eventCount": 0,
     "events": []
   },
   "raleigh": {
     "displayName": "Raleigh",
-    "lastUpdated": "2026-09-19T09:59:59.021Z",
+    "lastUpdated": "2026-09-20T10:21:14.089Z",
     "eventCount": 0,
     "events": []
   },
   "reno": {
     "displayName": "Reno",
-    "lastUpdated": "2026-09-19T10:00:00.940Z",
+    "lastUpdated": "2026-09-20T10:21:16.023Z",
     "eventCount": 0,
     "events": []
   },
   "richmond": {
     "displayName": "Richmond",
-    "lastUpdated": "2026-09-19T10:00:03.023Z",
+    "lastUpdated": "2026-09-20T10:21:17.948Z",
     "eventCount": 9,
     "events": [
       {
@@ -3608,31 +3512,31 @@
   },
   "riverside": {
     "displayName": "Riverside",
-    "lastUpdated": "2026-09-19T10:00:05.445Z",
+    "lastUpdated": "2026-09-20T10:21:19.729Z",
     "eventCount": 0,
     "events": []
   },
   "riyadh": {
     "displayName": "Riyadh",
-    "lastUpdated": "2026-09-19T10:00:07.166Z",
+    "lastUpdated": "2026-09-20T10:21:21.515Z",
     "eventCount": 0,
     "events": []
   },
   "rochester": {
     "displayName": "Rochester",
-    "lastUpdated": "2026-09-19T10:00:10.131Z",
+    "lastUpdated": "2026-09-20T10:21:23.347Z",
     "eventCount": 0,
     "events": []
   },
   "rome": {
     "displayName": "Rome",
-    "lastUpdated": "2026-09-19T10:00:11.886Z",
+    "lastUpdated": "2026-09-20T10:21:25.164Z",
     "eventCount": 0,
     "events": []
   },
   "rotterdam": {
     "displayName": "Rotterdam",
-    "lastUpdated": "2026-09-19T10:00:13.822Z",
+    "lastUpdated": "2026-09-20T10:21:27.265Z",
     "eventCount": 2,
     "events": [
       {
@@ -3671,19 +3575,19 @@
   },
   "sacramento": {
     "displayName": "Sacramento",
-    "lastUpdated": "2026-09-19T10:00:15.654Z",
+    "lastUpdated": "2026-09-20T10:21:29.260Z",
     "eventCount": 0,
     "events": []
   },
   "saltlakecity": {
     "displayName": "Salt Lake City",
-    "lastUpdated": "2026-09-19T10:00:17.451Z",
+    "lastUpdated": "2026-09-20T10:21:31.044Z",
     "eventCount": 0,
     "events": []
   },
   "sanantonio": {
     "displayName": "San Antonio",
-    "lastUpdated": "2026-09-19T10:00:19.589Z",
+    "lastUpdated": "2026-09-20T10:21:33.069Z",
     "eventCount": 1,
     "events": [
       {
@@ -3706,7 +3610,7 @@
   },
   "sandiego": {
     "displayName": "San Diego",
-    "lastUpdated": "2026-09-19T10:00:21.420Z",
+    "lastUpdated": "2026-09-20T10:21:35.032Z",
     "eventCount": 1,
     "events": [
       {
@@ -3729,79 +3633,79 @@
   },
   "sanfrancisco": {
     "displayName": "San Francisco",
-    "lastUpdated": "2026-09-19T10:00:23.168Z",
+    "lastUpdated": "2026-09-20T10:21:36.876Z",
     "eventCount": 0,
     "events": []
   },
   "sanjose": {
     "displayName": "San Jose",
-    "lastUpdated": "2026-09-19T10:00:25.030Z",
+    "lastUpdated": "2026-09-20T10:21:38.808Z",
     "eventCount": 0,
     "events": []
   },
   "seattle": {
     "displayName": "Seattle",
-    "lastUpdated": "2026-09-19T10:00:26.900Z",
+    "lastUpdated": "2026-09-20T10:21:40.777Z",
     "eventCount": 0,
     "events": []
   },
   "seville": {
     "displayName": "Seville",
-    "lastUpdated": "2026-09-19T10:00:28.870Z",
+    "lastUpdated": "2026-09-20T10:21:42.714Z",
     "eventCount": 0,
     "events": []
   },
   "shanghai": {
     "displayName": "Shanghai",
-    "lastUpdated": "2026-09-19T10:00:30.617Z",
+    "lastUpdated": "2026-09-20T10:21:44.490Z",
     "eventCount": 0,
     "events": []
   },
   "sheffield": {
     "displayName": "Sheffield",
-    "lastUpdated": "2026-09-19T10:00:32.517Z",
+    "lastUpdated": "2026-09-20T10:21:46.704Z",
     "eventCount": 0,
     "events": []
   },
   "singapore": {
     "displayName": "Singapore",
-    "lastUpdated": "2026-09-19T10:00:34.445Z",
+    "lastUpdated": "2026-09-20T10:21:48.510Z",
     "eventCount": 0,
     "events": []
   },
   "sofia": {
     "displayName": "Sofia",
-    "lastUpdated": "2026-09-19T10:00:36.157Z",
+    "lastUpdated": "2026-09-20T10:21:50.288Z",
     "eventCount": 0,
     "events": []
   },
   "split": {
     "displayName": "Split",
-    "lastUpdated": "2026-09-19T10:00:37.893Z",
+    "lastUpdated": "2026-09-20T10:21:52.053Z",
     "eventCount": 0,
     "events": []
   },
   "stlouis": {
     "displayName": "St Louis",
-    "lastUpdated": "2026-09-19T10:00:39.565Z",
+    "lastUpdated": "2026-09-20T10:21:53.848Z",
     "eventCount": 0,
     "events": []
   },
   "stockholm": {
     "displayName": "Stockholm",
-    "lastUpdated": "2026-09-19T10:00:41.367Z",
+    "lastUpdated": "2026-09-20T10:21:55.733Z",
     "eventCount": 0,
     "events": []
   },
   "stuttgart": {
     "displayName": "Stuttgart",
-    "lastUpdated": "2026-09-19T10:00:43.097Z",
+    "lastUpdated": "2026-09-20T10:21:57.577Z",
     "eventCount": 0,
     "events": []
   },
   "sulzbach": {
     "displayName": "Sulzbach",
-    "lastUpdated": "2026-09-19T10:00:44.926Z",
+    "lastUpdated": "2026-09-20T10:21:59.450Z",
     "eventCount": 3,
     "events": [
       {
@@ -3856,31 +3760,31 @@
   },
   "sydney": {
     "displayName": "Sydney",
-    "lastUpdated": "2026-09-19T10:00:46.813Z",
+    "lastUpdated": "2026-09-20T10:22:01.690Z",
     "eventCount": 0,
     "events": []
   },
   "tallahassee": {
     "displayName": "Tallahassee",
-    "lastUpdated": "2026-09-19T10:00:48.600Z",
+    "lastUpdated": "2026-09-20T10:22:03.480Z",
     "eventCount": 0,
     "events": []
   },
   "tampa": {
     "displayName": "Tampa",
-    "lastUpdated": "2026-09-19T10:00:50.559Z",
+    "lastUpdated": "2026-09-20T10:22:05.347Z",
     "eventCount": 0,
     "events": []
   },
   "tbilisi": {
     "displayName": "Tbilisi",
-    "lastUpdated": "2026-09-19T10:00:52.397Z",
+    "lastUpdated": "2026-09-20T10:22:07.258Z",
     "eventCount": 0,
     "events": []
   },
   "texas": {
     "displayName": "Texas",
-    "lastUpdated": "2026-09-19T10:00:54.526Z",
+    "lastUpdated": "2026-09-20T10:22:09.554Z",
     "eventCount": 10,
     "events": [
       {
@@ -3896,7 +3800,7 @@
         "segment": "Music",
         "genre": "R&B",
         "subGenre": "Funk",
-        "image": "https://s1.ticketm.net/dam/e/6fd/5d6692b6-f1a9-448f-b624-ebca4be886fd_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+        "image": "https://s1.ticketm.net/dam/e/6fd/5d6692b6-f1a9-448f-b624-ebca4be886fd_RETINA_LANDSCAPE_16_9.jpg",
         "priceRange": null
       },
       {
@@ -4047,13 +3951,13 @@
   },
   "tokyo": {
     "displayName": "Tokyo",
-    "lastUpdated": "2026-09-19T10:00:56.317Z",
+    "lastUpdated": "2026-09-20T10:22:11.382Z",
     "eventCount": 0,
     "events": []
   },
   "toronto": {
     "displayName": "Toronto",
-    "lastUpdated": "2026-09-19T10:00:58.499Z",
+    "lastUpdated": "2026-09-20T10:22:13.269Z",
     "eventCount": 1,
     "events": [
       {
@@ -4076,19 +3980,19 @@
   },
   "toulouse": {
     "displayName": "Toulouse",
-    "lastUpdated": "2026-09-19T10:01:00.642Z",
+    "lastUpdated": "2026-09-20T10:22:15.070Z",
     "eventCount": 0,
     "events": []
   },
   "tucson": {
     "displayName": "Tucson",
-    "lastUpdated": "2026-09-19T10:01:02.565Z",
+    "lastUpdated": "2026-09-20T10:22:17.056Z",
     "eventCount": 0,
     "events": []
   },
   "tulsa": {
     "displayName": "Tulsa",
-    "lastUpdated": "2026-09-19T10:01:04.592Z",
+    "lastUpdated": "2026-09-20T10:22:19.126Z",
     "eventCount": 9,
     "events": [
       {
@@ -4239,55 +4143,55 @@
   },
   "valencia": {
     "displayName": "Valencia",
-    "lastUpdated": "2026-09-19T10:01:06.268Z",
+    "lastUpdated": "2026-09-20T10:22:20.833Z",
     "eventCount": 0,
     "events": []
   },
   "vancouver": {
     "displayName": "Vancouver",
-    "lastUpdated": "2026-09-19T10:01:08.066Z",
+    "lastUpdated": "2026-09-20T10:22:22.806Z",
     "eventCount": 0,
     "events": []
   },
   "venice": {
     "displayName": "Venice",
-    "lastUpdated": "2026-09-19T10:01:09.878Z",
+    "lastUpdated": "2026-09-20T10:22:24.577Z",
     "eventCount": 0,
     "events": []
   },
   "victoria": {
     "displayName": "Victoria",
-    "lastUpdated": "2026-09-19T10:01:11.785Z",
+    "lastUpdated": "2026-09-20T10:22:26.386Z",
     "eventCount": 0,
     "events": []
   },
   "vienna": {
     "displayName": "Vienna",
-    "lastUpdated": "2026-09-19T10:01:13.571Z",
+    "lastUpdated": "2026-09-20T10:22:28.293Z",
     "eventCount": 0,
     "events": []
   },
   "virginiabeach": {
     "displayName": "Virginia Beach",
-    "lastUpdated": "2026-09-19T10:01:15.288Z",
+    "lastUpdated": "2026-09-20T10:22:30.080Z",
     "eventCount": 0,
     "events": []
   },
   "warren": {
     "displayName": "Warren",
-    "lastUpdated": "2026-09-19T10:01:17.000Z",
+    "lastUpdated": "2026-09-20T10:22:31.946Z",
     "eventCount": 0,
     "events": []
   },
   "warsaw": {
     "displayName": "Warsaw",
-    "lastUpdated": "2026-09-19T10:01:19.083Z",
+    "lastUpdated": "2026-09-20T10:22:33.869Z",
     "eventCount": 0,
     "events": []
   },
   "washington": {
     "displayName": "Washington",
-    "lastUpdated": "2026-09-19T10:01:21.112Z",
+    "lastUpdated": "2026-09-20T10:22:35.871Z",
     "eventCount": 1,
     "events": [
       {
@@ -4310,30 +4214,14 @@
   },
   "westgate": {
     "displayName": "Westgate",
-    "lastUpdated": "2026-09-19T10:01:23.971Z",
+    "lastUpdated": "2026-09-20T10:22:38.659Z",
     "eventCount": 10,
     "events": [
       {
-        "id": "LvZ18QxGZbOj--YZvnYrf",
+        "id": "LvZ18QIoPP7tnPyfAUbFh",
         "name": "Jurassic Quest | Mississippi Coast Convention Center | Biloxi, MS 2026",
         "url": "https://www.universe.com/events/jurassic-quest-mississippi-coast-convention-center-biloxi-ms-2026-tickets-59V0NX?ref=ticketmaster",
-        "date": "2026-09-19",
-        "time": "08:00:00",
-        "venueName": "Mississippi Coast Coliseum",
-        "venueAddress": "2350 Beach Blvd",
-        "venueCity": "Biloxi",
-        "venueCountry": "United States Of America",
-        "segment": "Miscellaneous",
-        "genre": "Fairs & Festivals",
-        "subGenre": "Fairs & Festivals",
-        "image": "https://s1.ticketm.net/dam/a/4c2/bac7ae96-6fcc-42ac-882a-fb3843e1f4c2_RETINA_PORTRAIT_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "LvZ18QxGZbOj--YZvnYro",
-        "name": "Jurassic Quest | Mississippi Coast Convention Center | Biloxi, MS 2026",
-        "url": "https://www.universe.com/events/jurassic-quest-mississippi-coast-convention-center-biloxi-ms-2026-tickets-59V0NX?ref=ticketmaster",
-        "date": "2026-09-19",
+        "date": "2026-09-20",
         "time": "09:00:00",
         "venueName": "Mississippi Coast Coliseum",
         "venueAddress": "2350 Beach Blvd",
@@ -4346,42 +4234,26 @@
         "priceRange": null
       },
       {
-        "id": "vvG10Z_2ehsEh9",
-        "name": "2026 Lake Elsinore Mariachi Fest Tequila & Mezcal Expo",
-        "url": "https://www.ticketmaster.com/2026-lake-elsinore-mariachi-fest-tequila-lake-elsinore-california-09-19-2026/event/090064F09BC676D7",
-        "date": "2026-09-19",
-        "time": "18:00:00",
-        "venueName": "LAKE ELSINORE DIAMOND STADIUM",
-        "venueAddress": "500 DIAMOND DR.",
-        "venueCity": "Lake Elsinore",
-        "venueCountry": "United States Of America",
-        "segment": "Miscellaneous",
-        "genre": "Undefined",
-        "subGenre": "Undefined",
-        "image": "https://s1.ticketm.net/dam/e/d5e/fc240842-02db-4faf-87f7-ceda3e748d5e_TABLET_LANDSCAPE_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "Z7r9jZ1A7Ox4z",
-        "name": "Denver Summit FC vs. Seattle Reign FC",
-        "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Ox4z",
-        "date": "2026-09-19",
-        "time": "18:45:00",
-        "venueName": "Centennial Stadium",
-        "venueAddress": "Potomac Park",
-        "venueCity": "Centennial",
-        "venueCountry": "United States Of America",
-        "segment": "Sports",
-        "genre": "Soccer",
-        "subGenre": "Soccer",
-        "image": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_PORTRAIT_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "LvZ18QxGZbOj--YZvnYr3",
+        "id": "LvZ18QxGZbmWByOZvR9yF",
         "name": "Jurassic Quest | Mississippi Coast Convention Center | Biloxi, MS 2026",
         "url": "https://www.universe.com/events/jurassic-quest-mississippi-coast-convention-center-biloxi-ms-2026-tickets-59V0NX?ref=ticketmaster",
-        "date": "2026-09-19",
+        "date": "2026-09-20",
+        "time": "09:00:00",
+        "venueName": "Mississippi Coast Coliseum",
+        "venueAddress": "2350 Beach Blvd",
+        "venueCity": "Biloxi",
+        "venueCountry": "United States Of America",
+        "segment": "Miscellaneous",
+        "genre": "Fairs & Festivals",
+        "subGenre": "Fairs & Festivals",
+        "image": "https://s1.ticketm.net/dam/a/4c2/bac7ae96-6fcc-42ac-882a-fb3843e1f4c2_RETINA_PORTRAIT_16_9.jpg",
+        "priceRange": null
+      },
+      {
+        "id": "LvZ18QxGZbmWByOZvR9ya",
+        "name": "Jurassic Quest | Mississippi Coast Convention Center | Biloxi, MS 2026",
+        "url": "https://www.universe.com/events/jurassic-quest-mississippi-coast-convention-center-biloxi-ms-2026-tickets-59V0NX?ref=ticketmaster",
+        "date": "2026-09-20",
         "time": "12:00:00",
         "venueName": "Mississippi Coast Coliseum",
         "venueAddress": "2350 Beach Blvd",
@@ -4394,27 +4266,11 @@
         "priceRange": null
       },
       {
-        "id": "LvZ18QxGZbOj--YZvnYrK",
-        "name": "Jurassic Quest | Mississippi Coast Convention Center | Biloxi, MS 2026",
-        "url": "https://www.universe.com/events/jurassic-quest-mississippi-coast-convention-center-biloxi-ms-2026-tickets-59V0NX?ref=ticketmaster",
-        "date": "2026-09-19",
-        "time": "15:00:00",
-        "venueName": "Mississippi Coast Coliseum",
-        "venueAddress": "2350 Beach Blvd",
-        "venueCity": "Biloxi",
-        "venueCountry": "United States Of America",
-        "segment": "Miscellaneous",
-        "genre": "Fairs & Festivals",
-        "subGenre": "Fairs & Festivals",
-        "image": "https://s1.ticketm.net/dam/a/4c2/bac7ae96-6fcc-42ac-882a-fb3843e1f4c2_RETINA_PORTRAIT_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "LvZ18QIoPP7tnPyfAUbFh",
+        "id": "LvZ18QIoPP7tnPyfAUbFj",
         "name": "Jurassic Quest | Mississippi Coast Convention Center | Biloxi, MS 2026",
         "url": "https://www.universe.com/events/jurassic-quest-mississippi-coast-convention-center-biloxi-ms-2026-tickets-59V0NX?ref=ticketmaster",
         "date": "2026-09-20",
-        "time": "09:00:00",
+        "time": "13:00:00",
         "venueName": "Mississippi Coast Coliseum",
         "venueAddress": "2350 Beach Blvd",
         "venueCity": "Biloxi",
@@ -4472,30 +4328,78 @@
         "subGenre": "Hobby/Special Interest Expos",
         "image": "https://s1.ticketm.net/dam/e/cdf/5e77d817-6203-4c97-979c-665b4cdfdcdf_RETINA_PORTRAIT_16_9.jpg",
         "priceRange": null
+      },
+      {
+        "id": "G5vzZ_GT30Q23",
+        "name": "Mysterious X Conference Saturday Pass",
+        "url": "https://www.ticketmaster.com/mysterious-x-conference-saturday-pass-kanab-utah-09-26-2026/event/1E0064CFD291A3D2",
+        "date": "2026-09-26",
+        "time": "10:00:00",
+        "venueName": "Historic Redstone Theatre",
+        "venueAddress": "29 W. Center St.",
+        "venueCity": "Kanab",
+        "venueCountry": "United States Of America",
+        "segment": "Miscellaneous",
+        "genre": "Lecture/Seminar",
+        "subGenre": "Lecture/Seminar",
+        "image": "https://s1.ticketm.net/dam/e/df5/7175d18a-1414-48f2-b5d7-40b90da2cdf5_RETINA_LANDSCAPE_16_9.jpg",
+        "priceRange": null
+      },
+      {
+        "id": "LvZ18QQiMlpdpBZZ06E3t",
+        "name": "Brick Convention | LEGO Fan Expo | Jackson, MS",
+        "url": "https://www.universe.com/events/brick-convention-lego-fan-expo-jackson-ms-tickets-L2QBSJ?ref=ticketmaster",
+        "date": "2026-09-26",
+        "time": "10:00:00",
+        "venueName": "MISSISSIPPI TRADE MART",
+        "venueAddress": "1200 MISSISSIPPI STREET",
+        "venueCity": "Jackson",
+        "venueCountry": "United States Of America",
+        "segment": "Miscellaneous",
+        "genre": "Hobby/Special Interest Expos",
+        "subGenre": "Hobby/Special Interest Expos",
+        "image": "https://s1.ticketm.net/dam/a/cb9/2a470012-0338-429b-ae98-a4af0e8fdcb9_SOURCE",
+        "priceRange": null
+      },
+      {
+        "id": "vvG1HZ_Cx757Fx",
+        "name": "Three Rivers Tattoo Convention-Saturday, Sept. 26th",
+        "url": "https://www.ticketmaster.com/three-rivers-tattoo-conventionsaturday-sept-26th-kennewick-washington-09-26-2026/event/0F0064E8842C4222",
+        "date": "2026-09-26",
+        "time": "11:00:00",
+        "venueName": "Three Rivers Convention Center",
+        "venueAddress": "7016 West Grandridge Blvd",
+        "venueCity": "Kennewick",
+        "venueCountry": "United States Of America",
+        "segment": "Miscellaneous",
+        "genre": "Hobby/Special Interest Expos",
+        "subGenre": "Hobby/Special Interest Expos",
+        "image": "https://s1.ticketm.net/dam/e/809/5ed144cb-4bf3-42e6-92bb-ef25031a9809_RETINA_PORTRAIT_16_9.jpg",
+        "priceRange": null
       }
     ]
   },
   "winnipeg": {
     "displayName": "Winnipeg",
-    "lastUpdated": "2026-09-19T10:01:25.856Z",
+    "lastUpdated": "2026-09-20T10:22:40.538Z",
     "eventCount": 0,
     "events": []
   },
   "yerevan": {
     "displayName": "Yerevan",
-    "lastUpdated": "2026-09-19T10:01:27.618Z",
+    "lastUpdated": "2026-09-20T10:22:42.279Z",
     "eventCount": 0,
     "events": []
   },
   "zagreb": {
     "displayName": "Zagreb",
-    "lastUpdated": "2026-09-19T10:01:29.472Z",
+    "lastUpdated": "2026-09-20T10:22:43.916Z",
     "eventCount": 0,
     "events": []
   },
   "zurich": {
     "displayName": "Zurich",
-    "lastUpdated": "2026-09-19T10:01:31.313Z",
+    "lastUpdated": "2026-09-20T10:22:45.600Z",
     "eventCount": 0,
     "events": []
   }
