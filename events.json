@@ -1,38 +1,38 @@
 {
   "abudhabi": {
     "displayName": "Abu Dhabi",
-    "lastUpdated": "2026-10-05T12:58:47.626Z",
+    "lastUpdated": "2026-10-06T12:23:52.168Z",
     "eventCount": 0,
     "events": []
   },
   "albany": {
     "displayName": "Albany",
-    "lastUpdated": "2026-10-05T12:58:49.556Z",
+    "lastUpdated": "2026-10-06T12:23:54.488Z",
     "eventCount": 0,
     "events": []
   },
   "albuquerque": {
     "displayName": "Albuquerque",
-    "lastUpdated": "2026-10-05T12:58:51.491Z",
+    "lastUpdated": "2026-10-06T12:23:56.556Z",
     "eventCount": 0,
     "events": []
   },
   "alkhobar": {
     "displayName": "Al Khobar",
-    "lastUpdated": "2026-10-05T12:58:53.240Z",
+    "lastUpdated": "2026-10-06T12:23:58.511Z",
     "eventCount": 0,
     "events": []
   },
   "allentown": {
     "displayName": "Allentown",
-    "lastUpdated": "2026-10-05T12:58:55.121Z",
+    "lastUpdated": "2026-10-06T12:24:00.676Z",
     "eventCount": 0,
     "events": []
   },
   "amsterdam": {
     "displayName": "Amsterdam",
-    "lastUpdated": "2026-10-05T12:58:57.137Z",
-    "eventCount": 2,
+    "lastUpdated": "2026-10-06T12:24:03.083Z",
+    "eventCount": 3,
     "events": [
       {
         "id": "Z698xZbpZ16vFN_gPz",
@@ -65,30 +65,46 @@
         "subGenre": "Pop",
         "image": "https://s1.ticketm.net/dam/a/9c2/0c0137a4-0f82-422f-8142-b1c76596c9c2_TABLET_LANDSCAPE_16_9.jpg",
         "priceRange": null
+      },
+      {
+        "id": "Z698xZbpZ16vu0Fx-w",
+        "name": "JOHN SUMMIT – EUROPE CTRL ESCAPE ARENA TOUR",
+        "url": "https://www.ticketmaster.nl/event/john-summit--europe-ctrl-escape-arena-tour-tickets/1364222872?language=en-us",
+        "date": "2027-02-13",
+        "time": "20:00:00",
+        "venueName": "Ziggo Dome",
+        "venueAddress": "De Passage 100",
+        "venueCity": "Amsterdam",
+        "venueCountry": "Netherlands",
+        "segment": "Music",
+        "genre": "Dance/Electronic",
+        "subGenre": "Dance/Electronic",
+        "image": "https://s1.ticketm.net/dam/a/b99/44736a1a-46cb-41c3-8c65-d735b5a45b99_SOURCE",
+        "priceRange": null
       }
     ]
   },
   "ankara": {
     "displayName": "Ankara",
-    "lastUpdated": "2026-10-05T12:58:58.963Z",
+    "lastUpdated": "2026-10-06T12:24:05.129Z",
     "eventCount": 0,
     "events": []
   },
   "arizona": {
     "displayName": "Arizona",
-    "lastUpdated": "2026-10-05T12:59:00.964Z",
+    "lastUpdated": "2026-10-06T12:24:07.525Z",
     "eventCount": 0,
     "events": []
   },
   "athens": {
     "displayName": "Athens",
-    "lastUpdated": "2026-10-05T12:59:02.783Z",
+    "lastUpdated": "2026-10-06T12:24:09.665Z",
     "eventCount": 0,
     "events": []
   },
   "atlanta": {
     "displayName": "Atlanta",
-    "lastUpdated": "2026-10-05T12:59:04.688Z",
+    "lastUpdated": "2026-10-06T12:24:11.853Z",
     "eventCount": 1,
     "events": [
       {
@@ -104,20 +120,20 @@
         "segment": "Music",
         "genre": "Dance/Electronic",
         "subGenre": "Amapiano",
-        "image": "https://s1.ticketm.net/dam/a/b99/44736a1a-46cb-41c3-8c65-d735b5a45b99_TABLET_LANDSCAPE_16_9.jpg",
+        "image": "https://s1.ticketm.net/dam/a/b99/44736a1a-46cb-41c3-8c65-d735b5a45b99_SOURCE",
         "priceRange": null
       }
     ]
   },
   "auckland": {
     "displayName": "Auckland",
-    "lastUpdated": "2026-10-05T12:59:06.569Z",
+    "lastUpdated": "2026-10-06T12:24:14.086Z",
     "eventCount": 0,
     "events": []
   },
   "austin": {
     "displayName": "Austin",
-    "lastUpdated": "2026-10-05T12:59:08.487Z",
+    "lastUpdated": "2026-10-06T12:24:16.172Z",
     "eventCount": 2,
     "events": [
       {
@@ -133,7 +149,7 @@
         "segment": "Music",
         "genre": "Dance/Electronic",
         "subGenre": "Amapiano",
-        "image": "https://s1.ticketm.net/dam/a/b99/44736a1a-46cb-41c3-8c65-d735b5a45b99_TABLET_LANDSCAPE_16_9.jpg",
+        "image": "https://s1.ticketm.net/dam/a/b99/44736a1a-46cb-41c3-8c65-d735b5a45b99_SOURCE",
         "priceRange": null
       },
       {
@@ -156,31 +172,31 @@
   },
   "bahrain": {
     "displayName": "Bahrain",
-    "lastUpdated": "2026-10-05T12:59:10.145Z",
+    "lastUpdated": "2026-10-06T12:24:18.099Z",
     "eventCount": 0,
     "events": []
   },
   "bali": {
     "displayName": "Bali",
-    "lastUpdated": "2026-10-05T12:59:11.860Z",
+    "lastUpdated": "2026-10-06T12:24:20.105Z",
     "eventCount": 0,
     "events": []
   },
   "baltimore": {
     "displayName": "Baltimore",
-    "lastUpdated": "2026-10-05T12:59:13.787Z",
+    "lastUpdated": "2026-10-06T12:24:22.547Z",
     "eventCount": 0,
     "events": []
   },
   "barcelona": {
     "displayName": "Barcelona",
-    "lastUpdated": "2026-10-05T12:59:15.584Z",
+    "lastUpdated": "2026-10-06T12:24:24.515Z",
     "eventCount": 0,
     "events": []
   },
   "batonrouge": {
     "displayName": "Baton Rouge",
-    "lastUpdated": "2026-10-05T12:59:17.482Z",
+    "lastUpdated": "2026-10-06T12:24:26.717Z",
     "eventCount": 2,
     "events": [
       {
@@ -219,26 +235,26 @@
   },
   "beijing": {
     "displayName": "Beijing",
-    "lastUpdated": "2026-10-05T12:59:19.259Z",
+    "lastUpdated": "2026-10-06T12:24:28.817Z",
     "eventCount": 0,
     "events": []
   },
   "beirut": {
     "displayName": "Beirut",
-    "lastUpdated": "2026-10-05T12:59:21.050Z",
+    "lastUpdated": "2026-10-06T12:24:30.808Z",
     "eventCount": 0,
     "events": []
   },
   "belgrade": {
     "displayName": "Belgrade",
-    "lastUpdated": "2026-10-05T12:59:22.838Z",
+    "lastUpdated": "2026-10-06T12:24:32.849Z",
     "eventCount": 0,
     "events": []
   },
   "berlin": {
     "displayName": "Berlin",
-    "lastUpdated": "2026-10-05T12:59:24.790Z",
-    "eventCount": 2,
+    "lastUpdated": "2026-10-06T12:24:35.152Z",
+    "eventCount": 3,
     "events": [
       {
         "id": "Z698xZC2Z16v4fG4uE",
@@ -271,30 +287,46 @@
         "subGenre": "Dance/Electronic",
         "image": "https://s1.ticketm.net/dam/a/a10/64ccfad8-7b6a-4193-8a62-898aff5a4a10_SOURCE",
         "priceRange": null
+      },
+      {
+        "id": "Z698xZC2Z16eeoJp1v",
+        "name": "JOHN SUMMIT – EUROPE CTRL ESCAPE TOUR",
+        "url": "https://www.ticketmaster.de/event/john-summit--europe-ctrl-escape-tour-tickets/2091996281?language=en-us",
+        "date": "2027-02-18",
+        "time": "20:00:00",
+        "venueName": null,
+        "venueAddress": "Paul-Heyse-Straße 26",
+        "venueCity": "Berlin",
+        "venueCountry": "Germany",
+        "segment": "Music",
+        "genre": "Dance/Electronic",
+        "subGenre": "Dance/Electronic",
+        "image": "https://s1.ticketm.net/dam/a/b99/44736a1a-46cb-41c3-8c65-d735b5a45b99_SOURCE",
+        "priceRange": null
       }
     ]
   },
   "birmingham": {
     "displayName": "Birmingham",
-    "lastUpdated": "2026-10-05T12:59:26.679Z",
+    "lastUpdated": "2026-10-06T12:24:37.203Z",
     "eventCount": 0,
     "events": []
   },
   "bologna": {
     "displayName": "Bologna",
-    "lastUpdated": "2026-10-05T12:59:28.266Z",
+    "lastUpdated": "2026-10-06T12:24:39.241Z",
     "eventCount": 0,
     "events": []
   },
   "bordeaux": {
     "displayName": "Bordeaux",
-    "lastUpdated": "2026-10-05T12:59:30.144Z",
+    "lastUpdated": "2026-10-06T12:24:41.252Z",
     "eventCount": 0,
     "events": []
   },
   "boston": {
     "displayName": "Boston",
-    "lastUpdated": "2026-10-05T12:59:32.059Z",
+    "lastUpdated": "2026-10-06T12:24:43.606Z",
     "eventCount": 2,
     "events": [
       {
@@ -326,50 +358,50 @@
         "segment": "Music",
         "genre": "Dance/Electronic",
         "subGenre": "Amapiano",
-        "image": "https://s1.ticketm.net/dam/a/b99/44736a1a-46cb-41c3-8c65-d735b5a45b99_TABLET_LANDSCAPE_16_9.jpg",
+        "image": "https://s1.ticketm.net/dam/a/b99/44736a1a-46cb-41c3-8c65-d735b5a45b99_SOURCE",
         "priceRange": null
       }
     ]
   },
   "bratislava": {
     "displayName": "Bratislava",
-    "lastUpdated": "2026-10-05T12:59:33.836Z",
+    "lastUpdated": "2026-10-06T12:24:45.594Z",
     "eventCount": 0,
     "events": []
   },
   "bridgeport": {
     "displayName": "Bridgeport",
-    "lastUpdated": "2026-10-05T12:59:35.586Z",
+    "lastUpdated": "2026-10-06T12:24:47.521Z",
     "eventCount": 0,
     "events": []
   },
   "brisbane": {
     "displayName": "Brisbane",
-    "lastUpdated": "2026-10-05T12:59:37.372Z",
+    "lastUpdated": "2026-10-06T12:24:49.465Z",
     "eventCount": 0,
     "events": []
   },
   "bristol": {
     "displayName": "Bristol",
-    "lastUpdated": "2026-10-05T12:59:39.193Z",
+    "lastUpdated": "2026-10-06T12:24:51.534Z",
     "eventCount": 0,
     "events": []
   },
   "brno": {
     "displayName": "Brno",
-    "lastUpdated": "2026-10-05T12:59:40.991Z",
+    "lastUpdated": "2026-10-06T12:24:53.668Z",
     "eventCount": 0,
     "events": []
   },
   "bronx": {
     "displayName": "Bronx",
-    "lastUpdated": "2026-10-05T12:59:42.735Z",
+    "lastUpdated": "2026-10-06T12:24:55.668Z",
     "eventCount": 0,
     "events": []
   },
   "brooklyn": {
     "displayName": "Brooklyn",
-    "lastUpdated": "2026-10-05T12:59:44.772Z",
+    "lastUpdated": "2026-10-06T12:24:58.144Z",
     "eventCount": 2,
     "events": [
       {
@@ -385,7 +417,7 @@
         "segment": "Music",
         "genre": "Dance/Electronic",
         "subGenre": "Amapiano",
-        "image": "https://s1.ticketm.net/dam/a/b99/44736a1a-46cb-41c3-8c65-d735b5a45b99_TABLET_LANDSCAPE_16_9.jpg",
+        "image": "https://s1.ticketm.net/dam/a/b99/44736a1a-46cb-41c3-8c65-d735b5a45b99_SOURCE",
         "priceRange": null
       },
       {
@@ -401,14 +433,14 @@
         "segment": "Music",
         "genre": "Dance/Electronic",
         "subGenre": "Amapiano",
-        "image": "https://s1.ticketm.net/dam/a/b99/44736a1a-46cb-41c3-8c65-d735b5a45b99_TABLET_LANDSCAPE_16_9.jpg",
+        "image": "https://s1.ticketm.net/dam/a/b99/44736a1a-46cb-41c3-8c65-d735b5a45b99_SOURCE",
         "priceRange": null
       }
     ]
   },
   "brussels": {
     "displayName": "Brussels",
-    "lastUpdated": "2026-10-05T12:59:46.571Z",
+    "lastUpdated": "2026-10-06T12:25:00.249Z",
     "eventCount": 1,
     "events": [
       {
@@ -431,31 +463,31 @@
   },
   "bucharest": {
     "displayName": "Bucharest",
-    "lastUpdated": "2026-10-05T12:59:48.288Z",
+    "lastUpdated": "2026-10-06T12:25:02.242Z",
     "eventCount": 0,
     "events": []
   },
   "budapest": {
     "displayName": "Budapest",
-    "lastUpdated": "2026-10-05T12:59:50.021Z",
+    "lastUpdated": "2026-10-06T12:25:04.409Z",
     "eventCount": 0,
     "events": []
   },
   "buffalo": {
     "displayName": "Buffalo",
-    "lastUpdated": "2026-10-05T12:59:51.927Z",
+    "lastUpdated": "2026-10-06T12:25:06.688Z",
     "eventCount": 0,
     "events": []
   },
   "calgary": {
     "displayName": "Calgary",
-    "lastUpdated": "2026-10-05T12:59:53.801Z",
+    "lastUpdated": "2026-10-06T12:25:08.938Z",
     "eventCount": 0,
     "events": []
   },
   "california": {
     "displayName": "California",
-    "lastUpdated": "2026-10-05T12:59:56.322Z",
+    "lastUpdated": "2026-10-06T12:25:11.614Z",
     "eventCount": 10,
     "events": [
       {
@@ -535,7 +567,7 @@
         "segment": "Music",
         "genre": "Dance/Electronic",
         "subGenre": "Amapiano",
-        "image": "https://s1.ticketm.net/dam/a/b99/44736a1a-46cb-41c3-8c65-d735b5a45b99_TABLET_LANDSCAPE_16_9.jpg",
+        "image": "https://s1.ticketm.net/dam/a/b99/44736a1a-46cb-41c3-8c65-d735b5a45b99_SOURCE",
         "priceRange": null
       },
       {
@@ -567,7 +599,7 @@
         "segment": "Music",
         "genre": "Dance/Electronic",
         "subGenre": "Amapiano",
-        "image": "https://s1.ticketm.net/dam/a/b99/44736a1a-46cb-41c3-8c65-d735b5a45b99_TABLET_LANDSCAPE_16_9.jpg",
+        "image": "https://s1.ticketm.net/dam/a/b99/44736a1a-46cb-41c3-8c65-d735b5a45b99_SOURCE",
         "priceRange": null
       },
       {
@@ -583,7 +615,7 @@
         "segment": "Music",
         "genre": "Dance/Electronic",
         "subGenre": "Amapiano",
-        "image": "https://s1.ticketm.net/dam/a/b99/44736a1a-46cb-41c3-8c65-d735b5a45b99_TABLET_LANDSCAPE_16_9.jpg",
+        "image": "https://s1.ticketm.net/dam/a/b99/44736a1a-46cb-41c3-8c65-d735b5a45b99_SOURCE",
         "priceRange": null
       },
       {
@@ -622,25 +654,25 @@
   },
   "cambridge": {
     "displayName": "Cambridge",
-    "lastUpdated": "2026-10-05T12:59:58.058Z",
+    "lastUpdated": "2026-10-06T12:25:13.667Z",
     "eventCount": 0,
     "events": []
   },
   "capecoral": {
     "displayName": "Cape Coral",
-    "lastUpdated": "2026-10-05T12:59:59.790Z",
+    "lastUpdated": "2026-10-06T12:25:15.664Z",
     "eventCount": 0,
     "events": []
   },
   "charleston": {
     "displayName": "Charleston",
-    "lastUpdated": "2026-10-05T13:00:01.867Z",
+    "lastUpdated": "2026-10-06T12:25:17.958Z",
     "eventCount": 0,
     "events": []
   },
   "charlotte": {
     "displayName": "Charlotte",
-    "lastUpdated": "2026-10-05T13:00:04.149Z",
+    "lastUpdated": "2026-10-06T12:25:20.118Z",
     "eventCount": 2,
     "events": [
       {
@@ -672,20 +704,20 @@
         "segment": "Music",
         "genre": "Dance/Electronic",
         "subGenre": "Amapiano",
-        "image": "https://s1.ticketm.net/dam/a/b99/44736a1a-46cb-41c3-8c65-d735b5a45b99_TABLET_LANDSCAPE_16_9.jpg",
+        "image": "https://s1.ticketm.net/dam/a/b99/44736a1a-46cb-41c3-8c65-d735b5a45b99_SOURCE",
         "priceRange": null
       }
     ]
   },
   "chengjiang": {
     "displayName": "Chengjiang",
-    "lastUpdated": "2026-10-05T13:00:05.951Z",
+    "lastUpdated": "2026-10-06T12:25:22.017Z",
     "eventCount": 0,
     "events": []
   },
   "chicago": {
     "displayName": "Chicago",
-    "lastUpdated": "2026-10-05T13:00:08.088Z",
+    "lastUpdated": "2026-10-06T12:25:24.566Z",
     "eventCount": 6,
     "events": [
       {
@@ -749,7 +781,7 @@
         "segment": "Music",
         "genre": "Dance/Electronic",
         "subGenre": "Amapiano",
-        "image": "https://s1.ticketm.net/dam/a/b99/44736a1a-46cb-41c3-8c65-d735b5a45b99_TABLET_LANDSCAPE_16_9.jpg",
+        "image": "https://s1.ticketm.net/dam/a/b99/44736a1a-46cb-41c3-8c65-d735b5a45b99_SOURCE",
         "priceRange": null
       },
       {
@@ -765,7 +797,7 @@
         "segment": "Music",
         "genre": "Dance/Electronic",
         "subGenre": "Amapiano",
-        "image": "https://s1.ticketm.net/dam/a/b99/44736a1a-46cb-41c3-8c65-d735b5a45b99_TABLET_LANDSCAPE_16_9.jpg",
+        "image": "https://s1.ticketm.net/dam/a/b99/44736a1a-46cb-41c3-8c65-d735b5a45b99_SOURCE",
         "priceRange": null
       },
       {
@@ -788,13 +820,13 @@
   },
   "cincinnati": {
     "displayName": "Cincinnati",
-    "lastUpdated": "2026-10-05T13:00:10.104Z",
+    "lastUpdated": "2026-10-06T12:25:26.715Z",
     "eventCount": 0,
     "events": []
   },
   "cleveland": {
     "displayName": "Cleveland",
-    "lastUpdated": "2026-10-05T13:00:12.059Z",
+    "lastUpdated": "2026-10-06T12:25:29.050Z",
     "eventCount": 10,
     "events": [
       {
@@ -961,7 +993,7 @@
   },
   "colorado": {
     "displayName": "Colorado",
-    "lastUpdated": "2026-10-05T13:00:14.182Z",
+    "lastUpdated": "2026-10-06T12:25:31.512Z",
     "eventCount": 4,
     "events": [
       {
@@ -1032,7 +1064,7 @@
   },
   "coloradosprings": {
     "displayName": "Colorado Springs",
-    "lastUpdated": "2026-10-05T13:00:16.089Z",
+    "lastUpdated": "2026-10-06T12:25:33.625Z",
     "eventCount": 1,
     "events": [
       {
@@ -1055,7 +1087,7 @@
   },
   "columbus": {
     "displayName": "Columbus",
-    "lastUpdated": "2026-10-05T13:00:18.080Z",
+    "lastUpdated": "2026-10-06T12:25:35.922Z",
     "eventCount": 1,
     "events": [
       {
@@ -1071,56 +1103,56 @@
         "segment": "Music",
         "genre": "Dance/Electronic",
         "subGenre": "Amapiano",
-        "image": "https://s1.ticketm.net/dam/a/b99/44736a1a-46cb-41c3-8c65-d735b5a45b99_TABLET_LANDSCAPE_16_9.jpg",
+        "image": "https://s1.ticketm.net/dam/a/b99/44736a1a-46cb-41c3-8c65-d735b5a45b99_SOURCE",
         "priceRange": null
       }
     ]
   },
   "concord": {
     "displayName": "Concord",
-    "lastUpdated": "2026-10-05T13:00:19.973Z",
+    "lastUpdated": "2026-10-06T12:25:38.024Z",
     "eventCount": 0,
     "events": []
   },
   "connecticut": {
     "displayName": "Connecticut",
-    "lastUpdated": "2026-10-05T13:00:22.067Z",
+    "lastUpdated": "2026-10-06T12:25:40.257Z",
     "eventCount": 0,
     "events": []
   },
   "copenhagen": {
     "displayName": "Copenhagen",
-    "lastUpdated": "2026-10-05T13:00:23.913Z",
+    "lastUpdated": "2026-10-06T12:25:42.271Z",
     "eventCount": 0,
     "events": []
   },
   "cyprus": {
     "displayName": "Cyprus",
-    "lastUpdated": "2026-10-05T13:00:25.604Z",
+    "lastUpdated": "2026-10-06T12:25:44.215Z",
     "eventCount": 0,
     "events": []
   },
   "dallas": {
     "displayName": "Dallas",
-    "lastUpdated": "2026-10-05T13:00:27.635Z",
+    "lastUpdated": "2026-10-06T12:25:46.359Z",
     "eventCount": 0,
     "events": []
   },
   "dammam": {
     "displayName": "Dammam",
-    "lastUpdated": "2026-10-05T13:00:29.468Z",
+    "lastUpdated": "2026-10-06T12:25:48.512Z",
     "eventCount": 0,
     "events": []
   },
   "dayton": {
     "displayName": "Dayton",
-    "lastUpdated": "2026-10-05T13:00:31.297Z",
+    "lastUpdated": "2026-10-06T12:25:50.710Z",
     "eventCount": 0,
     "events": []
   },
   "denver": {
     "displayName": "Denver",
-    "lastUpdated": "2026-10-05T13:00:33.509Z",
+    "lastUpdated": "2026-10-06T12:25:53.628Z",
     "eventCount": 1,
     "events": [
       {
@@ -1143,31 +1175,31 @@
   },
   "detroit": {
     "displayName": "Detroit",
-    "lastUpdated": "2026-10-05T13:00:35.493Z",
+    "lastUpdated": "2026-10-06T12:25:55.691Z",
     "eventCount": 0,
     "events": []
   },
   "dresden": {
     "displayName": "Dresden",
-    "lastUpdated": "2026-10-05T13:00:37.340Z",
+    "lastUpdated": "2026-10-06T12:25:57.607Z",
     "eventCount": 0,
     "events": []
   },
   "dubai": {
     "displayName": "Dubai",
-    "lastUpdated": "2026-10-05T13:00:39.316Z",
+    "lastUpdated": "2026-10-06T12:25:59.648Z",
     "eventCount": 0,
     "events": []
   },
   "dublin": {
     "displayName": "Dublin",
-    "lastUpdated": "2026-10-05T13:00:41.277Z",
+    "lastUpdated": "2026-10-06T12:26:01.764Z",
     "eventCount": 0,
     "events": []
   },
   "dusseldorf": {
     "displayName": "Dusseldorf",
-    "lastUpdated": "2026-10-05T13:00:43.183Z",
+    "lastUpdated": "2026-10-06T12:26:04.038Z",
     "eventCount": 1,
     "events": [
       {
@@ -1190,19 +1222,19 @@
   },
   "edinburgh": {
     "displayName": "Edinburgh",
-    "lastUpdated": "2026-10-05T13:00:45.074Z",
+    "lastUpdated": "2026-10-06T12:26:06.080Z",
     "eventCount": 0,
     "events": []
   },
   "edmonton": {
     "displayName": "Edmonton",
-    "lastUpdated": "2026-10-05T13:00:47.252Z",
+    "lastUpdated": "2026-10-06T12:26:08.549Z",
     "eventCount": 0,
     "events": []
   },
   "elpaso": {
     "displayName": "El Paso",
-    "lastUpdated": "2026-10-05T13:00:49.205Z",
+    "lastUpdated": "2026-10-06T12:26:10.639Z",
     "eventCount": 1,
     "events": [
       {
@@ -1225,19 +1257,19 @@
   },
   "esbjerg": {
     "displayName": "Esbjerg",
-    "lastUpdated": "2026-10-05T13:00:51.045Z",
+    "lastUpdated": "2026-10-06T12:26:12.688Z",
     "eventCount": 0,
     "events": []
   },
   "florence": {
     "displayName": "Florence",
-    "lastUpdated": "2026-10-05T13:00:52.870Z",
+    "lastUpdated": "2026-10-06T12:26:14.913Z",
     "eventCount": 0,
     "events": []
   },
   "florida": {
     "displayName": "Florida",
-    "lastUpdated": "2026-10-05T13:00:54.866Z",
+    "lastUpdated": "2026-10-06T12:26:17.248Z",
     "eventCount": 3,
     "events": [
       {
@@ -1269,7 +1301,7 @@
         "segment": "Music",
         "genre": "Dance/Electronic",
         "subGenre": "Amapiano",
-        "image": "https://s1.ticketm.net/dam/a/b99/44736a1a-46cb-41c3-8c65-d735b5a45b99_TABLET_LANDSCAPE_16_9.jpg",
+        "image": "https://s1.ticketm.net/dam/a/b99/44736a1a-46cb-41c3-8c65-d735b5a45b99_SOURCE",
         "priceRange": null
       },
       {
@@ -1285,14 +1317,14 @@
         "segment": "Music",
         "genre": "Dance/Electronic",
         "subGenre": "Amapiano",
-        "image": "https://s1.ticketm.net/dam/a/b99/44736a1a-46cb-41c3-8c65-d735b5a45b99_TABLET_LANDSCAPE_16_9.jpg",
+        "image": "https://s1.ticketm.net/dam/a/b99/44736a1a-46cb-41c3-8c65-d735b5a45b99_SOURCE",
         "priceRange": null
       }
     ]
   },
   "fortworth": {
     "displayName": "Fort Worth",
-    "lastUpdated": "2026-10-05T13:00:56.795Z",
+    "lastUpdated": "2026-10-06T12:26:19.621Z",
     "eventCount": 4,
     "events": [
       {
@@ -1308,7 +1340,7 @@
         "segment": "Music",
         "genre": "Dance/Electronic",
         "subGenre": "Amapiano",
-        "image": "https://s1.ticketm.net/dam/a/b99/44736a1a-46cb-41c3-8c65-d735b5a45b99_TABLET_LANDSCAPE_16_9.jpg",
+        "image": "https://s1.ticketm.net/dam/a/b99/44736a1a-46cb-41c3-8c65-d735b5a45b99_SOURCE",
         "priceRange": null
       },
       {
@@ -1340,7 +1372,7 @@
         "segment": "Music",
         "genre": "Dance/Electronic",
         "subGenre": "Amapiano",
-        "image": "https://s1.ticketm.net/dam/a/b99/44736a1a-46cb-41c3-8c65-d735b5a45b99_TABLET_LANDSCAPE_16_9.jpg",
+        "image": "https://s1.ticketm.net/dam/a/b99/44736a1a-46cb-41c3-8c65-d735b5a45b99_SOURCE",
         "priceRange": null
       },
       {
@@ -1363,37 +1395,37 @@
   },
   "france": {
     "displayName": "France",
-    "lastUpdated": "2026-10-05T13:00:58.506Z",
+    "lastUpdated": "2026-10-06T12:26:21.712Z",
     "eventCount": 0,
     "events": []
   },
   "frankfurt": {
     "displayName": "Frankfurt",
-    "lastUpdated": "2026-10-05T13:01:00.487Z",
+    "lastUpdated": "2026-10-06T12:26:23.627Z",
     "eventCount": 0,
     "events": []
   },
   "fresno": {
     "displayName": "Fresno",
-    "lastUpdated": "2026-10-05T13:01:02.696Z",
+    "lastUpdated": "2026-10-06T12:26:25.807Z",
     "eventCount": 0,
     "events": []
   },
   "geneva": {
     "displayName": "Geneva",
-    "lastUpdated": "2026-10-05T13:01:04.642Z",
+    "lastUpdated": "2026-10-06T12:26:27.913Z",
     "eventCount": 0,
     "events": []
   },
   "genoa": {
     "displayName": "Genoa",
-    "lastUpdated": "2026-10-05T13:01:06.572Z",
+    "lastUpdated": "2026-10-06T12:26:29.873Z",
     "eventCount": 0,
     "events": []
   },
   "glasgow": {
     "displayName": "Glasgow",
-    "lastUpdated": "2026-10-05T13:01:08.571Z",
+    "lastUpdated": "2026-10-06T12:26:32.154Z",
     "eventCount": 3,
     "events": [
       {
@@ -1448,19 +1480,19 @@
   },
   "halifax": {
     "displayName": "Halifax",
-    "lastUpdated": "2026-10-05T13:01:10.434Z",
+    "lastUpdated": "2026-10-06T12:26:34.430Z",
     "eventCount": 0,
     "events": []
   },
   "hamburg": {
     "displayName": "Hamburg",
-    "lastUpdated": "2026-10-05T13:01:12.401Z",
+    "lastUpdated": "2026-10-06T12:26:36.468Z",
     "eventCount": 0,
     "events": []
   },
   "hamilton": {
     "displayName": "Hamilton",
-    "lastUpdated": "2026-10-05T13:01:15.473Z",
+    "lastUpdated": "2026-10-06T12:26:38.691Z",
     "eventCount": 1,
     "events": [
       {
@@ -1476,38 +1508,38 @@
         "segment": "Music",
         "genre": "Dance/Electronic",
         "subGenre": "Amapiano",
-        "image": "https://s1.ticketm.net/dam/a/b99/44736a1a-46cb-41c3-8c65-d735b5a45b99_TABLET_LANDSCAPE_16_9.jpg",
+        "image": "https://s1.ticketm.net/dam/a/b99/44736a1a-46cb-41c3-8c65-d735b5a45b99_SOURCE",
         "priceRange": null
       }
     ]
   },
   "hannover": {
     "displayName": "Hannover",
-    "lastUpdated": "2026-10-05T13:01:17.411Z",
+    "lastUpdated": "2026-10-06T12:26:40.668Z",
     "eventCount": 0,
     "events": []
   },
   "hartford": {
     "displayName": "Hartford",
-    "lastUpdated": "2026-10-05T13:01:19.323Z",
+    "lastUpdated": "2026-10-06T12:26:42.746Z",
     "eventCount": 0,
     "events": []
   },
   "helsinki": {
     "displayName": "Helsinki",
-    "lastUpdated": "2026-10-05T13:01:21.373Z",
+    "lastUpdated": "2026-10-06T12:26:44.944Z",
     "eventCount": 0,
     "events": []
   },
   "hongkong": {
     "displayName": "Hong Kong",
-    "lastUpdated": "2026-10-05T13:01:23.026Z",
+    "lastUpdated": "2026-10-06T12:26:46.811Z",
     "eventCount": 0,
     "events": []
   },
   "honolulu": {
     "displayName": "Honolulu",
-    "lastUpdated": "2026-10-05T13:01:25.031Z",
+    "lastUpdated": "2026-10-06T12:26:48.900Z",
     "eventCount": 2,
     "events": [
       {
@@ -1546,7 +1578,7 @@
   },
   "houston": {
     "displayName": "Houston",
-    "lastUpdated": "2026-10-05T13:01:27.277Z",
+    "lastUpdated": "2026-10-06T12:26:51.245Z",
     "eventCount": 2,
     "events": [
       {
@@ -1562,7 +1594,7 @@
         "segment": "Music",
         "genre": "Dance/Electronic",
         "subGenre": "Amapiano",
-        "image": "https://s1.ticketm.net/dam/a/b99/44736a1a-46cb-41c3-8c65-d735b5a45b99_TABLET_LANDSCAPE_16_9.jpg",
+        "image": "https://s1.ticketm.net/dam/a/b99/44736a1a-46cb-41c3-8c65-d735b5a45b99_SOURCE",
         "priceRange": null
       },
       {
@@ -1578,26 +1610,26 @@
         "segment": "Music",
         "genre": "Other",
         "subGenre": "Other",
-        "image": "https://s1.ticketm.net/dam/a/b99/44736a1a-46cb-41c3-8c65-d735b5a45b99_TABLET_LANDSCAPE_16_9.jpg",
+        "image": "https://s1.ticketm.net/dam/a/b99/44736a1a-46cb-41c3-8c65-d735b5a45b99_SOURCE",
         "priceRange": null
       }
     ]
   },
   "indianapolis": {
     "displayName": "Indianapolis",
-    "lastUpdated": "2026-10-05T13:01:29.361Z",
+    "lastUpdated": "2026-10-06T12:26:53.455Z",
     "eventCount": 0,
     "events": []
   },
   "istanbul": {
     "displayName": "Istanbul",
-    "lastUpdated": "2026-10-05T13:01:31.301Z",
+    "lastUpdated": "2026-10-06T12:26:55.541Z",
     "eventCount": 0,
     "events": []
   },
   "jacksonville": {
     "displayName": "Jacksonville",
-    "lastUpdated": "2026-10-05T13:01:33.220Z",
+    "lastUpdated": "2026-10-06T12:26:57.710Z",
     "eventCount": 2,
     "events": [
       {
@@ -1636,31 +1668,48 @@
   },
   "jeddah": {
     "displayName": "Jeddah",
-    "lastUpdated": "2026-10-05T13:01:35.039Z",
+    "lastUpdated": "2026-10-06T12:26:59.685Z",
     "eventCount": 0,
     "events": []
   },
   "kansascity": {
     "displayName": "Kansas City",
-    "lastUpdated": "2026-10-05T13:01:36.913Z",
+    "lastUpdated": "2026-10-06T12:27:01.844Z",
     "eventCount": 0,
     "events": []
   },
   "kokoszki": {
     "displayName": "Kokoszki",
-    "lastUpdated": "2026-10-05T13:01:38.811Z",
-    "eventCount": 0,
-    "events": []
+    "lastUpdated": "2026-10-06T12:27:03.995Z",
+    "eventCount": 1,
+    "events": [
+      {
+        "id": "Z698xZQpZ16evA44jN",
+        "name": "JOHN SUMMIT – EUROPE CTRL ESCAPE ARENA TOUR",
+        "url": "https://www.ticketmaster.pl/event/john-summit--europe-ctrl-escape-arena-tour-tickets/2045555723?language=en-us",
+        "date": "2027-02-11",
+        "time": "18:00:00",
+        "venueName": "COS Torwar",
+        "venueAddress": "Łazienkowska 6a",
+        "venueCity": "Warsaw",
+        "venueCountry": "Poland",
+        "segment": "Music",
+        "genre": "Dance/Electronic",
+        "subGenre": "Dance/Electronic",
+        "image": "https://s1.ticketm.net/dam/a/b99/44736a1a-46cb-41c3-8c65-d735b5a45b99_SOURCE",
+        "priceRange": null
+      }
+    ]
   },
   "kuwait": {
     "displayName": "Kuwait",
-    "lastUpdated": "2026-10-05T13:01:40.447Z",
+    "lastUpdated": "2026-10-06T12:27:05.817Z",
     "eventCount": 0,
     "events": []
   },
   "lasvegas": {
     "displayName": "Las Vegas",
-    "lastUpdated": "2026-10-05T13:01:42.505Z",
+    "lastUpdated": "2026-10-06T12:27:08.137Z",
     "eventCount": 10,
     "events": [
       {
@@ -1827,44 +1876,44 @@
   },
   "lebanon": {
     "displayName": "Lebanon",
-    "lastUpdated": "2026-10-05T13:01:44.097Z",
+    "lastUpdated": "2026-10-06T12:27:10.053Z",
     "eventCount": 0,
     "events": []
   },
   "leeds": {
     "displayName": "Leeds",
-    "lastUpdated": "2026-10-05T13:01:46.054Z",
+    "lastUpdated": "2026-10-06T12:27:12.440Z",
     "eventCount": 0,
     "events": []
   },
   "leipzig": {
     "displayName": "Leipzig",
-    "lastUpdated": "2026-10-05T13:01:48.038Z",
+    "lastUpdated": "2026-10-06T12:27:14.809Z",
     "eventCount": 0,
     "events": []
   },
   "lisbon": {
     "displayName": "Lisbon",
-    "lastUpdated": "2026-10-05T13:01:50.065Z",
+    "lastUpdated": "2026-10-06T12:27:16.788Z",
     "eventCount": 0,
     "events": []
   },
   "littlerock": {
     "displayName": "Little Rock",
-    "lastUpdated": "2026-10-05T13:01:51.811Z",
+    "lastUpdated": "2026-10-06T12:27:18.974Z",
     "eventCount": 0,
     "events": []
   },
   "liverpool": {
     "displayName": "Liverpool",
-    "lastUpdated": "2026-10-05T13:01:53.879Z",
+    "lastUpdated": "2026-10-06T12:27:21.076Z",
     "eventCount": 0,
     "events": []
   },
   "london": {
     "displayName": "London",
-    "lastUpdated": "2026-10-05T13:01:55.959Z",
-    "eventCount": 5,
+    "lastUpdated": "2026-10-06T12:27:23.618Z",
+    "eventCount": 6,
     "events": [
       {
         "id": "LvZ18QrxCrkItpYZ06S7u",
@@ -1896,6 +1945,22 @@
         "genre": "Pop",
         "subGenre": "Electro Pop",
         "image": "https://s1.ticketm.net/dam/c/4f2/0109888a-61b5-4525-8432-b026ef04f4f2_105631_RETINA_PORTRAIT_16_9.jpg",
+        "priceRange": null
+      },
+      {
+        "id": "1AgZk4eGkdwrmJf",
+        "name": "JOHN SUMMIT - EUROPE CTRL ESCAPE ARENA TOUR",
+        "url": "https://www.ticketmaster.co.uk/john-summit-europe-ctrl-escape-arena-london-27-02-2027/event/35006542F27AE994",
+        "date": "2027-02-27",
+        "time": "18:30:00",
+        "venueName": "The O2",
+        "venueAddress": "Peninsula Square",
+        "venueCity": "London",
+        "venueCountry": "Great Britain",
+        "segment": "Music",
+        "genre": "Dance/Electronic",
+        "subGenre": "Amapiano",
+        "image": "https://s1.ticketm.net/dam/a/b99/44736a1a-46cb-41c3-8c65-d735b5a45b99_SOURCE",
         "priceRange": null
       },
       {
@@ -1950,7 +2015,7 @@
   },
   "longbeach": {
     "displayName": "Long Beach",
-    "lastUpdated": "2026-10-05T13:01:58.071Z",
+    "lastUpdated": "2026-10-06T12:27:25.916Z",
     "eventCount": 1,
     "events": [
       {
@@ -1973,7 +2038,7 @@
   },
   "losangeles": {
     "displayName": "Los Angeles",
-    "lastUpdated": "2026-10-05T13:02:00.163Z",
+    "lastUpdated": "2026-10-06T12:27:28.188Z",
     "eventCount": 1,
     "events": [
       {
@@ -1989,14 +2054,14 @@
         "segment": "Music",
         "genre": "Dance/Electronic",
         "subGenre": "Amapiano",
-        "image": "https://s1.ticketm.net/dam/a/b99/44736a1a-46cb-41c3-8c65-d735b5a45b99_TABLET_LANDSCAPE_16_9.jpg",
+        "image": "https://s1.ticketm.net/dam/a/b99/44736a1a-46cb-41c3-8c65-d735b5a45b99_SOURCE",
         "priceRange": null
       }
     ]
   },
   "louisville": {
     "displayName": "Louisville",
-    "lastUpdated": "2026-10-05T13:02:02.178Z",
+    "lastUpdated": "2026-10-06T12:27:30.292Z",
     "eventCount": 9,
     "events": [
       {
@@ -2147,19 +2212,19 @@
   },
   "luxembourgcity": {
     "displayName": "Luxembourg City",
-    "lastUpdated": "2026-10-05T13:02:03.992Z",
+    "lastUpdated": "2026-10-06T12:27:32.195Z",
     "eventCount": 0,
     "events": []
   },
   "lyon": {
     "displayName": "Lyon",
-    "lastUpdated": "2026-10-05T13:02:05.910Z",
+    "lastUpdated": "2026-10-06T12:27:34.153Z",
     "eventCount": 0,
     "events": []
   },
   "madrid": {
     "displayName": "Madrid",
-    "lastUpdated": "2026-10-05T13:02:08.151Z",
+    "lastUpdated": "2026-10-06T12:27:36.431Z",
     "eventCount": 3,
     "events": [
       {
@@ -2214,19 +2279,19 @@
   },
   "malaga": {
     "displayName": "Malaga",
-    "lastUpdated": "2026-10-05T13:02:10.050Z",
+    "lastUpdated": "2026-10-06T12:27:38.722Z",
     "eventCount": 0,
     "events": []
   },
   "manchester": {
     "displayName": "Manchester",
-    "lastUpdated": "2026-10-05T13:02:11.993Z",
+    "lastUpdated": "2026-10-06T12:27:40.976Z",
     "eventCount": 0,
     "events": []
   },
   "manhattan": {
     "displayName": "Manhattan",
-    "lastUpdated": "2026-10-05T13:02:14.104Z",
+    "lastUpdated": "2026-10-06T12:27:43.335Z",
     "eventCount": 2,
     "events": [
       {
@@ -2265,13 +2330,13 @@
   },
   "marseille": {
     "displayName": "Marseille",
-    "lastUpdated": "2026-10-05T13:02:15.962Z",
+    "lastUpdated": "2026-10-06T12:27:45.360Z",
     "eventCount": 0,
     "events": []
   },
   "massachusetts": {
     "displayName": "Massachusetts",
-    "lastUpdated": "2026-10-05T13:02:17.967Z",
+    "lastUpdated": "2026-10-06T12:27:47.699Z",
     "eventCount": 4,
     "events": [
       {
@@ -2303,7 +2368,7 @@
         "segment": "Music",
         "genre": "Dance/Electronic",
         "subGenre": "Amapiano",
-        "image": "https://s1.ticketm.net/dam/a/b99/44736a1a-46cb-41c3-8c65-d735b5a45b99_TABLET_LANDSCAPE_16_9.jpg",
+        "image": "https://s1.ticketm.net/dam/a/b99/44736a1a-46cb-41c3-8c65-d735b5a45b99_SOURCE",
         "priceRange": null
       },
       {
@@ -2335,14 +2400,14 @@
         "segment": "Music",
         "genre": "Alternative",
         "subGenre": "Indie Rock",
-        "image": "https://s1.ticketm.net/dam/a/93d/f1cf2c47-9d96-4312-b241-7a3f1690393d_RETINA_PORTRAIT_16_9.jpg",
+        "image": "https://s1.ticketm.net/dam/a/deb/fca2cf16-8c4b-4d15-8e51-5b37763b1deb_TABLET_LANDSCAPE_16_9.jpg",
         "priceRange": "USD 0-0"
       }
     ]
   },
   "mcallen": {
     "displayName": "Mcallen",
-    "lastUpdated": "2026-10-05T13:02:19.928Z",
+    "lastUpdated": "2026-10-06T12:27:49.745Z",
     "eventCount": 3,
     "events": [
       {
@@ -2397,19 +2462,19 @@
   },
   "meixedo": {
     "displayName": "Meixedo",
-    "lastUpdated": "2026-10-05T13:02:21.820Z",
+    "lastUpdated": "2026-10-06T12:27:51.676Z",
     "eventCount": 0,
     "events": []
   },
   "melbourne": {
     "displayName": "Melbourne",
-    "lastUpdated": "2026-10-05T13:02:23.660Z",
+    "lastUpdated": "2026-10-06T12:27:53.867Z",
     "eventCount": 0,
     "events": []
   },
   "memphis": {
     "displayName": "Memphis",
-    "lastUpdated": "2026-10-05T13:02:25.587Z",
+    "lastUpdated": "2026-10-06T12:27:55.987Z",
     "eventCount": 9,
     "events": [
       {
@@ -2560,13 +2625,13 @@
   },
   "mesa": {
     "displayName": "Mesa",
-    "lastUpdated": "2026-10-05T13:02:27.551Z",
+    "lastUpdated": "2026-10-06T12:27:58.008Z",
     "eventCount": 0,
     "events": []
   },
   "miami": {
     "displayName": "Miami",
-    "lastUpdated": "2026-10-05T13:02:29.515Z",
+    "lastUpdated": "2026-10-06T12:28:00.181Z",
     "eventCount": 2,
     "events": [
       {
@@ -2582,7 +2647,7 @@
         "segment": "Music",
         "genre": "Dance/Electronic",
         "subGenre": "Amapiano",
-        "image": "https://s1.ticketm.net/dam/a/b99/44736a1a-46cb-41c3-8c65-d735b5a45b99_TABLET_LANDSCAPE_16_9.jpg",
+        "image": "https://s1.ticketm.net/dam/a/b99/44736a1a-46cb-41c3-8c65-d735b5a45b99_SOURCE",
         "priceRange": null
       },
       {
@@ -2598,44 +2663,44 @@
         "segment": "Music",
         "genre": "Dance/Electronic",
         "subGenre": "Amapiano",
-        "image": "https://s1.ticketm.net/dam/a/b99/44736a1a-46cb-41c3-8c65-d735b5a45b99_TABLET_LANDSCAPE_16_9.jpg",
+        "image": "https://s1.ticketm.net/dam/a/b99/44736a1a-46cb-41c3-8c65-d735b5a45b99_SOURCE",
         "priceRange": null
       }
     ]
   },
   "michigan": {
     "displayName": "Michigan",
-    "lastUpdated": "2026-10-05T13:02:31.527Z",
+    "lastUpdated": "2026-10-06T12:28:02.777Z",
     "eventCount": 0,
     "events": []
   },
   "milan": {
     "displayName": "Milan",
-    "lastUpdated": "2026-10-05T13:02:33.761Z",
+    "lastUpdated": "2026-10-06T12:28:04.786Z",
     "eventCount": 0,
     "events": []
   },
   "milwaukee": {
     "displayName": "Milwaukee",
-    "lastUpdated": "2026-10-05T13:02:35.812Z",
+    "lastUpdated": "2026-10-06T12:28:07.116Z",
     "eventCount": 0,
     "events": []
   },
   "minneapolis": {
     "displayName": "Minneapolis",
-    "lastUpdated": "2026-10-05T13:02:37.789Z",
+    "lastUpdated": "2026-10-06T12:28:09.318Z",
     "eventCount": 0,
     "events": []
   },
   "monaco": {
     "displayName": "Monaco",
-    "lastUpdated": "2026-10-05T13:02:39.497Z",
+    "lastUpdated": "2026-10-06T12:28:11.191Z",
     "eventCount": 0,
     "events": []
   },
   "montreal": {
     "displayName": "Montreal",
-    "lastUpdated": "2026-10-05T13:02:41.518Z",
+    "lastUpdated": "2026-10-06T12:28:13.355Z",
     "eventCount": 3,
     "events": [
       {
@@ -2683,32 +2748,32 @@
         "segment": "Music",
         "genre": "Dance/Electronic",
         "subGenre": "Amapiano",
-        "image": "https://s1.ticketm.net/dam/a/b99/44736a1a-46cb-41c3-8c65-d735b5a45b99_TABLET_LANDSCAPE_16_9.jpg",
+        "image": "https://s1.ticketm.net/dam/a/b99/44736a1a-46cb-41c3-8c65-d735b5a45b99_SOURCE",
         "priceRange": null
       }
     ]
   },
   "munich": {
     "displayName": "Munich",
-    "lastUpdated": "2026-10-05T13:02:43.395Z",
+    "lastUpdated": "2026-10-06T12:28:15.518Z",
     "eventCount": 0,
     "events": []
   },
   "naples": {
     "displayName": "Naples",
-    "lastUpdated": "2026-10-05T13:02:45.141Z",
+    "lastUpdated": "2026-10-06T12:28:17.394Z",
     "eventCount": 0,
     "events": []
   },
   "nashville": {
     "displayName": "Nashville",
-    "lastUpdated": "2026-10-05T13:02:47.188Z",
+    "lastUpdated": "2026-10-06T12:28:19.763Z",
     "eventCount": 0,
     "events": []
   },
   "nevada": {
     "displayName": "Nevada",
-    "lastUpdated": "2026-10-05T13:02:49.218Z",
+    "lastUpdated": "2026-10-06T12:28:22.013Z",
     "eventCount": 10,
     "events": [
       {
@@ -2875,7 +2940,7 @@
   },
   "newjersey": {
     "displayName": "New Jersey",
-    "lastUpdated": "2026-10-05T13:02:51.426Z",
+    "lastUpdated": "2026-10-06T12:28:24.395Z",
     "eventCount": 1,
     "events": [
       {
@@ -2898,7 +2963,7 @@
   },
   "neworleans": {
     "displayName": "New Orleans",
-    "lastUpdated": "2026-10-05T13:02:53.259Z",
+    "lastUpdated": "2026-10-06T12:28:26.478Z",
     "eventCount": 1,
     "events": [
       {
@@ -2921,7 +2986,7 @@
   },
   "newyork": {
     "displayName": "New York",
-    "lastUpdated": "2026-10-05T13:02:55.345Z",
+    "lastUpdated": "2026-10-06T12:28:28.862Z",
     "eventCount": 2,
     "events": [
       {
@@ -2960,13 +3025,13 @@
   },
   "nice": {
     "displayName": "Nice",
-    "lastUpdated": "2026-10-05T13:02:57.118Z",
+    "lastUpdated": "2026-10-06T12:28:30.914Z",
     "eventCount": 0,
     "events": []
   },
   "northcarolina": {
     "displayName": "North Carolina",
-    "lastUpdated": "2026-10-05T13:02:59.244Z",
+    "lastUpdated": "2026-10-06T12:28:33.471Z",
     "eventCount": 7,
     "events": [
       {
@@ -3014,7 +3079,7 @@
         "segment": "Music",
         "genre": "Dance/Electronic",
         "subGenre": "Amapiano",
-        "image": "https://s1.ticketm.net/dam/a/b99/44736a1a-46cb-41c3-8c65-d735b5a45b99_TABLET_LANDSCAPE_16_9.jpg",
+        "image": "https://s1.ticketm.net/dam/a/b99/44736a1a-46cb-41c3-8c65-d735b5a45b99_SOURCE",
         "priceRange": null
       },
       {
@@ -3085,31 +3150,31 @@
   },
   "nuremberg": {
     "displayName": "Nuremberg",
-    "lastUpdated": "2026-10-05T13:03:01.151Z",
+    "lastUpdated": "2026-10-06T12:28:35.447Z",
     "eventCount": 0,
     "events": []
   },
   "oklahomacity": {
     "displayName": "Oklahoma City",
-    "lastUpdated": "2026-10-05T13:03:03.035Z",
+    "lastUpdated": "2026-10-06T12:28:37.536Z",
     "eventCount": 0,
     "events": []
   },
   "omaha": {
     "displayName": "Omaha",
-    "lastUpdated": "2026-10-05T13:03:05.025Z",
+    "lastUpdated": "2026-10-06T12:28:39.651Z",
     "eventCount": 0,
     "events": []
   },
   "oman": {
     "displayName": "Oman",
-    "lastUpdated": "2026-10-05T13:03:06.663Z",
+    "lastUpdated": "2026-10-06T12:28:41.741Z",
     "eventCount": 0,
     "events": []
   },
   "oregon": {
     "displayName": "Oregon",
-    "lastUpdated": "2026-10-05T13:03:08.534Z",
+    "lastUpdated": "2026-10-06T12:28:44.169Z",
     "eventCount": 9,
     "events": [
       {
@@ -3260,43 +3325,43 @@
   },
   "orlando": {
     "displayName": "Orlando",
-    "lastUpdated": "2026-10-05T13:03:10.453Z",
+    "lastUpdated": "2026-10-06T12:28:46.417Z",
     "eventCount": 0,
     "events": []
   },
   "oslo": {
     "displayName": "Oslo",
-    "lastUpdated": "2026-10-05T13:03:12.726Z",
+    "lastUpdated": "2026-10-06T12:28:48.728Z",
     "eventCount": 0,
     "events": []
   },
   "ottawa": {
     "displayName": "Ottawa",
-    "lastUpdated": "2026-10-05T13:03:14.705Z",
+    "lastUpdated": "2026-10-06T12:28:50.904Z",
     "eventCount": 0,
     "events": []
   },
   "pansol": {
     "displayName": "Pansol",
-    "lastUpdated": "2026-10-05T13:03:16.535Z",
+    "lastUpdated": "2026-10-06T12:28:52.926Z",
     "eventCount": 0,
     "events": []
   },
   "paris": {
     "displayName": "Paris",
-    "lastUpdated": "2026-10-05T13:03:18.363Z",
+    "lastUpdated": "2026-10-06T12:28:54.975Z",
     "eventCount": 0,
     "events": []
   },
   "perth": {
     "displayName": "Perth",
-    "lastUpdated": "2026-10-05T13:03:20.290Z",
+    "lastUpdated": "2026-10-06T12:28:56.977Z",
     "eventCount": 0,
     "events": []
   },
   "philadelphia": {
     "displayName": "Philadelphia",
-    "lastUpdated": "2026-10-05T13:03:22.146Z",
+    "lastUpdated": "2026-10-06T12:28:59.245Z",
     "eventCount": 1,
     "events": [
       {
@@ -3312,86 +3377,86 @@
         "segment": "Music",
         "genre": "Dance/Electronic",
         "subGenre": "Amapiano",
-        "image": "https://s1.ticketm.net/dam/a/b99/44736a1a-46cb-41c3-8c65-d735b5a45b99_TABLET_LANDSCAPE_16_9.jpg",
+        "image": "https://s1.ticketm.net/dam/a/b99/44736a1a-46cb-41c3-8c65-d735b5a45b99_SOURCE",
         "priceRange": null
       }
     ]
   },
   "phoenix": {
     "displayName": "Phoenix",
-    "lastUpdated": "2026-10-05T13:03:24.135Z",
+    "lastUpdated": "2026-10-06T12:29:01.750Z",
     "eventCount": 0,
     "events": []
   },
   "pittsburgh": {
     "displayName": "Pittsburgh",
-    "lastUpdated": "2026-10-05T13:03:26.426Z",
+    "lastUpdated": "2026-10-06T12:29:03.961Z",
     "eventCount": 0,
     "events": []
   },
   "porto": {
     "displayName": "Porto",
-    "lastUpdated": "2026-10-05T13:03:28.207Z",
+    "lastUpdated": "2026-10-06T12:29:06.106Z",
     "eventCount": 0,
     "events": []
   },
   "prague": {
     "displayName": "Prague",
-    "lastUpdated": "2026-10-05T13:03:30.020Z",
+    "lastUpdated": "2026-10-06T12:29:08.322Z",
     "eventCount": 0,
     "events": []
   },
   "providence": {
     "displayName": "Providence",
-    "lastUpdated": "2026-10-05T13:03:32.002Z",
+    "lastUpdated": "2026-10-06T12:29:10.657Z",
     "eventCount": 0,
     "events": []
   },
   "puertovallarta": {
     "displayName": "Puerto Vallarta",
-    "lastUpdated": "2026-10-05T13:03:33.736Z",
+    "lastUpdated": "2026-10-06T12:29:12.542Z",
     "eventCount": 0,
     "events": []
   },
   "qatar": {
     "displayName": "Qatar",
-    "lastUpdated": "2026-10-05T13:03:35.237Z",
+    "lastUpdated": "2026-10-06T12:29:14.456Z",
     "eventCount": 0,
     "events": []
   },
   "quebeccity": {
     "displayName": "Quebec City",
-    "lastUpdated": "2026-10-05T13:03:37.169Z",
+    "lastUpdated": "2026-10-06T12:29:16.498Z",
     "eventCount": 0,
     "events": []
   },
   "queens": {
     "displayName": "Queens",
-    "lastUpdated": "2026-10-05T13:03:39.554Z",
+    "lastUpdated": "2026-10-06T12:29:18.506Z",
     "eventCount": 0,
     "events": []
   },
   "queenstown": {
     "displayName": "Queenstown",
-    "lastUpdated": "2026-10-05T13:03:41.343Z",
+    "lastUpdated": "2026-10-06T12:29:20.531Z",
     "eventCount": 0,
     "events": []
   },
   "raleigh": {
     "displayName": "Raleigh",
-    "lastUpdated": "2026-10-05T13:03:43.252Z",
+    "lastUpdated": "2026-10-06T12:29:22.912Z",
     "eventCount": 0,
     "events": []
   },
   "reno": {
     "displayName": "Reno",
-    "lastUpdated": "2026-10-05T13:03:45.172Z",
+    "lastUpdated": "2026-10-06T12:29:25.215Z",
     "eventCount": 0,
     "events": []
   },
   "richmond": {
     "displayName": "Richmond",
-    "lastUpdated": "2026-10-05T13:03:47.118Z",
+    "lastUpdated": "2026-10-06T12:29:27.285Z",
     "eventCount": 9,
     "events": [
       {
@@ -3542,31 +3607,31 @@
   },
   "riverside": {
     "displayName": "Riverside",
-    "lastUpdated": "2026-10-05T13:03:49.012Z",
+    "lastUpdated": "2026-10-06T12:29:29.224Z",
     "eventCount": 0,
     "events": []
   },
   "riyadh": {
     "displayName": "Riyadh",
-    "lastUpdated": "2026-10-05T13:03:50.683Z",
+    "lastUpdated": "2026-10-06T12:29:30.958Z",
     "eventCount": 0,
     "events": []
   },
   "rochester": {
     "displayName": "Rochester",
-    "lastUpdated": "2026-10-05T13:03:52.692Z",
+    "lastUpdated": "2026-10-06T12:29:33.000Z",
     "eventCount": 0,
     "events": []
   },
   "rome": {
     "displayName": "Rome",
-    "lastUpdated": "2026-10-05T13:03:54.558Z",
+    "lastUpdated": "2026-10-06T12:29:34.981Z",
     "eventCount": 0,
     "events": []
   },
   "rotterdam": {
     "displayName": "Rotterdam",
-    "lastUpdated": "2026-10-05T13:03:56.719Z",
+    "lastUpdated": "2026-10-06T12:29:37.204Z",
     "eventCount": 2,
     "events": [
       {
@@ -3605,19 +3670,19 @@
   },
   "sacramento": {
     "displayName": "Sacramento",
-    "lastUpdated": "2026-10-05T13:03:58.683Z",
+    "lastUpdated": "2026-10-06T12:29:39.648Z",
     "eventCount": 0,
     "events": []
   },
   "saltlakecity": {
     "displayName": "Salt Lake City",
-    "lastUpdated": "2026-10-05T13:04:00.554Z",
+    "lastUpdated": "2026-10-06T12:29:41.638Z",
     "eventCount": 0,
     "events": []
   },
   "sanantonio": {
     "displayName": "San Antonio",
-    "lastUpdated": "2026-10-05T13:04:02.671Z",
+    "lastUpdated": "2026-10-06T12:29:44.210Z",
     "eventCount": 1,
     "events": [
       {
@@ -3640,7 +3705,7 @@
   },
   "sandiego": {
     "displayName": "San Diego",
-    "lastUpdated": "2026-10-05T13:04:05.664Z",
+    "lastUpdated": "2026-10-06T12:29:46.423Z",
     "eventCount": 1,
     "events": [
       {
@@ -3663,80 +3728,80 @@
   },
   "sanfrancisco": {
     "displayName": "San Francisco",
-    "lastUpdated": "2026-10-05T13:04:07.818Z",
+    "lastUpdated": "2026-10-06T12:29:48.534Z",
     "eventCount": 0,
     "events": []
   },
   "sanjose": {
     "displayName": "San Jose",
-    "lastUpdated": "2026-10-05T13:04:09.768Z",
+    "lastUpdated": "2026-10-06T12:29:50.636Z",
     "eventCount": 0,
     "events": []
   },
   "seattle": {
     "displayName": "Seattle",
-    "lastUpdated": "2026-10-05T13:04:11.721Z",
+    "lastUpdated": "2026-10-06T12:29:52.881Z",
     "eventCount": 0,
     "events": []
   },
   "seville": {
     "displayName": "Seville",
-    "lastUpdated": "2026-10-05T13:04:13.712Z",
+    "lastUpdated": "2026-10-06T12:29:54.828Z",
     "eventCount": 0,
     "events": []
   },
   "shanghai": {
     "displayName": "Shanghai",
-    "lastUpdated": "2026-10-05T13:04:15.454Z",
+    "lastUpdated": "2026-10-06T12:29:56.722Z",
     "eventCount": 0,
     "events": []
   },
   "sheffield": {
     "displayName": "Sheffield",
-    "lastUpdated": "2026-10-05T13:04:17.401Z",
+    "lastUpdated": "2026-10-06T12:29:58.978Z",
     "eventCount": 0,
     "events": []
   },
   "singapore": {
     "displayName": "Singapore",
-    "lastUpdated": "2026-10-05T13:04:19.477Z",
+    "lastUpdated": "2026-10-06T12:30:01.302Z",
     "eventCount": 0,
     "events": []
   },
   "sofia": {
     "displayName": "Sofia",
-    "lastUpdated": "2026-10-05T13:04:21.317Z",
+    "lastUpdated": "2026-10-06T12:30:03.594Z",
     "eventCount": 0,
     "events": []
   },
   "split": {
     "displayName": "Split",
-    "lastUpdated": "2026-10-05T13:04:23.207Z",
+    "lastUpdated": "2026-10-06T12:30:05.615Z",
     "eventCount": 0,
     "events": []
   },
   "stlouis": {
     "displayName": "St Louis",
-    "lastUpdated": "2026-10-05T13:04:25.076Z",
+    "lastUpdated": "2026-10-06T12:30:07.561Z",
     "eventCount": 0,
     "events": []
   },
   "stockholm": {
     "displayName": "Stockholm",
-    "lastUpdated": "2026-10-05T13:04:27.043Z",
+    "lastUpdated": "2026-10-06T12:30:09.814Z",
     "eventCount": 0,
     "events": []
   },
   "stuttgart": {
     "displayName": "Stuttgart",
-    "lastUpdated": "2026-10-05T13:04:28.849Z",
+    "lastUpdated": "2026-10-06T12:30:11.842Z",
     "eventCount": 0,
     "events": []
   },
   "sulzbach": {
     "displayName": "Sulzbach",
-    "lastUpdated": "2026-10-05T13:04:30.778Z",
-    "eventCount": 4,
+    "lastUpdated": "2026-10-06T12:30:14.370Z",
+    "eventCount": 6,
     "events": [
       {
         "id": "Z698xZC2Z16v4fG4uE",
@@ -3787,6 +3852,38 @@
         "priceRange": null
       },
       {
+        "id": "Z698xZC2Z16eeoJp1v",
+        "name": "JOHN SUMMIT – EUROPE CTRL ESCAPE TOUR",
+        "url": "https://www.ticketmaster.de/event/john-summit--europe-ctrl-escape-tour-tickets/2091996281?language=en-us",
+        "date": "2027-02-18",
+        "time": "20:00:00",
+        "venueName": null,
+        "venueAddress": "Paul-Heyse-Straße 26",
+        "venueCity": "Berlin",
+        "venueCountry": "Germany",
+        "segment": "Music",
+        "genre": "Dance/Electronic",
+        "subGenre": "Dance/Electronic",
+        "image": "https://s1.ticketm.net/dam/a/b99/44736a1a-46cb-41c3-8c65-d735b5a45b99_SOURCE",
+        "priceRange": null
+      },
+      {
+        "id": "Z698xZC2Z1kj74-7O",
+        "name": "JOHN SUMMIT – EUROPE CTRL ESCAPE TOUR",
+        "url": "https://www.ticketmaster.de/event/john-summit--europe-ctrl-escape-tour-tickets/704561120?language=en-us",
+        "date": "2027-02-19",
+        "time": "20:00:00",
+        "venueName": null,
+        "venueAddress": "Schanzenstraße 40",
+        "venueCity": "Cologne",
+        "venueCountry": "Germany",
+        "segment": "Music",
+        "genre": "Dance/Electronic",
+        "subGenre": "Dance/Electronic",
+        "image": "https://s1.ticketm.net/dam/a/b99/44736a1a-46cb-41c3-8c65-d735b5a45b99_SOURCE",
+        "priceRange": null
+      },
+      {
         "id": "LvZ18QnaUekaC-xZW8yt7",
         "name": "Collector Universe 2027 — The new Collector Convention",
         "url": "https://www.universe.com/events/collector-universe-2027-the-new-collector-convention-tickets-YF04NQ?ref=ticketmaster",
@@ -3806,31 +3903,31 @@
   },
   "sydney": {
     "displayName": "Sydney",
-    "lastUpdated": "2026-10-05T13:04:32.857Z",
+    "lastUpdated": "2026-10-06T12:30:16.725Z",
     "eventCount": 0,
     "events": []
   },
   "tallahassee": {
     "displayName": "Tallahassee",
-    "lastUpdated": "2026-10-05T13:04:34.886Z",
+    "lastUpdated": "2026-10-06T12:30:18.826Z",
     "eventCount": 0,
     "events": []
   },
   "tampa": {
     "displayName": "Tampa",
-    "lastUpdated": "2026-10-05T13:04:36.948Z",
+    "lastUpdated": "2026-10-06T12:30:21.009Z",
     "eventCount": 0,
     "events": []
   },
   "tbilisi": {
     "displayName": "Tbilisi",
-    "lastUpdated": "2026-10-05T13:04:38.823Z",
+    "lastUpdated": "2026-10-06T12:30:22.973Z",
     "eventCount": 0,
     "events": []
   },
   "texas": {
     "displayName": "Texas",
-    "lastUpdated": "2026-10-05T13:04:40.998Z",
+    "lastUpdated": "2026-10-06T12:30:25.305Z",
     "eventCount": 10,
     "events": [
       {
@@ -3878,7 +3975,7 @@
         "segment": "Music",
         "genre": "Dance/Electronic",
         "subGenre": "Amapiano",
-        "image": "https://s1.ticketm.net/dam/a/b99/44736a1a-46cb-41c3-8c65-d735b5a45b99_TABLET_LANDSCAPE_16_9.jpg",
+        "image": "https://s1.ticketm.net/dam/a/b99/44736a1a-46cb-41c3-8c65-d735b5a45b99_SOURCE",
         "priceRange": null
       },
       {
@@ -3894,7 +3991,7 @@
         "segment": "Music",
         "genre": "Other",
         "subGenre": "Other",
-        "image": "https://s1.ticketm.net/dam/a/b99/44736a1a-46cb-41c3-8c65-d735b5a45b99_TABLET_LANDSCAPE_16_9.jpg",
+        "image": "https://s1.ticketm.net/dam/a/b99/44736a1a-46cb-41c3-8c65-d735b5a45b99_SOURCE",
         "priceRange": null
       },
       {
@@ -3910,7 +4007,7 @@
         "segment": "Music",
         "genre": "Dance/Electronic",
         "subGenre": "Amapiano",
-        "image": "https://s1.ticketm.net/dam/a/b99/44736a1a-46cb-41c3-8c65-d735b5a45b99_TABLET_LANDSCAPE_16_9.jpg",
+        "image": "https://s1.ticketm.net/dam/a/b99/44736a1a-46cb-41c3-8c65-d735b5a45b99_SOURCE",
         "priceRange": null
       },
       {
@@ -3926,7 +4023,7 @@
         "segment": "Music",
         "genre": "Dance/Electronic",
         "subGenre": "Amapiano",
-        "image": "https://s1.ticketm.net/dam/a/b99/44736a1a-46cb-41c3-8c65-d735b5a45b99_TABLET_LANDSCAPE_16_9.jpg",
+        "image": "https://s1.ticketm.net/dam/a/b99/44736a1a-46cb-41c3-8c65-d735b5a45b99_SOURCE",
         "priceRange": null
       },
       {
@@ -3958,7 +4055,7 @@
         "segment": "Music",
         "genre": "Dance/Electronic",
         "subGenre": "Amapiano",
-        "image": "https://s1.ticketm.net/dam/a/b99/44736a1a-46cb-41c3-8c65-d735b5a45b99_TABLET_LANDSCAPE_16_9.jpg",
+        "image": "https://s1.ticketm.net/dam/a/b99/44736a1a-46cb-41c3-8c65-d735b5a45b99_SOURCE",
         "priceRange": null
       },
       {
@@ -3997,13 +4094,13 @@
   },
   "tokyo": {
     "displayName": "Tokyo",
-    "lastUpdated": "2026-10-05T13:04:42.875Z",
+    "lastUpdated": "2026-10-06T12:30:27.306Z",
     "eventCount": 0,
     "events": []
   },
   "toronto": {
     "displayName": "Toronto",
-    "lastUpdated": "2026-10-05T13:04:44.839Z",
+    "lastUpdated": "2026-10-06T12:30:29.730Z",
     "eventCount": 1,
     "events": [
       {
@@ -4019,80 +4116,97 @@
         "segment": "Music",
         "genre": "Dance/Electronic",
         "subGenre": "Amapiano",
-        "image": "https://s1.ticketm.net/dam/a/b99/44736a1a-46cb-41c3-8c65-d735b5a45b99_TABLET_LANDSCAPE_16_9.jpg",
+        "image": "https://s1.ticketm.net/dam/a/b99/44736a1a-46cb-41c3-8c65-d735b5a45b99_SOURCE",
         "priceRange": null
       }
     ]
   },
   "toulouse": {
     "displayName": "Toulouse",
-    "lastUpdated": "2026-10-05T13:04:46.667Z",
+    "lastUpdated": "2026-10-06T12:30:31.738Z",
     "eventCount": 0,
     "events": []
   },
   "tucson": {
     "displayName": "Tucson",
-    "lastUpdated": "2026-10-05T13:04:48.540Z",
+    "lastUpdated": "2026-10-06T12:30:33.929Z",
     "eventCount": 0,
     "events": []
   },
   "tulsa": {
     "displayName": "Tulsa",
-    "lastUpdated": "2026-10-05T13:04:50.443Z",
+    "lastUpdated": "2026-10-06T12:30:36.095Z",
     "eventCount": 0,
     "events": []
   },
   "valencia": {
     "displayName": "Valencia",
-    "lastUpdated": "2026-10-05T13:04:52.369Z",
+    "lastUpdated": "2026-10-06T12:30:38.374Z",
     "eventCount": 0,
     "events": []
   },
   "vancouver": {
     "displayName": "Vancouver",
-    "lastUpdated": "2026-10-05T13:04:54.309Z",
+    "lastUpdated": "2026-10-06T12:30:40.566Z",
     "eventCount": 0,
     "events": []
   },
   "venice": {
     "displayName": "Venice",
-    "lastUpdated": "2026-10-05T13:04:56.131Z",
+    "lastUpdated": "2026-10-06T12:30:42.602Z",
     "eventCount": 0,
     "events": []
   },
   "victoria": {
     "displayName": "Victoria",
-    "lastUpdated": "2026-10-05T13:04:58.052Z",
+    "lastUpdated": "2026-10-06T12:30:44.798Z",
     "eventCount": 0,
     "events": []
   },
   "vienna": {
     "displayName": "Vienna",
-    "lastUpdated": "2026-10-05T13:04:59.764Z",
+    "lastUpdated": "2026-10-06T12:30:46.736Z",
     "eventCount": 0,
     "events": []
   },
   "virginiabeach": {
     "displayName": "Virginia Beach",
-    "lastUpdated": "2026-10-05T13:05:01.659Z",
+    "lastUpdated": "2026-10-06T12:30:48.968Z",
     "eventCount": 0,
     "events": []
   },
   "warren": {
     "displayName": "Warren",
-    "lastUpdated": "2026-10-05T13:05:03.544Z",
+    "lastUpdated": "2026-10-06T12:30:50.936Z",
     "eventCount": 0,
     "events": []
   },
   "warsaw": {
     "displayName": "Warsaw",
-    "lastUpdated": "2026-10-05T13:05:05.661Z",
-    "eventCount": 0,
-    "events": []
+    "lastUpdated": "2026-10-06T12:30:52.986Z",
+    "eventCount": 1,
+    "events": [
+      {
+        "id": "Z698xZQpZ16evA44jN",
+        "name": "JOHN SUMMIT – EUROPE CTRL ESCAPE ARENA TOUR",
+        "url": "https://www.ticketmaster.pl/event/john-summit--europe-ctrl-escape-arena-tour-tickets/2045555723?language=en-us",
+        "date": "2027-02-11",
+        "time": "18:00:00",
+        "venueName": "COS Torwar",
+        "venueAddress": "Łazienkowska 6a",
+        "venueCity": "Warsaw",
+        "venueCountry": "Poland",
+        "segment": "Music",
+        "genre": "Dance/Electronic",
+        "subGenre": "Dance/Electronic",
+        "image": "https://s1.ticketm.net/dam/a/b99/44736a1a-46cb-41c3-8c65-d735b5a45b99_SOURCE",
+        "priceRange": null
+      }
+    ]
   },
   "washington": {
     "displayName": "Washington",
-    "lastUpdated": "2026-10-05T13:05:07.618Z",
+    "lastUpdated": "2026-10-06T12:30:55.116Z",
     "eventCount": 1,
     "events": [
       {
@@ -4108,14 +4222,14 @@
         "segment": "Music",
         "genre": "Dance/Electronic",
         "subGenre": "Amapiano",
-        "image": "https://s1.ticketm.net/dam/a/b99/44736a1a-46cb-41c3-8c65-d735b5a45b99_TABLET_LANDSCAPE_16_9.jpg",
+        "image": "https://s1.ticketm.net/dam/a/b99/44736a1a-46cb-41c3-8c65-d735b5a45b99_SOURCE",
         "priceRange": null
       }
     ]
   },
   "westgate": {
     "displayName": "Westgate",
-    "lastUpdated": "2026-10-05T13:05:10.394Z",
+    "lastUpdated": "2026-10-06T12:30:57.826Z",
     "eventCount": 10,
     "events": [
       {
@@ -4282,26 +4396,43 @@
   },
   "winnipeg": {
     "displayName": "Winnipeg",
-    "lastUpdated": "2026-10-05T13:05:12.416Z",
+    "lastUpdated": "2026-10-06T12:31:00.078Z",
     "eventCount": 0,
     "events": []
   },
   "yerevan": {
     "displayName": "Yerevan",
-    "lastUpdated": "2026-10-05T13:05:14.176Z",
+    "lastUpdated": "2026-10-06T12:31:02.001Z",
     "eventCount": 0,
     "events": []
   },
   "zagreb": {
     "displayName": "Zagreb",
-    "lastUpdated": "2026-10-05T13:05:15.951Z",
+    "lastUpdated": "2026-10-06T12:31:04.067Z",
     "eventCount": 0,
     "events": []
   },
   "zurich": {
     "displayName": "Zurich",
-    "lastUpdated": "2026-10-05T13:05:17.684Z",
-    "eventCount": 0,
-    "events": []
+    "lastUpdated": "2026-10-06T12:31:06.189Z",
+    "eventCount": 1,
+    "events": [
+      {
+        "id": "Z698xZu3Z1kxvu8OJ",
+        "name": "JOHN SUMMIT - EUROPE CTRL ESCAPE TOUR",
+        "url": "https://www.ticketmaster.ch/event/john-summit-europe-ctrl-escape-tour-tickets/881350826?language=en-us",
+        "date": "2027-02-20",
+        "time": "20:00:00",
+        "venueName": "Halle 622",
+        "venueAddress": "Therese-Giehse-Strasse 10",
+        "venueCity": "Zürich",
+        "venueCountry": "Switzerland",
+        "segment": "Music",
+        "genre": "Dance/Electronic",
+        "subGenre": "Dance/Electronic",
+        "image": "https://s1.ticketm.net/dam/a/b99/44736a1a-46cb-41c3-8c65-d735b5a45b99_SOURCE",
+        "priceRange": null
+      }
+    ]
   }
 }
