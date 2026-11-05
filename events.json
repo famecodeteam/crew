@@ -1,37 +1,37 @@
 {
   "abudhabi": {
     "displayName": "Abu Dhabi",
-    "lastUpdated": "2026-11-04T13:27:19.756Z",
+    "lastUpdated": "2026-11-05T13:41:24.395Z",
     "eventCount": 0,
     "events": []
   },
   "albany": {
     "displayName": "Albany",
-    "lastUpdated": "2026-11-04T13:27:21.612Z",
+    "lastUpdated": "2026-11-05T13:41:26.529Z",
     "eventCount": 0,
     "events": []
   },
   "albuquerque": {
     "displayName": "Albuquerque",
-    "lastUpdated": "2026-11-04T13:27:23.506Z",
+    "lastUpdated": "2026-11-05T13:41:29.265Z",
     "eventCount": 0,
     "events": []
   },
   "alkhobar": {
     "displayName": "Al Khobar",
-    "lastUpdated": "2026-11-04T13:27:25.184Z",
+    "lastUpdated": "2026-11-05T13:41:31.421Z",
     "eventCount": 0,
     "events": []
   },
   "allentown": {
     "displayName": "Allentown",
-    "lastUpdated": "2026-11-04T13:27:26.988Z",
+    "lastUpdated": "2026-11-05T13:41:33.812Z",
     "eventCount": 0,
     "events": []
   },
   "amsterdam": {
     "displayName": "Amsterdam",
-    "lastUpdated": "2026-11-04T13:27:29.273Z",
+    "lastUpdated": "2026-11-05T13:41:36.614Z",
     "eventCount": 4,
     "events": [
       {
@@ -102,13 +102,13 @@
   },
   "ankara": {
     "displayName": "Ankara",
-    "lastUpdated": "2026-11-04T13:27:31.028Z",
+    "lastUpdated": "2026-11-05T13:41:38.950Z",
     "eventCount": 0,
     "events": []
   },
   "arizona": {
     "displayName": "Arizona",
-    "lastUpdated": "2026-11-04T13:27:32.878Z",
+    "lastUpdated": "2026-11-05T13:41:41.360Z",
     "eventCount": 1,
     "events": [
       {
@@ -131,13 +131,13 @@
   },
   "athens": {
     "displayName": "Athens",
-    "lastUpdated": "2026-11-04T13:27:34.612Z",
+    "lastUpdated": "2026-11-05T13:41:43.430Z",
     "eventCount": 0,
     "events": []
   },
   "atlanta": {
     "displayName": "Atlanta",
-    "lastUpdated": "2026-11-04T13:27:36.573Z",
+    "lastUpdated": "2026-11-05T13:41:45.603Z",
     "eventCount": 1,
     "events": [
       {
@@ -160,13 +160,13 @@
   },
   "auckland": {
     "displayName": "Auckland",
-    "lastUpdated": "2026-11-04T13:27:38.359Z",
+    "lastUpdated": "2026-11-05T13:41:47.848Z",
     "eventCount": 0,
     "events": []
   },
   "austin": {
     "displayName": "Austin",
-    "lastUpdated": "2026-11-04T13:27:40.294Z",
+    "lastUpdated": "2026-11-05T13:41:50.307Z",
     "eventCount": 2,
     "events": [
       {
@@ -205,55 +205,55 @@
   },
   "bahrain": {
     "displayName": "Bahrain",
-    "lastUpdated": "2026-11-04T13:27:41.904Z",
+    "lastUpdated": "2026-11-05T13:41:52.229Z",
     "eventCount": 0,
     "events": []
   },
   "bali": {
     "displayName": "Bali",
-    "lastUpdated": "2026-11-04T13:27:43.648Z",
+    "lastUpdated": "2026-11-05T13:41:54.333Z",
     "eventCount": 0,
     "events": []
   },
   "baltimore": {
     "displayName": "Baltimore",
-    "lastUpdated": "2026-11-04T13:27:45.560Z",
+    "lastUpdated": "2026-11-05T13:41:56.679Z",
     "eventCount": 0,
     "events": []
   },
   "barcelona": {
     "displayName": "Barcelona",
-    "lastUpdated": "2026-11-04T13:27:47.247Z",
+    "lastUpdated": "2026-11-05T13:41:58.977Z",
     "eventCount": 0,
     "events": []
   },
   "batonrouge": {
     "displayName": "Baton Rouge",
-    "lastUpdated": "2026-11-04T13:27:49.003Z",
+    "lastUpdated": "2026-11-05T13:42:01.573Z",
     "eventCount": 0,
     "events": []
   },
   "beijing": {
     "displayName": "Beijing",
-    "lastUpdated": "2026-11-04T13:27:50.758Z",
+    "lastUpdated": "2026-11-05T13:42:03.908Z",
     "eventCount": 0,
     "events": []
   },
   "beirut": {
     "displayName": "Beirut",
-    "lastUpdated": "2026-11-04T13:27:52.578Z",
+    "lastUpdated": "2026-11-05T13:42:06.166Z",
     "eventCount": 0,
     "events": []
   },
   "belgrade": {
     "displayName": "Belgrade",
-    "lastUpdated": "2026-11-04T13:27:54.263Z",
+    "lastUpdated": "2026-11-05T13:42:08.226Z",
     "eventCount": 0,
     "events": []
   },
   "berlin": {
     "displayName": "Berlin",
-    "lastUpdated": "2026-11-04T13:27:56.226Z",
+    "lastUpdated": "2026-11-05T13:42:10.896Z",
     "eventCount": 3,
     "events": [
       {
@@ -308,67 +308,67 @@
   },
   "birmingham": {
     "displayName": "Birmingham",
-    "lastUpdated": "2026-11-04T13:27:58.162Z",
+    "lastUpdated": "2026-11-05T13:42:13.119Z",
     "eventCount": 0,
     "events": []
   },
   "bologna": {
     "displayName": "Bologna",
-    "lastUpdated": "2026-11-04T13:27:59.919Z",
+    "lastUpdated": "2026-11-05T13:42:15.227Z",
     "eventCount": 0,
     "events": []
   },
   "bordeaux": {
     "displayName": "Bordeaux",
-    "lastUpdated": "2026-11-04T13:28:01.776Z",
+    "lastUpdated": "2026-11-05T13:42:17.234Z",
     "eventCount": 0,
     "events": []
   },
   "boston": {
     "displayName": "Boston",
-    "lastUpdated": "2026-11-04T13:28:03.724Z",
+    "lastUpdated": "2026-11-05T13:42:19.726Z",
     "eventCount": 0,
     "events": []
   },
   "bratislava": {
     "displayName": "Bratislava",
-    "lastUpdated": "2026-11-04T13:28:05.533Z",
+    "lastUpdated": "2026-11-05T13:42:21.792Z",
     "eventCount": 0,
     "events": []
   },
   "bridgeport": {
     "displayName": "Bridgeport",
-    "lastUpdated": "2026-11-04T13:28:07.245Z",
+    "lastUpdated": "2026-11-05T13:42:24.006Z",
     "eventCount": 0,
     "events": []
   },
   "brisbane": {
     "displayName": "Brisbane",
-    "lastUpdated": "2026-11-04T13:28:09.032Z",
+    "lastUpdated": "2026-11-05T13:42:25.999Z",
     "eventCount": 0,
     "events": []
   },
   "bristol": {
     "displayName": "Bristol",
-    "lastUpdated": "2026-11-04T13:28:10.787Z",
+    "lastUpdated": "2026-11-05T13:42:28.363Z",
     "eventCount": 0,
     "events": []
   },
   "brno": {
     "displayName": "Brno",
-    "lastUpdated": "2026-11-04T13:28:12.489Z",
+    "lastUpdated": "2026-11-05T13:42:30.550Z",
     "eventCount": 0,
     "events": []
   },
   "bronx": {
     "displayName": "Bronx",
-    "lastUpdated": "2026-11-04T13:28:14.193Z",
+    "lastUpdated": "2026-11-05T13:42:32.606Z",
     "eventCount": 0,
     "events": []
   },
   "brooklyn": {
     "displayName": "Brooklyn",
-    "lastUpdated": "2026-11-04T13:28:16.106Z",
+    "lastUpdated": "2026-11-05T13:42:35.511Z",
     "eventCount": 2,
     "events": [
       {
@@ -407,7 +407,7 @@
   },
   "brussels": {
     "displayName": "Brussels",
-    "lastUpdated": "2026-11-04T13:28:17.973Z",
+    "lastUpdated": "2026-11-05T13:42:37.537Z",
     "eventCount": 1,
     "events": [
       {
@@ -430,31 +430,31 @@
   },
   "bucharest": {
     "displayName": "Bucharest",
-    "lastUpdated": "2026-11-04T13:28:19.709Z",
+    "lastUpdated": "2026-11-05T13:42:39.674Z",
     "eventCount": 0,
     "events": []
   },
   "budapest": {
     "displayName": "Budapest",
-    "lastUpdated": "2026-11-04T13:28:21.443Z",
+    "lastUpdated": "2026-11-05T13:42:41.680Z",
     "eventCount": 0,
     "events": []
   },
   "buffalo": {
     "displayName": "Buffalo",
-    "lastUpdated": "2026-11-04T13:28:23.294Z",
+    "lastUpdated": "2026-11-05T13:42:44.272Z",
     "eventCount": 0,
     "events": []
   },
   "calgary": {
     "displayName": "Calgary",
-    "lastUpdated": "2026-11-04T13:28:25.228Z",
+    "lastUpdated": "2026-11-05T13:42:46.577Z",
     "eventCount": 0,
     "events": []
   },
   "california": {
     "displayName": "California",
-    "lastUpdated": "2026-11-04T13:28:27.562Z",
+    "lastUpdated": "2026-11-05T13:42:49.611Z",
     "eventCount": 10,
     "events": [
       {
@@ -621,19 +621,19 @@
   },
   "cambridge": {
     "displayName": "Cambridge",
-    "lastUpdated": "2026-11-04T13:28:29.263Z",
+    "lastUpdated": "2026-11-05T13:42:51.647Z",
     "eventCount": 0,
     "events": []
   },
   "capecoral": {
     "displayName": "Cape Coral",
-    "lastUpdated": "2026-11-04T13:28:31.000Z",
+    "lastUpdated": "2026-11-05T13:42:53.669Z",
     "eventCount": 0,
     "events": []
   },
   "charleston": {
     "displayName": "Charleston",
-    "lastUpdated": "2026-11-04T13:28:32.821Z",
+    "lastUpdated": "2026-11-05T13:42:56.318Z",
     "eventCount": 1,
     "events": [
       {
@@ -656,7 +656,7 @@
   },
   "charlotte": {
     "displayName": "Charlotte",
-    "lastUpdated": "2026-11-04T13:28:34.711Z",
+    "lastUpdated": "2026-11-05T13:42:58.555Z",
     "eventCount": 1,
     "events": [
       {
@@ -679,13 +679,13 @@
   },
   "chengjiang": {
     "displayName": "Chengjiang",
-    "lastUpdated": "2026-11-04T13:28:36.350Z",
+    "lastUpdated": "2026-11-05T13:43:00.757Z",
     "eventCount": 0,
     "events": []
   },
   "chicago": {
     "displayName": "Chicago",
-    "lastUpdated": "2026-11-04T13:28:38.370Z",
+    "lastUpdated": "2026-11-05T13:43:03.364Z",
     "eventCount": 4,
     "events": [
       {
@@ -756,19 +756,19 @@
   },
   "cincinnati": {
     "displayName": "Cincinnati",
-    "lastUpdated": "2026-11-04T13:28:40.352Z",
+    "lastUpdated": "2026-11-05T13:43:05.559Z",
     "eventCount": 0,
     "events": []
   },
   "cleveland": {
     "displayName": "Cleveland",
-    "lastUpdated": "2026-11-04T13:28:42.130Z",
+    "lastUpdated": "2026-11-05T13:43:07.665Z",
     "eventCount": 0,
     "events": []
   },
   "colorado": {
     "displayName": "Colorado",
-    "lastUpdated": "2026-11-04T13:28:44.332Z",
+    "lastUpdated": "2026-11-05T13:43:10.759Z",
     "eventCount": 5,
     "events": [
       {
@@ -855,13 +855,13 @@
   },
   "coloradosprings": {
     "displayName": "Colorado Springs",
-    "lastUpdated": "2026-11-04T13:28:46.023Z",
+    "lastUpdated": "2026-11-05T13:43:12.713Z",
     "eventCount": 0,
     "events": []
   },
   "columbus": {
     "displayName": "Columbus",
-    "lastUpdated": "2026-11-04T13:28:47.981Z",
+    "lastUpdated": "2026-11-05T13:43:15.081Z",
     "eventCount": 2,
     "events": [
       {
@@ -900,49 +900,49 @@
   },
   "concord": {
     "displayName": "Concord",
-    "lastUpdated": "2026-11-04T13:28:49.825Z",
+    "lastUpdated": "2026-11-05T13:43:17.317Z",
     "eventCount": 0,
     "events": []
   },
   "connecticut": {
     "displayName": "Connecticut",
-    "lastUpdated": "2026-11-04T13:28:51.784Z",
+    "lastUpdated": "2026-11-05T13:43:19.622Z",
     "eventCount": 0,
     "events": []
   },
   "copenhagen": {
     "displayName": "Copenhagen",
-    "lastUpdated": "2026-11-04T13:28:53.444Z",
+    "lastUpdated": "2026-11-05T13:43:21.736Z",
     "eventCount": 0,
     "events": []
   },
   "cyprus": {
     "displayName": "Cyprus",
-    "lastUpdated": "2026-11-04T13:28:55.009Z",
+    "lastUpdated": "2026-11-05T13:43:23.686Z",
     "eventCount": 0,
     "events": []
   },
   "dallas": {
     "displayName": "Dallas",
-    "lastUpdated": "2026-11-04T13:28:56.857Z",
+    "lastUpdated": "2026-11-05T13:43:26.316Z",
     "eventCount": 0,
     "events": []
   },
   "dammam": {
     "displayName": "Dammam",
-    "lastUpdated": "2026-11-04T13:28:58.610Z",
+    "lastUpdated": "2026-11-05T13:43:28.608Z",
     "eventCount": 0,
     "events": []
   },
   "dayton": {
     "displayName": "Dayton",
-    "lastUpdated": "2026-11-04T13:29:00.436Z",
+    "lastUpdated": "2026-11-05T13:43:31.144Z",
     "eventCount": 0,
     "events": []
   },
   "denver": {
     "displayName": "Denver",
-    "lastUpdated": "2026-11-04T13:29:02.726Z",
+    "lastUpdated": "2026-11-05T13:43:33.810Z",
     "eventCount": 5,
     "events": [
       {
@@ -1029,31 +1029,31 @@
   },
   "detroit": {
     "displayName": "Detroit",
-    "lastUpdated": "2026-11-04T13:29:04.614Z",
+    "lastUpdated": "2026-11-05T13:43:36.422Z",
     "eventCount": 0,
     "events": []
   },
   "dresden": {
     "displayName": "Dresden",
-    "lastUpdated": "2026-11-04T13:29:06.367Z",
+    "lastUpdated": "2026-11-05T13:43:38.657Z",
     "eventCount": 0,
     "events": []
   },
   "dubai": {
     "displayName": "Dubai",
-    "lastUpdated": "2026-11-04T13:29:08.244Z",
+    "lastUpdated": "2026-11-05T13:43:40.751Z",
     "eventCount": 0,
     "events": []
   },
   "dublin": {
     "displayName": "Dublin",
-    "lastUpdated": "2026-11-04T13:29:09.858Z",
+    "lastUpdated": "2026-11-05T13:43:42.861Z",
     "eventCount": 0,
     "events": []
   },
   "dusseldorf": {
     "displayName": "Dusseldorf",
-    "lastUpdated": "2026-11-04T13:29:11.730Z",
+    "lastUpdated": "2026-11-05T13:43:45.355Z",
     "eventCount": 1,
     "events": [
       {
@@ -1076,13 +1076,13 @@
   },
   "edinburgh": {
     "displayName": "Edinburgh",
-    "lastUpdated": "2026-11-04T13:29:13.516Z",
+    "lastUpdated": "2026-11-05T13:43:47.444Z",
     "eventCount": 0,
     "events": []
   },
   "edmonton": {
     "displayName": "Edmonton",
-    "lastUpdated": "2026-11-04T13:29:15.641Z",
+    "lastUpdated": "2026-11-05T13:43:50.133Z",
     "eventCount": 1,
     "events": [
       {
@@ -1105,7 +1105,7 @@
   },
   "elpaso": {
     "displayName": "El Paso",
-    "lastUpdated": "2026-11-04T13:29:17.431Z",
+    "lastUpdated": "2026-11-05T13:43:52.372Z",
     "eventCount": 1,
     "events": [
       {
@@ -1128,19 +1128,19 @@
   },
   "esbjerg": {
     "displayName": "Esbjerg",
-    "lastUpdated": "2026-11-04T13:29:19.229Z",
+    "lastUpdated": "2026-11-05T13:43:54.487Z",
     "eventCount": 0,
     "events": []
   },
   "florence": {
     "displayName": "Florence",
-    "lastUpdated": "2026-11-04T13:29:20.951Z",
+    "lastUpdated": "2026-11-05T13:43:56.591Z",
     "eventCount": 0,
     "events": []
   },
   "florida": {
     "displayName": "Florida",
-    "lastUpdated": "2026-11-04T13:29:22.881Z",
+    "lastUpdated": "2026-11-05T13:43:59.204Z",
     "eventCount": 5,
     "events": [
       {
@@ -1227,7 +1227,7 @@
   },
   "fortworth": {
     "displayName": "Fort Worth",
-    "lastUpdated": "2026-11-04T13:29:24.645Z",
+    "lastUpdated": "2026-11-05T13:44:01.393Z",
     "eventCount": 4,
     "events": [
       {
@@ -1298,37 +1298,37 @@
   },
   "france": {
     "displayName": "France",
-    "lastUpdated": "2026-11-04T13:29:26.380Z",
+    "lastUpdated": "2026-11-05T13:44:03.591Z",
     "eventCount": 0,
     "events": []
   },
   "frankfurt": {
     "displayName": "Frankfurt",
-    "lastUpdated": "2026-11-04T13:29:28.093Z",
+    "lastUpdated": "2026-11-05T13:44:05.918Z",
     "eventCount": 0,
     "events": []
   },
   "fresno": {
     "displayName": "Fresno",
-    "lastUpdated": "2026-11-04T13:29:29.996Z",
+    "lastUpdated": "2026-11-05T13:44:08.256Z",
     "eventCount": 0,
     "events": []
   },
   "geneva": {
     "displayName": "Geneva",
-    "lastUpdated": "2026-11-04T13:29:31.880Z",
+    "lastUpdated": "2026-11-05T13:44:10.557Z",
     "eventCount": 0,
     "events": []
   },
   "genoa": {
     "displayName": "Genoa",
-    "lastUpdated": "2026-11-04T13:29:33.631Z",
+    "lastUpdated": "2026-11-05T13:44:12.608Z",
     "eventCount": 0,
     "events": []
   },
   "glasgow": {
     "displayName": "Glasgow",
-    "lastUpdated": "2026-11-04T13:29:35.673Z",
+    "lastUpdated": "2026-11-05T13:44:15.556Z",
     "eventCount": 3,
     "events": [
       {
@@ -1383,55 +1383,55 @@
   },
   "halifax": {
     "displayName": "Halifax",
-    "lastUpdated": "2026-11-04T13:29:37.526Z",
+    "lastUpdated": "2026-11-05T13:44:17.844Z",
     "eventCount": 0,
     "events": []
   },
   "hamburg": {
     "displayName": "Hamburg",
-    "lastUpdated": "2026-11-04T13:29:39.397Z",
+    "lastUpdated": "2026-11-05T13:44:19.953Z",
     "eventCount": 0,
     "events": []
   },
   "hamilton": {
     "displayName": "Hamilton",
-    "lastUpdated": "2026-11-04T13:29:41.180Z",
+    "lastUpdated": "2026-11-05T13:44:22.183Z",
     "eventCount": 0,
     "events": []
   },
   "hannover": {
     "displayName": "Hannover",
-    "lastUpdated": "2026-11-04T13:29:42.935Z",
+    "lastUpdated": "2026-11-05T13:44:24.504Z",
     "eventCount": 0,
     "events": []
   },
   "hartford": {
     "displayName": "Hartford",
-    "lastUpdated": "2026-11-04T13:29:44.758Z",
+    "lastUpdated": "2026-11-05T13:44:26.772Z",
     "eventCount": 0,
     "events": []
   },
   "helsinki": {
     "displayName": "Helsinki",
-    "lastUpdated": "2026-11-04T13:29:46.709Z",
+    "lastUpdated": "2026-11-05T13:44:29.065Z",
     "eventCount": 0,
     "events": []
   },
   "hongkong": {
     "displayName": "Hong Kong",
-    "lastUpdated": "2026-11-04T13:29:48.293Z",
+    "lastUpdated": "2026-11-05T13:44:31.007Z",
     "eventCount": 0,
     "events": []
   },
   "honolulu": {
     "displayName": "Honolulu",
-    "lastUpdated": "2026-11-04T13:29:50.028Z",
+    "lastUpdated": "2026-11-05T13:44:33.226Z",
     "eventCount": 0,
     "events": []
   },
   "houston": {
     "displayName": "Houston",
-    "lastUpdated": "2026-11-04T13:29:52.045Z",
+    "lastUpdated": "2026-11-05T13:44:36.085Z",
     "eventCount": 2,
     "events": [
       {
@@ -1470,19 +1470,19 @@
   },
   "indianapolis": {
     "displayName": "Indianapolis",
-    "lastUpdated": "2026-11-04T13:29:53.893Z",
+    "lastUpdated": "2026-11-05T13:44:38.307Z",
     "eventCount": 0,
     "events": []
   },
   "istanbul": {
     "displayName": "Istanbul",
-    "lastUpdated": "2026-11-04T13:29:55.677Z",
+    "lastUpdated": "2026-11-05T13:44:40.844Z",
     "eventCount": 0,
     "events": []
   },
   "jacksonville": {
     "displayName": "Jacksonville",
-    "lastUpdated": "2026-11-04T13:29:57.611Z",
+    "lastUpdated": "2026-11-05T13:44:43.020Z",
     "eventCount": 3,
     "events": [
       {
@@ -1537,19 +1537,19 @@
   },
   "jeddah": {
     "displayName": "Jeddah",
-    "lastUpdated": "2026-11-04T13:29:59.596Z",
+    "lastUpdated": "2026-11-05T13:44:45.452Z",
     "eventCount": 0,
     "events": []
   },
   "kansascity": {
     "displayName": "Kansas City",
-    "lastUpdated": "2026-11-04T13:30:01.633Z",
+    "lastUpdated": "2026-11-05T13:44:47.922Z",
     "eventCount": 0,
     "events": []
   },
   "kokoszki": {
     "displayName": "Kokoszki",
-    "lastUpdated": "2026-11-04T13:30:03.610Z",
+    "lastUpdated": "2026-11-05T13:44:50.586Z",
     "eventCount": 1,
     "events": [
       {
@@ -1572,13 +1572,13 @@
   },
   "kuwait": {
     "displayName": "Kuwait",
-    "lastUpdated": "2026-11-04T13:30:05.368Z",
+    "lastUpdated": "2026-11-05T13:44:52.520Z",
     "eventCount": 0,
     "events": []
   },
   "lasvegas": {
     "displayName": "Las Vegas",
-    "lastUpdated": "2026-11-04T13:30:07.300Z",
+    "lastUpdated": "2026-11-05T13:44:55.086Z",
     "eventCount": 10,
     "events": [
       {
@@ -1598,10 +1598,90 @@
         "priceRange": null
       },
       {
-        "id": "LvZ18QIjb3iCWmlg0gjxr",
-        "name": "Jurassic Quest – Las Vegas, NV | The Expo at World Market Center",
-        "url": "https://www.universe.com/events/jurassic-quest-las-vegas-nv-the-expo-at-world-market-center-tickets-QC5LHV?ref=ticketmaster",
-        "date": "2026-11-20",
+        "id": "Z7r9jZ1AA7fad",
+        "name": "AVN Adult Entertainment Expo - Ages 18+",
+        "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7fad",
+        "date": "2027-01-20",
+        "time": "13:00:00",
+        "venueName": "The Theater at Virgin Hotels Las Vegas",
+        "venueAddress": "4455 Paradise Road",
+        "venueCity": "Las Vegas",
+        "venueCountry": "United States Of America",
+        "segment": "Arts & Theatre",
+        "genre": "Miscellaneous",
+        "subGenre": "Miscellaneous",
+        "image": "https://s1.ticketm.net/dam/c/393/b74d3ddc-a5f3-4e09-a801-89c36b774393_106071_RETINA_LANDSCAPE_16_9.jpg",
+        "priceRange": null
+      },
+      {
+        "id": "Z7r9jZ1AA7fa7",
+        "name": "AVN Adult Entertainment Expo - Ages 18+",
+        "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7fa7",
+        "date": "2027-01-21",
+        "time": "13:00:00",
+        "venueName": "The Theater at Virgin Hotels Las Vegas",
+        "venueAddress": "4455 Paradise Road",
+        "venueCity": "Las Vegas",
+        "venueCountry": "United States Of America",
+        "segment": "Arts & Theatre",
+        "genre": "Miscellaneous",
+        "subGenre": "Miscellaneous",
+        "image": "https://s1.ticketm.net/dam/c/393/b74d3ddc-a5f3-4e09-a801-89c36b774393_106071_RETINA_LANDSCAPE_16_9.jpg",
+        "priceRange": null
+      },
+      {
+        "id": "Z7r9jZ1AA7fak",
+        "name": "AVN Adult Entertainment Expo - Ages 18+",
+        "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7fak",
+        "date": "2027-01-22",
+        "time": "13:00:00",
+        "venueName": "The Theater at Virgin Hotels Las Vegas",
+        "venueAddress": "4455 Paradise Road",
+        "venueCity": "Las Vegas",
+        "venueCountry": "United States Of America",
+        "segment": "Arts & Theatre",
+        "genre": "Miscellaneous",
+        "subGenre": "Miscellaneous",
+        "image": "https://s1.ticketm.net/dam/c/393/b74d3ddc-a5f3-4e09-a801-89c36b774393_106071_RETINA_LANDSCAPE_16_9.jpg",
+        "priceRange": null
+      },
+      {
+        "id": "Z7r9jZ1AA7fae",
+        "name": "AVN Adult Entertainment Expo - Ages 18+",
+        "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7fae",
+        "date": "2027-01-23",
+        "time": "12:00:00",
+        "venueName": "The Theater at Virgin Hotels Las Vegas",
+        "venueAddress": "4455 Paradise Road",
+        "venueCity": "Las Vegas",
+        "venueCountry": "United States Of America",
+        "segment": "Arts & Theatre",
+        "genre": "Miscellaneous",
+        "subGenre": "Miscellaneous",
+        "image": "https://s1.ticketm.net/dam/c/393/b74d3ddc-a5f3-4e09-a801-89c36b774393_106071_RETINA_LANDSCAPE_16_9.jpg",
+        "priceRange": null
+      },
+      {
+        "id": "LvZ18QcR_Q_60EHG6-yRm",
+        "name": "BRICK CONVENTION | LEGO Fan Expo | Las Vegas, NV",
+        "url": "https://www.universe.com/events/brick-convention-lego-fan-expo-las-vegas-nv-tickets-9HMP0T?ref=ticketmaster",
+        "date": "2027-01-30",
+        "time": "10:00:00",
+        "venueName": "Las Vegas Motor Speedway",
+        "venueAddress": "7000 Las Vegas Boulevard North",
+        "venueCity": "Las Vegas",
+        "venueCountry": "United States Of America",
+        "segment": "Undefined",
+        "genre": null,
+        "subGenre": null,
+        "image": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_LANDSCAPE_16_9.jpg",
+        "priceRange": null
+      },
+      {
+        "id": "LvZ18QmchASVi_3nvEY-T",
+        "name": "Jurassic Quest – Las Vegas, NV | Expo at World Market Center (NEW)",
+        "url": "https://www.universe.com/events/jurassic-quest-las-vegas-nv-expo-at-world-market-center-new-tickets-G031V4?ref=ticketmaster",
+        "date": "2027-02-05",
         "time": "13:00:00",
         "venueName": "The Expo at World Market Center",
         "venueAddress": "435 S Grand Central Pkwy",
@@ -1614,10 +1694,10 @@
         "priceRange": null
       },
       {
-        "id": "LvZ18QIjb3iCWmlg0gjxL",
-        "name": "Jurassic Quest – Las Vegas, NV | The Expo at World Market Center",
-        "url": "https://www.universe.com/events/jurassic-quest-las-vegas-nv-the-expo-at-world-market-center-tickets-QC5LHV?ref=ticketmaster",
-        "date": "2026-11-20",
+        "id": "LvZ18QmchASVi_3nvEYxZ",
+        "name": "Jurassic Quest – Las Vegas, NV | Expo at World Market Center (NEW)",
+        "url": "https://www.universe.com/events/jurassic-quest-las-vegas-nv-expo-at-world-market-center-new-tickets-G031V4?ref=ticketmaster",
+        "date": "2027-02-05",
         "time": "15:00:00",
         "venueName": "The Expo at World Market Center",
         "venueAddress": "435 S Grand Central Pkwy",
@@ -1630,10 +1710,10 @@
         "priceRange": null
       },
       {
-        "id": "LvZ18QIjb3wKY7lN77PKj",
-        "name": "Jurassic Quest – Las Vegas, NV | The Expo at World Market Center",
-        "url": "https://www.universe.com/events/jurassic-quest-las-vegas-nv-the-expo-at-world-market-center-tickets-QC5LHV?ref=ticketmaster",
-        "date": "2026-11-21",
+        "id": "LvZ18QmchAMbSpgZRIk5Z",
+        "name": "Jurassic Quest – Las Vegas, NV | Expo at World Market Center (NEW)",
+        "url": "https://www.universe.com/events/jurassic-quest-las-vegas-nv-expo-at-world-market-center-new-tickets-G031V4?ref=ticketmaster",
+        "date": "2027-02-06",
         "time": "08:00:00",
         "venueName": "The Expo at World Market Center",
         "venueAddress": "435 S Grand Central Pkwy",
@@ -1646,91 +1726,11 @@
         "priceRange": null
       },
       {
-        "id": "LvZ18QIjb3wKY7lN77PKq",
-        "name": "Jurassic Quest – Las Vegas, NV | The Expo at World Market Center",
-        "url": "https://www.universe.com/events/jurassic-quest-las-vegas-nv-the-expo-at-world-market-center-tickets-QC5LHV?ref=ticketmaster",
-        "date": "2026-11-21",
+        "id": "LvZ18QmchAMbSpgZRIk5v",
+        "name": "Jurassic Quest – Las Vegas, NV | Expo at World Market Center (NEW)",
+        "url": "https://www.universe.com/events/jurassic-quest-las-vegas-nv-expo-at-world-market-center-new-tickets-G031V4?ref=ticketmaster",
+        "date": "2027-02-06",
         "time": "09:00:00",
-        "venueName": "The Expo at World Market Center",
-        "venueAddress": "435 S Grand Central Pkwy",
-        "venueCity": "Las Vegas",
-        "venueCountry": "United States Of America",
-        "segment": "Miscellaneous",
-        "genre": "Fairs & Festivals",
-        "subGenre": "Fairs & Festivals",
-        "image": "https://s1.ticketm.net/dam/a/4c2/bac7ae96-6fcc-42ac-882a-fb3843e1f4c2_RETINA_PORTRAIT_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "LvZ18QIjb3wKY7lN77PKr",
-        "name": "Jurassic Quest – Las Vegas, NV | The Expo at World Market Center",
-        "url": "https://www.universe.com/events/jurassic-quest-las-vegas-nv-the-expo-at-world-market-center-tickets-QC5LHV?ref=ticketmaster",
-        "date": "2026-11-21",
-        "time": "12:00:00",
-        "venueName": "The Expo at World Market Center",
-        "venueAddress": "435 S Grand Central Pkwy",
-        "venueCity": "Las Vegas",
-        "venueCountry": "United States Of America",
-        "segment": "Miscellaneous",
-        "genre": "Fairs & Festivals",
-        "subGenre": "Fairs & Festivals",
-        "image": "https://s1.ticketm.net/dam/a/4c2/bac7ae96-6fcc-42ac-882a-fb3843e1f4c2_RETINA_PORTRAIT_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "LvZ18Qt6Hl2x2C_m0HRMT",
-        "name": "Jurassic Quest – Las Vegas, NV | The Expo at World Market Center",
-        "url": "https://www.universe.com/events/jurassic-quest-las-vegas-nv-the-expo-at-world-market-center-tickets-QC5LHV?ref=ticketmaster",
-        "date": "2026-11-21",
-        "time": "15:00:00",
-        "venueName": "The Expo at World Market Center",
-        "venueAddress": "435 S Grand Central Pkwy",
-        "venueCity": "Las Vegas",
-        "venueCountry": "United States Of America",
-        "segment": "Miscellaneous",
-        "genre": "Fairs & Festivals",
-        "subGenre": "Fairs & Festivals",
-        "image": "https://s1.ticketm.net/dam/a/4c2/bac7ae96-6fcc-42ac-882a-fb3843e1f4c2_RETINA_PORTRAIT_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "LvZ18Qt6HPNBtOmdAQRGj",
-        "name": "Jurassic Quest – Las Vegas, NV | The Expo at World Market Center",
-        "url": "https://www.universe.com/events/jurassic-quest-las-vegas-nv-the-expo-at-world-market-center-tickets-QC5LHV?ref=ticketmaster",
-        "date": "2026-11-21",
-        "time": "17:00:00",
-        "venueName": "The Expo at World Market Center",
-        "venueAddress": "435 S Grand Central Pkwy",
-        "venueCity": "Las Vegas",
-        "venueCountry": "United States Of America",
-        "segment": "Miscellaneous",
-        "genre": "Fairs & Festivals",
-        "subGenre": "Fairs & Festivals",
-        "image": "https://s1.ticketm.net/dam/a/4c2/bac7ae96-6fcc-42ac-882a-fb3843e1f4c2_RETINA_PORTRAIT_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "LvZ18QIjb3soFFqIjH6ge",
-        "name": "Jurassic Quest – Las Vegas, NV | The Expo at World Market Center",
-        "url": "https://www.universe.com/events/jurassic-quest-las-vegas-nv-the-expo-at-world-market-center-tickets-QC5LHV?ref=ticketmaster",
-        "date": "2026-11-22",
-        "time": "09:00:00",
-        "venueName": "The Expo at World Market Center",
-        "venueAddress": "435 S Grand Central Pkwy",
-        "venueCity": "Las Vegas",
-        "venueCountry": "United States Of America",
-        "segment": "Miscellaneous",
-        "genre": "Fairs & Festivals",
-        "subGenre": "Fairs & Festivals",
-        "image": "https://s1.ticketm.net/dam/a/4c2/bac7ae96-6fcc-42ac-882a-fb3843e1f4c2_RETINA_PORTRAIT_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "LvZ18QIjb3soFFqIjH6gd",
-        "name": "Jurassic Quest – Las Vegas, NV | The Expo at World Market Center",
-        "url": "https://www.universe.com/events/jurassic-quest-las-vegas-nv-the-expo-at-world-market-center-tickets-QC5LHV?ref=ticketmaster",
-        "date": "2026-11-22",
-        "time": "13:00:00",
         "venueName": "The Expo at World Market Center",
         "venueAddress": "435 S Grand Central Pkwy",
         "venueCity": "Las Vegas",
@@ -1745,43 +1745,43 @@
   },
   "lebanon": {
     "displayName": "Lebanon",
-    "lastUpdated": "2026-11-04T13:30:08.870Z",
+    "lastUpdated": "2026-11-05T13:44:56.992Z",
     "eventCount": 0,
     "events": []
   },
   "leeds": {
     "displayName": "Leeds",
-    "lastUpdated": "2026-11-04T13:30:10.891Z",
+    "lastUpdated": "2026-11-05T13:44:59.312Z",
     "eventCount": 0,
     "events": []
   },
   "leipzig": {
     "displayName": "Leipzig",
-    "lastUpdated": "2026-11-04T13:30:12.891Z",
+    "lastUpdated": "2026-11-05T13:45:02.021Z",
     "eventCount": 0,
     "events": []
   },
   "lisbon": {
     "displayName": "Lisbon",
-    "lastUpdated": "2026-11-04T13:30:14.694Z",
+    "lastUpdated": "2026-11-05T13:45:04.122Z",
     "eventCount": 0,
     "events": []
   },
   "littlerock": {
     "displayName": "Little Rock",
-    "lastUpdated": "2026-11-04T13:30:16.375Z",
+    "lastUpdated": "2026-11-05T13:45:06.195Z",
     "eventCount": 0,
     "events": []
   },
   "liverpool": {
     "displayName": "Liverpool",
-    "lastUpdated": "2026-11-04T13:30:18.149Z",
+    "lastUpdated": "2026-11-05T13:45:08.386Z",
     "eventCount": 0,
     "events": []
   },
   "london": {
     "displayName": "London",
-    "lastUpdated": "2026-11-04T13:30:20.089Z",
+    "lastUpdated": "2026-11-05T13:45:11.250Z",
     "eventCount": 5,
     "events": [
       {
@@ -1868,7 +1868,7 @@
   },
   "longbeach": {
     "displayName": "Long Beach",
-    "lastUpdated": "2026-11-04T13:30:22.146Z",
+    "lastUpdated": "2026-11-05T13:45:13.628Z",
     "eventCount": 1,
     "events": [
       {
@@ -1891,7 +1891,7 @@
   },
   "losangeles": {
     "displayName": "Los Angeles",
-    "lastUpdated": "2026-11-04T13:30:24.134Z",
+    "lastUpdated": "2026-11-05T13:45:16.414Z",
     "eventCount": 1,
     "events": [
       {
@@ -1914,7 +1914,7 @@
   },
   "louisville": {
     "displayName": "Louisville",
-    "lastUpdated": "2026-11-04T13:30:26.057Z",
+    "lastUpdated": "2026-11-05T13:45:18.890Z",
     "eventCount": 9,
     "events": [
       {
@@ -2065,19 +2065,19 @@
   },
   "luxembourgcity": {
     "displayName": "Luxembourg City",
-    "lastUpdated": "2026-11-04T13:30:27.789Z",
+    "lastUpdated": "2026-11-05T13:45:20.974Z",
     "eventCount": 0,
     "events": []
   },
   "lyon": {
     "displayName": "Lyon",
-    "lastUpdated": "2026-11-04T13:30:29.564Z",
+    "lastUpdated": "2026-11-05T13:45:23.056Z",
     "eventCount": 0,
     "events": []
   },
   "madrid": {
     "displayName": "Madrid",
-    "lastUpdated": "2026-11-04T13:30:31.646Z",
+    "lastUpdated": "2026-11-05T13:45:25.741Z",
     "eventCount": 4,
     "events": [
       {
@@ -2148,31 +2148,31 @@
   },
   "malaga": {
     "displayName": "Malaga",
-    "lastUpdated": "2026-11-04T13:30:33.449Z",
+    "lastUpdated": "2026-11-05T13:45:27.792Z",
     "eventCount": 0,
     "events": []
   },
   "manchester": {
     "displayName": "Manchester",
-    "lastUpdated": "2026-11-04T13:30:35.356Z",
+    "lastUpdated": "2026-11-05T13:45:30.036Z",
     "eventCount": 0,
     "events": []
   },
   "manhattan": {
     "displayName": "Manhattan",
-    "lastUpdated": "2026-11-04T13:30:37.288Z",
+    "lastUpdated": "2026-11-05T13:45:32.301Z",
     "eventCount": 0,
     "events": []
   },
   "marseille": {
     "displayName": "Marseille",
-    "lastUpdated": "2026-11-04T13:30:39.096Z",
+    "lastUpdated": "2026-11-05T13:45:34.532Z",
     "eventCount": 0,
     "events": []
   },
   "massachusetts": {
     "displayName": "Massachusetts",
-    "lastUpdated": "2026-11-04T13:30:41.026Z",
+    "lastUpdated": "2026-11-05T13:45:37.079Z",
     "eventCount": 2,
     "events": [
       {
@@ -2211,7 +2211,7 @@
   },
   "mcallen": {
     "displayName": "Mcallen",
-    "lastUpdated": "2026-11-04T13:30:42.925Z",
+    "lastUpdated": "2026-11-05T13:45:39.626Z",
     "eventCount": 3,
     "events": [
       {
@@ -2266,19 +2266,19 @@
   },
   "meixedo": {
     "displayName": "Meixedo",
-    "lastUpdated": "2026-11-04T13:30:44.577Z",
+    "lastUpdated": "2026-11-05T13:45:41.605Z",
     "eventCount": 0,
     "events": []
   },
   "melbourne": {
     "displayName": "Melbourne",
-    "lastUpdated": "2026-11-04T13:30:46.405Z",
+    "lastUpdated": "2026-11-05T13:45:44.456Z",
     "eventCount": 0,
     "events": []
   },
   "memphis": {
     "displayName": "Memphis",
-    "lastUpdated": "2026-11-04T13:30:48.364Z",
+    "lastUpdated": "2026-11-05T13:45:46.727Z",
     "eventCount": 9,
     "events": [
       {
@@ -2429,7 +2429,7 @@
   },
   "mesa": {
     "displayName": "Mesa",
-    "lastUpdated": "2026-11-04T13:30:50.195Z",
+    "lastUpdated": "2026-11-05T13:45:49.103Z",
     "eventCount": 1,
     "events": [
       {
@@ -2452,7 +2452,7 @@
   },
   "miami": {
     "displayName": "Miami",
-    "lastUpdated": "2026-11-04T13:30:52.057Z",
+    "lastUpdated": "2026-11-05T13:45:51.733Z",
     "eventCount": 2,
     "events": [
       {
@@ -2491,61 +2491,61 @@
   },
   "michigan": {
     "displayName": "Michigan",
-    "lastUpdated": "2026-11-04T13:30:53.909Z",
+    "lastUpdated": "2026-11-05T13:45:54.438Z",
     "eventCount": 0,
     "events": []
   },
   "milan": {
     "displayName": "Milan",
-    "lastUpdated": "2026-11-04T13:30:55.735Z",
+    "lastUpdated": "2026-11-05T13:45:56.471Z",
     "eventCount": 0,
     "events": []
   },
   "milwaukee": {
     "displayName": "Milwaukee",
-    "lastUpdated": "2026-11-04T13:30:57.732Z",
+    "lastUpdated": "2026-11-05T13:45:59.350Z",
     "eventCount": 0,
     "events": []
   },
   "minneapolis": {
     "displayName": "Minneapolis",
-    "lastUpdated": "2026-11-04T13:30:59.678Z",
+    "lastUpdated": "2026-11-05T13:46:02.141Z",
     "eventCount": 0,
     "events": []
   },
   "monaco": {
     "displayName": "Monaco",
-    "lastUpdated": "2026-11-04T13:31:02.191Z",
+    "lastUpdated": "2026-11-05T13:46:04.392Z",
     "eventCount": 0,
     "events": []
   },
   "montreal": {
     "displayName": "Montreal",
-    "lastUpdated": "2026-11-04T13:31:04.128Z",
+    "lastUpdated": "2026-11-05T13:46:06.954Z",
     "eventCount": 0,
     "events": []
   },
   "munich": {
     "displayName": "Munich",
-    "lastUpdated": "2026-11-04T13:31:06.047Z",
+    "lastUpdated": "2026-11-05T13:46:09.395Z",
     "eventCount": 0,
     "events": []
   },
   "naples": {
     "displayName": "Naples",
-    "lastUpdated": "2026-11-04T13:31:07.692Z",
+    "lastUpdated": "2026-11-05T13:46:11.458Z",
     "eventCount": 0,
     "events": []
   },
   "nashville": {
     "displayName": "Nashville",
-    "lastUpdated": "2026-11-04T13:31:09.983Z",
+    "lastUpdated": "2026-11-05T13:46:14.015Z",
     "eventCount": 0,
     "events": []
   },
   "nevada": {
     "displayName": "Nevada",
-    "lastUpdated": "2026-11-04T13:31:12.223Z",
+    "lastUpdated": "2026-11-05T13:46:16.314Z",
     "eventCount": 10,
     "events": [
       {
@@ -2565,10 +2565,90 @@
         "priceRange": null
       },
       {
-        "id": "LvZ18QIjb3iCWmlg0gjxr",
-        "name": "Jurassic Quest – Las Vegas, NV | The Expo at World Market Center",
-        "url": "https://www.universe.com/events/jurassic-quest-las-vegas-nv-the-expo-at-world-market-center-tickets-QC5LHV?ref=ticketmaster",
-        "date": "2026-11-20",
+        "id": "Z7r9jZ1AA7fad",
+        "name": "AVN Adult Entertainment Expo - Ages 18+",
+        "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7fad",
+        "date": "2027-01-20",
+        "time": "13:00:00",
+        "venueName": "The Theater at Virgin Hotels Las Vegas",
+        "venueAddress": "4455 Paradise Road",
+        "venueCity": "Las Vegas",
+        "venueCountry": "United States Of America",
+        "segment": "Arts & Theatre",
+        "genre": "Miscellaneous",
+        "subGenre": "Miscellaneous",
+        "image": "https://s1.ticketm.net/dam/c/393/b74d3ddc-a5f3-4e09-a801-89c36b774393_106071_RETINA_LANDSCAPE_16_9.jpg",
+        "priceRange": null
+      },
+      {
+        "id": "Z7r9jZ1AA7fa7",
+        "name": "AVN Adult Entertainment Expo - Ages 18+",
+        "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7fa7",
+        "date": "2027-01-21",
+        "time": "13:00:00",
+        "venueName": "The Theater at Virgin Hotels Las Vegas",
+        "venueAddress": "4455 Paradise Road",
+        "venueCity": "Las Vegas",
+        "venueCountry": "United States Of America",
+        "segment": "Arts & Theatre",
+        "genre": "Miscellaneous",
+        "subGenre": "Miscellaneous",
+        "image": "https://s1.ticketm.net/dam/c/393/b74d3ddc-a5f3-4e09-a801-89c36b774393_106071_RETINA_LANDSCAPE_16_9.jpg",
+        "priceRange": null
+      },
+      {
+        "id": "Z7r9jZ1AA7fak",
+        "name": "AVN Adult Entertainment Expo - Ages 18+",
+        "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7fak",
+        "date": "2027-01-22",
+        "time": "13:00:00",
+        "venueName": "The Theater at Virgin Hotels Las Vegas",
+        "venueAddress": "4455 Paradise Road",
+        "venueCity": "Las Vegas",
+        "venueCountry": "United States Of America",
+        "segment": "Arts & Theatre",
+        "genre": "Miscellaneous",
+        "subGenre": "Miscellaneous",
+        "image": "https://s1.ticketm.net/dam/c/393/b74d3ddc-a5f3-4e09-a801-89c36b774393_106071_RETINA_LANDSCAPE_16_9.jpg",
+        "priceRange": null
+      },
+      {
+        "id": "Z7r9jZ1AA7fae",
+        "name": "AVN Adult Entertainment Expo - Ages 18+",
+        "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7fae",
+        "date": "2027-01-23",
+        "time": "12:00:00",
+        "venueName": "The Theater at Virgin Hotels Las Vegas",
+        "venueAddress": "4455 Paradise Road",
+        "venueCity": "Las Vegas",
+        "venueCountry": "United States Of America",
+        "segment": "Arts & Theatre",
+        "genre": "Miscellaneous",
+        "subGenre": "Miscellaneous",
+        "image": "https://s1.ticketm.net/dam/c/393/b74d3ddc-a5f3-4e09-a801-89c36b774393_106071_RETINA_LANDSCAPE_16_9.jpg",
+        "priceRange": null
+      },
+      {
+        "id": "LvZ18QcR_Q_60EHG6-yRm",
+        "name": "BRICK CONVENTION | LEGO Fan Expo | Las Vegas, NV",
+        "url": "https://www.universe.com/events/brick-convention-lego-fan-expo-las-vegas-nv-tickets-9HMP0T?ref=ticketmaster",
+        "date": "2027-01-30",
+        "time": "10:00:00",
+        "venueName": "Las Vegas Motor Speedway",
+        "venueAddress": "7000 Las Vegas Boulevard North",
+        "venueCity": "Las Vegas",
+        "venueCountry": "United States Of America",
+        "segment": "Undefined",
+        "genre": null,
+        "subGenre": null,
+        "image": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_LANDSCAPE_16_9.jpg",
+        "priceRange": null
+      },
+      {
+        "id": "LvZ18QmchASVi_3nvEY-T",
+        "name": "Jurassic Quest – Las Vegas, NV | Expo at World Market Center (NEW)",
+        "url": "https://www.universe.com/events/jurassic-quest-las-vegas-nv-expo-at-world-market-center-new-tickets-G031V4?ref=ticketmaster",
+        "date": "2027-02-05",
         "time": "13:00:00",
         "venueName": "The Expo at World Market Center",
         "venueAddress": "435 S Grand Central Pkwy",
@@ -2581,10 +2661,10 @@
         "priceRange": null
       },
       {
-        "id": "LvZ18QIjb3iCWmlg0gjxL",
-        "name": "Jurassic Quest – Las Vegas, NV | The Expo at World Market Center",
-        "url": "https://www.universe.com/events/jurassic-quest-las-vegas-nv-the-expo-at-world-market-center-tickets-QC5LHV?ref=ticketmaster",
-        "date": "2026-11-20",
+        "id": "LvZ18QmchASVi_3nvEYxZ",
+        "name": "Jurassic Quest – Las Vegas, NV | Expo at World Market Center (NEW)",
+        "url": "https://www.universe.com/events/jurassic-quest-las-vegas-nv-expo-at-world-market-center-new-tickets-G031V4?ref=ticketmaster",
+        "date": "2027-02-05",
         "time": "15:00:00",
         "venueName": "The Expo at World Market Center",
         "venueAddress": "435 S Grand Central Pkwy",
@@ -2597,10 +2677,10 @@
         "priceRange": null
       },
       {
-        "id": "LvZ18QIjb3wKY7lN77PKj",
-        "name": "Jurassic Quest – Las Vegas, NV | The Expo at World Market Center",
-        "url": "https://www.universe.com/events/jurassic-quest-las-vegas-nv-the-expo-at-world-market-center-tickets-QC5LHV?ref=ticketmaster",
-        "date": "2026-11-21",
+        "id": "LvZ18QmchAMbSpgZRIk5Z",
+        "name": "Jurassic Quest – Las Vegas, NV | Expo at World Market Center (NEW)",
+        "url": "https://www.universe.com/events/jurassic-quest-las-vegas-nv-expo-at-world-market-center-new-tickets-G031V4?ref=ticketmaster",
+        "date": "2027-02-06",
         "time": "08:00:00",
         "venueName": "The Expo at World Market Center",
         "venueAddress": "435 S Grand Central Pkwy",
@@ -2613,91 +2693,11 @@
         "priceRange": null
       },
       {
-        "id": "LvZ18QIjb3wKY7lN77PKq",
-        "name": "Jurassic Quest – Las Vegas, NV | The Expo at World Market Center",
-        "url": "https://www.universe.com/events/jurassic-quest-las-vegas-nv-the-expo-at-world-market-center-tickets-QC5LHV?ref=ticketmaster",
-        "date": "2026-11-21",
+        "id": "LvZ18QmchAMbSpgZRIk5v",
+        "name": "Jurassic Quest – Las Vegas, NV | Expo at World Market Center (NEW)",
+        "url": "https://www.universe.com/events/jurassic-quest-las-vegas-nv-expo-at-world-market-center-new-tickets-G031V4?ref=ticketmaster",
+        "date": "2027-02-06",
         "time": "09:00:00",
-        "venueName": "The Expo at World Market Center",
-        "venueAddress": "435 S Grand Central Pkwy",
-        "venueCity": "Las Vegas",
-        "venueCountry": "United States Of America",
-        "segment": "Miscellaneous",
-        "genre": "Fairs & Festivals",
-        "subGenre": "Fairs & Festivals",
-        "image": "https://s1.ticketm.net/dam/a/4c2/bac7ae96-6fcc-42ac-882a-fb3843e1f4c2_RETINA_PORTRAIT_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "LvZ18QIjb3wKY7lN77PKr",
-        "name": "Jurassic Quest – Las Vegas, NV | The Expo at World Market Center",
-        "url": "https://www.universe.com/events/jurassic-quest-las-vegas-nv-the-expo-at-world-market-center-tickets-QC5LHV?ref=ticketmaster",
-        "date": "2026-11-21",
-        "time": "12:00:00",
-        "venueName": "The Expo at World Market Center",
-        "venueAddress": "435 S Grand Central Pkwy",
-        "venueCity": "Las Vegas",
-        "venueCountry": "United States Of America",
-        "segment": "Miscellaneous",
-        "genre": "Fairs & Festivals",
-        "subGenre": "Fairs & Festivals",
-        "image": "https://s1.ticketm.net/dam/a/4c2/bac7ae96-6fcc-42ac-882a-fb3843e1f4c2_RETINA_PORTRAIT_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "LvZ18Qt6Hl2x2C_m0HRMT",
-        "name": "Jurassic Quest – Las Vegas, NV | The Expo at World Market Center",
-        "url": "https://www.universe.com/events/jurassic-quest-las-vegas-nv-the-expo-at-world-market-center-tickets-QC5LHV?ref=ticketmaster",
-        "date": "2026-11-21",
-        "time": "15:00:00",
-        "venueName": "The Expo at World Market Center",
-        "venueAddress": "435 S Grand Central Pkwy",
-        "venueCity": "Las Vegas",
-        "venueCountry": "United States Of America",
-        "segment": "Miscellaneous",
-        "genre": "Fairs & Festivals",
-        "subGenre": "Fairs & Festivals",
-        "image": "https://s1.ticketm.net/dam/a/4c2/bac7ae96-6fcc-42ac-882a-fb3843e1f4c2_RETINA_PORTRAIT_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "LvZ18Qt6HPNBtOmdAQRGj",
-        "name": "Jurassic Quest – Las Vegas, NV | The Expo at World Market Center",
-        "url": "https://www.universe.com/events/jurassic-quest-las-vegas-nv-the-expo-at-world-market-center-tickets-QC5LHV?ref=ticketmaster",
-        "date": "2026-11-21",
-        "time": "17:00:00",
-        "venueName": "The Expo at World Market Center",
-        "venueAddress": "435 S Grand Central Pkwy",
-        "venueCity": "Las Vegas",
-        "venueCountry": "United States Of America",
-        "segment": "Miscellaneous",
-        "genre": "Fairs & Festivals",
-        "subGenre": "Fairs & Festivals",
-        "image": "https://s1.ticketm.net/dam/a/4c2/bac7ae96-6fcc-42ac-882a-fb3843e1f4c2_RETINA_PORTRAIT_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "LvZ18QIjb3soFFqIjH6ge",
-        "name": "Jurassic Quest – Las Vegas, NV | The Expo at World Market Center",
-        "url": "https://www.universe.com/events/jurassic-quest-las-vegas-nv-the-expo-at-world-market-center-tickets-QC5LHV?ref=ticketmaster",
-        "date": "2026-11-22",
-        "time": "09:00:00",
-        "venueName": "The Expo at World Market Center",
-        "venueAddress": "435 S Grand Central Pkwy",
-        "venueCity": "Las Vegas",
-        "venueCountry": "United States Of America",
-        "segment": "Miscellaneous",
-        "genre": "Fairs & Festivals",
-        "subGenre": "Fairs & Festivals",
-        "image": "https://s1.ticketm.net/dam/a/4c2/bac7ae96-6fcc-42ac-882a-fb3843e1f4c2_RETINA_PORTRAIT_16_9.jpg",
-        "priceRange": null
-      },
-      {
-        "id": "LvZ18QIjb3soFFqIjH6gd",
-        "name": "Jurassic Quest – Las Vegas, NV | The Expo at World Market Center",
-        "url": "https://www.universe.com/events/jurassic-quest-las-vegas-nv-the-expo-at-world-market-center-tickets-QC5LHV?ref=ticketmaster",
-        "date": "2026-11-22",
-        "time": "13:00:00",
         "venueName": "The Expo at World Market Center",
         "venueAddress": "435 S Grand Central Pkwy",
         "venueCity": "Las Vegas",
@@ -2712,7 +2712,7 @@
   },
   "newjersey": {
     "displayName": "New Jersey",
-    "lastUpdated": "2026-11-04T13:31:14.363Z",
+    "lastUpdated": "2026-11-05T13:46:19.128Z",
     "eventCount": 1,
     "events": [
       {
@@ -2735,7 +2735,7 @@
   },
   "neworleans": {
     "displayName": "New Orleans",
-    "lastUpdated": "2026-11-04T13:31:16.147Z",
+    "lastUpdated": "2026-11-05T13:46:21.372Z",
     "eventCount": 1,
     "events": [
       {
@@ -2758,19 +2758,19 @@
   },
   "newyork": {
     "displayName": "New York",
-    "lastUpdated": "2026-11-04T13:31:18.080Z",
+    "lastUpdated": "2026-11-05T13:46:23.948Z",
     "eventCount": 0,
     "events": []
   },
   "nice": {
     "displayName": "Nice",
-    "lastUpdated": "2026-11-04T13:31:19.783Z",
+    "lastUpdated": "2026-11-05T13:46:26.011Z",
     "eventCount": 0,
     "events": []
   },
   "northcarolina": {
     "displayName": "North Carolina",
-    "lastUpdated": "2026-11-04T13:31:21.786Z",
+    "lastUpdated": "2026-11-05T13:46:28.553Z",
     "eventCount": 6,
     "events": [
       {
@@ -2873,19 +2873,19 @@
   },
   "nuremberg": {
     "displayName": "Nuremberg",
-    "lastUpdated": "2026-11-04T13:31:23.573Z",
+    "lastUpdated": "2026-11-05T13:46:30.742Z",
     "eventCount": 0,
     "events": []
   },
   "oklahomacity": {
     "displayName": "Oklahoma City",
-    "lastUpdated": "2026-11-04T13:31:25.433Z",
+    "lastUpdated": "2026-11-05T13:46:33.186Z",
     "eventCount": 0,
     "events": []
   },
   "omaha": {
     "displayName": "Omaha",
-    "lastUpdated": "2026-11-04T13:31:27.381Z",
+    "lastUpdated": "2026-11-05T13:46:35.509Z",
     "eventCount": 1,
     "events": [
       {
@@ -2908,13 +2908,13 @@
   },
   "oman": {
     "displayName": "Oman",
-    "lastUpdated": "2026-11-04T13:31:28.947Z",
+    "lastUpdated": "2026-11-05T13:46:37.466Z",
     "eventCount": 0,
     "events": []
   },
   "oregon": {
     "displayName": "Oregon",
-    "lastUpdated": "2026-11-04T13:31:30.786Z",
+    "lastUpdated": "2026-11-05T13:46:39.961Z",
     "eventCount": 10,
     "events": [
       {
@@ -3081,43 +3081,43 @@
   },
   "orlando": {
     "displayName": "Orlando",
-    "lastUpdated": "2026-11-04T13:31:32.692Z",
+    "lastUpdated": "2026-11-05T13:46:42.284Z",
     "eventCount": 0,
     "events": []
   },
   "oslo": {
     "displayName": "Oslo",
-    "lastUpdated": "2026-11-04T13:31:34.318Z",
+    "lastUpdated": "2026-11-05T13:46:44.660Z",
     "eventCount": 0,
     "events": []
   },
   "ottawa": {
     "displayName": "Ottawa",
-    "lastUpdated": "2026-11-04T13:31:36.218Z",
+    "lastUpdated": "2026-11-05T13:46:46.994Z",
     "eventCount": 0,
     "events": []
   },
   "pansol": {
     "displayName": "Pansol",
-    "lastUpdated": "2026-11-04T13:31:37.918Z",
+    "lastUpdated": "2026-11-05T13:46:48.941Z",
     "eventCount": 0,
     "events": []
   },
   "paris": {
     "displayName": "Paris",
-    "lastUpdated": "2026-11-04T13:31:39.765Z",
+    "lastUpdated": "2026-11-05T13:46:51.029Z",
     "eventCount": 0,
     "events": []
   },
   "perth": {
     "displayName": "Perth",
-    "lastUpdated": "2026-11-04T13:31:41.636Z",
+    "lastUpdated": "2026-11-05T13:46:53.041Z",
     "eventCount": 0,
     "events": []
   },
   "philadelphia": {
     "displayName": "Philadelphia",
-    "lastUpdated": "2026-11-04T13:31:43.608Z",
+    "lastUpdated": "2026-11-05T13:46:55.593Z",
     "eventCount": 1,
     "events": [
       {
@@ -3140,13 +3140,13 @@
   },
   "phoenix": {
     "displayName": "Phoenix",
-    "lastUpdated": "2026-11-04T13:31:45.474Z",
+    "lastUpdated": "2026-11-05T13:46:57.900Z",
     "eventCount": 0,
     "events": []
   },
   "pittsburgh": {
     "displayName": "Pittsburgh",
-    "lastUpdated": "2026-11-04T13:31:47.602Z",
+    "lastUpdated": "2026-11-05T13:47:00.290Z",
     "eventCount": 1,
     "events": [
       {
@@ -3169,67 +3169,67 @@
   },
   "porto": {
     "displayName": "Porto",
-    "lastUpdated": "2026-11-04T13:31:49.410Z",
+    "lastUpdated": "2026-11-05T13:47:02.707Z",
     "eventCount": 0,
     "events": []
   },
   "prague": {
     "displayName": "Prague",
-    "lastUpdated": "2026-11-04T13:31:51.213Z",
+    "lastUpdated": "2026-11-05T13:47:04.731Z",
     "eventCount": 0,
     "events": []
   },
   "providence": {
     "displayName": "Providence",
-    "lastUpdated": "2026-11-04T13:31:53.232Z",
+    "lastUpdated": "2026-11-05T13:47:07.058Z",
     "eventCount": 0,
     "events": []
   },
   "puertovallarta": {
     "displayName": "Puerto Vallarta",
-    "lastUpdated": "2026-11-04T13:31:54.912Z",
+    "lastUpdated": "2026-11-05T13:47:09.117Z",
     "eventCount": 0,
     "events": []
   },
   "qatar": {
     "displayName": "Qatar",
-    "lastUpdated": "2026-11-04T13:31:56.468Z",
+    "lastUpdated": "2026-11-05T13:47:11.150Z",
     "eventCount": 0,
     "events": []
   },
   "quebeccity": {
     "displayName": "Quebec City",
-    "lastUpdated": "2026-11-04T13:31:58.299Z",
+    "lastUpdated": "2026-11-05T13:47:13.104Z",
     "eventCount": 0,
     "events": []
   },
   "queens": {
     "displayName": "Queens",
-    "lastUpdated": "2026-11-04T13:31:59.998Z",
+    "lastUpdated": "2026-11-05T13:47:15.054Z",
     "eventCount": 0,
     "events": []
   },
   "queenstown": {
     "displayName": "Queenstown",
-    "lastUpdated": "2026-11-04T13:32:01.831Z",
+    "lastUpdated": "2026-11-05T13:47:17.041Z",
     "eventCount": 0,
     "events": []
   },
   "raleigh": {
     "displayName": "Raleigh",
-    "lastUpdated": "2026-11-04T13:32:03.808Z",
+    "lastUpdated": "2026-11-05T13:47:19.488Z",
     "eventCount": 0,
     "events": []
   },
   "reno": {
     "displayName": "Reno",
-    "lastUpdated": "2026-11-04T13:32:05.725Z",
+    "lastUpdated": "2026-11-05T13:47:22.044Z",
     "eventCount": 0,
     "events": []
   },
   "richmond": {
     "displayName": "Richmond",
-    "lastUpdated": "2026-11-04T13:32:07.612Z",
+    "lastUpdated": "2026-11-05T13:47:24.456Z",
     "eventCount": 9,
     "events": [
       {
@@ -3380,19 +3380,19 @@
   },
   "riverside": {
     "displayName": "Riverside",
-    "lastUpdated": "2026-11-04T13:32:09.386Z",
+    "lastUpdated": "2026-11-05T13:47:26.561Z",
     "eventCount": 0,
     "events": []
   },
   "riyadh": {
     "displayName": "Riyadh",
-    "lastUpdated": "2026-11-04T13:32:11.161Z",
+    "lastUpdated": "2026-11-05T13:47:28.724Z",
     "eventCount": 0,
     "events": []
   },
   "rochester": {
     "displayName": "Rochester",
-    "lastUpdated": "2026-11-04T13:32:13.071Z",
+    "lastUpdated": "2026-11-05T13:47:31.195Z",
     "eventCount": 10,
     "events": [
       {
@@ -3559,13 +3559,13 @@
   },
   "rome": {
     "displayName": "Rome",
-    "lastUpdated": "2026-11-04T13:32:14.937Z",
+    "lastUpdated": "2026-11-05T13:47:33.951Z",
     "eventCount": 0,
     "events": []
   },
   "rotterdam": {
     "displayName": "Rotterdam",
-    "lastUpdated": "2026-11-04T13:32:16.880Z",
+    "lastUpdated": "2026-11-05T13:47:36.185Z",
     "eventCount": 2,
     "events": [
       {
@@ -3604,7 +3604,7 @@
   },
   "sacramento": {
     "displayName": "Sacramento",
-    "lastUpdated": "2026-11-04T13:32:18.839Z",
+    "lastUpdated": "2026-11-05T13:47:38.443Z",
     "eventCount": 9,
     "events": [
       {
@@ -3755,19 +3755,19 @@
   },
   "saltlakecity": {
     "displayName": "Salt Lake City",
-    "lastUpdated": "2026-11-04T13:32:20.543Z",
+    "lastUpdated": "2026-11-05T13:47:40.907Z",
     "eventCount": 0,
     "events": []
   },
   "sanantonio": {
     "displayName": "San Antonio",
-    "lastUpdated": "2026-11-04T13:32:22.482Z",
+    "lastUpdated": "2026-11-05T13:47:43.589Z",
     "eventCount": 0,
     "events": []
   },
   "sandiego": {
     "displayName": "San Diego",
-    "lastUpdated": "2026-11-04T13:32:24.438Z",
+    "lastUpdated": "2026-11-05T13:47:45.869Z",
     "eventCount": 1,
     "events": [
       {
@@ -3790,43 +3790,43 @@
   },
   "sanfrancisco": {
     "displayName": "San Francisco",
-    "lastUpdated": "2026-11-04T13:32:26.415Z",
+    "lastUpdated": "2026-11-05T13:47:48.034Z",
     "eventCount": 0,
     "events": []
   },
   "sanjose": {
     "displayName": "San Jose",
-    "lastUpdated": "2026-11-04T13:32:28.316Z",
+    "lastUpdated": "2026-11-05T13:47:50.385Z",
     "eventCount": 0,
     "events": []
   },
   "seattle": {
     "displayName": "Seattle",
-    "lastUpdated": "2026-11-04T13:32:30.247Z",
+    "lastUpdated": "2026-11-05T13:47:52.930Z",
     "eventCount": 0,
     "events": []
   },
   "seville": {
     "displayName": "Seville",
-    "lastUpdated": "2026-11-04T13:32:31.814Z",
+    "lastUpdated": "2026-11-05T13:47:55.257Z",
     "eventCount": 0,
     "events": []
   },
   "shanghai": {
     "displayName": "Shanghai",
-    "lastUpdated": "2026-11-04T13:32:33.629Z",
+    "lastUpdated": "2026-11-05T13:47:57.473Z",
     "eventCount": 0,
     "events": []
   },
   "sheffield": {
     "displayName": "Sheffield",
-    "lastUpdated": "2026-11-04T13:32:35.563Z",
+    "lastUpdated": "2026-11-05T13:48:00.318Z",
     "eventCount": 0,
     "events": []
   },
   "singapore": {
     "displayName": "Singapore",
-    "lastUpdated": "2026-11-04T13:32:37.330Z",
+    "lastUpdated": "2026-11-05T13:48:02.853Z",
     "eventCount": 7,
     "events": [
       {
@@ -3945,37 +3945,37 @@
   },
   "sofia": {
     "displayName": "Sofia",
-    "lastUpdated": "2026-11-04T13:32:39.088Z",
+    "lastUpdated": "2026-11-05T13:48:05.139Z",
     "eventCount": 0,
     "events": []
   },
   "split": {
     "displayName": "Split",
-    "lastUpdated": "2026-11-04T13:32:40.803Z",
+    "lastUpdated": "2026-11-05T13:48:07.313Z",
     "eventCount": 0,
     "events": []
   },
   "stlouis": {
     "displayName": "St Louis",
-    "lastUpdated": "2026-11-04T13:32:42.522Z",
+    "lastUpdated": "2026-11-05T13:48:09.423Z",
     "eventCount": 0,
     "events": []
   },
   "stockholm": {
     "displayName": "Stockholm",
-    "lastUpdated": "2026-11-04T13:32:44.287Z",
+    "lastUpdated": "2026-11-05T13:48:11.814Z",
     "eventCount": 0,
     "events": []
   },
   "stuttgart": {
     "displayName": "Stuttgart",
-    "lastUpdated": "2026-11-04T13:32:46.156Z",
+    "lastUpdated": "2026-11-05T13:48:14.092Z",
     "eventCount": 0,
     "events": []
   },
   "sulzbach": {
     "displayName": "Sulzbach",
-    "lastUpdated": "2026-11-04T13:32:48.129Z",
+    "lastUpdated": "2026-11-05T13:48:16.634Z",
     "eventCount": 6,
     "events": [
       {
@@ -4064,8 +4064,8 @@
         "url": "https://www.universe.com/events/collector-universe-2027-the-new-collector-convention-tickets-YF04NQ?ref=ticketmaster",
         "date": "2027-07-10",
         "time": "09:00:00",
-        "venueName": "Messe CC Süd I Saal Deutschland",
-        "venueAddress": "Lührmannstraße",
+        "venueName": null,
+        "venueAddress": "Messeplatz 1",
         "venueCity": "Essen",
         "venueCountry": "Germany",
         "segment": "Miscellaneous",
@@ -4078,31 +4078,31 @@
   },
   "sydney": {
     "displayName": "Sydney",
-    "lastUpdated": "2026-11-04T13:32:50.115Z",
+    "lastUpdated": "2026-11-05T13:48:19.188Z",
     "eventCount": 0,
     "events": []
   },
   "tallahassee": {
     "displayName": "Tallahassee",
-    "lastUpdated": "2026-11-04T13:32:51.940Z",
+    "lastUpdated": "2026-11-05T13:48:21.529Z",
     "eventCount": 0,
     "events": []
   },
   "tampa": {
     "displayName": "Tampa",
-    "lastUpdated": "2026-11-04T13:32:53.696Z",
+    "lastUpdated": "2026-11-05T13:48:23.958Z",
     "eventCount": 0,
     "events": []
   },
   "tbilisi": {
     "displayName": "Tbilisi",
-    "lastUpdated": "2026-11-04T13:32:55.439Z",
+    "lastUpdated": "2026-11-05T13:48:26.127Z",
     "eventCount": 0,
     "events": []
   },
   "texas": {
     "displayName": "Texas",
-    "lastUpdated": "2026-11-04T13:32:57.550Z",
+    "lastUpdated": "2026-11-05T13:48:29.377Z",
     "eventCount": 10,
     "events": [
       {
@@ -4269,31 +4269,31 @@
   },
   "tokyo": {
     "displayName": "Tokyo",
-    "lastUpdated": "2026-11-04T13:32:59.340Z",
+    "lastUpdated": "2026-11-05T13:48:31.544Z",
     "eventCount": 0,
     "events": []
   },
   "toronto": {
     "displayName": "Toronto",
-    "lastUpdated": "2026-11-04T13:33:01.678Z",
+    "lastUpdated": "2026-11-05T13:48:34.047Z",
     "eventCount": 0,
     "events": []
   },
   "toulouse": {
     "displayName": "Toulouse",
-    "lastUpdated": "2026-11-04T13:33:03.420Z",
+    "lastUpdated": "2026-11-05T13:48:36.018Z",
     "eventCount": 0,
     "events": []
   },
   "tucson": {
     "displayName": "Tucson",
-    "lastUpdated": "2026-11-04T13:33:05.213Z",
+    "lastUpdated": "2026-11-05T13:48:38.062Z",
     "eventCount": 0,
     "events": []
   },
   "tulsa": {
     "displayName": "Tulsa",
-    "lastUpdated": "2026-11-04T13:33:07.125Z",
+    "lastUpdated": "2026-11-05T13:48:40.136Z",
     "eventCount": 1,
     "events": [
       {
@@ -4316,49 +4316,49 @@
   },
   "valencia": {
     "displayName": "Valencia",
-    "lastUpdated": "2026-11-04T13:33:08.826Z",
+    "lastUpdated": "2026-11-05T13:48:42.159Z",
     "eventCount": 0,
     "events": []
   },
   "vancouver": {
     "displayName": "Vancouver",
-    "lastUpdated": "2026-11-04T13:33:10.711Z",
+    "lastUpdated": "2026-11-05T13:48:44.532Z",
     "eventCount": 0,
     "events": []
   },
   "venice": {
     "displayName": "Venice",
-    "lastUpdated": "2026-11-04T13:33:12.427Z",
+    "lastUpdated": "2026-11-05T13:48:46.996Z",
     "eventCount": 0,
     "events": []
   },
   "victoria": {
     "displayName": "Victoria",
-    "lastUpdated": "2026-11-04T13:33:14.126Z",
+    "lastUpdated": "2026-11-05T13:48:49.346Z",
     "eventCount": 0,
     "events": []
   },
   "vienna": {
     "displayName": "Vienna",
-    "lastUpdated": "2026-11-04T13:33:15.732Z",
+    "lastUpdated": "2026-11-05T13:48:51.366Z",
     "eventCount": 0,
     "events": []
   },
   "virginiabeach": {
     "displayName": "Virginia Beach",
-    "lastUpdated": "2026-11-04T13:33:17.624Z",
+    "lastUpdated": "2026-11-05T13:48:53.838Z",
     "eventCount": 0,
     "events": []
   },
   "warren": {
     "displayName": "Warren",
-    "lastUpdated": "2026-11-04T13:33:19.313Z",
+    "lastUpdated": "2026-11-05T13:48:55.783Z",
     "eventCount": 0,
     "events": []
   },
   "warsaw": {
     "displayName": "Warsaw",
-    "lastUpdated": "2026-11-04T13:33:21.080Z",
+    "lastUpdated": "2026-11-05T13:48:57.848Z",
     "eventCount": 1,
     "events": [
       {
@@ -4381,13 +4381,13 @@
   },
   "washington": {
     "displayName": "Washington",
-    "lastUpdated": "2026-11-04T13:33:23.002Z",
+    "lastUpdated": "2026-11-05T13:49:00.400Z",
     "eventCount": 0,
     "events": []
   },
   "westgate": {
     "displayName": "Westgate",
-    "lastUpdated": "2026-11-04T13:33:25.522Z",
+    "lastUpdated": "2026-11-05T13:49:03.913Z",
     "eventCount": 10,
     "events": [
       {
@@ -4554,25 +4554,25 @@
   },
   "winnipeg": {
     "displayName": "Winnipeg",
-    "lastUpdated": "2026-11-04T13:33:27.412Z",
+    "lastUpdated": "2026-11-05T13:49:06.482Z",
     "eventCount": 0,
     "events": []
   },
   "yerevan": {
     "displayName": "Yerevan",
-    "lastUpdated": "2026-11-04T13:33:29.105Z",
+    "lastUpdated": "2026-11-05T13:49:08.467Z",
     "eventCount": 0,
     "events": []
   },
   "zagreb": {
     "displayName": "Zagreb",
-    "lastUpdated": "2026-11-04T13:33:30.716Z",
+    "lastUpdated": "2026-11-05T13:49:10.503Z",
     "eventCount": 0,
     "events": []
   },
   "zurich": {
     "displayName": "Zurich",
-    "lastUpdated": "2026-11-04T13:33:32.478Z",
+    "lastUpdated": "2026-11-05T13:49:12.563Z",
     "eventCount": 1,
     "events": [
       {
