@@ -1,37 +1,37 @@
 {
   "abudhabi": {
     "displayName": "Abu Dhabi",
-    "lastUpdated": "2026-11-05T13:41:24.395Z",
+    "lastUpdated": "2026-11-06T13:25:43.343Z",
     "eventCount": 0,
     "events": []
   },
   "albany": {
     "displayName": "Albany",
-    "lastUpdated": "2026-11-05T13:41:26.529Z",
+    "lastUpdated": "2026-11-06T13:25:45.476Z",
     "eventCount": 0,
     "events": []
   },
   "albuquerque": {
     "displayName": "Albuquerque",
-    "lastUpdated": "2026-11-05T13:41:29.265Z",
+    "lastUpdated": "2026-11-06T13:25:47.594Z",
     "eventCount": 0,
     "events": []
   },
   "alkhobar": {
     "displayName": "Al Khobar",
-    "lastUpdated": "2026-11-05T13:41:31.421Z",
+    "lastUpdated": "2026-11-06T13:25:49.686Z",
     "eventCount": 0,
     "events": []
   },
   "allentown": {
     "displayName": "Allentown",
-    "lastUpdated": "2026-11-05T13:41:33.812Z",
+    "lastUpdated": "2026-11-06T13:25:51.815Z",
     "eventCount": 0,
     "events": []
   },
   "amsterdam": {
     "displayName": "Amsterdam",
-    "lastUpdated": "2026-11-05T13:41:36.614Z",
+    "lastUpdated": "2026-11-06T13:25:54.141Z",
     "eventCount": 4,
     "events": [
       {
@@ -102,13 +102,13 @@
   },
   "ankara": {
     "displayName": "Ankara",
-    "lastUpdated": "2026-11-05T13:41:38.950Z",
+    "lastUpdated": "2026-11-06T13:25:56.115Z",
     "eventCount": 0,
     "events": []
   },
   "arizona": {
     "displayName": "Arizona",
-    "lastUpdated": "2026-11-05T13:41:41.360Z",
+    "lastUpdated": "2026-11-06T13:25:58.154Z",
     "eventCount": 1,
     "events": [
       {
@@ -131,13 +131,13 @@
   },
   "athens": {
     "displayName": "Athens",
-    "lastUpdated": "2026-11-05T13:41:43.430Z",
+    "lastUpdated": "2026-11-06T13:26:00.191Z",
     "eventCount": 0,
     "events": []
   },
   "atlanta": {
     "displayName": "Atlanta",
-    "lastUpdated": "2026-11-05T13:41:45.603Z",
+    "lastUpdated": "2026-11-06T13:26:02.827Z",
     "eventCount": 1,
     "events": [
       {
@@ -160,13 +160,13 @@
   },
   "auckland": {
     "displayName": "Auckland",
-    "lastUpdated": "2026-11-05T13:41:47.848Z",
+    "lastUpdated": "2026-11-06T13:26:04.834Z",
     "eventCount": 0,
     "events": []
   },
   "austin": {
     "displayName": "Austin",
-    "lastUpdated": "2026-11-05T13:41:50.307Z",
+    "lastUpdated": "2026-11-06T13:26:06.909Z",
     "eventCount": 2,
     "events": [
       {
@@ -205,55 +205,55 @@
   },
   "bahrain": {
     "displayName": "Bahrain",
-    "lastUpdated": "2026-11-05T13:41:52.229Z",
+    "lastUpdated": "2026-11-06T13:26:08.722Z",
     "eventCount": 0,
     "events": []
   },
   "bali": {
     "displayName": "Bali",
-    "lastUpdated": "2026-11-05T13:41:54.333Z",
+    "lastUpdated": "2026-11-06T13:26:10.823Z",
     "eventCount": 0,
     "events": []
   },
   "baltimore": {
     "displayName": "Baltimore",
-    "lastUpdated": "2026-11-05T13:41:56.679Z",
+    "lastUpdated": "2026-11-06T13:26:13.051Z",
     "eventCount": 0,
     "events": []
   },
   "barcelona": {
     "displayName": "Barcelona",
-    "lastUpdated": "2026-11-05T13:41:58.977Z",
+    "lastUpdated": "2026-11-06T13:26:14.983Z",
     "eventCount": 0,
     "events": []
   },
   "batonrouge": {
     "displayName": "Baton Rouge",
-    "lastUpdated": "2026-11-05T13:42:01.573Z",
+    "lastUpdated": "2026-11-06T13:26:17.053Z",
     "eventCount": 0,
     "events": []
   },
   "beijing": {
     "displayName": "Beijing",
-    "lastUpdated": "2026-11-05T13:42:03.908Z",
+    "lastUpdated": "2026-11-06T13:26:19.072Z",
     "eventCount": 0,
     "events": []
   },
   "beirut": {
     "displayName": "Beirut",
-    "lastUpdated": "2026-11-05T13:42:06.166Z",
+    "lastUpdated": "2026-11-06T13:26:21.111Z",
     "eventCount": 0,
     "events": []
   },
   "belgrade": {
     "displayName": "Belgrade",
-    "lastUpdated": "2026-11-05T13:42:08.226Z",
+    "lastUpdated": "2026-11-06T13:26:23.050Z",
     "eventCount": 0,
     "events": []
   },
   "berlin": {
     "displayName": "Berlin",
-    "lastUpdated": "2026-11-05T13:42:10.896Z",
+    "lastUpdated": "2026-11-06T13:26:25.486Z",
     "eventCount": 3,
     "events": [
       {
@@ -308,67 +308,67 @@
   },
   "birmingham": {
     "displayName": "Birmingham",
-    "lastUpdated": "2026-11-05T13:42:13.119Z",
+    "lastUpdated": "2026-11-06T13:26:27.740Z",
     "eventCount": 0,
     "events": []
   },
   "bologna": {
     "displayName": "Bologna",
-    "lastUpdated": "2026-11-05T13:42:15.227Z",
+    "lastUpdated": "2026-11-06T13:26:29.732Z",
     "eventCount": 0,
     "events": []
   },
   "bordeaux": {
     "displayName": "Bordeaux",
-    "lastUpdated": "2026-11-05T13:42:17.234Z",
+    "lastUpdated": "2026-11-06T13:26:31.655Z",
     "eventCount": 0,
     "events": []
   },
   "boston": {
     "displayName": "Boston",
-    "lastUpdated": "2026-11-05T13:42:19.726Z",
+    "lastUpdated": "2026-11-06T13:26:33.969Z",
     "eventCount": 0,
     "events": []
   },
   "bratislava": {
     "displayName": "Bratislava",
-    "lastUpdated": "2026-11-05T13:42:21.792Z",
+    "lastUpdated": "2026-11-06T13:26:35.921Z",
     "eventCount": 0,
     "events": []
   },
   "bridgeport": {
     "displayName": "Bridgeport",
-    "lastUpdated": "2026-11-05T13:42:24.006Z",
+    "lastUpdated": "2026-11-06T13:26:38.086Z",
     "eventCount": 0,
     "events": []
   },
   "brisbane": {
     "displayName": "Brisbane",
-    "lastUpdated": "2026-11-05T13:42:25.999Z",
+    "lastUpdated": "2026-11-06T13:26:40.157Z",
     "eventCount": 0,
     "events": []
   },
   "bristol": {
     "displayName": "Bristol",
-    "lastUpdated": "2026-11-05T13:42:28.363Z",
+    "lastUpdated": "2026-11-06T13:26:42.197Z",
     "eventCount": 0,
     "events": []
   },
   "brno": {
     "displayName": "Brno",
-    "lastUpdated": "2026-11-05T13:42:30.550Z",
+    "lastUpdated": "2026-11-06T13:26:44.156Z",
     "eventCount": 0,
     "events": []
   },
   "bronx": {
     "displayName": "Bronx",
-    "lastUpdated": "2026-11-05T13:42:32.606Z",
+    "lastUpdated": "2026-11-06T13:26:46.105Z",
     "eventCount": 0,
     "events": []
   },
   "brooklyn": {
     "displayName": "Brooklyn",
-    "lastUpdated": "2026-11-05T13:42:35.511Z",
+    "lastUpdated": "2026-11-06T13:26:48.526Z",
     "eventCount": 2,
     "events": [
       {
@@ -407,7 +407,7 @@
   },
   "brussels": {
     "displayName": "Brussels",
-    "lastUpdated": "2026-11-05T13:42:37.537Z",
+    "lastUpdated": "2026-11-06T13:26:50.619Z",
     "eventCount": 1,
     "events": [
       {
@@ -430,31 +430,31 @@
   },
   "bucharest": {
     "displayName": "Bucharest",
-    "lastUpdated": "2026-11-05T13:42:39.674Z",
+    "lastUpdated": "2026-11-06T13:26:52.622Z",
     "eventCount": 0,
     "events": []
   },
   "budapest": {
     "displayName": "Budapest",
-    "lastUpdated": "2026-11-05T13:42:41.680Z",
+    "lastUpdated": "2026-11-06T13:26:54.575Z",
     "eventCount": 0,
     "events": []
   },
   "buffalo": {
     "displayName": "Buffalo",
-    "lastUpdated": "2026-11-05T13:42:44.272Z",
+    "lastUpdated": "2026-11-06T13:26:56.835Z",
     "eventCount": 0,
     "events": []
   },
   "calgary": {
     "displayName": "Calgary",
-    "lastUpdated": "2026-11-05T13:42:46.577Z",
+    "lastUpdated": "2026-11-06T13:26:59.169Z",
     "eventCount": 0,
     "events": []
   },
   "california": {
     "displayName": "California",
-    "lastUpdated": "2026-11-05T13:42:49.611Z",
+    "lastUpdated": "2026-11-06T13:27:01.905Z",
     "eventCount": 10,
     "events": [
       {
@@ -621,19 +621,19 @@
   },
   "cambridge": {
     "displayName": "Cambridge",
-    "lastUpdated": "2026-11-05T13:42:51.647Z",
+    "lastUpdated": "2026-11-06T13:27:03.844Z",
     "eventCount": 0,
     "events": []
   },
   "capecoral": {
     "displayName": "Cape Coral",
-    "lastUpdated": "2026-11-05T13:42:53.669Z",
+    "lastUpdated": "2026-11-06T13:27:05.838Z",
     "eventCount": 0,
     "events": []
   },
   "charleston": {
     "displayName": "Charleston",
-    "lastUpdated": "2026-11-05T13:42:56.318Z",
+    "lastUpdated": "2026-11-06T13:27:07.939Z",
     "eventCount": 1,
     "events": [
       {
@@ -656,7 +656,7 @@
   },
   "charlotte": {
     "displayName": "Charlotte",
-    "lastUpdated": "2026-11-05T13:42:58.555Z",
+    "lastUpdated": "2026-11-06T13:27:09.941Z",
     "eventCount": 1,
     "events": [
       {
@@ -679,13 +679,13 @@
   },
   "chengjiang": {
     "displayName": "Chengjiang",
-    "lastUpdated": "2026-11-05T13:43:00.757Z",
+    "lastUpdated": "2026-11-06T13:27:11.770Z",
     "eventCount": 0,
     "events": []
   },
   "chicago": {
     "displayName": "Chicago",
-    "lastUpdated": "2026-11-05T13:43:03.364Z",
+    "lastUpdated": "2026-11-06T13:27:13.913Z",
     "eventCount": 4,
     "events": [
       {
@@ -756,19 +756,19 @@
   },
   "cincinnati": {
     "displayName": "Cincinnati",
-    "lastUpdated": "2026-11-05T13:43:05.559Z",
+    "lastUpdated": "2026-11-06T13:27:16.096Z",
     "eventCount": 0,
     "events": []
   },
   "cleveland": {
     "displayName": "Cleveland",
-    "lastUpdated": "2026-11-05T13:43:07.665Z",
+    "lastUpdated": "2026-11-06T13:27:18.175Z",
     "eventCount": 0,
     "events": []
   },
   "colorado": {
     "displayName": "Colorado",
-    "lastUpdated": "2026-11-05T13:43:10.759Z",
+    "lastUpdated": "2026-11-06T13:27:20.896Z",
     "eventCount": 5,
     "events": [
       {
@@ -855,13 +855,13 @@
   },
   "coloradosprings": {
     "displayName": "Colorado Springs",
-    "lastUpdated": "2026-11-05T13:43:12.713Z",
+    "lastUpdated": "2026-11-06T13:27:23.051Z",
     "eventCount": 0,
     "events": []
   },
   "columbus": {
     "displayName": "Columbus",
-    "lastUpdated": "2026-11-05T13:43:15.081Z",
+    "lastUpdated": "2026-11-06T13:27:25.403Z",
     "eventCount": 2,
     "events": [
       {
@@ -900,49 +900,194 @@
   },
   "concord": {
     "displayName": "Concord",
-    "lastUpdated": "2026-11-05T13:43:17.317Z",
+    "lastUpdated": "2026-11-06T13:27:27.559Z",
     "eventCount": 0,
     "events": []
   },
   "connecticut": {
     "displayName": "Connecticut",
-    "lastUpdated": "2026-11-05T13:43:19.622Z",
-    "eventCount": 0,
-    "events": []
+    "lastUpdated": "2026-11-06T13:27:29.697Z",
+    "eventCount": 9,
+    "events": [
+      {
+        "id": "LvZ18QmVAt9qqOSabWGhh",
+        "name": "Jurassic Quest – Hartford, CT | Connecticut Convention Center",
+        "url": "https://www.universe.com/events/jurassic-quest-hartford-ct-connecticut-convention-center-tickets-XNWQPD?ref=ticketmaster",
+        "date": "2027-02-26",
+        "time": "13:00:00",
+        "venueName": "Connecticut Convention Center",
+        "venueAddress": "100 Columbus Blvd",
+        "venueCity": "Hartford",
+        "venueCountry": "United States Of America",
+        "segment": "Miscellaneous",
+        "genre": "Fairs & Festivals",
+        "subGenre": "Fairs & Festivals",
+        "image": "https://s1.ticketm.net/dam/a/4c2/bac7ae96-6fcc-42ac-882a-fb3843e1f4c2_RETINA_PORTRAIT_16_9.jpg",
+        "priceRange": null
+      },
+      {
+        "id": "LvZ18QmVAt9qqOSabWGhj",
+        "name": "Jurassic Quest – Hartford, CT | Connecticut Convention Center",
+        "url": "https://www.universe.com/events/jurassic-quest-hartford-ct-connecticut-convention-center-tickets-XNWQPD?ref=ticketmaster",
+        "date": "2027-02-26",
+        "time": "15:00:00",
+        "venueName": "Connecticut Convention Center",
+        "venueAddress": "100 Columbus Blvd",
+        "venueCity": "Hartford",
+        "venueCountry": "United States Of America",
+        "segment": "Miscellaneous",
+        "genre": "Fairs & Festivals",
+        "subGenre": "Fairs & Festivals",
+        "image": "https://s1.ticketm.net/dam/a/4c2/bac7ae96-6fcc-42ac-882a-fb3843e1f4c2_RETINA_PORTRAIT_16_9.jpg",
+        "priceRange": null
+      },
+      {
+        "id": "LvZ18QmVAtq_wHbIOX-rd",
+        "name": "Jurassic Quest – Hartford, CT | Connecticut Convention Center",
+        "url": "https://www.universe.com/events/jurassic-quest-hartford-ct-connecticut-convention-center-tickets-XNWQPD?ref=ticketmaster",
+        "date": "2027-02-27",
+        "time": "08:00:00",
+        "venueName": "Connecticut Convention Center",
+        "venueAddress": "100 Columbus Blvd",
+        "venueCity": "Hartford",
+        "venueCountry": "United States Of America",
+        "segment": "Miscellaneous",
+        "genre": "Fairs & Festivals",
+        "subGenre": "Fairs & Festivals",
+        "image": "https://s1.ticketm.net/dam/a/4c2/bac7ae96-6fcc-42ac-882a-fb3843e1f4c2_RETINA_PORTRAIT_16_9.jpg",
+        "priceRange": null
+      },
+      {
+        "id": "LvZ18QmVAtq_wHbIOX-r7",
+        "name": "Jurassic Quest – Hartford, CT | Connecticut Convention Center",
+        "url": "https://www.universe.com/events/jurassic-quest-hartford-ct-connecticut-convention-center-tickets-XNWQPD?ref=ticketmaster",
+        "date": "2027-02-27",
+        "time": "09:00:00",
+        "venueName": "Connecticut Convention Center",
+        "venueAddress": "100 Columbus Blvd",
+        "venueCity": "Hartford",
+        "venueCountry": "United States Of America",
+        "segment": "Miscellaneous",
+        "genre": "Fairs & Festivals",
+        "subGenre": "Fairs & Festivals",
+        "image": "https://s1.ticketm.net/dam/a/4c2/bac7ae96-6fcc-42ac-882a-fb3843e1f4c2_RETINA_PORTRAIT_16_9.jpg",
+        "priceRange": null
+      },
+      {
+        "id": "LvZ18QmVAtq_wHbIOX-rA",
+        "name": "Jurassic Quest – Hartford, CT | Connecticut Convention Center",
+        "url": "https://www.universe.com/events/jurassic-quest-hartford-ct-connecticut-convention-center-tickets-XNWQPD?ref=ticketmaster",
+        "date": "2027-02-27",
+        "time": "12:00:00",
+        "venueName": "Connecticut Convention Center",
+        "venueAddress": "100 Columbus Blvd",
+        "venueCity": "Hartford",
+        "venueCountry": "United States Of America",
+        "segment": "Miscellaneous",
+        "genre": "Fairs & Festivals",
+        "subGenre": "Fairs & Festivals",
+        "image": "https://s1.ticketm.net/dam/a/4c2/bac7ae96-6fcc-42ac-882a-fb3843e1f4c2_RETINA_PORTRAIT_16_9.jpg",
+        "priceRange": null
+      },
+      {
+        "id": "LvZ18QmVAtq_wHbIOX-rk",
+        "name": "Jurassic Quest – Hartford, CT | Connecticut Convention Center",
+        "url": "https://www.universe.com/events/jurassic-quest-hartford-ct-connecticut-convention-center-tickets-XNWQPD?ref=ticketmaster",
+        "date": "2027-02-27",
+        "time": "15:00:00",
+        "venueName": "Connecticut Convention Center",
+        "venueAddress": "100 Columbus Blvd",
+        "venueCity": "Hartford",
+        "venueCountry": "United States Of America",
+        "segment": "Miscellaneous",
+        "genre": "Fairs & Festivals",
+        "subGenre": "Fairs & Festivals",
+        "image": "https://s1.ticketm.net/dam/a/4c2/bac7ae96-6fcc-42ac-882a-fb3843e1f4c2_RETINA_PORTRAIT_16_9.jpg",
+        "priceRange": null
+      },
+      {
+        "id": "LvZ18QmVAtq_wHbIOX-r6",
+        "name": "Jurassic Quest – Hartford, CT | Connecticut Convention Center",
+        "url": "https://www.universe.com/events/jurassic-quest-hartford-ct-connecticut-convention-center-tickets-XNWQPD?ref=ticketmaster",
+        "date": "2027-02-27",
+        "time": "17:00:00",
+        "venueName": "Connecticut Convention Center",
+        "venueAddress": "100 Columbus Blvd",
+        "venueCity": "Hartford",
+        "venueCountry": "United States Of America",
+        "segment": "Miscellaneous",
+        "genre": "Fairs & Festivals",
+        "subGenre": "Fairs & Festivals",
+        "image": "https://s1.ticketm.net/dam/a/4c2/bac7ae96-6fcc-42ac-882a-fb3843e1f4c2_RETINA_PORTRAIT_16_9.jpg",
+        "priceRange": null
+      },
+      {
+        "id": "LvZ18QmVAtLjSpd8xp-ap",
+        "name": "Jurassic Quest – Hartford, CT | Connecticut Convention Center",
+        "url": "https://www.universe.com/events/jurassic-quest-hartford-ct-connecticut-convention-center-tickets-XNWQPD?ref=ticketmaster",
+        "date": "2027-02-28",
+        "time": "09:00:00",
+        "venueName": "Connecticut Convention Center",
+        "venueAddress": "100 Columbus Blvd",
+        "venueCity": "Hartford",
+        "venueCountry": "United States Of America",
+        "segment": "Miscellaneous",
+        "genre": "Fairs & Festivals",
+        "subGenre": "Fairs & Festivals",
+        "image": "https://s1.ticketm.net/dam/a/4c2/bac7ae96-6fcc-42ac-882a-fb3843e1f4c2_RETINA_PORTRAIT_16_9.jpg",
+        "priceRange": null
+      },
+      {
+        "id": "LvZ18QmVFGlcDNsrHnN7X",
+        "name": "Jurassic Quest – Hartford, CT | Connecticut Convention Center",
+        "url": "https://www.universe.com/events/jurassic-quest-hartford-ct-connecticut-convention-center-tickets-XNWQPD?ref=ticketmaster",
+        "date": "2027-02-28",
+        "time": "13:00:00",
+        "venueName": "Connecticut Convention Center",
+        "venueAddress": "100 Columbus Blvd",
+        "venueCity": "Hartford",
+        "venueCountry": "United States Of America",
+        "segment": "Miscellaneous",
+        "genre": "Fairs & Festivals",
+        "subGenre": "Fairs & Festivals",
+        "image": "https://s1.ticketm.net/dam/a/4c2/bac7ae96-6fcc-42ac-882a-fb3843e1f4c2_RETINA_PORTRAIT_16_9.jpg",
+        "priceRange": null
+      }
+    ]
   },
   "copenhagen": {
     "displayName": "Copenhagen",
-    "lastUpdated": "2026-11-05T13:43:21.736Z",
+    "lastUpdated": "2026-11-06T13:27:31.769Z",
     "eventCount": 0,
     "events": []
   },
   "cyprus": {
     "displayName": "Cyprus",
-    "lastUpdated": "2026-11-05T13:43:23.686Z",
+    "lastUpdated": "2026-11-06T13:27:33.575Z",
     "eventCount": 0,
     "events": []
   },
   "dallas": {
     "displayName": "Dallas",
-    "lastUpdated": "2026-11-05T13:43:26.316Z",
+    "lastUpdated": "2026-11-06T13:27:35.906Z",
     "eventCount": 0,
     "events": []
   },
   "dammam": {
     "displayName": "Dammam",
-    "lastUpdated": "2026-11-05T13:43:28.608Z",
+    "lastUpdated": "2026-11-06T13:27:38.031Z",
     "eventCount": 0,
     "events": []
   },
   "dayton": {
     "displayName": "Dayton",
-    "lastUpdated": "2026-11-05T13:43:31.144Z",
+    "lastUpdated": "2026-11-06T13:27:40.175Z",
     "eventCount": 0,
     "events": []
   },
   "denver": {
     "displayName": "Denver",
-    "lastUpdated": "2026-11-05T13:43:33.810Z",
+    "lastUpdated": "2026-11-06T13:27:42.815Z",
     "eventCount": 5,
     "events": [
       {
@@ -1029,31 +1174,31 @@
   },
   "detroit": {
     "displayName": "Detroit",
-    "lastUpdated": "2026-11-05T13:43:36.422Z",
+    "lastUpdated": "2026-11-06T13:27:44.853Z",
     "eventCount": 0,
     "events": []
   },
   "dresden": {
     "displayName": "Dresden",
-    "lastUpdated": "2026-11-05T13:43:38.657Z",
+    "lastUpdated": "2026-11-06T13:27:46.942Z",
     "eventCount": 0,
     "events": []
   },
   "dubai": {
     "displayName": "Dubai",
-    "lastUpdated": "2026-11-05T13:43:40.751Z",
+    "lastUpdated": "2026-11-06T13:27:49.030Z",
     "eventCount": 0,
     "events": []
   },
   "dublin": {
     "displayName": "Dublin",
-    "lastUpdated": "2026-11-05T13:43:42.861Z",
+    "lastUpdated": "2026-11-06T13:27:51.129Z",
     "eventCount": 0,
     "events": []
   },
   "dusseldorf": {
     "displayName": "Dusseldorf",
-    "lastUpdated": "2026-11-05T13:43:45.355Z",
+    "lastUpdated": "2026-11-06T13:27:53.150Z",
     "eventCount": 1,
     "events": [
       {
@@ -1076,13 +1221,13 @@
   },
   "edinburgh": {
     "displayName": "Edinburgh",
-    "lastUpdated": "2026-11-05T13:43:47.444Z",
+    "lastUpdated": "2026-11-06T13:27:55.100Z",
     "eventCount": 0,
     "events": []
   },
   "edmonton": {
     "displayName": "Edmonton",
-    "lastUpdated": "2026-11-05T13:43:50.133Z",
+    "lastUpdated": "2026-11-06T13:27:57.504Z",
     "eventCount": 1,
     "events": [
       {
@@ -1105,7 +1250,7 @@
   },
   "elpaso": {
     "displayName": "El Paso",
-    "lastUpdated": "2026-11-05T13:43:52.372Z",
+    "lastUpdated": "2026-11-06T13:27:59.514Z",
     "eventCount": 1,
     "events": [
       {
@@ -1128,20 +1273,20 @@
   },
   "esbjerg": {
     "displayName": "Esbjerg",
-    "lastUpdated": "2026-11-05T13:43:54.487Z",
+    "lastUpdated": "2026-11-06T13:28:01.456Z",
     "eventCount": 0,
     "events": []
   },
   "florence": {
     "displayName": "Florence",
-    "lastUpdated": "2026-11-05T13:43:56.591Z",
+    "lastUpdated": "2026-11-06T13:28:03.570Z",
     "eventCount": 0,
     "events": []
   },
   "florida": {
     "displayName": "Florida",
-    "lastUpdated": "2026-11-05T13:43:59.204Z",
-    "eventCount": 5,
+    "lastUpdated": "2026-11-06T13:28:05.842Z",
+    "eventCount": 6,
     "events": [
       {
         "id": "1AeFZ_fGkXpnwoL",
@@ -1208,6 +1353,22 @@
         "priceRange": null
       },
       {
+        "id": "G5viZ_pKj4Rnj",
+        "name": "Coastal Weddings Expo",
+        "url": "https://www.ticketmaster.com/coastal-weddings-expo-pensacola-florida-01-10-2027/event/1B006564DC56FA9C",
+        "date": "2027-01-10",
+        "time": "13:00:00",
+        "venueName": "Pensacola Bay Center",
+        "venueAddress": "201 E Gregory St",
+        "venueCity": "Pensacola",
+        "venueCountry": "United States Of America",
+        "segment": "Miscellaneous",
+        "genre": "Hobby/Special Interest Expos",
+        "subGenre": "Hobby/Special Interest Expos",
+        "image": "https://s1.ticketm.net/dam/c/b89/718f87fe-8471-4d9c-a8c4-910da3eb2b89_105871_RETINA_PORTRAIT_16_9.jpg",
+        "priceRange": null
+      },
+      {
         "id": "G5viZ_fJhiqMi",
         "name": "2027 Sun Belt Basketball Conference Championships - 14 Session Package",
         "url": "https://www.ticketmaster.com/2027-sun-belt-basketball-conference-championships-pensacola-florida-03-02-2027/event/1B0065499BB1DDEC",
@@ -1227,7 +1388,7 @@
   },
   "fortworth": {
     "displayName": "Fort Worth",
-    "lastUpdated": "2026-11-05T13:44:01.393Z",
+    "lastUpdated": "2026-11-06T13:28:07.981Z",
     "eventCount": 4,
     "events": [
       {
@@ -1298,37 +1459,37 @@
   },
   "france": {
     "displayName": "France",
-    "lastUpdated": "2026-11-05T13:44:03.591Z",
+    "lastUpdated": "2026-11-06T13:28:09.861Z",
     "eventCount": 0,
     "events": []
   },
   "frankfurt": {
     "displayName": "Frankfurt",
-    "lastUpdated": "2026-11-05T13:44:05.918Z",
+    "lastUpdated": "2026-11-06T13:28:11.895Z",
     "eventCount": 0,
     "events": []
   },
   "fresno": {
     "displayName": "Fresno",
-    "lastUpdated": "2026-11-05T13:44:08.256Z",
+    "lastUpdated": "2026-11-06T13:28:14.086Z",
     "eventCount": 0,
     "events": []
   },
   "geneva": {
     "displayName": "Geneva",
-    "lastUpdated": "2026-11-05T13:44:10.557Z",
+    "lastUpdated": "2026-11-06T13:28:16.246Z",
     "eventCount": 0,
     "events": []
   },
   "genoa": {
     "displayName": "Genoa",
-    "lastUpdated": "2026-11-05T13:44:12.608Z",
+    "lastUpdated": "2026-11-06T13:28:18.198Z",
     "eventCount": 0,
     "events": []
   },
   "glasgow": {
     "displayName": "Glasgow",
-    "lastUpdated": "2026-11-05T13:44:15.556Z",
+    "lastUpdated": "2026-11-06T13:28:20.461Z",
     "eventCount": 3,
     "events": [
       {
@@ -1383,106 +1544,218 @@
   },
   "halifax": {
     "displayName": "Halifax",
-    "lastUpdated": "2026-11-05T13:44:17.844Z",
+    "lastUpdated": "2026-11-06T13:28:22.673Z",
     "eventCount": 0,
     "events": []
   },
   "hamburg": {
     "displayName": "Hamburg",
-    "lastUpdated": "2026-11-05T13:44:19.953Z",
+    "lastUpdated": "2026-11-06T13:28:24.698Z",
     "eventCount": 0,
     "events": []
   },
   "hamilton": {
     "displayName": "Hamilton",
-    "lastUpdated": "2026-11-05T13:44:22.183Z",
+    "lastUpdated": "2026-11-06T13:28:26.782Z",
     "eventCount": 0,
     "events": []
   },
   "hannover": {
     "displayName": "Hannover",
-    "lastUpdated": "2026-11-05T13:44:24.504Z",
+    "lastUpdated": "2026-11-06T13:28:28.928Z",
     "eventCount": 0,
     "events": []
   },
   "hartford": {
     "displayName": "Hartford",
-    "lastUpdated": "2026-11-05T13:44:26.772Z",
-    "eventCount": 0,
-    "events": []
+    "lastUpdated": "2026-11-06T13:28:31.275Z",
+    "eventCount": 9,
+    "events": [
+      {
+        "id": "LvZ18QmVAt9qqOSabWGhh",
+        "name": "Jurassic Quest – Hartford, CT | Connecticut Convention Center",
+        "url": "https://www.universe.com/events/jurassic-quest-hartford-ct-connecticut-convention-center-tickets-XNWQPD?ref=ticketmaster",
+        "date": "2027-02-26",
+        "time": "13:00:00",
+        "venueName": "Connecticut Convention Center",
+        "venueAddress": "100 Columbus Blvd",
+        "venueCity": "Hartford",
+        "venueCountry": "United States Of America",
+        "segment": "Miscellaneous",
+        "genre": "Fairs & Festivals",
+        "subGenre": "Fairs & Festivals",
+        "image": "https://s1.ticketm.net/dam/a/4c2/bac7ae96-6fcc-42ac-882a-fb3843e1f4c2_RETINA_PORTRAIT_16_9.jpg",
+        "priceRange": null
+      },
+      {
+        "id": "LvZ18QmVAt9qqOSabWGhj",
+        "name": "Jurassic Quest – Hartford, CT | Connecticut Convention Center",
+        "url": "https://www.universe.com/events/jurassic-quest-hartford-ct-connecticut-convention-center-tickets-XNWQPD?ref=ticketmaster",
+        "date": "2027-02-26",
+        "time": "15:00:00",
+        "venueName": "Connecticut Convention Center",
+        "venueAddress": "100 Columbus Blvd",
+        "venueCity": "Hartford",
+        "venueCountry": "United States Of America",
+        "segment": "Miscellaneous",
+        "genre": "Fairs & Festivals",
+        "subGenre": "Fairs & Festivals",
+        "image": "https://s1.ticketm.net/dam/a/4c2/bac7ae96-6fcc-42ac-882a-fb3843e1f4c2_RETINA_PORTRAIT_16_9.jpg",
+        "priceRange": null
+      },
+      {
+        "id": "LvZ18QmVAtq_wHbIOX-rd",
+        "name": "Jurassic Quest – Hartford, CT | Connecticut Convention Center",
+        "url": "https://www.universe.com/events/jurassic-quest-hartford-ct-connecticut-convention-center-tickets-XNWQPD?ref=ticketmaster",
+        "date": "2027-02-27",
+        "time": "08:00:00",
+        "venueName": "Connecticut Convention Center",
+        "venueAddress": "100 Columbus Blvd",
+        "venueCity": "Hartford",
+        "venueCountry": "United States Of America",
+        "segment": "Miscellaneous",
+        "genre": "Fairs & Festivals",
+        "subGenre": "Fairs & Festivals",
+        "image": "https://s1.ticketm.net/dam/a/4c2/bac7ae96-6fcc-42ac-882a-fb3843e1f4c2_RETINA_PORTRAIT_16_9.jpg",
+        "priceRange": null
+      },
+      {
+        "id": "LvZ18QmVAtq_wHbIOX-r7",
+        "name": "Jurassic Quest – Hartford, CT | Connecticut Convention Center",
+        "url": "https://www.universe.com/events/jurassic-quest-hartford-ct-connecticut-convention-center-tickets-XNWQPD?ref=ticketmaster",
+        "date": "2027-02-27",
+        "time": "09:00:00",
+        "venueName": "Connecticut Convention Center",
+        "venueAddress": "100 Columbus Blvd",
+        "venueCity": "Hartford",
+        "venueCountry": "United States Of America",
+        "segment": "Miscellaneous",
+        "genre": "Fairs & Festivals",
+        "subGenre": "Fairs & Festivals",
+        "image": "https://s1.ticketm.net/dam/a/4c2/bac7ae96-6fcc-42ac-882a-fb3843e1f4c2_RETINA_PORTRAIT_16_9.jpg",
+        "priceRange": null
+      },
+      {
+        "id": "LvZ18QmVAtq_wHbIOX-rA",
+        "name": "Jurassic Quest – Hartford, CT | Connecticut Convention Center",
+        "url": "https://www.universe.com/events/jurassic-quest-hartford-ct-connecticut-convention-center-tickets-XNWQPD?ref=ticketmaster",
+        "date": "2027-02-27",
+        "time": "12:00:00",
+        "venueName": "Connecticut Convention Center",
+        "venueAddress": "100 Columbus Blvd",
+        "venueCity": "Hartford",
+        "venueCountry": "United States Of America",
+        "segment": "Miscellaneous",
+        "genre": "Fairs & Festivals",
+        "subGenre": "Fairs & Festivals",
+        "image": "https://s1.ticketm.net/dam/a/4c2/bac7ae96-6fcc-42ac-882a-fb3843e1f4c2_RETINA_PORTRAIT_16_9.jpg",
+        "priceRange": null
+      },
+      {
+        "id": "LvZ18QmVAtq_wHbIOX-rk",
+        "name": "Jurassic Quest – Hartford, CT | Connecticut Convention Center",
+        "url": "https://www.universe.com/events/jurassic-quest-hartford-ct-connecticut-convention-center-tickets-XNWQPD?ref=ticketmaster",
+        "date": "2027-02-27",
+        "time": "15:00:00",
+        "venueName": "Connecticut Convention Center",
+        "venueAddress": "100 Columbus Blvd",
+        "venueCity": "Hartford",
+        "venueCountry": "United States Of America",
+        "segment": "Miscellaneous",
+        "genre": "Fairs & Festivals",
+        "subGenre": "Fairs & Festivals",
+        "image": "https://s1.ticketm.net/dam/a/4c2/bac7ae96-6fcc-42ac-882a-fb3843e1f4c2_RETINA_PORTRAIT_16_9.jpg",
+        "priceRange": null
+      },
+      {
+        "id": "LvZ18QmVAtq_wHbIOX-r6",
+        "name": "Jurassic Quest – Hartford, CT | Connecticut Convention Center",
+        "url": "https://www.universe.com/events/jurassic-quest-hartford-ct-connecticut-convention-center-tickets-XNWQPD?ref=ticketmaster",
+        "date": "2027-02-27",
+        "time": "17:00:00",
+        "venueName": "Connecticut Convention Center",
+        "venueAddress": "100 Columbus Blvd",
+        "venueCity": "Hartford",
+        "venueCountry": "United States Of America",
+        "segment": "Miscellaneous",
+        "genre": "Fairs & Festivals",
+        "subGenre": "Fairs & Festivals",
+        "image": "https://s1.ticketm.net/dam/a/4c2/bac7ae96-6fcc-42ac-882a-fb3843e1f4c2_RETINA_PORTRAIT_16_9.jpg",
+        "priceRange": null
+      },
+      {
+        "id": "LvZ18QmVAtLjSpd8xp-ap",
+        "name": "Jurassic Quest – Hartford, CT | Connecticut Convention Center",
+        "url": "https://www.universe.com/events/jurassic-quest-hartford-ct-connecticut-convention-center-tickets-XNWQPD?ref=ticketmaster",
+        "date": "2027-02-28",
+        "time": "09:00:00",
+        "venueName": "Connecticut Convention Center",
+        "venueAddress": "100 Columbus Blvd",
+        "venueCity": "Hartford",
+        "venueCountry": "United States Of America",
+        "segment": "Miscellaneous",
+        "genre": "Fairs & Festivals",
+        "subGenre": "Fairs & Festivals",
+        "image": "https://s1.ticketm.net/dam/a/4c2/bac7ae96-6fcc-42ac-882a-fb3843e1f4c2_RETINA_PORTRAIT_16_9.jpg",
+        "priceRange": null
+      },
+      {
+        "id": "LvZ18QmVFGlcDNsrHnN7X",
+        "name": "Jurassic Quest – Hartford, CT | Connecticut Convention Center",
+        "url": "https://www.universe.com/events/jurassic-quest-hartford-ct-connecticut-convention-center-tickets-XNWQPD?ref=ticketmaster",
+        "date": "2027-02-28",
+        "time": "13:00:00",
+        "venueName": "Connecticut Convention Center",
+        "venueAddress": "100 Columbus Blvd",
+        "venueCity": "Hartford",
+        "venueCountry": "United States Of America",
+        "segment": "Miscellaneous",
+        "genre": "Fairs & Festivals",
+        "subGenre": "Fairs & Festivals",
+        "image": "https://s1.ticketm.net/dam/a/4c2/bac7ae96-6fcc-42ac-882a-fb3843e1f4c2_RETINA_PORTRAIT_16_9.jpg",
+        "priceRange": null
+      }
+    ]
   },
   "helsinki": {
     "displayName": "Helsinki",
-    "lastUpdated": "2026-11-05T13:44:29.065Z",
+    "lastUpdated": "2026-11-06T13:28:33.396Z",
     "eventCount": 0,
     "events": []
   },
   "hongkong": {
     "displayName": "Hong Kong",
-    "lastUpdated": "2026-11-05T13:44:31.007Z",
+    "lastUpdated": "2026-11-06T13:28:35.241Z",
     "eventCount": 0,
     "events": []
   },
   "honolulu": {
     "displayName": "Honolulu",
-    "lastUpdated": "2026-11-05T13:44:33.226Z",
+    "lastUpdated": "2026-11-06T13:28:37.252Z",
     "eventCount": 0,
     "events": []
   },
   "houston": {
     "displayName": "Houston",
-    "lastUpdated": "2026-11-05T13:44:36.085Z",
-    "eventCount": 2,
-    "events": [
-      {
-        "id": "G5dIZ_5C_Pbz8",
-        "name": "JOHN SUMMIT - CTRL ESCAPE ARENA TOUR",
-        "url": "https://www.toyotacenter.com/events/detail/john-summit",
-        "date": "2026-11-05",
-        "time": "19:00:00",
-        "venueName": "Toyota Center",
-        "venueAddress": "1510 Polk Street",
-        "venueCity": "Houston",
-        "venueCountry": "United States Of America",
-        "segment": "Music",
-        "genre": "Dance/Electronic",
-        "subGenre": "Amapiano",
-        "image": "https://s1.ticketm.net/dam/a/b99/44736a1a-46cb-41c3-8c65-d735b5a45b99_SOURCE",
-        "priceRange": null
-      },
-      {
-        "id": "Z7r9jZ1A70t74",
-        "name": "JOHN SUMMIT - CTRL ESCAPE ARENA TOUR",
-        "url": "https://www.ticketmaster.com/event/Z7r9jZ1A70t74",
-        "date": "2026-11-05",
-        "time": "19:00:00",
-        "venueName": "Toyota Center - TX",
-        "venueAddress": "1510 Polk St",
-        "venueCity": "Houston",
-        "venueCountry": "United States Of America",
-        "segment": "Music",
-        "genre": "Other",
-        "subGenre": "Other",
-        "image": "https://s1.ticketm.net/dam/a/b99/44736a1a-46cb-41c3-8c65-d735b5a45b99_SOURCE",
-        "priceRange": null
-      }
-    ]
+    "lastUpdated": "2026-11-06T13:28:39.441Z",
+    "eventCount": 0,
+    "events": []
   },
   "indianapolis": {
     "displayName": "Indianapolis",
-    "lastUpdated": "2026-11-05T13:44:38.307Z",
+    "lastUpdated": "2026-11-06T13:28:41.538Z",
     "eventCount": 0,
     "events": []
   },
   "istanbul": {
     "displayName": "Istanbul",
-    "lastUpdated": "2026-11-05T13:44:40.844Z",
+    "lastUpdated": "2026-11-06T13:28:43.520Z",
     "eventCount": 0,
     "events": []
   },
   "jacksonville": {
     "displayName": "Jacksonville",
-    "lastUpdated": "2026-11-05T13:44:43.020Z",
+    "lastUpdated": "2026-11-06T13:28:45.635Z",
     "eventCount": 3,
     "events": [
       {
@@ -1537,19 +1810,19 @@
   },
   "jeddah": {
     "displayName": "Jeddah",
-    "lastUpdated": "2026-11-05T13:44:45.452Z",
+    "lastUpdated": "2026-11-06T13:28:47.604Z",
     "eventCount": 0,
     "events": []
   },
   "kansascity": {
     "displayName": "Kansas City",
-    "lastUpdated": "2026-11-05T13:44:47.922Z",
+    "lastUpdated": "2026-11-06T13:28:49.711Z",
     "eventCount": 0,
     "events": []
   },
   "kokoszki": {
     "displayName": "Kokoszki",
-    "lastUpdated": "2026-11-05T13:44:50.586Z",
+    "lastUpdated": "2026-11-06T13:28:52.012Z",
     "eventCount": 1,
     "events": [
       {
@@ -1572,13 +1845,13 @@
   },
   "kuwait": {
     "displayName": "Kuwait",
-    "lastUpdated": "2026-11-05T13:44:52.520Z",
+    "lastUpdated": "2026-11-06T13:28:53.789Z",
     "eventCount": 0,
     "events": []
   },
   "lasvegas": {
     "displayName": "Las Vegas",
-    "lastUpdated": "2026-11-05T13:44:55.086Z",
+    "lastUpdated": "2026-11-06T13:28:56.222Z",
     "eventCount": 10,
     "events": [
       {
@@ -1745,43 +2018,43 @@
   },
   "lebanon": {
     "displayName": "Lebanon",
-    "lastUpdated": "2026-11-05T13:44:56.992Z",
+    "lastUpdated": "2026-11-06T13:28:57.996Z",
     "eventCount": 0,
     "events": []
   },
   "leeds": {
     "displayName": "Leeds",
-    "lastUpdated": "2026-11-05T13:44:59.312Z",
+    "lastUpdated": "2026-11-06T13:29:00.059Z",
     "eventCount": 0,
     "events": []
   },
   "leipzig": {
     "displayName": "Leipzig",
-    "lastUpdated": "2026-11-05T13:45:02.021Z",
+    "lastUpdated": "2026-11-06T13:29:02.400Z",
     "eventCount": 0,
     "events": []
   },
   "lisbon": {
     "displayName": "Lisbon",
-    "lastUpdated": "2026-11-05T13:45:04.122Z",
+    "lastUpdated": "2026-11-06T13:29:04.369Z",
     "eventCount": 0,
     "events": []
   },
   "littlerock": {
     "displayName": "Little Rock",
-    "lastUpdated": "2026-11-05T13:45:06.195Z",
+    "lastUpdated": "2026-11-06T13:29:06.384Z",
     "eventCount": 0,
     "events": []
   },
   "liverpool": {
     "displayName": "Liverpool",
-    "lastUpdated": "2026-11-05T13:45:08.386Z",
+    "lastUpdated": "2026-11-06T13:29:08.685Z",
     "eventCount": 0,
     "events": []
   },
   "london": {
     "displayName": "London",
-    "lastUpdated": "2026-11-05T13:45:11.250Z",
+    "lastUpdated": "2026-11-06T13:29:11.008Z",
     "eventCount": 5,
     "events": [
       {
@@ -1868,7 +2141,7 @@
   },
   "longbeach": {
     "displayName": "Long Beach",
-    "lastUpdated": "2026-11-05T13:45:13.628Z",
+    "lastUpdated": "2026-11-06T13:29:13.364Z",
     "eventCount": 1,
     "events": [
       {
@@ -1891,7 +2164,7 @@
   },
   "losangeles": {
     "displayName": "Los Angeles",
-    "lastUpdated": "2026-11-05T13:45:16.414Z",
+    "lastUpdated": "2026-11-06T13:29:15.488Z",
     "eventCount": 1,
     "events": [
       {
@@ -1914,7 +2187,7 @@
   },
   "louisville": {
     "displayName": "Louisville",
-    "lastUpdated": "2026-11-05T13:45:18.890Z",
+    "lastUpdated": "2026-11-06T13:29:17.601Z",
     "eventCount": 9,
     "events": [
       {
@@ -2065,19 +2338,19 @@
   },
   "luxembourgcity": {
     "displayName": "Luxembourg City",
-    "lastUpdated": "2026-11-05T13:45:20.974Z",
+    "lastUpdated": "2026-11-06T13:29:19.435Z",
     "eventCount": 0,
     "events": []
   },
   "lyon": {
     "displayName": "Lyon",
-    "lastUpdated": "2026-11-05T13:45:23.056Z",
+    "lastUpdated": "2026-11-06T13:29:21.502Z",
     "eventCount": 0,
     "events": []
   },
   "madrid": {
     "displayName": "Madrid",
-    "lastUpdated": "2026-11-05T13:45:25.741Z",
+    "lastUpdated": "2026-11-06T13:29:23.715Z",
     "eventCount": 4,
     "events": [
       {
@@ -2148,31 +2421,31 @@
   },
   "malaga": {
     "displayName": "Malaga",
-    "lastUpdated": "2026-11-05T13:45:27.792Z",
+    "lastUpdated": "2026-11-06T13:29:25.839Z",
     "eventCount": 0,
     "events": []
   },
   "manchester": {
     "displayName": "Manchester",
-    "lastUpdated": "2026-11-05T13:45:30.036Z",
+    "lastUpdated": "2026-11-06T13:29:28.181Z",
     "eventCount": 0,
     "events": []
   },
   "manhattan": {
     "displayName": "Manhattan",
-    "lastUpdated": "2026-11-05T13:45:32.301Z",
+    "lastUpdated": "2026-11-06T13:29:30.286Z",
     "eventCount": 0,
     "events": []
   },
   "marseille": {
     "displayName": "Marseille",
-    "lastUpdated": "2026-11-05T13:45:34.532Z",
+    "lastUpdated": "2026-11-06T13:29:32.296Z",
     "eventCount": 0,
     "events": []
   },
   "massachusetts": {
     "displayName": "Massachusetts",
-    "lastUpdated": "2026-11-05T13:45:37.079Z",
+    "lastUpdated": "2026-11-06T13:29:34.568Z",
     "eventCount": 2,
     "events": [
       {
@@ -2211,8 +2484,8 @@
   },
   "mcallen": {
     "displayName": "Mcallen",
-    "lastUpdated": "2026-11-05T13:45:39.626Z",
-    "eventCount": 3,
+    "lastUpdated": "2026-11-06T13:29:36.960Z",
+    "eventCount": 8,
     "events": [
       {
         "id": "G5dIZ_2RiFsES",
@@ -2261,24 +2534,104 @@
         "subGenre": "Fairs & Festivals",
         "image": "https://s1.ticketm.net/dam/e/ba8/b70f4017-e830-40f2-beea-8360b9ad4ba8_RETINA_PORTRAIT_16_9.jpg",
         "priceRange": null
+      },
+      {
+        "id": "G5dIZ_pCQO4bA",
+        "name": "South Pole Illuminated Festival 2026 - McAllen Convention Center",
+        "url": "https://www.ticketmaster.com/south-pole-illuminated-festival-2026-mcallen-mcallen-texas-12-02-2026/event/3A0065639A815605",
+        "date": "2026-12-02",
+        "time": "17:30:00",
+        "venueName": "McAllen Convention Center",
+        "venueAddress": "700 Convention Center Blvd.",
+        "venueCity": "McAllen",
+        "venueCountry": "United States Of America",
+        "segment": "Miscellaneous",
+        "genre": "Fairs & Festivals",
+        "subGenre": "Fairs & Festivals",
+        "image": "https://s1.ticketm.net/dam/a/139/88d0b962-4b62-49ad-b9cb-aed2e2f2f139_RETINA_LANDSCAPE_16_9.jpg",
+        "priceRange": null
+      },
+      {
+        "id": "G5dIZ_pCQ-4b1",
+        "name": "South Pole Illuminated Festival 2026 - McAllen Convention Center",
+        "url": "https://www.ticketmaster.com/south-pole-illuminated-festival-2026-mcallen-mcallen-texas-12-03-2026/event/3A0065639A85560A",
+        "date": "2026-12-03",
+        "time": "17:30:00",
+        "venueName": "McAllen Convention Center",
+        "venueAddress": "700 Convention Center Blvd.",
+        "venueCity": "McAllen",
+        "venueCountry": "United States Of America",
+        "segment": "Miscellaneous",
+        "genre": "Fairs & Festivals",
+        "subGenre": "Fairs & Festivals",
+        "image": "https://s1.ticketm.net/dam/a/139/88d0b962-4b62-49ad-b9cb-aed2e2f2f139_RETINA_LANDSCAPE_16_9.jpg",
+        "priceRange": null
+      },
+      {
+        "id": "G5dIZ_pCQxPbK",
+        "name": "South Pole Illuminated Festival 2026 - McAllen Convention Center",
+        "url": "https://www.ticketmaster.com/south-pole-illuminated-festival-2026-mcallen-mcallen-texas-12-04-2026/event/3A0065639A8A5613",
+        "date": "2026-12-04",
+        "time": "17:30:00",
+        "venueName": "McAllen Convention Center",
+        "venueAddress": "700 Convention Center Blvd.",
+        "venueCity": "McAllen",
+        "venueCountry": "United States Of America",
+        "segment": "Miscellaneous",
+        "genre": "Fairs & Festivals",
+        "subGenre": "Fairs & Festivals",
+        "image": "https://s1.ticketm.net/dam/a/139/88d0b962-4b62-49ad-b9cb-aed2e2f2f139_RETINA_LANDSCAPE_16_9.jpg",
+        "priceRange": null
+      },
+      {
+        "id": "G5dIZ_pCQNPbj",
+        "name": "South Pole Illuminated Festival 2026 - McAllen Convention Center",
+        "url": "https://www.ticketmaster.com/south-pole-illuminated-festival-2026-mcallen-mcallen-texas-12-05-2026/event/3A0065639A8E561C",
+        "date": "2026-12-05",
+        "time": "17:30:00",
+        "venueName": "McAllen Convention Center",
+        "venueAddress": "700 Convention Center Blvd.",
+        "venueCity": "McAllen",
+        "venueCountry": "United States Of America",
+        "segment": "Miscellaneous",
+        "genre": "Fairs & Festivals",
+        "subGenre": "Fairs & Festivals",
+        "image": "https://s1.ticketm.net/dam/a/139/88d0b962-4b62-49ad-b9cb-aed2e2f2f139_RETINA_LANDSCAPE_16_9.jpg",
+        "priceRange": null
+      },
+      {
+        "id": "G5dIZ_pCQ0gbx",
+        "name": "South Pole Illuminated Festival 2026 - McAllen Convention Center",
+        "url": "https://www.ticketmaster.com/south-pole-illuminated-festival-2026-mcallen-mcallen-texas-12-06-2026/event/3A0065639A935622",
+        "date": "2026-12-06",
+        "time": "17:30:00",
+        "venueName": "McAllen Convention Center",
+        "venueAddress": "700 Convention Center Blvd.",
+        "venueCity": "McAllen",
+        "venueCountry": "United States Of America",
+        "segment": "Miscellaneous",
+        "genre": "Fairs & Festivals",
+        "subGenre": "Fairs & Festivals",
+        "image": "https://s1.ticketm.net/dam/a/139/88d0b962-4b62-49ad-b9cb-aed2e2f2f139_RETINA_LANDSCAPE_16_9.jpg",
+        "priceRange": null
       }
     ]
   },
   "meixedo": {
     "displayName": "Meixedo",
-    "lastUpdated": "2026-11-05T13:45:41.605Z",
+    "lastUpdated": "2026-11-06T13:29:38.823Z",
     "eventCount": 0,
     "events": []
   },
   "melbourne": {
     "displayName": "Melbourne",
-    "lastUpdated": "2026-11-05T13:45:44.456Z",
+    "lastUpdated": "2026-11-06T13:29:40.890Z",
     "eventCount": 0,
     "events": []
   },
   "memphis": {
     "displayName": "Memphis",
-    "lastUpdated": "2026-11-05T13:45:46.727Z",
+    "lastUpdated": "2026-11-06T13:29:42.963Z",
     "eventCount": 9,
     "events": [
       {
@@ -2429,7 +2782,7 @@
   },
   "mesa": {
     "displayName": "Mesa",
-    "lastUpdated": "2026-11-05T13:45:49.103Z",
+    "lastUpdated": "2026-11-06T13:29:44.923Z",
     "eventCount": 1,
     "events": [
       {
@@ -2452,7 +2805,7 @@
   },
   "miami": {
     "displayName": "Miami",
-    "lastUpdated": "2026-11-05T13:45:51.733Z",
+    "lastUpdated": "2026-11-06T13:29:47.205Z",
     "eventCount": 2,
     "events": [
       {
@@ -2491,61 +2844,61 @@
   },
   "michigan": {
     "displayName": "Michigan",
-    "lastUpdated": "2026-11-05T13:45:54.438Z",
+    "lastUpdated": "2026-11-06T13:29:49.336Z",
     "eventCount": 0,
     "events": []
   },
   "milan": {
     "displayName": "Milan",
-    "lastUpdated": "2026-11-05T13:45:56.471Z",
+    "lastUpdated": "2026-11-06T13:29:51.376Z",
     "eventCount": 0,
     "events": []
   },
   "milwaukee": {
     "displayName": "Milwaukee",
-    "lastUpdated": "2026-11-05T13:45:59.350Z",
+    "lastUpdated": "2026-11-06T13:29:53.787Z",
     "eventCount": 0,
     "events": []
   },
   "minneapolis": {
     "displayName": "Minneapolis",
-    "lastUpdated": "2026-11-05T13:46:02.141Z",
+    "lastUpdated": "2026-11-06T13:29:55.892Z",
     "eventCount": 0,
     "events": []
   },
   "monaco": {
     "displayName": "Monaco",
-    "lastUpdated": "2026-11-05T13:46:04.392Z",
+    "lastUpdated": "2026-11-06T13:29:57.818Z",
     "eventCount": 0,
     "events": []
   },
   "montreal": {
     "displayName": "Montreal",
-    "lastUpdated": "2026-11-05T13:46:06.954Z",
+    "lastUpdated": "2026-11-06T13:30:00.253Z",
     "eventCount": 0,
     "events": []
   },
   "munich": {
     "displayName": "Munich",
-    "lastUpdated": "2026-11-05T13:46:09.395Z",
+    "lastUpdated": "2026-11-06T13:30:02.504Z",
     "eventCount": 0,
     "events": []
   },
   "naples": {
     "displayName": "Naples",
-    "lastUpdated": "2026-11-05T13:46:11.458Z",
+    "lastUpdated": "2026-11-06T13:30:04.510Z",
     "eventCount": 0,
     "events": []
   },
   "nashville": {
     "displayName": "Nashville",
-    "lastUpdated": "2026-11-05T13:46:14.015Z",
+    "lastUpdated": "2026-11-06T13:30:06.765Z",
     "eventCount": 0,
     "events": []
   },
   "nevada": {
     "displayName": "Nevada",
-    "lastUpdated": "2026-11-05T13:46:16.314Z",
+    "lastUpdated": "2026-11-06T13:30:09.094Z",
     "eventCount": 10,
     "events": [
       {
@@ -2712,7 +3065,7 @@
   },
   "newjersey": {
     "displayName": "New Jersey",
-    "lastUpdated": "2026-11-05T13:46:19.128Z",
+    "lastUpdated": "2026-11-06T13:30:11.866Z",
     "eventCount": 1,
     "events": [
       {
@@ -2735,7 +3088,7 @@
   },
   "neworleans": {
     "displayName": "New Orleans",
-    "lastUpdated": "2026-11-05T13:46:21.372Z",
+    "lastUpdated": "2026-11-06T13:30:13.926Z",
     "eventCount": 1,
     "events": [
       {
@@ -2743,7 +3096,7 @@
         "name": "Marc Stone presents A Funky Songwriter Summit",
         "url": "https://www.ticketweb.com/event/marc-stone-presents-a-funky-chickie-wah-wah-tickets/14297464",
         "date": "2026-11-21",
-        "time": "20:00:00",
+        "time": "21:00:00",
         "venueName": "Chickie Wah Wah",
         "venueAddress": "2828 Canal Street",
         "venueCity": "New Orleans",
@@ -2758,19 +3111,19 @@
   },
   "newyork": {
     "displayName": "New York",
-    "lastUpdated": "2026-11-05T13:46:23.948Z",
+    "lastUpdated": "2026-11-06T13:30:16.071Z",
     "eventCount": 0,
     "events": []
   },
   "nice": {
     "displayName": "Nice",
-    "lastUpdated": "2026-11-05T13:46:26.011Z",
+    "lastUpdated": "2026-11-06T13:30:17.955Z",
     "eventCount": 0,
     "events": []
   },
   "northcarolina": {
     "displayName": "North Carolina",
-    "lastUpdated": "2026-11-05T13:46:28.553Z",
+    "lastUpdated": "2026-11-06T13:30:20.226Z",
     "eventCount": 6,
     "events": [
       {
@@ -2791,8 +3144,8 @@
       },
       {
         "id": "G5eVZ_KLA0xpN",
-        "name": "Southern Conference Volleyball Tournament",
-        "url": "https://www.ticketmaster.com/southern-conference-volleyball-tournament-asheville-north-carolina-11-19-2026/event/2D006537C59225A3",
+        "name": "Southern Conference Volleyball Championship: First Round",
+        "url": "https://www.ticketmaster.com/southern-conference-volleyball-championship-first-round-asheville-north-carolina-11-19-2026/event/2D006537C59225A3",
         "date": "2026-11-19",
         "time": "17:00:00",
         "venueName": "Harrah's Cherokee Center - Asheville",
@@ -2807,8 +3160,8 @@
       },
       {
         "id": "G5eVZ_KLAPepE",
-        "name": "Southern Conference Volleyball Tournament",
-        "url": "https://www.ticketmaster.com/southern-conference-volleyball-tournament-asheville-north-carolina-11-20-2026/event/2D006537C59425A7",
+        "name": "Southern Conference Volleyball Championship: Quarterfinals",
+        "url": "https://www.ticketmaster.com/southern-conference-volleyball-championship-quarterfinals-asheville-north-carolina-11-20-2026/event/2D006537C59425A7",
         "date": "2026-11-20",
         "time": "11:00:00",
         "venueName": "Harrah's Cherokee Center - Asheville",
@@ -2823,8 +3176,8 @@
       },
       {
         "id": "G5eVZ_KLAP3pR",
-        "name": "Southern Conference Volleyball Tournament",
-        "url": "https://www.ticketmaster.com/southern-conference-volleyball-tournament-asheville-north-carolina-11-21-2026/event/2D006537C59525AF",
+        "name": "Southern Conference Volleyball Championship: Semifinals",
+        "url": "https://www.ticketmaster.com/southern-conference-volleyball-championship-semifinals-asheville-north-carolina-11-21-2026/event/2D006537C59525AF",
         "date": "2026-11-21",
         "time": "16:00:00",
         "venueName": "Harrah's Cherokee Center - Asheville",
@@ -2839,8 +3192,8 @@
       },
       {
         "id": "G5eVZ_KLAPwpX",
-        "name": "Southern Conference Volleyball Tournament",
-        "url": "https://www.ticketmaster.com/southern-conference-volleyball-tournament-asheville-north-carolina-11-22-2026/event/2D006537C59725BE",
+        "name": "Southern Conference Volleyball Championship",
+        "url": "https://www.ticketmaster.com/southern-conference-volleyball-championship-asheville-north-carolina-11-22-2026/event/2D006537C59725BE",
         "date": "2026-11-22",
         "time": "14:00:00",
         "venueName": "Harrah's Cherokee Center - Asheville",
@@ -2873,19 +3226,19 @@
   },
   "nuremberg": {
     "displayName": "Nuremberg",
-    "lastUpdated": "2026-11-05T13:46:30.742Z",
+    "lastUpdated": "2026-11-06T13:30:22.207Z",
     "eventCount": 0,
     "events": []
   },
   "oklahomacity": {
     "displayName": "Oklahoma City",
-    "lastUpdated": "2026-11-05T13:46:33.186Z",
+    "lastUpdated": "2026-11-06T13:30:24.203Z",
     "eventCount": 0,
     "events": []
   },
   "omaha": {
     "displayName": "Omaha",
-    "lastUpdated": "2026-11-05T13:46:35.509Z",
+    "lastUpdated": "2026-11-06T13:30:26.328Z",
     "eventCount": 1,
     "events": [
       {
@@ -2908,13 +3261,13 @@
   },
   "oman": {
     "displayName": "Oman",
-    "lastUpdated": "2026-11-05T13:46:37.466Z",
+    "lastUpdated": "2026-11-06T13:30:28.107Z",
     "eventCount": 0,
     "events": []
   },
   "oregon": {
     "displayName": "Oregon",
-    "lastUpdated": "2026-11-05T13:46:39.961Z",
+    "lastUpdated": "2026-11-06T13:30:30.096Z",
     "eventCount": 10,
     "events": [
       {
@@ -3081,43 +3434,43 @@
   },
   "orlando": {
     "displayName": "Orlando",
-    "lastUpdated": "2026-11-05T13:46:42.284Z",
+    "lastUpdated": "2026-11-06T13:30:32.233Z",
     "eventCount": 0,
     "events": []
   },
   "oslo": {
     "displayName": "Oslo",
-    "lastUpdated": "2026-11-05T13:46:44.660Z",
+    "lastUpdated": "2026-11-06T13:30:34.253Z",
     "eventCount": 0,
     "events": []
   },
   "ottawa": {
     "displayName": "Ottawa",
-    "lastUpdated": "2026-11-05T13:46:46.994Z",
+    "lastUpdated": "2026-11-06T13:30:36.374Z",
     "eventCount": 0,
     "events": []
   },
   "pansol": {
     "displayName": "Pansol",
-    "lastUpdated": "2026-11-05T13:46:48.941Z",
+    "lastUpdated": "2026-11-06T13:30:38.377Z",
     "eventCount": 0,
     "events": []
   },
   "paris": {
     "displayName": "Paris",
-    "lastUpdated": "2026-11-05T13:46:51.029Z",
+    "lastUpdated": "2026-11-06T13:30:40.297Z",
     "eventCount": 0,
     "events": []
   },
   "perth": {
     "displayName": "Perth",
-    "lastUpdated": "2026-11-05T13:46:53.041Z",
+    "lastUpdated": "2026-11-06T13:30:42.204Z",
     "eventCount": 0,
     "events": []
   },
   "philadelphia": {
     "displayName": "Philadelphia",
-    "lastUpdated": "2026-11-05T13:46:55.593Z",
+    "lastUpdated": "2026-11-06T13:30:44.374Z",
     "eventCount": 1,
     "events": [
       {
@@ -3140,13 +3493,13 @@
   },
   "phoenix": {
     "displayName": "Phoenix",
-    "lastUpdated": "2026-11-05T13:46:57.900Z",
+    "lastUpdated": "2026-11-06T13:30:46.528Z",
     "eventCount": 0,
     "events": []
   },
   "pittsburgh": {
     "displayName": "Pittsburgh",
-    "lastUpdated": "2026-11-05T13:47:00.290Z",
+    "lastUpdated": "2026-11-06T13:30:48.795Z",
     "eventCount": 1,
     "events": [
       {
@@ -3169,67 +3522,67 @@
   },
   "porto": {
     "displayName": "Porto",
-    "lastUpdated": "2026-11-05T13:47:02.707Z",
+    "lastUpdated": "2026-11-06T13:30:50.900Z",
     "eventCount": 0,
     "events": []
   },
   "prague": {
     "displayName": "Prague",
-    "lastUpdated": "2026-11-05T13:47:04.731Z",
+    "lastUpdated": "2026-11-06T13:30:52.889Z",
     "eventCount": 0,
     "events": []
   },
   "providence": {
     "displayName": "Providence",
-    "lastUpdated": "2026-11-05T13:47:07.058Z",
+    "lastUpdated": "2026-11-06T13:30:55.025Z",
     "eventCount": 0,
     "events": []
   },
   "puertovallarta": {
     "displayName": "Puerto Vallarta",
-    "lastUpdated": "2026-11-05T13:47:09.117Z",
+    "lastUpdated": "2026-11-06T13:30:56.990Z",
     "eventCount": 0,
     "events": []
   },
   "qatar": {
     "displayName": "Qatar",
-    "lastUpdated": "2026-11-05T13:47:11.150Z",
+    "lastUpdated": "2026-11-06T13:30:58.797Z",
     "eventCount": 0,
     "events": []
   },
   "quebeccity": {
     "displayName": "Quebec City",
-    "lastUpdated": "2026-11-05T13:47:13.104Z",
+    "lastUpdated": "2026-11-06T13:31:00.789Z",
     "eventCount": 0,
     "events": []
   },
   "queens": {
     "displayName": "Queens",
-    "lastUpdated": "2026-11-05T13:47:15.054Z",
+    "lastUpdated": "2026-11-06T13:31:02.741Z",
     "eventCount": 0,
     "events": []
   },
   "queenstown": {
     "displayName": "Queenstown",
-    "lastUpdated": "2026-11-05T13:47:17.041Z",
+    "lastUpdated": "2026-11-06T13:31:04.861Z",
     "eventCount": 0,
     "events": []
   },
   "raleigh": {
     "displayName": "Raleigh",
-    "lastUpdated": "2026-11-05T13:47:19.488Z",
+    "lastUpdated": "2026-11-06T13:31:07.134Z",
     "eventCount": 0,
     "events": []
   },
   "reno": {
     "displayName": "Reno",
-    "lastUpdated": "2026-11-05T13:47:22.044Z",
+    "lastUpdated": "2026-11-06T13:31:09.181Z",
     "eventCount": 0,
     "events": []
   },
   "richmond": {
     "displayName": "Richmond",
-    "lastUpdated": "2026-11-05T13:47:24.456Z",
+    "lastUpdated": "2026-11-06T13:31:11.499Z",
     "eventCount": 9,
     "events": [
       {
@@ -3380,19 +3733,19 @@
   },
   "riverside": {
     "displayName": "Riverside",
-    "lastUpdated": "2026-11-05T13:47:26.561Z",
+    "lastUpdated": "2026-11-06T13:31:13.473Z",
     "eventCount": 0,
     "events": []
   },
   "riyadh": {
     "displayName": "Riyadh",
-    "lastUpdated": "2026-11-05T13:47:28.724Z",
+    "lastUpdated": "2026-11-06T13:31:15.370Z",
     "eventCount": 0,
     "events": []
   },
   "rochester": {
     "displayName": "Rochester",
-    "lastUpdated": "2026-11-05T13:47:31.195Z",
+    "lastUpdated": "2026-11-06T13:31:17.657Z",
     "eventCount": 10,
     "events": [
       {
@@ -3559,13 +3912,13 @@
   },
   "rome": {
     "displayName": "Rome",
-    "lastUpdated": "2026-11-05T13:47:33.951Z",
+    "lastUpdated": "2026-11-06T13:31:19.626Z",
     "eventCount": 0,
     "events": []
   },
   "rotterdam": {
     "displayName": "Rotterdam",
-    "lastUpdated": "2026-11-05T13:47:36.185Z",
+    "lastUpdated": "2026-11-06T13:31:21.920Z",
     "eventCount": 2,
     "events": [
       {
@@ -3604,7 +3957,7 @@
   },
   "sacramento": {
     "displayName": "Sacramento",
-    "lastUpdated": "2026-11-05T13:47:38.443Z",
+    "lastUpdated": "2026-11-06T13:31:24.227Z",
     "eventCount": 9,
     "events": [
       {
@@ -3755,19 +4108,19 @@
   },
   "saltlakecity": {
     "displayName": "Salt Lake City",
-    "lastUpdated": "2026-11-05T13:47:40.907Z",
+    "lastUpdated": "2026-11-06T13:31:26.201Z",
     "eventCount": 0,
     "events": []
   },
   "sanantonio": {
     "displayName": "San Antonio",
-    "lastUpdated": "2026-11-05T13:47:43.589Z",
+    "lastUpdated": "2026-11-06T13:31:28.353Z",
     "eventCount": 0,
     "events": []
   },
   "sandiego": {
     "displayName": "San Diego",
-    "lastUpdated": "2026-11-05T13:47:45.869Z",
+    "lastUpdated": "2026-11-06T13:31:30.480Z",
     "eventCount": 1,
     "events": [
       {
@@ -3790,43 +4143,43 @@
   },
   "sanfrancisco": {
     "displayName": "San Francisco",
-    "lastUpdated": "2026-11-05T13:47:48.034Z",
+    "lastUpdated": "2026-11-06T13:31:32.463Z",
     "eventCount": 0,
     "events": []
   },
   "sanjose": {
     "displayName": "San Jose",
-    "lastUpdated": "2026-11-05T13:47:50.385Z",
+    "lastUpdated": "2026-11-06T13:31:34.579Z",
     "eventCount": 0,
     "events": []
   },
   "seattle": {
     "displayName": "Seattle",
-    "lastUpdated": "2026-11-05T13:47:52.930Z",
+    "lastUpdated": "2026-11-06T13:31:36.764Z",
     "eventCount": 0,
     "events": []
   },
   "seville": {
     "displayName": "Seville",
-    "lastUpdated": "2026-11-05T13:47:55.257Z",
+    "lastUpdated": "2026-11-06T13:31:38.788Z",
     "eventCount": 0,
     "events": []
   },
   "shanghai": {
     "displayName": "Shanghai",
-    "lastUpdated": "2026-11-05T13:47:57.473Z",
+    "lastUpdated": "2026-11-06T13:31:40.760Z",
     "eventCount": 0,
     "events": []
   },
   "sheffield": {
     "displayName": "Sheffield",
-    "lastUpdated": "2026-11-05T13:48:00.318Z",
+    "lastUpdated": "2026-11-06T13:31:43.250Z",
     "eventCount": 0,
     "events": []
   },
   "singapore": {
     "displayName": "Singapore",
-    "lastUpdated": "2026-11-05T13:48:02.853Z",
+    "lastUpdated": "2026-11-06T13:31:45.404Z",
     "eventCount": 7,
     "events": [
       {
@@ -3945,37 +4298,37 @@
   },
   "sofia": {
     "displayName": "Sofia",
-    "lastUpdated": "2026-11-05T13:48:05.139Z",
+    "lastUpdated": "2026-11-06T13:31:47.424Z",
     "eventCount": 0,
     "events": []
   },
   "split": {
     "displayName": "Split",
-    "lastUpdated": "2026-11-05T13:48:07.313Z",
+    "lastUpdated": "2026-11-06T13:31:49.360Z",
     "eventCount": 0,
     "events": []
   },
   "stlouis": {
     "displayName": "St Louis",
-    "lastUpdated": "2026-11-05T13:48:09.423Z",
+    "lastUpdated": "2026-11-06T13:31:51.299Z",
     "eventCount": 0,
     "events": []
   },
   "stockholm": {
     "displayName": "Stockholm",
-    "lastUpdated": "2026-11-05T13:48:11.814Z",
+    "lastUpdated": "2026-11-06T13:31:53.358Z",
     "eventCount": 0,
     "events": []
   },
   "stuttgart": {
     "displayName": "Stuttgart",
-    "lastUpdated": "2026-11-05T13:48:14.092Z",
+    "lastUpdated": "2026-11-06T13:31:55.328Z",
     "eventCount": 0,
     "events": []
   },
   "sulzbach": {
     "displayName": "Sulzbach",
-    "lastUpdated": "2026-11-05T13:48:16.634Z",
+    "lastUpdated": "2026-11-06T13:31:57.755Z",
     "eventCount": 6,
     "events": [
       {
@@ -4078,65 +4431,33 @@
   },
   "sydney": {
     "displayName": "Sydney",
-    "lastUpdated": "2026-11-05T13:48:19.188Z",
+    "lastUpdated": "2026-11-06T13:31:59.904Z",
     "eventCount": 0,
     "events": []
   },
   "tallahassee": {
     "displayName": "Tallahassee",
-    "lastUpdated": "2026-11-05T13:48:21.529Z",
+    "lastUpdated": "2026-11-06T13:32:02.339Z",
     "eventCount": 0,
     "events": []
   },
   "tampa": {
     "displayName": "Tampa",
-    "lastUpdated": "2026-11-05T13:48:23.958Z",
+    "lastUpdated": "2026-11-06T13:32:04.456Z",
     "eventCount": 0,
     "events": []
   },
   "tbilisi": {
     "displayName": "Tbilisi",
-    "lastUpdated": "2026-11-05T13:48:26.127Z",
+    "lastUpdated": "2026-11-06T13:32:06.630Z",
     "eventCount": 0,
     "events": []
   },
   "texas": {
     "displayName": "Texas",
-    "lastUpdated": "2026-11-05T13:48:29.377Z",
+    "lastUpdated": "2026-11-06T13:32:09.051Z",
     "eventCount": 10,
     "events": [
-      {
-        "id": "G5dIZ_5C_Pbz8",
-        "name": "JOHN SUMMIT - CTRL ESCAPE ARENA TOUR",
-        "url": "https://www.toyotacenter.com/events/detail/john-summit",
-        "date": "2026-11-05",
-        "time": "19:00:00",
-        "venueName": "Toyota Center",
-        "venueAddress": "1510 Polk Street",
-        "venueCity": "Houston",
-        "venueCountry": "United States Of America",
-        "segment": "Music",
-        "genre": "Dance/Electronic",
-        "subGenre": "Amapiano",
-        "image": "https://s1.ticketm.net/dam/a/b99/44736a1a-46cb-41c3-8c65-d735b5a45b99_SOURCE",
-        "priceRange": null
-      },
-      {
-        "id": "Z7r9jZ1A70t74",
-        "name": "JOHN SUMMIT - CTRL ESCAPE ARENA TOUR",
-        "url": "https://www.ticketmaster.com/event/Z7r9jZ1A70t74",
-        "date": "2026-11-05",
-        "time": "19:00:00",
-        "venueName": "Toyota Center - TX",
-        "venueAddress": "1510 Polk St",
-        "venueCity": "Houston",
-        "venueCountry": "United States Of America",
-        "segment": "Music",
-        "genre": "Other",
-        "subGenre": "Other",
-        "image": "https://s1.ticketm.net/dam/a/b99/44736a1a-46cb-41c3-8c65-d735b5a45b99_SOURCE",
-        "priceRange": null
-      },
       {
         "id": "G5dIZ_52QGTUZ",
         "name": "JOHN SUMMIT - CTRL ESCAPE ARENA TOUR",
@@ -4264,36 +4585,68 @@
         "subGenre": "Fairs & Festivals",
         "image": "https://s1.ticketm.net/dam/e/ba8/b70f4017-e830-40f2-beea-8360b9ad4ba8_RETINA_PORTRAIT_16_9.jpg",
         "priceRange": null
+      },
+      {
+        "id": "G5dIZ_pCQO4bA",
+        "name": "South Pole Illuminated Festival 2026 - McAllen Convention Center",
+        "url": "https://www.ticketmaster.com/south-pole-illuminated-festival-2026-mcallen-mcallen-texas-12-02-2026/event/3A0065639A815605",
+        "date": "2026-12-02",
+        "time": "17:30:00",
+        "venueName": "McAllen Convention Center",
+        "venueAddress": "700 Convention Center Blvd.",
+        "venueCity": "McAllen",
+        "venueCountry": "United States Of America",
+        "segment": "Miscellaneous",
+        "genre": "Fairs & Festivals",
+        "subGenre": "Fairs & Festivals",
+        "image": "https://s1.ticketm.net/dam/a/139/88d0b962-4b62-49ad-b9cb-aed2e2f2f139_RETINA_LANDSCAPE_16_9.jpg",
+        "priceRange": null
+      },
+      {
+        "id": "G5dIZ_pCQ-4b1",
+        "name": "South Pole Illuminated Festival 2026 - McAllen Convention Center",
+        "url": "https://www.ticketmaster.com/south-pole-illuminated-festival-2026-mcallen-mcallen-texas-12-03-2026/event/3A0065639A85560A",
+        "date": "2026-12-03",
+        "time": "17:30:00",
+        "venueName": "McAllen Convention Center",
+        "venueAddress": "700 Convention Center Blvd.",
+        "venueCity": "McAllen",
+        "venueCountry": "United States Of America",
+        "segment": "Miscellaneous",
+        "genre": "Fairs & Festivals",
+        "subGenre": "Fairs & Festivals",
+        "image": "https://s1.ticketm.net/dam/a/139/88d0b962-4b62-49ad-b9cb-aed2e2f2f139_RETINA_LANDSCAPE_16_9.jpg",
+        "priceRange": null
       }
     ]
   },
   "tokyo": {
     "displayName": "Tokyo",
-    "lastUpdated": "2026-11-05T13:48:31.544Z",
+    "lastUpdated": "2026-11-06T13:32:11.096Z",
     "eventCount": 0,
     "events": []
   },
   "toronto": {
     "displayName": "Toronto",
-    "lastUpdated": "2026-11-05T13:48:34.047Z",
+    "lastUpdated": "2026-11-06T13:32:13.210Z",
     "eventCount": 0,
     "events": []
   },
   "toulouse": {
     "displayName": "Toulouse",
-    "lastUpdated": "2026-11-05T13:48:36.018Z",
+    "lastUpdated": "2026-11-06T13:32:15.196Z",
     "eventCount": 0,
     "events": []
   },
   "tucson": {
     "displayName": "Tucson",
-    "lastUpdated": "2026-11-05T13:48:38.062Z",
+    "lastUpdated": "2026-11-06T13:32:17.284Z",
     "eventCount": 0,
     "events": []
   },
   "tulsa": {
     "displayName": "Tulsa",
-    "lastUpdated": "2026-11-05T13:48:40.136Z",
+    "lastUpdated": "2026-11-06T13:32:19.559Z",
     "eventCount": 1,
     "events": [
       {
@@ -4316,49 +4669,49 @@
   },
   "valencia": {
     "displayName": "Valencia",
-    "lastUpdated": "2026-11-05T13:48:42.159Z",
+    "lastUpdated": "2026-11-06T13:32:21.511Z",
     "eventCount": 0,
     "events": []
   },
   "vancouver": {
     "displayName": "Vancouver",
-    "lastUpdated": "2026-11-05T13:48:44.532Z",
+    "lastUpdated": "2026-11-06T13:32:23.563Z",
     "eventCount": 0,
     "events": []
   },
   "venice": {
     "displayName": "Venice",
-    "lastUpdated": "2026-11-05T13:48:46.996Z",
+    "lastUpdated": "2026-11-06T13:32:25.581Z",
     "eventCount": 0,
     "events": []
   },
   "victoria": {
     "displayName": "Victoria",
-    "lastUpdated": "2026-11-05T13:48:49.346Z",
+    "lastUpdated": "2026-11-06T13:32:27.638Z",
     "eventCount": 0,
     "events": []
   },
   "vienna": {
     "displayName": "Vienna",
-    "lastUpdated": "2026-11-05T13:48:51.366Z",
+    "lastUpdated": "2026-11-06T13:32:29.485Z",
     "eventCount": 0,
     "events": []
   },
   "virginiabeach": {
     "displayName": "Virginia Beach",
-    "lastUpdated": "2026-11-05T13:48:53.838Z",
+    "lastUpdated": "2026-11-06T13:32:31.620Z",
     "eventCount": 0,
     "events": []
   },
   "warren": {
     "displayName": "Warren",
-    "lastUpdated": "2026-11-05T13:48:55.783Z",
+    "lastUpdated": "2026-11-06T13:32:33.584Z",
     "eventCount": 0,
     "events": []
   },
   "warsaw": {
     "displayName": "Warsaw",
-    "lastUpdated": "2026-11-05T13:48:57.848Z",
+    "lastUpdated": "2026-11-06T13:32:35.580Z",
     "eventCount": 1,
     "events": [
       {
@@ -4381,45 +4734,29 @@
   },
   "washington": {
     "displayName": "Washington",
-    "lastUpdated": "2026-11-05T13:49:00.400Z",
+    "lastUpdated": "2026-11-06T13:32:37.693Z",
     "eventCount": 0,
     "events": []
   },
   "westgate": {
     "displayName": "Westgate",
-    "lastUpdated": "2026-11-05T13:49:03.913Z",
+    "lastUpdated": "2026-11-06T13:32:40.564Z",
     "eventCount": 10,
     "events": [
       {
-        "id": "G5dIZ_5C_Pbz8",
-        "name": "JOHN SUMMIT - CTRL ESCAPE ARENA TOUR",
-        "url": "https://www.toyotacenter.com/events/detail/john-summit",
-        "date": "2026-11-05",
-        "time": "19:00:00",
-        "venueName": "Toyota Center",
-        "venueAddress": "1510 Polk Street",
-        "venueCity": "Houston",
+        "id": "vvG1bZ_CnvvfQO",
+        "name": "Ink The Island Tattoo Convention: Friday Single Day Pass",
+        "url": "https://www.ticketmaster.com/ink-the-island-tattoo-convention-friday-grand-island-nebraska-11-06-2026/event/060064EA810546A0",
+        "date": "2026-11-06",
+        "time": "11:00:00",
+        "venueName": "BigIron Events Center",
+        "venueAddress": "690 E Stolley Park Rd",
+        "venueCity": "Grand Island",
         "venueCountry": "United States Of America",
-        "segment": "Music",
-        "genre": "Dance/Electronic",
-        "subGenre": "Amapiano",
-        "image": "https://s1.ticketm.net/dam/a/b99/44736a1a-46cb-41c3-8c65-d735b5a45b99_SOURCE",
-        "priceRange": null
-      },
-      {
-        "id": "Z7r9jZ1A70t74",
-        "name": "JOHN SUMMIT - CTRL ESCAPE ARENA TOUR",
-        "url": "https://www.ticketmaster.com/event/Z7r9jZ1A70t74",
-        "date": "2026-11-05",
-        "time": "19:00:00",
-        "venueName": "Toyota Center - TX",
-        "venueAddress": "1510 Polk St",
-        "venueCity": "Houston",
-        "venueCountry": "United States Of America",
-        "segment": "Music",
-        "genre": "Other",
-        "subGenre": "Other",
-        "image": "https://s1.ticketm.net/dam/a/b99/44736a1a-46cb-41c3-8c65-d735b5a45b99_SOURCE",
+        "segment": "Miscellaneous",
+        "genre": "Fairs & Festivals",
+        "subGenre": "Fairs & Festivals",
+        "image": "https://s1.ticketm.net/dam/e/c88/26ada347-bc21-4063-b846-edeedc46bc88_TABLET_LANDSCAPE_LARGE_16_9.jpg",
         "priceRange": null
       },
       {
@@ -4503,22 +4840,6 @@
         "priceRange": null
       },
       {
-        "id": "vvG1bZ_CnvvfQO",
-        "name": "Ink The Island Tattoo Convention: Friday Single Day Pass",
-        "url": "https://www.ticketmaster.com/ink-the-island-tattoo-convention-friday-grand-island-nebraska-11-06-2026/event/060064EA810546A0",
-        "date": "2026-11-06",
-        "time": "11:00:00",
-        "venueName": "BigIron Events Center",
-        "venueAddress": "690 E Stolley Park Rd",
-        "venueCity": "Grand Island",
-        "venueCountry": "United States Of America",
-        "segment": "Miscellaneous",
-        "genre": "Fairs & Festivals",
-        "subGenre": "Fairs & Festivals",
-        "image": "https://s1.ticketm.net/dam/e/c88/26ada347-bc21-4063-b846-edeedc46bc88_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-        "priceRange": null
-      },
-      {
         "id": "vvG1iZ_oEANklE",
         "name": "Miel San Marcos Conference 2026",
         "url": "https://www.ticketmaster.com/miel-san-marcos-conference-2026-long-beach-california-11-07-2026/event/0B006519C58C6AE7",
@@ -4549,30 +4870,62 @@
         "subGenre": "Soccer",
         "image": "https://s1.ticketm.net/dam/a/c2e/67832c0e-2e8e-469e-9526-3d86d80f9c2e_639141_TABLET_LANDSCAPE_16_9.jpg",
         "priceRange": null
+      },
+      {
+        "id": "vv17bZ_fGkwGM7xW",
+        "name": "2026 Men's Basketball Non-Conference Tickets",
+        "url": "https://am.ticketmaster.com/murray/buy/mbbnoncon2627",
+        "date": "2026-11-07",
+        "time": null,
+        "venueName": "CFSB Center",
+        "venueAddress": "1401 State Route 121 North",
+        "venueCity": "Murray",
+        "venueCountry": "United States Of America",
+        "segment": "Sports",
+        "genre": "Basketball",
+        "subGenre": "College",
+        "image": "https://s1.ticketm.net/dam/a/5b1/77fd0725-2d66-46eb-a387-2935fcc875b1_RETINA_PORTRAIT_16_9.jpg",
+        "priceRange": null
+      },
+      {
+        "id": "LvZ18QJIvqMUYLqD6qaEK",
+        "name": "Jurassic Quest – Salem, OR | Oregon State Fair and Expo Center",
+        "url": "https://www.universe.com/events/jurassic-quest-salem-or-oregon-state-fair-and-expo-center-tickets-FTNL92?ref=ticketmaster",
+        "date": "2026-11-07",
+        "time": "08:00:00",
+        "venueName": "Oregon State Fair & Exposition Center",
+        "venueAddress": "2330 17th Street NE",
+        "venueCity": "Salem",
+        "venueCountry": "United States Of America",
+        "segment": "Miscellaneous",
+        "genre": "Fairs & Festivals",
+        "subGenre": "Fairs & Festivals",
+        "image": "https://s1.ticketm.net/dam/a/4c2/bac7ae96-6fcc-42ac-882a-fb3843e1f4c2_RETINA_PORTRAIT_16_9.jpg",
+        "priceRange": null
       }
     ]
   },
   "winnipeg": {
     "displayName": "Winnipeg",
-    "lastUpdated": "2026-11-05T13:49:06.482Z",
+    "lastUpdated": "2026-11-06T13:32:42.694Z",
     "eventCount": 0,
     "events": []
   },
   "yerevan": {
     "displayName": "Yerevan",
-    "lastUpdated": "2026-11-05T13:49:08.467Z",
+    "lastUpdated": "2026-11-06T13:32:44.662Z",
     "eventCount": 0,
     "events": []
   },
   "zagreb": {
     "displayName": "Zagreb",
-    "lastUpdated": "2026-11-05T13:49:10.503Z",
+    "lastUpdated": "2026-11-06T13:32:46.493Z",
     "eventCount": 0,
     "events": []
   },
   "zurich": {
     "displayName": "Zurich",
-    "lastUpdated": "2026-11-05T13:49:12.563Z",
+    "lastUpdated": "2026-11-06T13:32:48.530Z",
     "eventCount": 1,
     "events": [
       {
